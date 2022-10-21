@@ -18,8 +18,7 @@ Our internationalization trips provide authentic learning opportunities through 
 
 </insert video>
 
-<u><strong> 2019 - 5-Day Cultural Immersion cum Educational Trip to Canberra, Australia </strong></u>
-
+<u><strong> 2019 - 5-Day Cultural Immersion cum Educational Trip to Canberra, Australia </strong></u><br>
 ![](/images/darwin.jpg)
 
 <figure>  
@@ -33,8 +32,7 @@ Our internationalization trips provide authentic learning opportunities through 
 Deep space NASA Centre offers students the chance to learn about the role that Australia plays in the exploration of space.  </figcaption>  
 </figure>
 
-<u><Strong> 2019 - YCSS-Shanghai Cultural and School Immersion Trip </strong></u>
-
+<u><Strong> 2019 - YCSS-Shanghai Cultural and School Immersion Trip </strong></u><br>
 ![](/images/min%20li%20high%20school%201.jpg)
 
 ![](/images/min%20li%20high%20school%202.jpg)
@@ -53,8 +51,7 @@ Students in Shanghai lead a different routine compared to Singapore students, as
 
 ![](/images/min%20li%20high%20school%204.jpg)
 
-<u><strong> 2019 - TIE Trip To Darwin, Australia </strong></u>
-
+<u><strong> 2019 - TIE Trip To Darwin, Australia </strong></u><br>
 ![](/images/Australia%201.jpg)
 
 ![](/images/Australia%202.jpg)
@@ -97,5 +94,8 @@ Taxidermy of Sweetheart  </figcaption>
 | ![](/images/Slide9.jpg) |![](/images/Slide10.jpg) | |
 | | |
 
+<u><strong> 2016 Cultural Immersion Hong Kong </strong></u><br>
+![](/images/hong%20kong.jpg)
 
-
+<u><strong> 2016 Cultural Immersion Programme - Kota Tinggi </strong></u><br>
+![](/images/malaysia.jpg)
