@@ -40,3 +40,12 @@ The organisation structure of Alumni Yuan Ching consist of the AYC Executive Com
 
 <u><strong> Involvement in School Activities </strong></u>
 
+<figure>
+<img src="/images/Mr%20Steven%20Yeoh%202019.jpg">
+<figcaption> <strong> Mr Steven Yeoh, cross-country Alumni, inspiring our students during morning assembly through sharing his life story and fight against cancer (2019) </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Society%20Staples%20ALumni%202019.jpg">
+<figcaption> <strong> Ryan and Debra, ex-Dragonboat Captains, sharing with the students their motivation and journey in setting up a social enterprise, Society Staples (2019) </strong> </figcaption>
+</figure>
