@@ -2,6 +2,7 @@ collections:
   about-ycss:
     output: true
     order:
+      - Our People/.keep
       - YCSS at a Glance.md
       - YCSS Philosophy.md
       - Principal's Message.md
