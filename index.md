@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Yuan Ching Secondary School
       subtitle: Efforts Today Rewards Tomorrow
-      background: /images/ezgif.gif
+      background: /images/ezgif(1).gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
