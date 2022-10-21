@@ -2,4 +2,5 @@ collections:
   confident-leaders:
     output: true
     order:
+      - Learning for Life Programme.md
       - Student Leadership.md
