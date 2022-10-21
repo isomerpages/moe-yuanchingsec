@@ -2,5 +2,5 @@ collections:
   about-ycss:
     output: true
     order:
-      - YCSS Philosophy.md
       - YCSS at a Glance.md
+      - YCSS Philosophy.md
