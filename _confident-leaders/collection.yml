@@ -2,7 +2,7 @@ collections:
   confident-leaders:
     output: true
     order:
-      - GoGlobal@YCSS.md
       - Student Leadership.md
       - Learning for Life Programme.md
       - Values in Action (VIA).md
+      - GoGlobal@YCSS.md
