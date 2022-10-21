@@ -18,7 +18,7 @@ sections:
           url: ""
         - title: Happenings
           description: ""
-          url: ""
+          url: /happenings/
   - infopic:
       title: YCSS Homecoming 2022
       subtitle: INSTAGRAM NEWS
