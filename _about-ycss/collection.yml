@@ -1,4 +1,5 @@
 collections:
   about-ycss:
     output: true
-    order: []
+    order:
+      - YCSS at a Glance.md
