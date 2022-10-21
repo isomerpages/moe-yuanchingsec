@@ -55,3 +55,35 @@ Students in Shanghai lead a different routine compared to Singapore students, as
 
 <u><strong> 2019 - TIE Trip To Darwin, Australia </strong></u>
 
+![](/images/Australia%201.jpg)
+
+![](/images/Australia%202.jpg)
+
+<figure>  
+<img src="/images/24%20Kakadu%20National%20Park.jpg">  
+<figcaption> <strong> Kakadu National Park </strong><br>
+Visiting the Yellow Water Cruise and Aboriginal Stone-Carvings  </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Australia%203.jpg">  
+<figcaption> <strong> Museum & Art Gallery (Northern Territory) </strong><br>
+Different Exhibitions: <br>
+The Natural Disasters Darwin experienced <br>
+The evolution of Animals in Darwin <br>
+Aboriginal Artwork & Artefacts <br>
+Modernization of Aboriginal people <br>
+History of Boats used for trade and business in Darwin <br>
+Taxidermy of Sweetheart  </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/28%20Darwin%20High%20School.png">
+<figcaption> <strong> Darwin High School & St John's Catholic College </strong></figcaption>  
+</figure>
+
+![](/images/Australia%204.jpg)
+
+![](/images/Australia%205.jpg)
+
+![](/images/33%20Darwin%20Group.png)
