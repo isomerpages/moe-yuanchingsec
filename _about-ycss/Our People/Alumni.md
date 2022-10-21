@@ -99,7 +99,7 @@ The organisation structure of Alumni Yuan Ching consist of the AYC Executive Com
 </figure>
 
 <figure>
-<img src="images/Society%20Staples%20ecg%20fair.jpg">
+<img src="/images/Society%20Staples%20ecg%20fair%20(1).jpg">
 <figcaption> <strong>Miss Debra Lam - Sharing by industry professionals: Society Staples (Social Enterprise)</strong> </figcaption>
 </figure>
 
