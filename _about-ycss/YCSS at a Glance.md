@@ -41,3 +41,10 @@ Yellow, its brilliance personifies our students’ youthful resilience, excellen
 
 <u> Site Area: 39188 m2 </u> <br>
 The wide expanse and lush greenery offers authentic learning experiences beyond classrooms to the outdoor learning environment, leveraging on the eco-pond and green garden in our school, where every space is a learning space.
+
+![](/images/YCSS%20at%20a%20glance%202.jpg)
+
+<u> Green Energy: </u><br>
+Complementing the lush greenery of our school, the rooftops of the different blocks in the school are installed with 1540 solar panels where the photovoltaic systems generate 600,000 kWh of energy, which translates to an estimated 70% of energy consumption in the school being green energy.
+
+![](/images/YCSS%20at%20a%20glance%203.jpg)
