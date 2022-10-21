@@ -29,6 +29,13 @@ sections:
       image: /images/ycss homecoming.jpg
       alt: Image alt text
   - infopic:
+      title: Youth STEM Empowerment Programme (YSEP)
+      subtitle: June Holidays
+      description: Check out our Sec 3 students at Science Centre's YSEP! This
+        programme guides them in developing innovative products and solutions.
+      image: /images/follow us online.jpg
+      alt: Image alt text
+  - infopic:
       title: National School Games Semester 1
       subtitle: Instagram News
       description: " Well done to Qi Xiang (Wushu) of 2Ex, Elicia (Taekwondo) of 2I
