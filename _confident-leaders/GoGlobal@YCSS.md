@@ -36,3 +36,18 @@ Deep space NASA Centre offers students the chance to learn about the role that A
 <u><Strong> 2019 - YCSS-Shanghai Cultural and School Immersion Trip </strong></u>
 
 ![](/images/min%20li%20high%20school%201.jpg)
+
+![](/images/min%20li%20high%20school%202.jpg)
+
+![](/images/min%20li%20high%20school%203.jpg)
+
+The making of xiao long bao（小笼包）was a fun and memorable experience because we get to make the xiao long bao with the raw ingredients. I realise that making xiao long bao was much tougher than I thought. You would need the skills and experience to ensure the filling was adequate without breaking the skin. Xiao long bao never tasted this good!
+
+**Tan Jia Sheng, 4N2**
+
+![](/images/15%20Reflection.png)
+
+Students in Shanghai lead a different routine compared to Singapore students, as they have eye exercises in between their lessons to relieve the eye stress. The Duoyun bookstore is unique as there is a cafe inside the bookstore. You will need to buy drinks to be able to enjoy the view outside.
+
+**Ong Li Xin, 4E1**
+
