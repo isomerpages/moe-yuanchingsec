@@ -2,4 +2,5 @@ collections:
   engaged-learners:
     output: true
     order:
+      - Instructional Programmes (IP)/English.md
       - Instructional Programmes (IP)/.keep
