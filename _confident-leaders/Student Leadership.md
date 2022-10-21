@@ -38,8 +38,7 @@ Students can embark on their leadership journey towards an inspiring leader thro
 
 |  |  |
 | -------- | -------- | 
-| ![](/images/NYAA%20Affirmation%20Ceremony.jpg) <center> NYAA Affirmation Ceremony </center> | ![](/images/Cyber%20Wellness%20Ambassador%20Training.jpg) <center> Cyber Wellness Ambassador  </center> | 
-| ![](/images/Student%20Council%20VIA%20-%20Gift%20of%20Love.jpg)
-
-
-
+| ![](/images/NYAA%20Affirmation%20Ceremony.jpg) NYAA Affirmation Ceremony | ![](/images/Cyber%20Wellness%20Ambassador%20Training.jpg) Cyber Wellness Ambassador | 
+| ![](/images/Student%20Council%20VIA%20-%20Gift%20of%20Love.jpg) Student Council VIA Programme - Gift of Love | ![](/images/Class%20Leaders%20Training.jpg) Class Leaders Training|
+| ![](/images/Project%20SMILE-%20peer%20encouragement%20led%20by%20Student%20Leaders.jpg) Project S.M.I.L.E. - Peer encouragement led by student leaders | |
+| |
