@@ -51,3 +51,7 @@ Students in Shanghai lead a different routine compared to Singapore students, as
 
 **Ong Li Xin, 4E1**
 
+![](/images/min%20li%20high%20school%204.jpg)
+
+<u><strong> 2019 - TIE Trip To Darwin, Australia </strong></u>
+
