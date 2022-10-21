@@ -68,6 +68,8 @@ The organisation structure of Alumni Yuan Ching consist of the AYC Executive Com
 
 **MS NELLY FAZLINI BTE AHMAD (ALUMNI) SHARED ON HER EARLY ADMISSION EXERCISE (MASS COMMUNICATIONS, NGEE ANN POLY) EXPERIENCE, DURING 2019 EDUCATION AND CAREER GUIDANCE FAIR**
 
+<br><br>
+
 <div>
 <div style="float: right">
 <img src="/images/ECG%202019%20(2).jpg"
@@ -78,6 +80,8 @@ The organisation structure of Alumni Yuan Ching consist of the AYC Executive Com
 </div>
 
 **MS TAN SZE JING (ALUMNI) SHARED ON HER GOOD ACADEMIC PRACTICES (CATHOLIC JUNIOR COLLEGE) DURING 2019 EDUCATION AND CAREER GUIDANCE FAIR**
+
+<br><Br>
 
 <figure>
 <img src="/images/Social%20Work%20ECG%20fair.jpg">
