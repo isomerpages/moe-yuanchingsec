@@ -99,3 +99,31 @@ The organisation structure of Alumni Yuan Ching consist of the AYC Executive Com
 <figcaption> <strong>Miss Debra Lam - Sharing by industry professionals: Society Staples (Social Enterprise)</strong> </figcaption>
 </figure>
 
+<center><u><strong>ORGANISATION STRUCTURE <br>
+	AYC EXECUTIVE COMMITTEE </strong></u> </center>
+	
+Chairman:	Mr Zulkifli Ibrahim <br>
+Vice Chairman:	Mr Teo Tat Yong <br>
+Secretary:	Mr Vincent Chan Voon Shen <br>
+Treasurer:	Ms Sandy Su
+
+Publicity and Comms: <Br>
+Ms Shermeen Ong <br>
+Ms Syaza
+
+Alumni Liaison:	<br>
+Mr Muizzu <br>
+Mr Wong Meng Teng <br>
+Mr Hilman Hanuar <br>
+Mr Josiah Lau <Br>
+Ms Natalie Lim <Br>
+Ms Koh Rou Ying <br>
+Ms Tan Hui Ann
+
+Teacher Liaison: <br>
+Mrs Erh-Ong Ka Min <br>
+Ms Nadia Bte Madzan
+
+### ALUMNI YUAN CHING OFFICIAL FACEBOOK
+
+[https://www.facebook.com/groups/894124493968555/](https://www.facebook.com/groups/894124493968555/)
