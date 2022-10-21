@@ -2,5 +2,5 @@ collections:
   parent-support-group:
     output: true
     order:
-      - Joining the Parents Support Group.md
       - Parent Support Group.md
+      - Joining the Parents Support Group.md
