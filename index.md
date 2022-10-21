@@ -28,4 +28,13 @@ sections:
       url: https://www.instagram.com/p/CevjTKnMHZ3/?utm_source=ig_web_copy_link
       image: /images/ycss homecoming.jpg
       alt: Image alt text
+  - infopic:
+      title: National School Games Semester 1
+      subtitle: Instagram News
+      description: " Well done to Qi Xiang (Wushu) of 2Ex, Elicia (Taekwondo) of 2I
+        and Xavier (Golf) of 2E!"
+      button: Click here
+      url: https://www.instagram.com/p/Cen07OBMjci/?utm_source=ig_web_copy_link
+      image: /images/National School Games.jpg
+      alt: Image alt text
 ---
