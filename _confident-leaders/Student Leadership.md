@@ -35,3 +35,11 @@ Students can embark on their leadership journey towards an inspiring leader thro
 | Sec 4/5 | • CCE Curriculum<br>• NYAA (Silver)<br>• ECG Fair | • Customised Workshops<br>• Organising Class Events<br>• Supporting School Events | • Leadership Conferences<br>• Organising School Events<br>• Student-Initiated VIA |
 | | |
 
+
+|  |  |
+| -------- | -------- | 
+| ![](/images/NYAA%20Affirmation%20Ceremony.jpg) <center> NYAA Affirmation Ceremony </center> | ![](/images/Cyber%20Wellness%20Ambassador%20Training.jpg) <center> Cyber Wellness Ambassador  </center> | 
+| ![](/images/Student%20Council%20VIA%20-%20Gift%20of%20Love.jpg)
+
+
+
