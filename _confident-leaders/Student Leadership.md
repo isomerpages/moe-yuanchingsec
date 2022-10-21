@@ -22,4 +22,16 @@ The table below shows the various student leader segments aligned to the 3 level
 | Every Student | Personal Leadership |
 | Class Leaders <Br> Sports Leaders <Br> Class Committee <Br> CCA Sub-committee  <br> Student Councillors | Peer Leadership |
 | Senior Student Councillors <br> Student Council EXCO <br> CCA Leaders | Inspiring Leadership |
-| | | 
+| | |
+
+Students can embark on their leadership journey towards an inspiring leader through the various programmes designed for the different segment of students.
+
+| Target Participants | Implementation |  |  |
+|---|---|---|---|
+| Level | Personal Leadership | Peer Leadership | Inspiring Leadership |
+| Sec 1 | • CCE Curriculum<br>• Orientation | • Customised Workshops<br>• Student Council Training Camp<br>• Organising Class Events<br>• Supporting School Events |  |
+| Sec 2 | • CCE Curriculum<br>• Level Camp<br>• ECG Fair | • Customised Workshops<br>• Student Council Training Camp<br>• Organising Class Events<br>• Supporting School Events |  |
+| Sec 3 | • CCE Curriculum<br>• Level Camp<br>• NYAA (Silver) | • Customised Workshops<br>• Student Council Training Camp<br>• Organising Class Events<br>• Supporting School Events | • Leadership Training Camps<br>• Leadership Conferences<br>• Organising School Events<br>• Student-Initiated VIA |
+| Sec 4/5 | • CCE Curriculum<br>• NYAA (Silver)<br>• ECG Fair | • Customised Workshops<br>• Organising Class Events<br>• Supporting School Events | • Leadership Conferences<br>• Organising School Events<br>• Student-Initiated VIA |
+| | |
+
