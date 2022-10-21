@@ -1,0 +1,4 @@
+collections:
+  about-ycss:
+    output: true
+    order: []
