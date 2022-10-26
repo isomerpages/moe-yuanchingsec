@@ -44,3 +44,19 @@ The Upper Sec Malay students were guided to run fun and engaging activities for 
 
 **(6) Competitions** <br>
 Our students had participated in various competitions and many returned with not just awards but gained valuable exoerience. Some competitions we had participated included National Chinese Challenge, Filming Competitions as well as zonal Tamil language competitions. The school also hosted our internal competitions such as Singing Competition to unleash the potential and pique the interest of our students.
+
+### Teachers
+
+**HOD Mother Tongue Languages:** Mr Raymond Yeo <br>
+**Senior Teacher (Chinese Language):** Ms Yap Jen Huey
+
+| Chinese Language | Malay Language | Tamil Language |
+|---|---|---|
+| Ms Goh Woon Xian | Mdm Zubaidah Ariffin | Mr Segar Muniandy |
+| Mdm Lim Yi Hui | Ms Fazeelah Khan | Mr Senduran Vasudevan |
+| Mdm Fang Chen Lan | Mdm Musniffa Mustaffa | Mr Jamal Mohinitheen |
+| Ms Nan Zhonghua | Miss Normalah Bahrain |  |
+| Ms Ong Fui Ping | Ms Siti Nurshila |  |
+| Ms Voon Xin Yi |  |  |
+| Mdm Yak Guat Eng |  |  |
+| | | |
