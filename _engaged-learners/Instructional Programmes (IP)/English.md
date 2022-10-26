@@ -6,8 +6,7 @@ third_nav_title: Instructional Programmes (IP)
 ---
 ### Key Programmes
 
-**Department Overview**
-
+**Department Overview** <br>
 Every Individual an Empathetic Communicator, a Discerning Reader and a Creative Inquirer.
 
 Our EL curriculum provides all students the opportunities and resources to develop the language skills to become critical thinkers and confident communicators. Lessons are designed to engage students in authentic and meaningful language learning, with the flexibility to differentiate instruction to stretch, enrich and enhance students’ oral and written communication skills.
