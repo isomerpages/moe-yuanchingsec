@@ -4,35 +4,25 @@ permalink: /engaged-learners/instructional-programmes-ip/english/
 description: ""
 third_nav_title: Instructional Programmes (IP)
 ---
+### Key Programmes
+
+**Department Overview**
+
+Every Individual an Empathetic Communicator, a Discerning Reader and a Creative Inquirer.
+
+Our EL curriculum provides all students the opportunities and resources to develop the language skills to become critical thinkers and confident communicators. Lessons are designed to engage students in authentic and meaningful language learning, with the flexibility to differentiate instruction to stretch, enrich and enhance students’ oral and written communication skills.
+
+### Teachers
+
+**HOD English Language (Covering):** Ms Siti Hajar Zainuddin <br>
+**HOD Student Management:** Mr Janageeraman Senivasan 
+
+| |  |  |
+|--------|--------|--------|
+| | **SH Citizenship Education** <br> Mr Paul Lim Chow Chiat | **SH Learner Needs (Covering)** <br> Ms Lee Chiew Yi |
+| Ms Nur Shazana Binte Saini | Miss Kelly Yeo Ee Ling | | Miss Tan Mei See Ashley |
+| Miss Sumita Sathi  | Mrs Rasiah Thav Thavaranee | Mr Amos Lee Canguang |
+| Ms Nur Shazana Binte Saini | Miss Jasmine Sujatha  |
+| | |
 
 
-<h2>English</h2>
-
-<div class="tab">
-  <button id="defaultOpen" class="tablinks">London</button>
-  <button class="tablinks">Paris</button>
-  <button class="tablinks">Tokyo</button>
-</div>
-
-<div class="tabcontent" id="London">
-  <span class="topright">×</span>
-  <h3>London</h3>
-  <p>London is the capital city of England.</p>
-</div>
-
-<div class="tabcontent" id="Paris">
-  <span class="topright">×</span>
-  <h3>Paris</h3>
-  <p>Paris is the capital of France.</p> 
-</div>
-
-<div class="tabcontent" id="Tokyo">
-  <span class="topright">×</span>
-  <h3>Tokyo</h3>
-  <p>Tokyo is the capital of Japan.</p>
-</div>
-
-
-   
-
- 
