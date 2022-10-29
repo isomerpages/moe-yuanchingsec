@@ -2,6 +2,7 @@ collections:
   sports-and-games:
     output: true
     order:
+      - National School Games 2022.md
       - Basketball.md
       - Football (Boys).md
       - Dragon Boat.md
