@@ -68,3 +68,19 @@ Principles of Accounts provide students with knowledge on business accounting pr
 **Our Secondary Three and Four student delegates participating in the BYMUN Conference 2021.**
 
 ![](/images/Humanities%201.jpg)
+
+**Our Yuan Ching Alumni in past MUNs.**
+
+![](/images/Humanities%202.jpg)
+
+**Historical Investigation**
+
+![](/images/Humanities%203.jpg)
+
+**Geographical Investigation**
+
+<img src="/images/Sense%20Perch.png" 
+    style="width:50%">
+
+Students used a SensePerch, created as part of ALP to study the quality of water at Jurong Lake. The investigation is done by tapping into the skills taught during Science lessons.
+
