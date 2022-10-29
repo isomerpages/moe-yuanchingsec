@@ -2,6 +2,6 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Dragon Boat.md
       - Basketball.md
       - Football (Boys).md
+      - Dragon Boat.md
