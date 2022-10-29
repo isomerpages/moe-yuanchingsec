@@ -2,7 +2,7 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
-      - Art and Crafts.md
       - Chinese Dance.md
       - Malay Dance.md
       - Indian Dance.md
+      - Art and Crafts.md
