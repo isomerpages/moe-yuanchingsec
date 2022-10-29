@@ -48,3 +48,23 @@ Tuesday and Thursday: 3:00pm to 6:00pm
 <img src="/images/Football-1.jpg">  
 <figcaption> Impossible is Nothing !! </figcaption>  
 </figure>
+
+<figure>  
+<img src="/images/Football-2.jpg">  
+<figcaption> SORE TODAY, STRONG TOMORROW </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Football-3.jpg">  
+<figcaption> WILLPOWER IS LIKE A MUSCLE, THE MORE YOU TRAIN IT, THE STRONGER IT GETS. </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Football-4.jpg">  
+<figcaption> ALWAYS REMEMBER, YOUR FOCUS DETERMINES YOUR REALITY!! </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Football-5.jpg">  
+<figcaption> ONE FOR ALL, ALL FOR ONE!! </figcaption>  
+</figure>
