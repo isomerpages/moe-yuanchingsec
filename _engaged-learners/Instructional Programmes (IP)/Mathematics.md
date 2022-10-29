@@ -72,4 +72,22 @@ Our Talent Development Programme provides a range of activities such as training
 (iii) All SG Sec Math Competition for Normal Course <br> 
 (iv) Lectures by Science Centres.
 
+### Teachers
 
+**HOD Maths:** Ms Ong Wan Hui <br>
+**Subject Head Maths:** Ms Liu Yunman <br> 
+**Senior Teacher Maths:** Mr Liew Kok Keong
+
+<center><strong> Maths Teachers </strong></center>
+
+| CS 1 | CS 2 | AED & Flexi-Adjunct |
+|---|---|---|
+| Ms Mok Yuen Teng | Mr Foo Say Kin | Ms Shanthy Raja (AED) |
+| Ms Eunice Leong  | Ms Nadia Madzan | Mdm Wong Ling Ling |
+| Ms Ng Li Mei | Ms Azria Azman  | Mrs Krishnan |
+| Ms Chen Cui Xia | Mr Chua Kok Yew |  |
+| Mr Cheng Sim Kok Tommy |  Mr Lee Siak Kheng |  |
+| Mdm Chan Sze Ki |  |  |
+| | |
+
+### Gallery
