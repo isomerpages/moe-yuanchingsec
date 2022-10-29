@@ -48,3 +48,23 @@ Our Secondary Three students will embark on the Issue Investigation project in w
 
 **Principles of Accounts (POA)** <br> 
 Principles of Accounts provide students with knowledge on business accounting principles and processes and is grounded in communicating and appreciating the need for ethical conduct in real-world situations. Students have participated in competitions such as the Build Your Own Business (BYOB) Digital Challenge and Financial Literacy for Youth (FLY) Challenge organised by the Republic Polytechnic and have done well in garnering accolades that include the proposal to manage Hawker Business.
+
+### Teachers
+
+**HOD Humanities:** Mr Mohanamoothy <br> 
+**Subject Head (Geography):** Ms Arulushamaheswary <br>
+**Senior Teacher (Humanities):** Ms Tan Kwee Theng (History) & Mdm Cheong Wei Leng (Geography)
+
+| Geography | History | Social Studies | Principles of Accounts |
+|---|---|---|---|
+| Mrs Erh Ka Min | Mr Paul Lim | Ms Rathi D/O Bala Krishnan | Mdm Koh Jie Ying<br>(AYH Upper Sec - Covering) |
+| Ms Nur Shazana | Mr Mohamed Fahmy | Ms Tan Mei See Ashley | Mdm Angela Lee |
+| Mr Zhang Jia Wen | Mr Standley Daniel | Ms Kelly Yeo |  |
+| Ms Yeo Jie Ting | Mr Amos Lee |  |  |
+| | | 
+
+### Gallery
+
+**Our Secondary Three and Four student delegates participating in the BYMUN Conference 2021.**
+
+![](/images/Humanities%201.jpg)
