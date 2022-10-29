@@ -41,7 +41,35 @@ The Sec 1 Math Trail is an in-house programme in which students are engaged in f
 In the Sec 3 Mathematical Modelling Programme, students are tasked to work on a real world problem and propose the possible solutions. AN example of the task is to estimate the total amount of food waste produced in Singapore over the next decade.
 
 <figure>
-<img src="images/Pic%205_Guiding%20students%20through%20the%20MM%20process.jpg">
+<img src="/images/Pic%205_Guiding%20students%20through%20the%20MM%20process.jpg">
 <figcaption> Guiding students through the MM process </figcaption>
 </figure>
+
+<figure>
+<img src="/images/Pic%206_Explaining%20solution%20to%20classmates.jpeg">
+<figcaption> Explaining solution to classmates </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Pic%207_Making%20own%20Math%20board%20game%20Learning%20through%20gamification.png">
+<figcaption> Making own Math board game Learning through gamification </figcaption>
+</figure>
+
+**(c) Sec 1 Data Collection and Research Project** <br>
+The Sec 1 Data Collection and Research Project provides the students an opportunity to learn data collection, analytic and research skills with different scenario tasks. An example of the task is to estimate the total number of hours spent by schoolmates on social media platforms in a week.
+
+<figure>
+<img src="/images/Pic%208_Interviewing%20students%20for%20data%20collection%20and%20research.png" 
+    style="width:50%">
+<figcaption> Interviewing students for data collection and research </figcaption>
+</figure>
+
+**(d) Talent Development Programme** <br>
+Our Talent Development Programme provides a range of activities such as trainings, competitions and lectures for our higher ability students.
+
+(i) Data Analytic and Python Trainings <br>
+(ii) Australian Math Competition <br>
+(iii) All SG Sec Math Competition for Normal Course <br> 
+(iv) Lectures by Science Centres.
+
 
