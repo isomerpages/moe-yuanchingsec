@@ -32,7 +32,8 @@ National School Games (NSG) 2022 has commenced in Term 2 2022 for all 29 sports,
 
 ### Basketball in Action
 
-![](/images/Basketball%20in%20action.jpg)
+<img src="/images/Basketball%20in%20action.jpg" 
+    style="width:80%">
 
 ### Football in Action
 
