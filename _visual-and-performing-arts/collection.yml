@@ -2,8 +2,8 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
-      - Concert Band.md
       - Chinese Dance.md
       - Malay Dance.md
       - Indian Dance.md
       - Art and Crafts.md
+      - Concert Band.md
