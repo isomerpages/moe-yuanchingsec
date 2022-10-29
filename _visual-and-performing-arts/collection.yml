@@ -2,5 +2,5 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
-      - Malay Dance.md
       - Chinese Dance.md
+      - Malay Dance.md
