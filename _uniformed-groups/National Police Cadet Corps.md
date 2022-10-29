@@ -39,10 +39,10 @@ Friday: 2:30pm to 5:30pm
 
 <u><strong> Training / Camp: </strong></u>
 
-| 1. Adventurous / Survival Training Camp | 2. Fun Climbing (Sec 1) | 
+| | | 
 | -------- | -------- |
+| **1. Adventurous / Survival Training Camp** | **2. Fun Climbing (Sec 1)** | 
 | <img src="/images/NPCC-1.jpg" style="width:200px;"/> | <img src="/images/NPCC-2.jpg" style="width:200px;"/> | 
 | **3. Canoe Polo (Sec 2)** | **4. Marksmanship Training (Sec 3)** |
 | <img src="/images/NPCC-3.jpg" style="width:200px;"/> | <img src="/images/NPCC-4.jpg" style="width:200px;"/> |
 | | |
-
