@@ -61,5 +61,12 @@ Sports Education Programme
 
 ### Gallery
 
+<figure>  
+<img src="/images/PE-1.jpg">  
+<figcaption> 11-Legged Race during our Annual Track and Field Meet </figcaption>  
+</figure>
 
-
+<figure>  
+<img src="/images/PE-2.jpg">  
+<figcaption> Mass Skipping during our Annual Track and Field Meet </figcaption>  
+</figure>
