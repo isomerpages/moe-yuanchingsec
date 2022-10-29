@@ -84,3 +84,9 @@ Principles of Accounts provide students with knowledge on business accounting pr
 
 Students used a SensePerch, created as part of ALP to study the quality of water at Jurong Lake. The investigation is done by tapping into the skills taught during Science lessons.
 
+![](/images/Humanities-14.png)
+
+**Speakers' Corner** <br>
+Selected students facilitate discussions of contemporary issues.
+
+![](/images/Speakers%20Corner.jpg)
