@@ -102,6 +102,6 @@ Sports Education Programme
 </figure>
 
 <figure>  
-<img src="![](/images/PE-10.jpg)">  
+<img src="/images/PE-10.jpg">  
 <figcaption> Annual Track and Field Meet – Tug of War </figcaption>  
 </figure>
