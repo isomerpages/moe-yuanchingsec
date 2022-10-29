@@ -37,7 +37,8 @@ In addition to the six physical activities highlighted above, students will also
 
 Allocation of learning areas and physical activities by level is shown below:
 
-![](/images/PE%20Activities.jpg)
+<img src="/images/PE%20Activities.jpg" 
+    style="width:70%">
 
 **Enrichment Programmes** <br>
 Annual Track and Field Meet <br>
