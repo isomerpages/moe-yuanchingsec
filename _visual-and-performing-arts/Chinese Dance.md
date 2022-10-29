@@ -34,3 +34,43 @@ Ms Koh Jie Ying
 ### Schedule
 
 Tuesday and Thursday: 3:00pm to 6.00pm
+
+<figure>  
+<img src="/images/Performance%20at%20Homecoming%20Concert%20in%20the%20School%20Hall%202022.png">  
+<figcaption> Performance at Homecoming Concert in the School Hall (2022) </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Performance%20at%20Homecoming%20Concert%20in%20the%20School%20Hall%202022_2.png">  
+<figcaption> Performance at Homecoming Concert in the School Hall (2022) </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Performance%20at%20Homecoming%20Concert%20in%20the%20School%20Hall%202022_3.png">  
+<figcaption> Performance at Homecoming Concert in the School Hall (2022) </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Chinese%20Dance-3.jpg">  
+<figcaption> CCA Photo - Warm-up exercises in the weekly training </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Chinese%20Dance-4.jpg">  
+<figcaption> CCA Photo - Warm-up exercises in the weekly training </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Peer%20sharing%20session%202022.png">  
+<figcaption> Peer sharing session (2022) </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Our%20bonding%20activities.png">  
+<figcaption> Our bonding activities (2022) </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Our%20bonding%20activities%202022.png">  
+<figcaption> Our bonding activities (2022) </figcaption>  
+</figure>
