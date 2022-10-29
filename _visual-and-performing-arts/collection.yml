@@ -2,5 +2,6 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
+      - Indian Dance.md
       - Chinese Dance.md
       - Malay Dance.md
