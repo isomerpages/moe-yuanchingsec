@@ -2,6 +2,6 @@ collections:
   uniformed-groups:
     output: true
     order:
-      - Scouts.md
       - National Police Cadet Corps.md
       - National Civil Defence Cadet Corps.md
+      - Scouts.md
