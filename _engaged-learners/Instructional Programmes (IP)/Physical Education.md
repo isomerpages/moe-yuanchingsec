@@ -70,3 +70,38 @@ Sports Education Programme
 <img src="/images/PE-2.jpg">  
 <figcaption> Mass Skipping during our Annual Track and Field Meet </figcaption>  
 </figure>
+
+<figure>  
+<img src="/images/PE-3.jpg">  
+<figcaption> Outdoor Education on Building a Shelter </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/PE-4.jpg">  
+<figcaption> Team Building Activities during Cohort Camps </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/PE-5.jpg">  
+<figcaption> Outdoor Education on Outdoor Cooking </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/PE-6.jpg">  
+<figcaption> Water Rafting </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/PE-7.jpg">  
+<figcaption> Outdoor Education on Orienteering </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Annual.jpg">  
+<figcaption> Annual Sports and Games Carnival </figcaption>  
+</figure>
+
+<figure>  
+<img src="![](/images/PE-10.jpg)">  
+<figcaption> Annual Track and Field Meet – Tug of War </figcaption>  
+</figure>
