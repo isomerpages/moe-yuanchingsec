@@ -31,3 +31,25 @@ The Science Department aims to ignite students’ curiosity about day-to-day hap
 * Biomedical Quiz
 * Science Buskers Festival
 * Physics Enrichment Camp
+
+### Teachers
+
+**HOD Science:** Mdm Chin Yi Mei
+
+| Physics | Chemistry | Biology | Lab Staff |
+|---|---|---|---|
+| Mr Tan Kok Chiew | Mr Leung Yulun | Mr Lee Kian Soon Thomas | Mdm Lor Ah Tin |
+| Mr Malek | Ms Nadia Madzan | Mr Zhang Jiawen | Mr Donnavan Loh Siang Hwee |
+| Mr Chen Zhanjiang | Mr Lee Siak Kheng | Ms Azria Azman | Mdm Goh Choo Noi |
+| Mr Chua Kok Yew | Ms Eunice Leong | Mr C. Ganesh |  |
+| Mr Huang Zhi Jie |  |  |  |
+| Ms Mok Yuen Teng |  |  |  |
+| | | |
+
+### Gallery
+
+<figure>
+<img src="/images/Science-1.png" 
+    style="width:70%">
+<figcaption> Water Rocket Making Session with the teachers </figcaption>
+</figure>
