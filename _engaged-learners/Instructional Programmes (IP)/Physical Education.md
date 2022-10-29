@@ -47,3 +47,19 @@ Cohort Camps <br>
 Sports and Games Carnival <br>
 Unstructured Play <br>
 Sports Education Programme
+
+### Teachers
+
+**HOD / Physical Education and Co-Curricular Activities:** Mr Liew Wei Sheng Jack <br>
+**SH / Physical Education and Co-Curricular Activities:** Mdm Chai Jiamin
+
+| Department Teachers |  |
+| -------- | -------- | 
+| Mr Lim Fang Kwan | Mr C.Ganesh |
+| Mr Foo Say Kin | Ms Yeo Jie Ting |
+| | |
+
+### Gallery
+
+
+
