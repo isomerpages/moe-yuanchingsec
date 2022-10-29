@@ -53,3 +53,27 @@ The Science Department aims to ignite students’ curiosity about day-to-day hap
     style="width:70%">
 <figcaption> Water Rocket Making Session with the teachers </figcaption>
 </figure>
+
+<figure>
+<img src="/images/Science-2.png" 
+    style="width:70%">
+<figcaption> Students from 2NT conducting their trials for Science Buskers </figcaption>
+</figure>
+
+<figure>
+<img src="/images/IMG_7855.jpg" 
+    style="width:70%">
+<figcaption> Student creating 'blood splatters' during their Forensic Science Enrichment </figcaption>
+</figure>
+
+<figure>
+<img src="/images/IMG_8771.jpg" 
+    style="width:70%">
+<figcaption> Students trying out Science Learning Kits at the Science Learning Wall </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Science-5.png" 
+    style="width:70%">
+<figcaption> Conducting fieldwork during TIE Trip to Australia, Canberra in 2019 </figcaption>
+</figure>
