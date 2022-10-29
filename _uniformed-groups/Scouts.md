@@ -42,3 +42,22 @@ Alternate Fridays and Saturdays Sessions (to enlist the service of the alumni on
 Fridays: 2.30 pm to 5.30 pm <br>
 Saturdays: 8 am to 12.30 pm
 
+<figure>  
+<img src="/images/Scouts%20-%20National%20Day%20Observance%20Ceremony%20at%20Yuhua%20Community%20Centre.png">  
+<figcaption> National Day Observance Ceremony at Yuhua Community Centre </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Diamond%20Jubilee%20Challenge%20-%20Heritage%20Trail%20planned%20by%20the%20Patrol%20Leaders.png">  
+<figcaption> Diamond Jubilee Challenge - Heritage Trail planned by the Patrol Leaders </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/1-Star%20Kayaking%20Course%20with%20the%20West%20Area%20Scouts.png">  
+<figcaption> 1-Star Kayaking Course with the West Area Scouts </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Cougar%20scouts%20getting%20a%20hand%20at%20planting.png">  
+<figcaption> Cougar Scouts getting a hand at planting </figcaption>  
+</figure>
