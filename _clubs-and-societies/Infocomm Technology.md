@@ -51,3 +51,28 @@ Every Tuesday and Thursday: 3pm to 5pm
 PA students involved in school performances or events will be notified of the schedule for any extra training sessions or rehearsals accordingly. 
 
 ### CCA Photographs
+
+<figure>  
+<img src="images/Students%20doing%20stop%20motion%20animation%20during%20training.png">  
+<figcaption> Students doing stop motion animation during training </figcaption>  
+</figure>	
+
+<figure>  
+<img src="/images/Students%20learning%20about%20the%20setup%20of%20green%20screen%20in%20filming%20and%20photography.png">  
+<figcaption> Students learning about the setup of green screen in filming and photography</figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Behind%20the%20scene%20of%20backstage%20crew%20in%20National%20Day%20concert.png">  
+<figcaption> Behind the scene of backstage crew in National Day concert </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Farewell%20party%20for%20the%20graduating%20students%20organised%20by%20the%20student%20leaders.jpg">  
+<figcaption> Farewell party for the graduating students organised by the student leaders </figcaption>  
+</figure>
+
+<figure>  
+<img src="images/Learning%20journey%20to%20Genetix%20S.jpg">  
+<figcaption> Learning journey to Genetix S </figcaption>  
+</figure>
