@@ -44,3 +44,23 @@ Thursday: 3:00pm to 5.30pm
 <img src="/images/English%20Drama-1.jpg">  
 <figcaption> Our talented actors in action </figcaption>  
 </figure>
+
+<figure>  
+<img src="/images/English%20Drama-2.jpg">  
+<figcaption> Singapore Youth Festival 2021 </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/English%20Drama-3.jpg">  
+<figcaption> Our warm up Exercises </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/English%20Drama-4.jpg">  
+<figcaption> Behind the scenes- props! </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/English%20Drama-5.jpg">  
+<figcaption> Lights! Camera! Action!- Our Actors at SYF 2021 </figcaption>  
+</figure>
