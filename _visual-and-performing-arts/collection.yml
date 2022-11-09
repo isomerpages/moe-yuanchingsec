@@ -2,10 +2,10 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
-      - English Drama.md
       - Chinese Dance.md
       - Malay Dance.md
       - Indian Dance.md
       - Art and Crafts.md
       - Concert Band.md
       - Guzheng Ensemble.md
+      - English Drama.md
