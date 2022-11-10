@@ -2,8 +2,8 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Environmental Science.md
       - Infocomm Technology.md
       - Dragon and Lion Dance.md
       - Robotics.md
       - Media Resource Library.md
+      - Environmental Science.md
