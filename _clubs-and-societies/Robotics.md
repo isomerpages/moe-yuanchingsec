@@ -27,7 +27,8 @@ Students will be exposed to four steps of visual thinking namely Looking, Seeing
 NRC Competition 2022 - Participation
 
 <u><Strong>2020: </strong></u><br>
-Hack@code competition : ![](/images/HACKCODE.png)
+Hack@code competition : <img src="/images/HACKCODE.png" 
+    style="width:50%">
 *   1X Most inspirational Award
 *   1X Judges Award
 *   1X Merit Award
@@ -61,21 +62,25 @@ Tuesdays: 3.30pm to 6.30pm
 
 <u><strong> CCA PHOTOGRAPHS </strong></u><br>
 <figure>  
-<img src="/images/robotics.jpg">  
+<img src="/images/robotics.jpg" 
+    style="width:70%">
 <figcaption> Visit to Olympus Student Care Centre 2022 <br> Sharing / Teacher/ Befriending Using Mbot </figcaption>  
 </figure>
 
 <figure>  
-<img src="/images/robotics%20dsa.jpg">  
+<img src="/images/robotics%20dsa.jpg" 
+    style="width:70%">
 <figcaption> Direct School Admission (DSA): Students selection 2022 <br> Test Building Skills </figcaption>  
 </figure>
 
 <figure>  
-<img src="/images/Test%20Coding%20skills.png">  
+<img src="/images/Test%20Coding%20skills.png" 
+    style="width:70%">
 <figcaption> Test Coding Skills </figcaption>  
 </figure>
 
 <figure>  
-<img src="/images/cca%20open%20house.jpg">  
+<img src="/images/cca%20open%20house.jpg" 
+    style="width:70%">
 <figcaption> CCA Open House 2022 </figcaption>  
 </figure>
