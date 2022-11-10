@@ -7,7 +7,7 @@ third_nav_title: For Students
 ### Useful Links - ACADEMIC
 
 *   [ICT@Yuan Ching](https://go.gov.sg/ycss-ict)
-*   [Student Learning Space (SLS)](https://yuanchingsec-moe-edu-sg-admin.cwp.sg/ycss/quick-links/for-students/student-learning-space)
+*   [Student Learning Space (SLS)](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-students/student-learning-space)
 *   [Yuan Ching Online Library Catalog](https://schoolibrary.moe.edu.sg/yuanchingsec)
 *   [PDLP iPad Guides](https://go.gov.sg/ycs-pdlp-ipadguide)
 
