@@ -34,5 +34,7 @@ As part of a Channel 8 series highlighting youths in sustainability efforts, our
 | -------- | -------- |
 | <img src="/images/01%20Paper%20and%20Plastic%20Recycling.png" style="width:400px;"/> **Paper and Plastic Recycling** | <img src="/images/02%20E-Waste%20Recycling.png" style="width:400px;"/> **E-Waste Recycling** | 
 | <img src="/images/03%20Assembly%20Talks%20on%20Sustainability.jpg" style="width:400px;"/> **Assembly Talks on Sustainability** | <img src="/images/04%20VIA%20by%20E-Club%20@TJ%20PCF.jpg" style="width:400px;"/> **Values-In-Action (VIA) by E-Club @TJ PCF** |
-| <img src="/images/05%20Community%20Outreach%20by%20E-Club%20Promoting%20Zero-Waste.png" style="width:400px;"/> **Community Outreach by E-Club Promoting** <br> **Zero Waste** | <img src="![](/images/06%20E-champs%20Workshop.png)" style="width:400px;"/> **E-Champs Workshop**
+| <img src="/images/05%20Community%20Outreach%20by%20E-Club%20Promoting%20Zero-Waste.png" style="width:400px;"/> **Community Outreach by E-Club Promoting** <br> **Zero Waste** | <img src="/images/06%20E-champs%20Workshop.png" style="width:400px;"/> **E-Champs Workshop** |
+| <img src="/images/07%20Earth%20Hour%20Programme.png" style="width:400px;"/> **Earth Hour Programme** |
+| | |
 
