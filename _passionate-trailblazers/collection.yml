@@ -2,5 +2,5 @@ collections:
   passionate-trailblazers:
     output: true
     order:
-      - Cyber Wellness.md
       - National Digital Literacy Programme (NDLP).md
+      - Cyber Wellness.md
