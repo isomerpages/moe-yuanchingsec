@@ -2,5 +2,6 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Robotics.md
       - Infocomm Technology.md
       - Dragon and Lion Dance.md
