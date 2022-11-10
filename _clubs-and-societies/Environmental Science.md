@@ -59,17 +59,20 @@ Ms Jasmine Widodo
 Tuesdays: 3.00 pm to 6.00 pm
 
 <figure>
-<img src="/images/Esclub.jpg">
+<img src="/images/Esclub.jpg" 
+    style="width:70%">
 <figcaption> [ESClub] Dengue Prevention Outreach to Taman Jurong residents </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Environmental%20Science-1.jpg">
+<img src="/images/Environmental%20Science-1.jpg" 
+    style="width:70%">
 <figcaption> [ESClub] Presenting environmental issues to fellow club members during our weekly Environmental Sharing Sessions. </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Environmental%20Science-2.jpg">
+<img src="/images/Environmental%20Science-2.jpg" 
+    style="width:70%">
 <figcaption> [ESClub] Upcycling used red-packets into origami as part of Chinese New Year Celebration. </figcaption>
 </figure>
 
@@ -80,11 +83,13 @@ Tuesdays: 3.00 pm to 6.00 pm
 
 <figure>
 <img src="/images/Environmental%20Science-3.jpg">
+
 <figcaption>[ESClub] Working hand in hand to care for the plants in our school gardens. </figcaption>
 </figure>
 
 <figure>
-<img src="/images/hydroponics%20system.png">
+<img src="/images/hydroponics%20system.png" 
+    style="width:70%">
 <figcaption> [ESClub] Working hand in hand to care for the plants in our hydroponics system </figcaption>
 </figure>
 
