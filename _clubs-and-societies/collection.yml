@@ -2,7 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Media Resource Library.md
       - Infocomm Technology.md
       - Dragon and Lion Dance.md
       - Robotics.md
+      - Media Resource Library.md
