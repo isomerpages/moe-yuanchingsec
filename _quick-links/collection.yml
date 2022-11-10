@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - For Staff.md
+      - For Students/ICT@Yuan Ching.md
       - For Students/Useful Links.md
       - For Students/.keep
