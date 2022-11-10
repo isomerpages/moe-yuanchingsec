@@ -78,3 +78,27 @@ Tuesdays: 3.00 pm to 6.00 pm
 <figcaption> [ESClub] Guiding fellow environmental advocates in growing microgreens to promote food sustainability </figcaption>
 </figure>
 
+<figure>
+<img src="/images/Environmental%20Science-3.jpg">
+<figcaption>[ESClub] Working hand in hand to care for the plants in our school gardens. </figcaption>
+</figure>
+
+<figure>
+<img src="/images/hydroponics%20system.png">
+<figcaption> [ESClub] Working hand in hand to care for the plants in our hydroponics system </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Environmental%20Science-4.jpg">
+<figcaption> [ESClub] Discussing the NEXUS problem during one of the workshop sessions in the Shell NXPlorers competition. </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Environmental%20Science-5.jpg">
+<figcaption> [ESClub] Converting waste materials, including plastic straws, used papers, and packet drink containers into Zero Waste artwork. </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Environmental%20Science.jpg">
+<figcaption> [ESClub] Strengthening the relationship among club members during our weekly bonding sessions.</figcaption>
+</figure>
