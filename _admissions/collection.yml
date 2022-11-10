@@ -2,4 +2,5 @@ collections:
   admissions:
     output: true
     order:
+      - Local Transfer.md
       - Direct School Admission (DSA).md
