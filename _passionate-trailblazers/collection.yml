@@ -2,5 +2,6 @@ collections:
   passionate-trailblazers:
     output: true
     order:
+      - Environmental Education (EE).md
       - National Digital Literacy Programme (NDLP).md
       - Cyber Wellness.md
