@@ -2,10 +2,10 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Sports and Games/National School Games 2022.md
-      - Sports and Games/Cross Country.md
-      - Sports and Games/Netball.md
-      - Sports and Games/Dragon Boat.md
       - Sports and Games/.keep
       - Sports and Games/Basketball.md
       - Sports and Games/Football (Boys).md
+      - Sports and Games/Dragon Boat.md
+      - Sports and Games/Netball.md
+      - Sports and Games/Cross Country.md
+      - Sports and Games/National School Games 2022.md
