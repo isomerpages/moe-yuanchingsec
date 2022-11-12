@@ -28,3 +28,9 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 | [3 Integrity](/files/3-I%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-19.pdf) | [3 Excellence](/files/3-Ex%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-18.pdf) | [3 Compassion](/files/3-C%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-16.pdf) | [3 Enterprise](/files/3-E%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-17.pdf) |
 | [3 Respect](/files/3-Rp%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-22.pdf) | [3 Resilience](/files/3-Rs%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-21.pdf) | [3 Loyalty](/files/3-L%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-20.pdf) |
 | | | |
+
+| Secondary 4/5 | | | | 
+|---|---|---|---|
+| [4 Integrity](/files/4-I%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-26.pdf) | [4 Excellence](/files/4-Ex%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-25.pdf) | [4 Compassion](/files/4-C%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-23.pdf) | [4 Enterprise](/files/4-E%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-24.pdf) |
+| [4 Respect](/files/4-Rp%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-29.pdf) | [4 Resilience](/files/4-Rs%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-28.pdf) | [4 Loyalty](/files/4-L%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-27.pdf) | [5 Harmony](/files/5-H%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-30.pdf) |
+| | | |
