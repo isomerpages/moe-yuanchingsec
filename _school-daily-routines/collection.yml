@@ -2,4 +2,5 @@ collections:
   school-daily-routines:
     output: true
     order:
+      - Remedials Schedule.md
       - Class Timetable.md
