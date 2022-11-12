@@ -1,11 +1,4 @@
 collections:
   co-curricular-activities:
     output: true
-    order:
-      - Sports & Games/.keep
-      - Sports & Games/Basketball.md
-      - Sports & Games/Football (Boys).md
-      - Sports & Games/Dragon Boat.md
-      - Sports & Games/Netball.md
-      - Sports & Games/Cross Country.md
-      - Sports & Games/National School Games 2022.md
+    order: []
