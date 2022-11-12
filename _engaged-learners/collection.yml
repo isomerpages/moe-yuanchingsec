@@ -1,4 +1,5 @@
 collections:
   engaged-learners:
     output: true
-    order: []
+    order:
+      - Instructional Programmes (IP)/.keep
