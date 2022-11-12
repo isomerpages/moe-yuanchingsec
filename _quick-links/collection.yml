@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - For Staff.md
-      - For Students/Online Travel Declaration.md
       - For Students/.keep
       - For Students/Useful Links.md
       - For Students/ICT@Yuan Ching.md
       - For Students/Joint Admissions Exercise (JAE) Booklet.md
+      - For Students/Online Travel Declaration.md
