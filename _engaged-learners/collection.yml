@@ -2,6 +2,7 @@ collections:
   engaged-learners:
     output: true
     order:
+      - Co Curriculum Activities (CCA)/.keep
       - Instructional Programmes (IP)/.keep
       - Instructional Programmes (IP)/English.md
       - Instructional Programmes (IP)/Mother Tongue Languages.md
