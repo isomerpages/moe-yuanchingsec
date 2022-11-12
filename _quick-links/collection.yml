@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Staff.md
-      - For Students/School Calendar.md
       - For Students/.keep
       - For Students/Useful Links.md
       - For Students/ICT@Yuan Ching.md
@@ -11,3 +10,4 @@ collections:
       - For Students/Online Travel Declaration.md
       - For Students/School & Miscellaneous Fees.md
       - For Students/School Booklist & Stationery.md
+      - For Students/School Calendar.md
