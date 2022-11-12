@@ -25,6 +25,6 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 
 | Secondary 3 | | | |
 |---|---|---|---|
-| [3 Integrity](https://yuanchingsec.moe.edu.sg/qql/slot/u748/2022/For%20Students/Daily%20Routine/V2.1Aug/3-I.2022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-19.pdf) | [3 Excellence](https://yuanchingsec.moe.edu.sg/qql/slot/u748/2022/For%20Students/Daily%20Routine/V2.1Aug/3-Ex.2022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-18.pdf) | [3 Compassion](https://yuanchingsec.moe.edu.sg/qql/slot/u748/2022/For%20Students/Daily%20Routine/V2.1Aug/3-C.2022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-16.pdf) | [3 Enterprise](https://yuanchingsec.moe.edu.sg/qql/slot/u748/2022/For%20Students/Daily%20Routine/V2.1Aug/3-E.2022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-17.pdf) |
-| [3 Respect](https://yuanchingsec.moe.edu.sg/qql/slot/u748/2022/For%20Students/Daily%20Routine/V2.1Aug/3-Rp.2022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-22.pdf) | [3 Resilience](https://yuanchingsec.moe.edu.sg/qql/slot/u748/2022/For%20Students/Daily%20Routine/V2.1Aug/3-Rs.2022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-21.pdf) | [3 Loyalty](https://yuanchingsec.moe.edu.sg/qql/slot/u748/2022/For%20Students/Daily%20Routine/V2.1Aug/3-L.2022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-20.pdf) |
-| | | | 
+| [3 Integrity](/files/3-I%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-19.pdf) | [3 Excellence](/files/3-Ex%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-18.pdf) | [3 Compassion](/files/3-C%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-16.pdf) | [3 Enterprise](/files/3-E%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-17.pdf) |
+| [3 Respect](/files/3-Rp%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-22.pdf) | [3 Resilience](/files/3-Rs%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-21.pdf) | [3 Loyalty](/files/3-L%202022%20YCSS%20Sem%202%20Revised%20Timetable%20Class-20.pdf) |
+| | | |
