@@ -2,7 +2,6 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Uniformed Groups/.keep
       - Sports and Games/.keep
       - Sports and Games/Basketball.md
       - Sports and Games/Football (Boys).md
@@ -10,3 +9,4 @@ collections:
       - Sports and Games/Netball.md
       - Sports and Games/Cross Country.md
       - Sports and Games/National School Games 2022.md
+      - Uniformed Groups/.keep
