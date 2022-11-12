@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Instructional Programmes (IP)/.keep
-      - Instructional Programmes (IP)/Science.md
       - Instructional Programmes (IP)/Craft & Technology.md
       - Instructional Programmes (IP)/Humanities.md
       - Instructional Programmes (IP)/Physical Education.md
