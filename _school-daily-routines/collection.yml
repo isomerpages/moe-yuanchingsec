@@ -1,4 +1,5 @@
 collections:
   school-daily-routines:
     output: true
-    order: []
+    order:
+      - Class Timetable.md
