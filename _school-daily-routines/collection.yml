@@ -2,6 +2,6 @@ collections:
   school-daily-routines:
     output: true
     order:
-      - Exam Timetable (School and National).md
       - Class Timetable.md
       - Remedials Schedule.md
+      - Exam Timetable (School and National).md
