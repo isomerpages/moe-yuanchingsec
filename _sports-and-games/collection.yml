@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Visual & Performing Arts/.keep
-      - Sports and Games/.keep
-      - Sports and Games/Basketball.md
-      - Sports and Games/Football (Boys).md
-      - Sports and Games/Dragon Boat.md
-      - Sports and Games/Netball.md
-      - Sports and Games/Cross Country.md
-      - Sports and Games/National School Games 2022.md
+      - Sports & Games/.keep
+      - Sports & Games/Basketball.md
+      - Sports & Games/Football (Boys).md
+      - Sports & Games/Dragon Boat.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Cross Country.md
+      - Sports & Games/National School Games 2022.md
       - Uniformed Groups/.keep
       - Uniformed Groups/National Police Cadet Corps.md
       - Uniformed Groups/National Civil Defence Cadet Corps.md
