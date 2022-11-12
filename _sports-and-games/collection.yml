@@ -2,6 +2,7 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Sports and Games/Netball.md
       - Sports and Games/Dragon Boat.md
       - Sports and Games/.keep
       - Sports and Games/Basketball.md
