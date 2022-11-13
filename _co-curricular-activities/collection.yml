@@ -1,5 +1,4 @@
 collections:
   co-curricular-activities:
     output: true
-    order:
-      - Sports & Games/.keep
+    order: []
