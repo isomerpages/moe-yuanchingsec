@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Sports and Games/.keep
-      - Basketball.md
