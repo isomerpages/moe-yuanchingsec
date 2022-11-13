@@ -2,7 +2,7 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Uniformed Groups/.keep
       - Sports and Games/.keep
+      - Uniformed Groups/.keep
       - Basketball.md
       - Football (Boys).md
