@@ -60,7 +60,7 @@ The Sec 1 Data Collection and Research Project provides the students an opportun
 
 <figure>
 <img src="/images/Pic%208_Interviewing%20students%20for%20data%20collection%20and%20research.png" 
-    style="width:50%">
+    style="width:40%">
 <figcaption> Interviewing students for data collection and research </figcaption>
 </figure>
 
