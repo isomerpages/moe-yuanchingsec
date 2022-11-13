@@ -1,5 +1,4 @@
 collections:
   uniformed-groups:
     output: true
-    order:
-      - National Police Cadet Corps.md
+    order: []
