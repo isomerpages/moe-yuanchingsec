@@ -2,7 +2,6 @@ collections:
   engaged-learners:
     output: true
     order:
-      - Co Curricular Activities (CCA).md
       - Instructional Programmes (IP)/.keep
       - Instructional Programmes (IP)/English.md
       - Instructional Programmes (IP)/Mother Tongue Languages.md
@@ -11,3 +10,4 @@ collections:
       - Instructional Programmes (IP)/Craft & Technology.md
       - Instructional Programmes (IP)/Humanities.md
       - Instructional Programmes (IP)/Physical Education.md
+      - Co Curricular Activities (CCA).md
