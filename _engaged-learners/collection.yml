@@ -2,7 +2,6 @@ collections:
   engaged-learners:
     output: true
     order:
-      - Applied Learning Programme (Marine Robotics).md
       - Instructional Programmes (IP)/.keep
       - Instructional Programmes (IP)/English.md
       - Instructional Programmes (IP)/Mother Tongue Languages.md
@@ -16,3 +15,4 @@ collections:
       - Co Curricular Activities (CCA)/Uniformed Groups.md
       - Co Curricular Activities (CCA)/Visual & Performing Arts.md
       - Co Curricular Activities (CCA)/Clubs & Societies.md
+      - Applied Learning Programme (Marine Robotics).md
