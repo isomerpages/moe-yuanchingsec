@@ -2,6 +2,7 @@ collections:
   engaged-learners:
     output: true
     order:
+      - Co Curricular Activities (CCA)/Sports & Games.md
       - Co Curricular Activities (CCA)/.keep
       - Instructional Programmes (IP)/.keep
       - Instructional Programmes (IP)/English.md
