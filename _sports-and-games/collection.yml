@@ -2,8 +2,8 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Cross Country.md
       - Basketball.md
       - Football (Boys).md
       - Dragon Boat.md
       - Netball.md
+      - Cross Country.md
