@@ -2,8 +2,8 @@ collections:
   engaged-learners:
     output: true
     order:
-      - Instructional Programmes (IP)/Science.md
       - Instructional Programmes (IP)/.keep
       - Instructional Programmes (IP)/English.md
       - Instructional Programmes (IP)/Mother Tongue Languages.md
       - Instructional Programmes (IP)/Mathematics.md
+      - Instructional Programmes (IP)/Science.md
