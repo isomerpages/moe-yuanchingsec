@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Basketball.md
-      - Sports and Games/.keep
       - Uniformed Groups/.keep
       - Football (Boys).md
