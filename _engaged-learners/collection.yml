@@ -2,5 +2,6 @@ collections:
   engaged-learners:
     output: true
     order:
+      - Instructional Programmes (IP)/Mother Tongue Languages.md
       - Instructional Programmes (IP)/English.md
       - Instructional Programmes (IP)/.keep
