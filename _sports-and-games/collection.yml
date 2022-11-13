@@ -2,11 +2,11 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Visual and Performing Arts/Chinese Dance.md
-      - Visual and Performing Arts/.keep
       - Basketball.md
       - Football (Boys).md
       - Dragon Boat.md
       - Netball.md
       - Cross Country.md
       - National School Games 2022.md
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Chinese Dance.md
