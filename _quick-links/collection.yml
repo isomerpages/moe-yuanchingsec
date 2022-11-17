@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Staff.md
-      - For Students/Yuan Ching ICT Helpdesk.md
       - For Students/.keep
       - For Students/Useful Links.md
       - For Students/ICT@Yuan Ching.md
@@ -15,3 +14,4 @@ collections:
       - For Students/School Daily Routines.md
       - For Students/Student iCON.md
       - For Students/Student Learning Space.md
+      - For Students/Yuan Ching ICT Helpdesk.md
