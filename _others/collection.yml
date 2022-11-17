@@ -2,6 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Contact Us.md
       - HBL Info Site.md
+      - Contact Us.md
       - Financial Assistance Scheme (FAS).md
