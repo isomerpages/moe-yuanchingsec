@@ -2,8 +2,8 @@ collections:
   others:
     output: true
     order:
-      - Contact Info/Online Feedback Form.md
-      - Contact Info/Contact Us.md
       - Contact Info/.keep
+      - Contact Info/Contact Us.md
+      - Contact Info/Online Feedback Form.md
       - HBL Info Site.md
       - Financial Assistance Scheme (FAS).md
