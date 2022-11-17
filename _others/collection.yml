@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Contact Info/Online Feedback Form.md
       - Contact Info/Contact Us.md
       - Contact Info/.keep
       - HBL Info Site.md
