@@ -2,6 +2,7 @@ collections:
   school-daily-routines:
     output: true
     order:
+      - Weighted Assessment.md
       - Class Timetable.md
       - Remedials Schedule.md
       - Exam Timetable (School and National).md
