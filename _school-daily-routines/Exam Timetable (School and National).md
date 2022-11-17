@@ -36,8 +36,5 @@ Click [here](/files/2021_instructions_for_school_candidates.pdf) for registrat
 
 All students must ensure that they are using approved calculators and/or dictionaries for all examinations. Students who are found with unauthorized calculators/dictionaries during the school/national examination would have violated an examination regulation and actions would be taken against them.  
 
-[List of approved calculators](/files/Approved%20calculators.pdf)
-
+[List of approved calculators](/files/Approved%20calculators.pdf) <br>
 [List of approved dictionaries](/files/Approved%20dictionaries.pdf)
-
-
