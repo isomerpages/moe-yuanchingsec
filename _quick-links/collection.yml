@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - For Parents/.keep
       - For Staff.md
       - For Students/.keep
       - For Students/Useful Links.md
@@ -17,3 +16,4 @@ collections:
       - For Students/Student Learning Space.md
       - For Students/Yuan Ching ICT Helpdesk.md
       - For Students/Yuan Ching Online Library Catalog.md
+      - For Parents/.keep
