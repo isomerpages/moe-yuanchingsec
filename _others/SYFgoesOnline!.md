@@ -9,6 +9,6 @@ Participation in any of the projects is optional. However, the school encourages
 
 Should your child/ward be interested in participating in any of the projects, he/she may contact Mr Jack Liew at [liew\_wei\_sheng@moe.edu.sg](mailto:liew_wei_sheng@moe.edu.sg). 
 
-**[About SYFgoesOnline!](https://www.singaporeyouthfestival.sg/syfgoesonline/about-syfgoesonline)  
+[About SYFgoesOnline!](https://www.singaporeyouthfestival.sg/syfgoesonline/about-syfgoesonline)  
   
-[](https://www.facebook.com/SgYouthFest/)[SG YouthFest Facebook Page](https://www.facebook.com/SgYouthFest/)**
+[SG YouthFest Facebook Page](https://www.facebook.com/SgYouthFest/)
