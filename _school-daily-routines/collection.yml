@@ -2,7 +2,7 @@ collections:
   school-daily-routines:
     output: true
     order:
-      - School Holiday Programme.md
       - Class Timetable.md
       - Remedials Schedule.md
       - Exam Timetable (School and National).md
+      - School Holiday Programme.md
