@@ -24,4 +24,5 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 | | | |
 | -------- | -------- | -------- | 
 | [1E EYE schedule](/files/EYE_1E_29%20Aug.pdf) | [1NA EYE schedule](/files/EYE_1NA_29%20Aug.pdf) | [1NT EYE schedule](/files/Updated%201NT%20EYE%20PG.pdf)  |
-| | | | 
+| [2E EYE schedule](/files/EYE_2E_29%20Aug.pdf) | [2NA EYE schedule](/files/EYE_2NA_29%20Aug.pdf) | [2NT EYE schedule](/files/Updated%202NT%20EYE%20PG.pdf) |
+| | | |
