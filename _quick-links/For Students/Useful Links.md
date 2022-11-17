@@ -21,5 +21,5 @@ third_nav_title: For Students
 * [School & Miscellaneous Fees](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-students/school-n-miscellaneous-fees)
 * [School Booklist & Stationery](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-students/school-booklist-n-stationery)
 * [School Calendar](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-students/school-calendar)
-* [School Daily Routines](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-students/school-daily-routines)
+* [School Daily Routines](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-students/school-daily-routines/class-timetable/)
 * [Parents Gateway](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-parents/parents-gateway)
