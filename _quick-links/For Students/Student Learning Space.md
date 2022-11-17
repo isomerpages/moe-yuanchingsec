@@ -6,11 +6,7 @@ third_nav_title: For Students
 ---
 ![](/images/SLS.jpg)
 
-<a href="[https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)">  
-<img src="/images/SLS.jpg">
-</a>
-	
-**(Click on icon above to access SLS)**
+**(Click [here](https://vle.learning.moe.edu.sg/login) to access SLS)**
 
 **For login information, students can refer to their Student Handbook page 21. Students should attempt to do a self-reset of password first before calling the helpline.**
 
