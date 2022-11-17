@@ -11,13 +11,13 @@ Yuan Ching Secondary School (YCSS) has adopted a department-based approach to le
 
 ### Parents' Connect Sep/Dec 2022
 
-Read [here](https://yuanchingsec.moe.edu.sg/ycss/quick-links/for-parents/parents-connect) for the Parents' Connect Sep/Dec 2022 issue!
+Read [here](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-parents/yc-scoop/) for the Parents' Connect Sep/Dec 2022 issue!
 
 -----
 
 ### September Holiday Remedial Schedule
 
-Click [here](https://yuanchingsec.moe.edu.sg/ycss/quick-links/for-students/school-daily-routines/school-holiday-programme) for Sec 1 - 5 Sep Holiday Remedial Schedule.
+Click [here](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-students/school-daily-routines/school-holiday-programme/) for Sec 1 - 5 Sep Holiday Remedial Schedule.
 
 ------
 
@@ -29,7 +29,7 @@ Let your creativity shine! Read [here](https://yuanchingsec.moe.edu.sg/qql/slot
 
 ### \[Updated\] 2022 End-of-Year Examination for Sec 1, 2 and 3 Schedule
 
-Click [here](https://yuanchingsec.moe.edu.sg/ycss/quick-links/for-students/school-daily-routines/exam-timetable-school-national) for the End-of-Year Examination Schedule.
+Click [here](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-students/school-daily-routines/exam-timetable-school-national/) for the End-of-Year Examination Schedule.
 
 --------
 
@@ -47,7 +47,7 @@ Read our latest issue of YC Scoop [here](https://yuanchingsec-moe-edu-sg-admin.
 
 ### N & O Level Prelims Exam Schedule 2022
 
-Please click [here](https://yuanchingsec.moe.edu.sg/ycss/quick-links/for-students/school-daily-routines/exam-timetable-school-national) to access the schedule.
+Please click [here](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-students/school-daily-routines/exam-timetable-school-national/) to access the schedule.
 
 ------
 
