@@ -29,3 +29,56 @@ The scheme provides for:
 *   Free school attire, on a need basis – 2 sets of uniforms, 2 sets of PE attire, 1 set of School Polo T-shirt (<u>For Secondary 1 students only</u>), 2 pairs of socks and 1 pair of shoes
 *   Transport Subsidy of $17 per month for students taking public transport
 *   Meal Subsidy of $35 per school week
+
+#### SCHOOL ADVISORY COMMITTEE (SAC) FINANCIAL ASSISTANCE SCHEME
+
+**Eligibility Criteria**
+
+1.  Student is a Singapore citizen and does not qualify for MOE FAS,
+2.  Gross Household Income (GHI) does not exceed $4,000 per month or Per Capita Income (PCI) is not more than $1000 per month, and
+3.  Good conduct and at least 80% attendance in school.
+
+The scheme provides:
+*   Full waiver of school fees of $5.00 per month
+*   Full waiver of standard miscellaneous fees of $10.00 per month
+*   Textbook grant - textbooks and writing materials in the approved book list
+*   Free school attire, on a need basis - 2 sets of uniforms, 2 sets of PE attire, 1 set of School Polo T-shirt (For Secondary 1 students only), 2 pairs of socks and 1 pair of shoes
+*   Transport Subsidy of $10 per month for students taking public transport
+*   Meal Subsidy Programme of $15 per school week.
+
+<U> Summary of Benefits under both Financial Assistance Schemes - MOE FAS & SAC FAS</u>
+
+| FAS | School Fees | Standard Miscellaneous Fees | Textbook | School Attire | Meal Subsidy | Transport Subsidy |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **MOE FAS** | Waived | Waived | Free Textbooks | Free School Attire | $35 per school week | $17 per month |
+| **SAC FAS** | Waived | Waived | Free Textbooks | Free School Attire | $15 per school week | $10 per month |
+| | | | | | | 
+
+**Please do not buy school attire and textbooks if you are applying for financial assistance as there will be no refund for items purchased.**
+
+<u><strong> Application Process </strong></u><br>
+Parents may apply for MOE FAS through either (1) hardcopy or (2) online via eFAS.
+
+Application forms are available from the General Office or you can download the application forms below. 
+
+Application strictly via <u>hardcopy</u> form is required for: <br>
+a. Family with other dependents (Great grandparents, Aunties/Uncles, Cousins and others) <br>
+b. Family with more than 5 children in Government and Government-Aided schools <br>
+c. Family with more than 4 unmarried children not in Government and Government-Aided schools <br>
+d. Family with more than 3 grandparents in the household
+
+Parents/ guardians with children in different schools need to submit only one application form for all their school-going children/ wards to one of their schools. The school which receives the application form will inform the parents/ guardians of the outcome for all the children.
+
+Student who is a ComCare recipient need not submit the application for MOE FAS as it will be automatically granted to all ComCare recipients.  
+
+All hardcopy application forms must be submitted together with the required supporting documents to the General Office.
+
+| MOE FAS Application Form<br> | SAC FAS Application Form |
+|:---:|:---:|
+| Hardcopy:<br>MOE FAS Application Form.pdf<br><br>eFAS Application Link:<br>https://go.gov.sg/moe-efas  | Hardcopy: <br>SAC FAS Application Form.pdf | 
+| | |
+
+Once the application is approved, the school will make arrangement for your child to collect the textbooks and uniform.
+
+<u><strong>Other Information</strong></u><br>
+To support low-income family with affordable home internet connectivity, you can apply Home Access programme through IMDA. Eligible Singaporean families can enjoy 2 years of subsidized fibre broadband connectivity. For more information and application, please visit [www.digitalaccess.gov.sg](http://www.digitalaccess.gov.sg/).
