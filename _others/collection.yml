@@ -2,9 +2,9 @@ collections:
   others:
     output: true
     order:
-      - School Philosophy.md
       - HBL Info Site.md
       - Contact Info/.keep
       - Contact Info/Contact Us.md
       - Contact Info/Online Feedback Form.md
       - Financial Assistance Scheme (FAS).md
+      - School Philosophy.md
