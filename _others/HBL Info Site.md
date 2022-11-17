@@ -54,3 +54,34 @@ The attendance of your child/ward for the eCCA sessions is optional but highly e
 10\.  **Observe cyber wellness** e.g. respect others by not sending inappropriate contents.   
   
 [Students' Guide to Video Conferencing with Teachers using Zoom for HBL](/files/Students-Guide-Using-Zoom-MOE-ETD-ver-20-Mar.pdf)
+
+**C) ICT Support**   
+Please click on the link shown below in the [HBL@Yuan Ching](https://sites.google.com/view/hblyuanching/home) for instructions on resetting passwords and unlocking SLS accounts.
+
+![](/images/SLS%20in%20HBL%20site.png)
+
+<u><strong> SLS Support for Home-based Learning</strong></u>
+
+**School Operating Hours** <br>
+During school operating hours, students should contact the **School-based Helpline** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.   
+
+**School-based Helpline: 6261 2489** 
+
+**FormSG: [https://go.gov.sg/sls-pw-reset](https://go.gov.sg/sls-pw-reset)** 
+
+**Mondays - Fridays: 8:00 am - 4:00 pm**
+
+Refer to this user guide[user guide](/files/User%20Guide%20-%20Register%20Verified%20Email%20Address%20(1).pdf) to set a verified email address for future self-reset.
+
+Refer to this [annex](https://drive.google.com/open?id=17Ski4MC6JAnB3xoEkFmkWG4Vc9daD3GE) for the Frequently Asked Questions.
+
+For other matters, students can email the **SLS Helpdesk** at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
+
+**Non-School Operating Hours** <br>
+Students can only contact the **SLS Helpdesk** outside the school operating hours. 
+
+**SLS Helpdesk: 6702 6513** 
+
+Mondays - Fridays: 4:00 pm - 9:00 pm Saturdays: 9:00am - 9:00pm \*Closed on Sundays & Public Holidays 
+
+Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
