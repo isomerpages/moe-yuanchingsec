@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - MOE OBS Challenge Programme 2020.md
       - HBL Info Site.md
       - Contact Info/.keep
       - Contact Info/Contact Us.md
@@ -10,3 +9,4 @@ collections:
       - Financial Assistance Scheme (FAS).md
       - School Philosophy.md
       - School Management.md
+      - MOE OBS Challenge Programme 2020.md
