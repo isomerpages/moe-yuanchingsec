@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Google Suite Matters.md
       - HBL Info Site.md
       - Contact Info/.keep
       - Contact Info/Contact Us.md
@@ -13,3 +12,4 @@ collections:
       - MOE OBS Challenge Programme 2020.md
       - Meal Support for MOE FAS students during FHBL.md
       - SYFgoesOnline!.md
+      - Google Suite Matters.md
