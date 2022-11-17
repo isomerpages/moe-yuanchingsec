@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Google Suite Matters.md
       - HBL Info Site.md
       - Contact Info/.keep
       - Contact Info/Contact Us.md
