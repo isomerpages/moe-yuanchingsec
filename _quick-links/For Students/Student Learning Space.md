@@ -4,7 +4,8 @@ permalink: /quick-links/for-students/student-learning-space/
 description: ""
 third_nav_title: For Students
 ---
-![](/images/SLS.jpg)
+<img src="/images/SLS.jpg" 
+    style="width:70%">
 
 **(Click [here](https://vle.learning.moe.edu.sg/login) to access SLS)**
 
