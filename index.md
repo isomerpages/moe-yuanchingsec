@@ -16,7 +16,7 @@ sections:
           url: /admissions/secondary-1-registration/
       background: /images/Homepage Banner 1400x700 v3.gif
   - resources:
-      title: Announcements
+      title: "Announcements "
       button: More
   - infopic:
       title: YCSS Homecoming 2022
