@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Student Learning Space.md
       - HBL Info Site.md
       - Contact Info/.keep
       - Contact Info/Contact Us.md
