@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage banner (1400 × 735 px).gif
       key_highlights:
         - title: Yuan Ching Secondary School Open house 2022
           description: ""
