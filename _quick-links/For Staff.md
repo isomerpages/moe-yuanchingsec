@@ -7,7 +7,6 @@ description: ""
 
 * [ACE-learning](https://www.ace-learning.com/)
 *   [All Ears Form Builder](https://forms.moe.edu.sg/)
-*   [Cyber Wellness Portal](https://ictconnection.moe.edu.sg/cyber-wellness)
 *   [FormSG](https://form.gov.sg/#!/)
 *   [GOV shortened URL - go.gov.sg](http://go.gov.sg/)
 *   [iCon 2.0](https://workspace.google.com/dashboard)
