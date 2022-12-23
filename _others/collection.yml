@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - YC Scoop.md
       - Parents' Connect.md
       - Parents Gateway.md
       - Meet The Parents (MTP) Session 2022.md
