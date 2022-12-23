@@ -6,4 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+**2023 Secondary 1 Registration**
 
+Register for Secondary 1 2023 Intake here from 21 Dec, 12pm to 22 Dec, 12pm.
