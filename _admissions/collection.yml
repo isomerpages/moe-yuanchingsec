@@ -2,9 +2,9 @@ collections:
   admissions:
     output: true
     order:
+      - Secondary 1 Registration.md
       - Transfer Out.md
       - Transfer In.md
-      - Secondary 1 Registration.md
       - Direct School Admission (DSA).md
       - Local Transfer.md
       - Returning Singaporean.md
