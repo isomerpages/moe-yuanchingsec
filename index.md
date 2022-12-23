@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/Homepage banner (1400 × 735 px).gif
       key_highlights:
-        - title: Yuan Ching SEcondary School Open house 2022
+        - title: Yuan Ching Secondary School Open house 2022
           description: ""
           url: https://yuanchingopenhouse.wixsite.com/ycoh
-        - title: Happenings
+        - title: Sec 1 Registration (2023 Intake)
           description: ""
-          url: /happenings/
+          url: /admissions/secondary-1-registration/
   - resources:
       title: Announcements
       button: More
