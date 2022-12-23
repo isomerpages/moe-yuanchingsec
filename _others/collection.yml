@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - School Booklist & Stationery.md
       - Student Learning Space.md
       - HBL Info Site.md
       - Contact Info/.keep
