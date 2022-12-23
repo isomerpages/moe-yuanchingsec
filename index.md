@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ezgif(1).gif
+      background: /images/Homepage banner (1400 × 735 px).gif
       key_highlights:
         - title: Announcements
           description: ""
@@ -26,21 +26,5 @@ sections:
       button: CLICK HERE
       url: https://www.instagram.com/p/CevjTKnMHZ3/?utm_source=ig_web_copy_link
       image: /images/ycss homecoming.jpg
-      alt: Image alt text
-  - infopic:
-      title: Youth STEM Empowerment Programme (YSEP)
-      subtitle: June Holidays
-      description: Check out our Sec 3 students at Science Centre's YSEP! This
-        programme guides them in developing innovative products and solutions.
-      image: /images/follow us online.jpg
-      alt: Image alt text
-  - infopic:
-      title: National School Games Semester 1
-      subtitle: Instagram News
-      description: " Well done to Qi Xiang (Wushu) of 2Ex, Elicia (Taekwondo) of 2I
-        and Xavier (Golf) of 2E!"
-      button: Click here
-      url: https://www.instagram.com/p/Cen07OBMjci/?utm_source=ig_web_copy_link
-      image: /images/National School Games.jpg
       alt: Image alt text
 ---
