@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2023 Secondary 1 Registration/.keep
-      - Secondary 1 Registration.md
       - Transfer Out.md
       - Transfer In.md
       - Direct School Admission (DSA).md
