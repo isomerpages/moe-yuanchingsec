@@ -17,7 +17,7 @@ More information on our ALP can be found through the following link:
 
 Please click on the link below to download the DSA brochure:
 
-</insert file>
+[2022 YCSS DSA Brochure]()
 
 ### 2\. Criteria
 
