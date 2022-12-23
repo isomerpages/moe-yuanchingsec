@@ -7,11 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Yuan Ching Secondary School
-      subtitle: Efforts Today Rewards Tomorrow
       background: /images/ezgif(1).gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Announcements
           description: ""
@@ -19,6 +15,9 @@ sections:
         - title: Happenings
           description: ""
           url: /happenings/
+  - resources:
+      title: Announcements
+      button: More
   - infopic:
       title: YCSS Homecoming 2022
       subtitle: INSTAGRAM NEWS
