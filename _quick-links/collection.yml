@@ -2,12 +2,11 @@ collections:
   quick-links:
     output: true
     order:
-      - School Calendar.md
       - For Students.md
       - For Staff.md
+      - For Parents/.keep
       - For Parents/School Booklist & Stationery.md
       - For Parents/School & Miscellaneous Fees.md
-      - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Meet The Parents (MTP) Session 2022.md
       - For Parents/National Digital Literacy Programme (NDLP).md
@@ -17,3 +16,4 @@ collections:
       - For Parents/GCE 'N' & 'O' Syllabus.md
       - For Parents/MOE Instagram.md
       - For Parents/Parents in Education.md
+      - School Calendar.md
