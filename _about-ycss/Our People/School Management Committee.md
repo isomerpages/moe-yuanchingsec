@@ -9,6 +9,7 @@ third_nav_title: Our People
 | Name | Designation |
 | --- | --- |
 | Ms Ng Sook Kit | Principal |
+| Mr Tang Hsin Wei | Vice Principal |
 | Mr Julius Teo | Vice Principal (Administration) |
 | | |
 
@@ -22,11 +23,13 @@ third_nav_title: Our People
 | Ms Joy Tay Huijuan | HOD/ Craft & Technology |
 | Mr Subramaniam Mohanamoothy | HOD/ Humanities |
 | Mrs Erh-Ong Ka Min | HOD/ Infocomm Technology |
+| Mrs Buganiesh Squires | HOD/ EL |
 | Ms Ong Wan Hui | HOD/ Mathematics |
 | Mr Raymond Yeo Tong Wei | HOD/ Mother Tongue Languages |
-| Mr Jack Liew Wei Sheng | HOD/ PE & CCA |
+| Mr Keith Koh Choon Hean | HOD/ PE & CCA |
+| Ms Patsy Chua | HOD/ CCE |
 | Mdm Chin Yi Mei | HOD/ Science |
-| Mr Janageeraman s/o Senivasan | HOD/ Student Management |
+| Mr Soong Mun Fye | HOD/ Student Management |
 | | | 
 
 ### SUBJECT HEADS / ASSISTANT YEAR HEADS
@@ -44,4 +47,4 @@ third_nav_title: Our People
 | Mr Soong Mun Fye | Subject Head/ Student Management |
 | Mr Lai Weng Keong | Assistant Year Head (Lower Sec) |
 | Mdm Koh Jie Ying | Assistant Year Head (Upper Sec) (Covering) |
-| | | 
+| | |
