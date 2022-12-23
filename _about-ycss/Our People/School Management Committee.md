@@ -40,10 +40,8 @@ third_nav_title: Our People
 | Mr Lim Chow Chiat Paul | Subject Head/ Citizenship Education |
 | Ms Arulushamaheswary Anbalagan | Subject Head/ Geography |
 | Mr Chen Zhanjiang | Subject Head/ Innovation |
-| Ms Lee Chiew Yi  | Subject Head/ Learner Needs (Covering)  |
 | Ms Liu Yunman | Subject Head/ Mathematics |
 | Mdm Chai Jiamin | Subject Head/ PE & CCA |
-| Ms Nan Zhonghua  | Subject Head/ Special Projects (Covering) |
 | Mr Soong Mun Fye | Subject Head/ Student Management |
 | Mr Lai Weng Keong | Assistant Year Head (Lower Sec) |
 | Mdm Koh Jie Ying | Assistant Year Head (Upper Sec) (Covering) |
