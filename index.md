@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Homepage banner (1400 × 735 px).gif
       key_highlights:
-        - title: Announcements
+        - title: Yuan Ching SEcondary School Open house 2022
           description: ""
-          url: /announcements
+          url: https://yuanchingopenhouse.wixsite.com/ycoh
         - title: Happenings
           description: ""
           url: /happenings/
