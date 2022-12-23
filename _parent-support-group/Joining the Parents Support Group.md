@@ -9,7 +9,7 @@ We would like to invite you to join our Yuan Ching Secondary School Parents Supp
 
 **Intro by 2022 PSG Chairperson : Ms Janet Tan**
 
-</insert video> 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XX71lhm_RUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **PSG Link:** [Parent Support Group (PSG) Registration Form](https://go.gov.sg/ycss-psg-register)
 
