@@ -2,7 +2,7 @@ collections:
   quick-links:
     output: true
     order:
-      - Students.md
       - Parents.md
       - Staff.md
+      - Students.md
       - School Calendar.md
