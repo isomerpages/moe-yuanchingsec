@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: Parents
           description: ""
-          url: https://staging.d3su4wj45hy3j2.amplifyapp.com//quick-links/parents/
+          url: https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/parents/
         - title: Staff
           description: ""
-          url: https://yuanchingsec.moe.edu.sg/staff/
+          url: https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/staff/
         - title: Students
           description: ""
-          url: https://yuanchingsec.moe.edu.sg/students/
+          url: https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/students/
       background: /images/Homepage Banner 1400x700 v3.gif
       title: Yuan Ching Secondary School
       subtitle: Efforts Today Rewards Tomorrow
