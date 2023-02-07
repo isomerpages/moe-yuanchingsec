@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Parents
           description: ""
-          url: /quick-links/parents/
+          url: https://staging.d3su4wj45hy3j2.amplifyapp.com//quick-links/parents/
         - title: Staff
           description: ""
           url: https://yuanchingsec.moe.edu.sg/staff/
