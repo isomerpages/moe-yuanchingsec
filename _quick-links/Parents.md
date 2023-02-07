@@ -25,17 +25,6 @@ description: ""
 
 * [Parents-In-Education](https://www.schoolbag.edu.sg/)
 
-* Sec 1 PES and CCA Showcase 2023
+* [Sec 1 PES and CCA Showcase 2023](/others/Sec1PESCCAShowcase2023/)
 
 * YC Scoop
-
-
-
-
-
-
-
-
-
-
-
