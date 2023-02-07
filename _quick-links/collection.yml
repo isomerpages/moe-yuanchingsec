@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Staff.md
-      - For Students.md
+      - Students.md
       - Parents.md
       - School Calendar.md
