@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: Parents
           description: ""
-          url: /quick-links/for-staff/
+          url: ""
         - title: Staff
           description: ""
-          url: ""
+          url: https://yuanchingsec.moe.edu.sg/staff/
         - title: Students
           description: ""
           url: ""
