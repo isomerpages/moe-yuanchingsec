@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - Sec 1 PES and CCA Showcase 2023.md
       - Parents.md
       - Staff.md
       - Students.md
