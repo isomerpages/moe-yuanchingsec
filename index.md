@@ -14,7 +14,7 @@ sections:
           url: https://yuanchingsec.moe.edu.sg/parents/
         - title: Staff
           description: ""
-          url: https://yuanchingsec.moe.edu.sg/staff/
+          url: /staff/
         - title: Students
           description: ""
           url: https://yuanchingsec.moe.edu.sg/students/
