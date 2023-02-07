@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Parents/Sec 1 PES and CCA Showcase 2023.md
       - Parents/.keep
       - Parents.md
       - Staff.md
