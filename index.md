@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Parents
           description: ""
-          url: https://yuanchingsec.moe.edu.sg/parents/
+          url: /quick-links/parents/
         - title: Staff
           description: ""
           url: https://yuanchingsec.moe.edu.sg/staff/
