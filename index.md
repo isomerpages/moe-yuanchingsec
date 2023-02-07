@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Parents
           description: ""
-          url: ""
+          url: /quick-links/for-staff/
         - title: Staff
           description: ""
           url: ""
