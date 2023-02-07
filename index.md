@@ -17,7 +17,7 @@ sections:
           url: https://yuanchingsec.moe.edu.sg/staff/
         - title: Students
           description: ""
-          url: ""
+          url: https://yuanchingsec.moe.edu.sg/students/
       background: /images/Homepage Banner 1400x700 v3.gif
       title: Yuan Ching Secondary School
       subtitle: Efforts Today Rewards Tomorrow
