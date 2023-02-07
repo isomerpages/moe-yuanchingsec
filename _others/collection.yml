@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Sec 1 PES and CCA Showcase 2023.md
       - YC Scoop.md
       - Parents' Connect.md
       - Parents Gateway.md
