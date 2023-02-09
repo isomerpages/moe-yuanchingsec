@@ -15,16 +15,16 @@ description: ""
 
 * [MOE (Secondary) Information](https://www.moe.gov.sg/secondary)
 
-* National Digital Literacy Programme (NDLP)
+* [National Digital Literacy Programme (NDLP)](https://staging.d3su4wj45hy3j2.amplifyapp.com/passionate-trailblazers/national-digital-literacy-programme-ndlp/)
 
 * [Parents’ Booklet to encourage Healthy Eating Habits at Home](/files/HPB%20HM%20Parents%20Booklet_School_Generic_30%20Mar.pdf)
 
-* Parents Gateway
+* [Parents Gateway](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-parents/parents-gateway/)
 
-* Parents' Connect
+* [Parents' Connect](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-parents/parents-connect/)
 
 * [Parents-In-Education](https://www.schoolbag.edu.sg/)
 
 * [Sec 1 PES and CCA Showcase 2023](/others/Sec1PESCCAShowcase2023/)
 
-* YC Scoop
+* [YC Scoop](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-parents/yc-scoop/)
