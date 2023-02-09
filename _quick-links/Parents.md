@@ -3,9 +3,7 @@ title: Parents
 permalink: /quick-links/parents/
 description: ""
 ---
-
-
-* Financial Assistance Scheme (FAS)
+* [Financial Assistance Scheme (FAS)](https://staging.d3su4wj45hy3j2.amplifyapp.com/others/financial-assistance-scheme-fas/)
 
 * [GCE ‘N’ & ‘O’ Level Syllabuses](https://www.seab.gov.sg/)
 
