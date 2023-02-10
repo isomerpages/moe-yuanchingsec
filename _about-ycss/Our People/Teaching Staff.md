@@ -4,7 +4,7 @@ permalink: /about-ycss/our-people/teaching-staff/
 description: ""
 third_nav_title: Our People
 ---
-![](/images/All%20Staff.jpg)
+![Yuan Ching Secondary School 2022](/images/All%20Staff%20Photo%202022%20(Collage)-min.jpg)
 
 ### SENIOR TEACHERS
 
@@ -20,52 +20,51 @@ third_nav_title: Our People
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| 1 Integrity | Lee Siak Kheng |Dimas Nurr Aidilin Mas'od |  |
-| 1 Excellence | Rathi D/O Bala Krisnan  | Zubaidah Ariffin  |  |
-| 1 Compassion | Nan Zhonghua | Jean Leong Jun Xi (P) |  |
-| 1 Enterprise | Chai Jiamin | Senduran Vasudevan |  |
-| 1 Respect | C. Ganesh | Tan Ai Lin |  |
-| 1 Resilience | Mr Foo Say Kin | Ms Nurul Naimah Bte Zulkifli |  |
-| 1 Loyalty | Mr Mohd Fadzel | Ms Shanti Armugam |  |
+| 1 Integrity | Mr Lee Siak Kheng | Ms Dimas Nurr Aidilin Mas'od |  |
+| 1 Excellence | Ms Rathi D/O Bala Krisnan  | Mdm Zubaidah Ariffin  |  |
+| 1 Compassion | Ms Nan Zhonghua | Ms Jean Leong Jun Xi |  |
+| 1 Enterprise | Mdm Chai Jiamin | Mr Senduran Vasudevan |  |
+| 1 Respect | Mr C. Ganesh | Ms Tan Ai Lin |  |
+| 1 Loyalty | Mr Tham Wai Keong | Ms Shanti Armugam |  |
 | | | | |
 
 ### SEC 2 FORM TEACHERS
 
 | Class | Form Teachers |  |  |
 | --- | --- | --- | --- |
-| 2 Integrity | Paul Lim Chow Chiat | Amanda Ong |  |
-| 2 Excellence | Sivaperakas R Muthiah | Wong Chin Seng |  |
-| 2 Compassion| Jasmine Widodo | Kelly Yeo Ee Ling |  |
-| 2 Enterprise | Yap Jen Huey | Mohd Azhar |  |
-| 2 Respect | Mok Yuen Teng | Shazana Bte Saini|   
-| 2 Resilience | Foo Say Kin | Khasturi Gonasaygnran |   
-| 2 Loyalty  | Mohd Fadzel  | Shanti Armugam  | 
+| 2 Integrity | Mr Paul Lim Chow Chiat | Ms Amanda Ong |  |
+| 2 Excellence | Mr Sivaperakas R Muthiah | Mr Wong Chin Seng |  |
+| 2 Compassion| Ms Jasmine Widodo | Ms Kelly Yeo Ee Ling |  |
+| 2 Enterprise | Ms Yap Jen Huey | Mr Mohd Azhar |  |
+| 2 Respect | Ms Mok Yuen Teng | Ms Shazana Bte Saini|   
+| 2 Resilience | Mr Foo Say Kin | Mdm Khasturi Gonasaygnran |   
+| 2 Loyalty  | Mr Fadzel  | Ms Shanti Armugam  | 
 | | | 
 
 ### SEC 3 FORM TEACHERS
 
 | Class | Form Teachers |  |  |
 | --- | --- | --- | --- |
-| 3 Integrity | Liew Kok Keong | Lim Yi Hui |  |
-| 3 Excellence | Chua Kok Yew | Arulushamaheswary |  | 
-| 3 Compassion | Angela Lee Mui Huang | Vilochana D/O Veloo |  |
-| 3 Enterprise | Siti Nurshila Bte Roslan |Jasmine Sujatha |  |
-| 3 Respect | Ng Li Mei | Ashley Tan Mei See | Audrey Goh Xin Yun  |
-| 3 Resilience | Musniffa Bte Mustaffa | Chen Cui Xia| Isaac Chong Xiang Yang 
-| 3 Loyalty | Tommy Cheng | Segar Muniandy | Zachary Wong Jiann Tsong |
+| 3 Integrity | Mr Liew Kok Keong | Ms Lim Yi Hui |  |
+| 3 Excellence | Mr Chua Kok Yew | Ms Arulushamaheswary |  | 
+| 3 Compassion | Ms Angela Lee Mui Huang | Ms Vilochana D/O Veloo |  |
+| 3 Enterprise | Ms Siti Nurshila Bte Roslan | Ms Jasmine Sujatha |  |
+| 3 Respect | Mdm Ng Li Mei | Ms Ashley Tan Mei See | Ms Audrey Goh Xin Yun  |
+| 3 Resilience | Mdm Musniffa Bte Mustaffa | Mdm Chen Cui Xia| Mr Isaac Chong Xiang Yang 
+| 3 Loyalty | Mr Tommy Cheng | Mr Segar Muniandy | Mr Zachary Wong Jiann Tsong |
 | | |
 
 ### SEC 4 & 5 FORM TEACHERS
 
 | Class | Form Teachers |  |  | 
 |---|---|---|---|
-| 4 Integrity | Chen Zhanjiang |  Standley Daniel |  |
-| 4 Excellence  | Eunice Leong Ying Xuan |Azria Bte Azman |  |
-| 4 Compassion | Tan Kwee Theng | Huang Zhijie |  |
-| 4 Enterprise | Koh Jie Ying | Tsering Choden |  |
-| 4 Respect | Zhang Jiawen | Normalah Bte Baharin |  |
-| 4 Resilience | Goh Woon Xian | Amos Lee Canguang |   
-| 4 Loyalty | Lai Weng Keong | Nadia Bte Madzan |  |
+| 4 Integrity | Mr Chen Zhanjiang |  Mr Standley Daniel |  |
+| 4 Excellence  | Ms Eunice Leong Ying Xuan | Ms Azria Bte Azman |  |
+| 4 Compassion | Ms Tan Kwee Theng | Mr Huang Zhijie |  |
+| 4 Enterprise | Mdm Koh Jie Ying | Ms Tsering Choden |  |
+| 4 Respect | Mr Zhang Jiawen | Ms Normalah Bte Baharin |  |
+| 4 Resilience | Ms Goh Woon Xian | Mr Amos Lee Canguang |   
+| 4 Loyalty | Mr Lai Weng Keong | Ms Nadia Bte Madzan |  |
 | 5 Harmony | Mdm Goh-Cheong Wei Leng | 
 | | |
 
@@ -73,20 +72,23 @@ third_nav_title: Our People
 
 | Name | Designation |
 | --- | --- |
-| Mr Jamal Mohinitheen Bin Ahamed Ghani | Teacher |
 | Mr Lim Fang Kwan | Teacher |
 | Mr Mohamad Malek Sufahat | Teacher |
-| Ms Nancy Lau Leng Leng | Teacher |
-| Mrs Siva Thavaranee Rasiah | Teacher |
 | Ms Sumita | Teacher |
+| Ms Chen Yaqi Bernice | Teacher |
+| Mdm Fang Chen Lan  | Teacher  |
+| Mr Jamal Mohinitheen Bin Ahamed Ghani | Teacher |
+| Mdm Komathy D/O Ramanathan | Teacher  |
+| Ms Nancy Lau Leng Leng | Teacher |
+| Mr Ong Sheo Yuan | Teacher |
+| Mrs Siva Thavaranee Rasiah | Teacher |
+| Mr Victor Tan Yian Liang | Teacher |
 | Mdm Wong Ling Ling | Teacher |
 | Mdm Yak Guat Eng | Teacher |
-| Mdm Fang Chen Lan  | Teacher  |
-| Mdm Komathy D/O Ramanathan | Teacher  |
 | Mdm Kang Jean Nie | School Counsellor |
 | Ms Khoo Chee Suan | School Counsellor |
 | Mdm Sharifah Aisyah Binte Nasar Ahmad | Allied Educator (Learning & Behavioral Support) |
-| Ms Susite Tan | Student Welfare Officer (SWO) |
+| Ms Tan Sici, Susie | Student Welfare Officer (SWO) |
 | Mr See Thou Yew Cheong | Admin Manager |
 | Mr Govindarajoo G N Naidu | Operations Manager |
 | Mr Raymond Ho | Operations Manager |
@@ -95,9 +97,11 @@ third_nav_title: Our People
 | Mdm Anniah Shofina | ICT Manager |
 | Mdm Loh Ah Tin | School Laboratory Technician |
 | Mr Donnavan Loh Siang Hwee | School Laboratory Technician |
+| Mr Kelvin Low Giau Ming | Education Workshop Instructor (EWI) |
+| MrJofri Bin Osman | Education Workshop Instructor (EWI) |
 | Mdm Cheong Wai Cheng Connie | Corporate Support Officer |
 | Ms Norhasimah Karim | Corporate Support Officer |
 | Mr Viknesvaran | Desktop Engineer |
-| Mr Charef | Desktop Engineer |
+| Mr Charef Abderrahmane | Desktop Engineer |
 | Mdm Chua Meow Hua  | Library Assistant  |
 | | |
