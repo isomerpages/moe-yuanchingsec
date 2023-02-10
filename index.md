@@ -24,4 +24,19 @@ sections:
   - resources:
       title: "Announcements "
       button: More
+  - infopic:
+      title: Enriching Minds, Unleashing Potential, Impacting Lives
+      subtitle: School Mission
+      image: /images/MISSION_ YCSS2022 Day2 (76).jpg
+      alt: Image alt text
+  - infopic:
+      title: Every Individual a Thinker, an Achiever, a Concerned Citizen
+      subtitle: School Vision
+      image: /images/VISSION_ YCSS2022 Day2 (77)-min.jpg
+      alt: Image alt text
+  - infopic:
+      title: IExCEL-Integrity,Excellence, Compassion, Enterprise, Loyalty
+      subtitle: School Values
+      image: /images/VALUES2_ YCSS2022 Day2 (108)-min.jpg
+      alt: Image alt text
 ---
