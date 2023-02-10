@@ -3,8 +3,6 @@ title: Student Leadership
 permalink: /confident-leaders/student-leadership/
 description: ""
 ---
-![](/images/student%20leadership%20committee%202.jpg)
-
 ### OVERVIEW OF STUDENT LEADERSHIP
 
 Student leadership development is an integral part of the overall student development programme in Yuan Ching. Aligned to the school vision of every student ‘A Thinker, an Achiever and a Concerned Citizen’, the student leadership development is anchored on the belief of ’Every Student a Leader’.  
