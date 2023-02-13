@@ -25,15 +25,15 @@ Everyone is a practitioner of care, concern, curiosity and creativity. (4Cs)
 
 ### Teachers
 
-**Subject Head Craft & Technology:** Mr Sivaperakas R Muthiah
+**Subject Head Craft & Technology:** Ms Joy Tay Huijuan
 
 | Design and Technology | Art | Food and Nutrition Science/Music |
 |---|---|---|
 | Mr Soong Mun Fye<br>(SH, Student Mgt)<br>(DT Coordinator) | Mr Mohamad Fadzel | Mdm Khasturi Gonasaygnran<br>(NFS Coordinator) |
-| Mr Lai Weng Keong<br>(AYH Lower Sec) | Ms Tsering Choden | Ms Nurul Naimah |
-| Mr Ong Sheo Yuan |  | Mdm Nancy Lau |
-| Mr Tham Wai Keong |  | Ms Lee Chiew Yi |
-| Mr Low Giau Ming |  | Miss Shanti Armugam<br>(Music Coordinator) |
+| Mr Lai Weng Keong<br>(AYH Lower Sec) | Ms Tsering Choden | Mdm Nancy Lau |
+| Mr Ong Sheo Yuan |  | Miss Shanti Armugam<br>(Music Coordinator) |
+| Mr Tham Wai Keong |  | Ms Tan Ai Lin |
+| Mr Low Giau Ming |  | Mdm Peter Durairaj Bharat Senthil Vijaya Ratna |
 | Mr Jofri Bin Osman |  |  |
 | | |
 
