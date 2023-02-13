@@ -53,10 +53,10 @@ Our students had participated in various competitions and many returned with not
 | Chinese Language | Malay Language | Tamil Language |
 |---|---|---|
 | Ms Goh Woon Xian | Mdm Zubaidah Ariffin | Mr Segar Muniandy |
-| Mdm Lim Yi Hui | Ms Fazeelah Khan | Mr Senduran Vasudevan |
+| Mdm Lim Yi Hui | Ms Siti Nurshila | Mr Senduran Vasudevan |
 | Mdm Fang Chen Lan | Mdm Musniffa Mustaffa | Mr Jamal Mohinitheen |
 | Ms Nan Zhonghua | Miss Normalah Bahrain |  |
-| Ms Ong Fui Ping | Ms Siti Nurshila |  |
+| Ms Ong Fui Ping |  |  |
 | Ms Voon Xin Yi |  |  |
 | Mdm Yak Guat Eng |  |  |
 | | | |
