@@ -52,15 +52,15 @@ Principles of Accounts provide students with knowledge on business accounting pr
 ### Teachers
 
 **HOD Humanities:** Mr Mohanamoothy <br> 
-**Subject Head (Geography):** Ms Arulushamaheswary <br>
 **Senior Teacher (Humanities):** Ms Tan Kwee Theng (History) & Mdm Cheong Wei Leng (Geography)
 
 | Geography | History | Social Studies | Principles of Accounts |
 |---|---|---|---|
-| Mrs Erh Ka Min | Mr Paul Lim | Ms Rathi D/O Bala Krishnan | Mdm Koh Jie Ying<br>(AYH Upper Sec - Covering) |
+| Mrs Erh-Ong Ka Min | Mr Paul Lim | Ms Rathi D/O Bala Krishnan | Mdm Koh Jie Ying<br>(AYH Upper Sec) |
 | Ms Nur Shazana | Mr Mohamed Fahmy | Ms Tan Mei See Ashley | Mdm Angela Lee |
 | Mr Zhang Jia Wen | Mr Standley Daniel | Ms Kelly Yeo |  |
 | Ms Yeo Jie Ting | Mr Amos Lee |  |  |
+| Ms Arulushamaheswary |
 | | | 
 
 ### Gallery
