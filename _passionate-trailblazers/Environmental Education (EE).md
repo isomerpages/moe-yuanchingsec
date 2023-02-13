@@ -28,7 +28,7 @@ Magorium x Yuan Ching Plastic Collection
 
 As part of a Channel 8 series highlighting youths in sustainability efforts, our school was featured due to our collaboration with Magorium, a Singaporean start-up that has developed an innovative plastic waste recycling technology to convert plastic waste into road additives. View the YouTube video to find out more!
 
-</insert video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T_pFfDs_EuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 |  | | 
 | -------- | -------- |
@@ -37,4 +37,3 @@ As part of a Channel 8 series highlighting youths in sustainability efforts, our
 | <img src="/images/05%20Community%20Outreach%20by%20E-Club%20Promoting%20Zero-Waste.png" style="width:400px;"/> **Community Outreach by E-Club Promoting** <br> **Zero Waste** | <img src="/images/06%20E-champs%20Workshop.png" style="width:400px;"/> **E-Champs Workshop** |
 | <img src="/images/07%20Earth%20Hour%20Programme.png" style="width:400px;"/> **Earth Hour Programme** |
 | | |
-
