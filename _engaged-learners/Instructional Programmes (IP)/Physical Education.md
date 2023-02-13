@@ -50,7 +50,7 @@ Sports Education Programme
 
 ### Teachers
 
-**HOD / Physical Education and Co-Curricular Activities:** Mr Liew Wei Sheng Jack <br>
+**HOD / Physical Education and Co-Curricular Activities:** Mr Keith Koh Choon Jean <br>
 **SH / Physical Education and Co-Curricular Activities:** Mdm Chai Jiamin
 
 | Department Teachers |  |
