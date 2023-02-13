@@ -84,11 +84,12 @@ Our Talent Development Programme provides a range of activities such as training
 |---|---|---|
 | Ms Mok Yuen Teng | Mr Foo Say Kin | Ms Shanthy Raja (AED) |
 | Ms Eunice Leong  | Ms Nadia Madzan | Mdm Wong Ling Ling |
-| Ms Ng Li Mei | Ms Azria Azman  | Mrs Krishnan |
-| Ms Chen Cui Xia | Mr Chua Kok Yew |  |
+| Ms Ng Li Mei | Ms Azria Azman  | Mdm Komathy D/O Ramanathan |
+| Ms Chen Cui Xia | Mr Chua Kok Yew | Mr Victor Tan Yian Liang  |
 | Mr Cheng Sim Kok Tommy |  Mr Lee Siak Kheng |  |
-| Mdm Chan Sze Ki |  |  |
-| | |
+| Mr Zachary Wong Jiann Tsong |  |  |
+| Ms Vilochana D/O Veloo | 
+| Ms Audrey Goh Xin Yun
 
 ### Gallery
 
