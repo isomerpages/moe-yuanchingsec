@@ -49,8 +49,12 @@ Mr Senduran Vasudevan
 ### Schedule
 
 Every Tuesdays & Thursdays <br>
-C Division: 2.45pm to 5.30pm <Br> 
-B Division: 3.30pm to 6.00pm
+3.00-6.00pm  <Br> 
+
+### Venue
+
+Venue (1) : Basketball Court/Canal  
+Venue (2) : Basketball Court/ISH
 
 <figure>  
 <img src="/images/Basketball-1.png">  
