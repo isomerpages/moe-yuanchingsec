@@ -13,7 +13,7 @@ Our EL curriculum provides all students the opportunities and resources to devel
 
 ### Teachers
 
-**HOD English Language (Covering):** Ms Siti Hajar Zainuddin <br>
+**HOD English Language (Covering):** Mrs Buganiesh Squires <br>
 **HOD Student Management:** Mr Janageeraman Senivasan 
 
 | |  |  |
@@ -21,7 +21,8 @@ Our EL curriculum provides all students the opportunities and resources to devel
 | | **SH Citizenship Education** <br> Mr Paul Lim Chow Chiat | **SH Learner Needs (Covering)** <br> Ms Lee Chiew Yi |
 | Ms Nur Shazana Binte Saini | Miss Kelly Yeo Ee Ling | | Miss Tan Mei See Ashley |
 | Miss Sumita Sathi  | Mrs Rasiah Thav Thavaranee | Mr Amos Lee Canguang |
-| Ms Nur Shazana Binte Saini | Miss Jasmine Sujatha  |
+| Ms Amanda Ong Jia Yi | Miss Jasmine Sujatha  | Mr Mohd Azhar |
+| Mr Chong Xiang Yang Isaac | Ms Leong Jun Xi Jean
 | | |
 
 ### Gallery
