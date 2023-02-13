@@ -38,43 +38,26 @@ The Science Department aims to ignite students’ curiosity about day-to-day hap
 
 | Physics | Chemistry | Biology | Lab Staff |
 |---|---|---|---|
-| Mr Tan Kok Chiew | Mr Leung Yulun | Mr Lee Kian Soon Thomas | Mdm Lor Ah Tin |
+| Mr Tan Kok Chiew | Mr Leung Yulun | Ms Dimas Nurr Aidilin Mas'od | Mdm Lor Ah Tin |
 | Mr Malek | Ms Nadia Madzan | Mr Zhang Jiawen | Mr Donnavan Loh Siang Hwee |
 | Mr Chen Zhanjiang | Mr Lee Siak Kheng | Ms Azria Azman | Mdm Goh Choo Noi |
 | Mr Chua Kok Yew | Ms Eunice Leong | Mr C. Ganesh |  |
-| Mr Huang Zhi Jie |  |  |  |
+| Mr Huang Zhi Jie | Mr Wong Chin Seng  | Ms Jasmine Widodo  |  |
 | Ms Mok Yuen Teng |  |  |  |
 | | | |
 
 ### Gallery
 
-<figure>
-<img src="/images/Science-1.png" 
-    style="width:70%">
-<figcaption> Water Rocket Making Session with the teachers </figcaption>
-</figure>
+| ![Science-1](/images/Science-1.png) | ![Science-2](/images/Science-2.png) | 
+| -------- | -------- |
+| Water Rocket Making Session with the teachers    | Students from 2NT conducting their trials for Science Buskers     |
 
-<figure>
-<img src="/images/Science-2.png" 
-    style="width:70%">
-<figcaption> Students from 2NT conducting their trials for Science Buskers </figcaption>
-</figure>
+| ![forensic-science](/images/IMG_7855.jpg) | ![Science Learning Kits](/images/IMG_8771.jpg) |
+| -------- | -------- | 
+| Student creating 'blood splatters' during their Forensic Science Enrichment     | Students trying out Science Learning Kits at the Science Learning Wall    |
 
-<figure>
-<img src="/images/IMG_7855.jpg" 
-    style="width:70%">
-<figcaption> Student creating 'blood splatters' during their Forensic Science Enrichment </figcaption>
-</figure>
+|![TIE](/images/Science-5.png) | |
+| -------- | -------- | 
+| Conducting fieldwork during TIE Trip to Australia, Canberra in 2019     |    |
 
-<figure>
-<img src="/images/IMG_8771.jpg" 
-    style="width:70%">
-<figcaption> Students trying out Science Learning Kits at the Science Learning Wall </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Science-5.png" 
-    style="width:70%">
-<figcaption> Conducting fieldwork during TIE Trip to Australia, Canberra in 2019 </figcaption>
-</figure>
 
