@@ -57,31 +57,12 @@ The organisation structure of Alumni Yuan Ching consist of the AYC Executive Com
 <figcaption> <strong> Appreciation for the Industry Professionals (Alumni) for their sharing during Education and Career Guidance Fair 2020 </strong> </figcaption>
 </figure>
 
-<div>
-<div style="float: left">
-<img src="/images/ECG%202019.jpg"
-    style="width:50%">
-</div>
-<div>
-</div>
-</div>
 
-**MS NELLY FAZLINI BTE AHMAD (ALUMNI) SHARED ON HER EARLY ADMISSION EXERCISE (MASS COMMUNICATIONS, NGEE ANN POLY) EXPERIENCE, DURING 2019 EDUCATION AND CAREER GUIDANCE FAIR**
+![ECG 2019](/images/ECG%202019.jpg)
+***MS NELLY FAZLINI BTE AHMAD (ALUMNI) shared on her Early Admission Exercise (Mass Communications, Ngee Ann Poly) experience, during 2019 Education and Career Guidance Fair.*** 
 
-<br><br>
-
-<div>
-<div style="float: right">
-<img src="/images/ECG%202019%20(2).jpg"
-    style="width:50%">
-</div>
-<div>
-</div>
-</div>
-
-**MS TAN SZE JING (ALUMNI) SHARED ON HER GOOD ACADEMIC PRACTICES (CATHOLIC JUNIOR COLLEGE) DURING 2019 EDUCATION AND CAREER GUIDANCE FAIR**
-
-<br><Br>
+![ECG 2019](/images/ECG%202019%20(2).jpg)
+***MS TAN SZE JING (ALUMNI) shared on her good academic practices (Catholic Junior Collage) during 2019 Education and Career Guidance Fair***
 
 <figure>
 <img src="/images/Social%20Work%20ECG%20fair.jpg">
