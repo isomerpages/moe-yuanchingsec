@@ -16,7 +16,7 @@ Our internationalization trips provide authentic learning opportunities through 
 
 <u><strong> 2019 - Trip to Shandong Beijing </strong></u>
 
-</insert video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YoOzGoDHa7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <u><strong> 2019 - 5-Day Cultural Immersion cum Educational Trip to Canberra, Australia </strong></u><br>
 ![](/images/darwin.jpg)
