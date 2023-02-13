@@ -60,3 +60,11 @@ Our students had participated in various competitions and many returned with not
 | Ms Voon Xin Yi |  |  |
 | Mdm Yak Guat Eng |  |  |
 | | | |
+
+### Gallery
+
+|  |  | 
+| -------- | -------- | 
+|<img src="/images/Chinese%Language%Author-in-Residence%Programme.jpeg" style="width:200px;"/> Chinese Language Author-in-Residence Programme - Learning to pen lyrics and even sang their own song | <img src="/images/Appreciating%20literary%20arts%20through%20our%20movements.jpg" style="width:200px;"/> Appreciating literary arts through our movements | 
+
+
