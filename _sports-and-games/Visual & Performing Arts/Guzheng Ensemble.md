@@ -4,7 +4,6 @@ permalink: /engaged-learners/co-curricular-activities-cca/visual-n-performing-ar
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
 ### Introduction
 
 Yuan Ching Guzheng Ensemble was started in 2005. Through the Guzheng Ensemble, students learn to appreciate the intrinsic beauty of the Guzheng. While they learn to appreciate classical Chinese musical pieces, they also learn to appreciate how a traditional musical instrument could still be relevant in the contemporary musical scene.
@@ -39,12 +38,18 @@ As not everyone is gifted with natural musical skills, Yuan Ching Guzheng Ensemb
 
 ### Teachers in charge
 
-Miss Goh Woon Xian <br>
+Miss Goh Woon Xian (IC) <br>
 Mr Lee Siak Kheng
 
 ### Schedule
 
-Tuesday and Thursday: 3:00pm to 6:00pm
+Every Tuesday and Thursday: 3:00pm to 6:00pm
+
+
+### Venue
+
+Guzheng Room and AVT
+
 
 ![](/images/guzheng.jpg)
 
