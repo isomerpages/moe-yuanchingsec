@@ -51,6 +51,11 @@ Mr Chua Kok Yew <br>
 
 Tuesday and Thursday: 3:00pm to 6:00pm
 
+### CCA Photographs
+
+| | | |
+| -------- | -------- | -------- |
+
 <figure>  
 <img src="/images/Football-1.jpg">  
 <figcaption> Impossible is Nothing !! </figcaption>  
