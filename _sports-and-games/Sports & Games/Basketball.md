@@ -56,38 +56,37 @@ Every Tuesdays & Thursdays <br>
 Venue (1) : Basketball Court/Canal  
 Venue (2) : Basketball Court/ISH
 
+| | | 
+| -------- | -------- |
 
 <figure>  
 <img src="/images/2022 Basketball B Division Boys.png">  
 <figcaption> 2022 Basketball B Division Boys </figcaption>  
 </figure>
 
-
-
-
 <figure>  
-<img src="/images/Basketball-1.png">  
-<figcaption> Our C Boys in action during Basketball Training </figcaption>  
+<img src="/images/2022 Basketball B Division Boys in action.png">  
+<figcaption> 2022 Basketball B Division Boys </figcaption>  
 </figure>
 
 <figure>  
-<img src="/images/Basketball-2.png">  
-<figcaption> Our B Boys encouraging their teammates during a game </figcaption>  
+<img src="/images/Debrief session after training.png">  
+<figcaption> Debrief session after training </figcaption>  
 </figure>
 
 <figure>  
-<img src="/images/Basketball-3.png">  
-<figcaption> Our YCSS Basketball League, (Intra-CCA games), is helmed by our Captains and Vice captains </figcaption>  
+<img src="/images/2022 Basketball C Division Boys in action.png">  
+<figcaption> 2022 Basketball C Division Boys in action </figcaption>  
 </figure>
 
 <figure>  
-<img src="/images/Basketball-4.png">  
-<figcaption> Our Basketball boys during YCSS Basketball Leagues </figcaption>  
+<img src="/images/2022 Basketball C Division Boys in action.png">  
+<figcaption> 2022 Basketball C Division Boys in action </figcaption>  
 </figure>
 
 <figure>  
-<img src="/images/Basketball-5.png">  
-<figcaption> Our Annual CCA Affirmation Ceremony and Prize Presentation for YCSS Basketball League </figcaption> 
+<img src="/images/CCA Award.png">  
+<figcaption> CCA Award </figcaption>  
 </figure>
 
 <figure>  
