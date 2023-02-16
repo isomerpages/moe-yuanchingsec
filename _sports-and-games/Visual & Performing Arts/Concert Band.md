@@ -4,7 +4,6 @@ permalink: /engaged-learners/co-curricular-activities-cca/visual-n-performing-ar
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
 ### Introduction
 
 Our Concert Band was established in 1978. No matter their backgrounds, all band members learn to appreciate and develop lifelong passion for music. Our members will have the opportunities to learn from other bands and renowned musicians through various concerts and competitions. Selected members will also be given opportunities to attend musical workshops to further hone their skills.
@@ -33,12 +32,18 @@ Every year is brand new year of opportunities for us to showcase our musical tal
 
 ### Teachers in charge
 
-Ms Tan Kwee Theng (IC) <br>
-Ms Shanti Armugam
+Ms Shanti Armugam (IC) <br>
+Ms Tan Kwee Theng (2IC) <br>
+Ms Azria Azman
 
 ### Schedule
 
-Tuesday and Thursday: 3:00pm to 6:00pm
+Every Tuesday and Thursday: 3:00pm to 6:00pm
+
+### Venue
+
+Band Room and Music Room
+
 
 <figure>  
 <img src="/images/2022%20SIBF%20Band%20Members.jpeg">  
