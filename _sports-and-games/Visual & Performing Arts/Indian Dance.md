@@ -4,7 +4,6 @@ permalink: /engaged-learners/co-curricular-activities-cca/visual-n-performing-ar
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
 ### Introduction
 
 The Indian dance is full of vibrant energy and colours. Our dance choreographies are usually based on ancient stories which depict the joy of victories and celebrations. As part of our training, members also learn the different genres of Indian dance, their history and stories behind it.
@@ -63,12 +62,13 @@ Apart from dancing, our members work closely with Taman Jurong CC and have contr
 
 ### Teachers in charge
 
-Mdm Khasturi (Overall I/C)
+Mdm Khasturi (Overall I/C)<br>
+Mdm Shanthy
 
 ### Schedule
 
-Tuesday: 3.00pm to 6.00pm <br>
-Thursday: 3.00pm to 5.00pm
+Every Tuesday: 3.00pm to 6.00pm <br>
+*Thursday training is from Jan to Apr only
 
 <figure>  
 <img src="/images/Indian%20Dance%20Natl%20Day%202022.png">  
