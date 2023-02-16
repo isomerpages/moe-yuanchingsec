@@ -4,7 +4,6 @@ permalink: /engaged-learners/co-curricular-activities-cca/sports-n-games/footbal
 description: ""
 third_nav_title: Sports & Games
 ---
-
 ### Introduction
 
 Football CCA is one of the Physical Sports CCAs in Yuan Ching Secondary. Each year we take in an average of 15-18 boys after highly competitive selection trials. Our CCA organizes a wide range of fun-filled activities for all our budding footballers from the basic technical drills to the more complex tactical plays. Before Covid-19, students in our CCA can look forward to playing around 1-2 friendly matches against other schools every month. Our passionate teachers and coaches are committed to cultivate the love for football, good character, self-discipline in training and preparing our boys for matches and tournaments.
@@ -29,6 +28,13 @@ Football CCA is one of the Physical Sports CCAs in Yuan Ching Secondary. Each ye
 
 ### Achievements
 
+
+**2022** <br>
+B Div (West Zone) Semi Finalist / Clinched the 4th position
+
+C Div (West Zone_ Quarter Finalists
+
+
 **2019** <br>
 C Div (League 2) – Semi-Finalist/ Clinched the 4th position (Top 12 schools nationwide)
 
@@ -40,7 +46,6 @@ B Div Nationals – 3rd place in SPL 2
 Mr Fahmy Latif (IC) <br>
 Mr Standley Daniel <Br> 
 Mr Chua Kok Yew <br> 
-Mr Lim Fang Kwan
 
 ### CCA Schedule
 
