@@ -4,8 +4,7 @@ title: Yuan Ching Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Do visit our official Facebook page and Instagram to view exciting
-  updates on our school programmes!
+notification: ""
 sections:
   - hero:
       key_highlights:
