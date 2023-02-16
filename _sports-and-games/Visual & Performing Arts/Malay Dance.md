@@ -4,7 +4,6 @@ permalink: /engaged-learners/co-curricular-activities-cca/visual-n-performing-ar
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
 ### Introduction
 
 In Yuan Ching Secondary, our Malay dancers will be introduced to the different dance genres both in dance movement as well as in theoretical aspects behind each dance.
@@ -52,7 +51,16 @@ Mdm Zubaidah Ariffin
 
 ### Schedule
 
-Tuesdays: 3pm to 6pm
+Odd Tuesdays: 3pm to 6pm<br>
+Odd Friday: 2.30pm to 5.30pm <br>
+Even Tuesday & Thursday: 3pm to 6pm
+
+### Venue
+
+Venue (1) : School Hall <br>
+Venue (2) : Dance Studio Level 1 <br>
+
+
 
 <figure>  
 <img src="/images/Hari%20Raya%20Performance%202022.png"> 
