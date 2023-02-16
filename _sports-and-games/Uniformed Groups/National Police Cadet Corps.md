@@ -45,6 +45,10 @@ Odd Friday: 2.30pm - 5.30pm
 Venue (1) : Parade Square / D'YC Resort <br>
 Venue (2) : Forum / BB
 
+### CCA Photographs
+
+| | | |
+| -------- | -------- | -------- |
 
 <u><strong> Training / Camp: </strong></u>
 
