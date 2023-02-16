@@ -32,7 +32,7 @@ To enthuse students in critical and creative engagements in issues and services 
 *   Weekly Bonding Activities
 *   Gardening Sessions
 
-Follow our activities on Instagram @ycss.eclub
+Follow our activities on Instagram [YCSS EClub](https://www.instagram.com/ycss.eclub)
 
 ### Achievements
 
@@ -52,12 +52,17 @@ Follow our activities on Instagram @ycss.eclub
 
 ### Teachers in charge
 
-Mr Thomas Lee (Overall I/C) <br>
-Ms Jasmine Widodo
+Ms Jasmine Widodo (IC)<br>
+Ms Dimas Nurr Aidilin
 
 ### Schedule
 
-Tuesdays: 3.00 pm to 6.00 pm
+Every Tuesday: 3.00 pm to 6.00 pm
+
+### Venue
+
+The Arena, Blk D Level 2
+
 
 <figure>
 <img src="/images/Esclub.jpg" 
