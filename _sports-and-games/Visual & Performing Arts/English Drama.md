@@ -4,7 +4,6 @@ permalink: /engaged-learners/co-curricular-activities-cca/visual-n-performing-ar
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
 ### Introduction
 
 Our aim is to expose students to theatrical art and ignite their passion for it. Through acting, we aim to inculcate in our students lifelong values such as teamwork, perseverance, responsibility, respect and discipline. We strive to develop all our members to be confident performers and eloquent presenters who have the ability to analyse and appreciate artistic performances in all forms.  
@@ -36,11 +35,19 @@ To promote performing arts and enhance the oratorical skills of our members to c
 
 ### Teachers in charge
 
-Miss Rathi Balakrishnan (IC)
+Miss Rathi Balakrishnan (IC)<br>
+Mr Lee Canguang Amos
 
 ### Schedule
 
-Thursday: 3:00pm to 5.30pm
+Every Tuesday: 3:00pm to 5.30pm <br>
+Every Thursday: 3.00pm to 6.00pm
+
+
+### Venue
+
+PBL Studio
+
 
 <figure>  
 <img src="/images/English%20Drama-1.jpg">  
