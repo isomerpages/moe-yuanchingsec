@@ -4,7 +4,6 @@ permalink: /engaged-learners/co-curricular-activities-cca/uniformed-groups/natio
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ### Introduction
 
 The National Police Cadet Corps (NPCC) of Yuan Ching Secondary School has always strived diligently to provide holistic training programmes so as to :
@@ -24,27 +23,35 @@ The National Police Cadet Corps (NPCC) of Yuan Ching Secondary School has always
 
 ### Achievements
 
-*   NPCC Unit Overall Proficiency Award – Gold (2016 – 2019)
-*   Guard-of-Honour Marching Contingent for NPCC Annual Parade (2016 – 2019)
+*   NPCC Unit Overall Proficiency Award – Gold (2016 – 2022)
+*   Guard-of-Honour Marching Contingent for NPCC Annual Parade (2016 – 2020)
 *   Community Outreach Programme with Jurong West NPC (2016 – 2019)
-*   Jurong Division NPCC Challenge Shield (2016 – 2019)
+*   Jurong Division NPCC Challenge Shield (2016 – 2020)
 
 ### Teachers in charge
 
 Mr Tham Wai Keong (IC) <br>
-Mr Lai Weng Keong (Dy IC) <br>
-Ms Mok Yuen Teng
+Ms Mok Yuen Teng (2IC) <br>
+Ms Leong Ying Xuan Eunice <br>
+Mr Mohammad Azhar
 
 ### Schedule
 
-Friday: 2:30pm to 5:30pm
+Even Thursday: 3pm-6pm <br>
+Odd Friday: 2.30pm - 5.30pm
+
+### Venue
+
+Venue (1) : Parade Square / D'YC Resort <br>
+Venue (2) : Forum / BB
+
 
 <u><strong> Training / Camp: </strong></u>
 
 | | | 
 | -------- | -------- |
 | **1. Adventurous / Survival Training Camp** | **2. Fun Climbing (Sec 1)** | 
-| <img src="/images/NPCC-1.jpg" style="width:200px;"/> | <img src="/images/NPCC-2.jpg" style="width:200px;"/> | 
+| <img src="/images/NPCC-1.jpg" style="width:400px;"/> | <img src="/images/NPCC-2.jpg" style="width:300px;"/> | 
 | **3. Canoe Polo (Sec 2)** | **4. Marksmanship Training (Sec 3)** |
-| <img src="/images/NPCC-3.jpg" style="width:200px;"/> | <img src="/images/NPCC-4.jpg" style="width:200px;"/> |
+| <img src="/images/NPCC-3.jpg" style="width:300px;"/> | <img src="/images/NPCC-4.jpg" style="width:350px;"/> |
 | | |
