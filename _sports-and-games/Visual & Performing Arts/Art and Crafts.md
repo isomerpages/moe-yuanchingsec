@@ -32,7 +32,10 @@ Every Thursday: 3pm to 6pm
 
 Art Room 1 & 2, Blk F Level 2
 
+### CCA Photographs
 
+| | | |
+| -------- | -------- | -------- |
 
 <figure>  
 <img src="/images/Arts%20and%20Crafts-1.jpg">  
