@@ -36,12 +36,19 @@ To serve as a platform to ignite the joy of reading, gain knowledge and life ski
 
 ### Teachers in charge
 
-Ms Normalah (IC) <br> 
-Mr Amos Lee
+Ms Vilochana (IC) <br> 
+Ms Yap Jen Huey
+Ms Josephine (Librarian)
 
 ### Schedule
 
 Tuesdays: 3:00pm to 6.00pm
+
+### Venue
+
+Library
+
+### CCA Photographs
 
 | | | |
 | -------- | -------- | -------- |
