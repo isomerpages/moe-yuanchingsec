@@ -45,7 +45,10 @@ Odd Friday: 2.30pm to 5.30 pm
 
 Turf <br>
 
+### CCA Photographs
 
+| | | |
+| -------- | -------- | -------- |
 
 <figure>  
 <img src="/images/Scouts%20-%20National%20Day%20Observance%20Ceremony%20at%20Yuhua%20Community%20Centre.png">  
