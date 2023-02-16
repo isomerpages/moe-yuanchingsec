@@ -4,7 +4,6 @@ permalink: /engaged-learners/co-curricular-activities-cca/sports-n-games/netball
 description: ""
 third_nav_title: Sports & Games
 ---
-
 ### Introduction
 
 Netball members participate in a range of activities to achieve a high fitness level as well as optimal skillfulness in the game. This includes various physical training, essential ball-handling skills, foot work and court work. Members also learn to work together as a team and practice thinking on their feet when playing court games. As such, they will have opportunities to apply what they have learnt to friendly matches, carnivals and zonal competitions. Selected members will also learn first-aid and umpiring skills in Netball. During eCCA sessions, members focus on their basic footwork, ball handling, and physical fitness. They also participate in learning the theory and tactics of the game through games and quizzes.
@@ -48,14 +47,20 @@ Every Netballer, a disciplined achiever who contributes actively towards team ex
 
 ### Teachers in charge
 
-Ms Yeo Jie Ting (Overall I/C) <br>
+Ms Yeo Jie Ting (I/C) <br>
+Miss Tan Mei See Ashley (2IC) <br>
 Miss Kelly Yeo Ee Ling <br>
-Miss Tan Mei See Ashley
+
 
 ### Schedule
 
-C & B Division <br>
-Tuesday and Thursday: 3:00pm to 5.30pm
+Every Tuesday and Thursday: 3:00pm to 6.00pm
+
+
+### Venue
+
+Venue(Tues) : ISH
+Venue(Thurs) : Parade Square / ISH
 
 <figure>  
 <img src="/images/Netball-1.jpg">  
