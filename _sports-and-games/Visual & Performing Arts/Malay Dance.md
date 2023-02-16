@@ -60,7 +60,10 @@ Even Tuesday & Thursday: 3pm to 6pm
 Venue (1) : School Hall <br>
 Venue (2) : Dance Studio Level 1 <br>
 
+### CCA Photographs
 
+| | | |
+| -------- | -------- | -------- |
 
 <figure>  
 <img src="/images/Hari%20Raya%20Performance%202022.png"> 
