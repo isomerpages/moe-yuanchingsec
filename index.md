@@ -20,7 +20,7 @@ sections:
           url: https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/students/
       title: Yuan Ching Secondary School
       subtitle: Efforts Today Rewards Tomorrow
-      background: /images/fotor_2023-2-16_9_39_2.jpg
+      background: /images/Copy of Copy of Untitled (1920 × 720 px).jpg
   - resources:
       title: "Announcements "
       button: More
