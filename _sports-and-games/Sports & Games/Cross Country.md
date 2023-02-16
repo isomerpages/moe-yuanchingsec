@@ -4,7 +4,6 @@ permalink: /engaged-learners/co-curricular-activities-cca/sports-n-games/cross-c
 description: ""
 third_nav_title: Sports & Games
 ---
-
 ### Introduction
 
 Yuan Ching Cross Country has a long history dating back from the 1980s. In the 1980s, the girls team dominated the National Inter-school Cross Country arena. In the recent years since the official revival of the CCA in 2016, the Cross Country ‘B’ Boys has made a remarkable improvement, achieving a commendable 17th and 11th team position in the National Inter-school Cross Country Championships 2014 and 2015 respectively.
@@ -67,11 +66,14 @@ Ms Angela Lee
 
 ### Schedule
 
-Every Tuesday <br>
-Time: 3.10pm - 6pm
+Every Tuesday and Thursday <br>
+Time: 3pm - 6pm
 
-Every Thursday <br>
-Time: 3.10pm - 6pm
+### Venue
+
+Carpark/ Clementi Stadium/ Bedok Reservoir <br>
+
+
 
 <figure>  
 <img src="/images/Cross%20Country-1.jpg">  
