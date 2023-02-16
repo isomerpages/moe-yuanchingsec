@@ -4,7 +4,6 @@ permalink: /engaged-learners/co-curricular-activities-cca/visual-n-performing-ar
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
 ### Introduction
 
 The Art & Crafts CCA allows students with a shared interest to come together and create art as well as sharing knowledge and skills. Through the weekly sessions, the students explore different art media to produce art and work together to unleash their creative juices. These activities provide platforms for students to enhance their creativity, self-expression, and to gain a greater understanding of art making in a collaborative environment. Through a myriad of group projects, our CCA members also hone important life-skills and character that enables them to thrive in the future.
@@ -23,12 +22,17 @@ The Art & Crafts CCA allows students with a shared interest to come together and
 ### Teachers in charge
 
 Mr Mohamad Fadzel (IC) <br>
-Ms Tsering Choden <br> 
 Mdm Musnifffa
 
 ### Schedule
 
-Thursday: 3:00pm to 5:30pm
+Every Thursday: 3pm to 6pm
+
+### Venue
+
+Art Room 1 & 2, Blk F Level 2
+
+
 
 <figure>  
 <img src="/images/Arts%20and%20Crafts-1.jpg">  
@@ -46,9 +50,12 @@ Thursday: 3:00pm to 5:30pm
 </figure>
 
 <figure>  
-<img src="/images/Arts%20and%20Crafts-4.jpg">  
-<figcaption> Printmaking – Fun with prints! </figcaption>  
+<img src="/images/Art%202.png">  
+	<br>
+<img src="/images/Art%201.png">  
+<figcaption> PAssion Arts Community event at Taman Jurong CC </figcaption>  
 </figure>
+
 
 <figure>  
 <img src="/images/Arts%20and%20Crafts-5.jpg">  
