@@ -54,14 +54,23 @@ National Robotics Programming Competition 2019 by Nanyang Polytechnic
 
 ### Teachers in charge
 
-Mr Ong Sheo Yuan (Overall IC) <br>
-Mrs Ng Li Mei
+Mr Huang Zhijie (IC) <br>
+Mrs Ng Li Mei<br>
+Ms Nur Shazana
 
 ### Schedule
 
-Tuesdays: 3.30pm to 6.30pm
+Every Tuesday and Thursday: 3.30pm to 6.00pm
 
-<u><strong> CCA PHOTOGRAPHS </strong></u><br>
+Thursday training is from Jan to Apr only
+
+### Venue
+
+Venue (1): Robotics Room <br>
+Venue (2): Computer Lab 3
+
+### CCA Photographs
+
 <figure>  
 <img src="/images/robotics.jpg" 
     style="width:70%">
