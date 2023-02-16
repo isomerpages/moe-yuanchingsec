@@ -4,7 +4,6 @@ permalink: /engaged-learners/co-curricular-activities-cca/clubs-n-societies/drag
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
 ### Introduction
 
 Yuan Ching Secondary School Dragon & Lion Dance Troupe was established in 2006 to promote the cultural art of Dragon and Lion Dance. Over the years, the troupe recruited students from different ethnic and religious backgrounds who made Dragon and Lion Dance as their ideal sport. In the process of mastering the dance moves under the quality training our CCA members undergo, they not only find their minds and bodies being strengthened, but also grow into young men and women of resilience and fine character.
@@ -50,17 +49,15 @@ Yuan Ching Secondary School Dragon & Lion Dance Troupe was established in 2006 t
 
 ### Teachers in charge
 
-Mr Tommy Cheng (Overall I/C) <br>
-Mr Segar Muniandy <br>
-Mrs Goh-Cheong Wei Leng
+Mr Segar Muniandy (IC)<br>
+Mdm Cheong Wei Leng
 
 ### Schedule
 
-Thursdays: 3:00 pm to 6:00 pm
+Every Tuesday and Thursday: 3:00 pm to 6:00 pm
 
-Note: There will be additional training during the preparation period for competitions and performances.
+* Tuesday training is from Jan and Apr only
 
-CCA Photo 1 – WEAVE Concert@Gateway Theatre 2018
 
 <figure>  
 <img src="/images/Dragon%20and%20Lion%20Dance-1.jpg">  
