@@ -42,6 +42,11 @@ Tuesday and Thursday: 3:00pm to 6.00pm
 Venue (1) : Dance Studio, Level 1 <br>
 Venue (2) : School Hall
 
+### CCA Photographs
+
+| | | |
+| -------- | -------- | -------- |
+
 
 <figure>  
 <img src="/images/Performance%20at%20Homecoming%20Concert%20in%20the%20School%20Hall%202022.png">  
