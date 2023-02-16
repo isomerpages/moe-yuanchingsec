@@ -49,6 +49,10 @@ Every Thursday: 3.00pm to 6.00pm
 
 PBL Studio
 
+### CCA Photographs
+
+| | | |
+| -------- | -------- | -------- |
 
 <figure>  
 <img src="/images/English%20Drama-1.jpg">  
