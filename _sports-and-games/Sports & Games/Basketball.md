@@ -56,6 +56,15 @@ Every Tuesdays & Thursdays <br>
 Venue (1) : Basketball Court/Canal  
 Venue (2) : Basketball Court/ISH
 
+
+<figure>  
+<img src="/images/2022 Basketball B Division Boys.png">  
+<figcaption> 2022 Basketball B Division Boys </figcaption>  
+</figure>
+
+
+
+
 <figure>  
 <img src="/images/Basketball-1.png">  
 <figcaption> Our C Boys in action during Basketball Training </figcaption>  
