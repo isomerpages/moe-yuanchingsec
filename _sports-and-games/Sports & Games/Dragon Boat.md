@@ -4,7 +4,6 @@ permalink: /engaged-learners/co-curricular-activities-cca/sports-n-games/dragon-
 description: ""
 third_nav_title: Sports & Games
 ---
-
 ### Introduction
 
 Dragon boat is a Physical Sports CCA which aims to develop students to be mentally and physically strong. As it is a team sport, students participate in all aspects of the training together in order to perform as one during races. The values learnt and skills developed during their time in Dragon Boat CCA serves to prepare our students to overcome challenges in their lives.
@@ -109,17 +108,14 @@ Inaugural YCDB Regatta
 
 ### Teachers in charge
 
-Ms Lee Chiew Yi (Overall IC) <br>
-Ms Voon Xin Yi <br>
-Mr C Ganesh <br>
-Ms Fazeelah Khan Binte Pate Khan
+Mr C Ganesh (Overall IC) <br>
+Ms Tan Ai Lin <br>
+Mr Tommy Cheng <br>
+Ms Normalah
 
 ### Schedule
 
-Tuesdays <br>
-Land Training 3pm to 6pm <br>
-Water Training 3.15pm to 5.45pm
+Every Tuesdays and Thursdays<br>
+3pm to 6pm <br>
 
-Thursdays <br>
-Land Training 3pm to 6pm <br>
-Water Training 3.15pm to 5.45pm
+
