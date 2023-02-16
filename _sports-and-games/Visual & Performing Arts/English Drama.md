@@ -43,6 +43,7 @@ Mr Lee Canguang Amos
 Every Tuesday: 3:00pm to 5.30pm <br>
 Every Thursday: 3.00pm to 6.00pm
 
+*Tuesday training is from Jan to Apr only*
 
 ### Venue
 
