@@ -56,12 +56,19 @@ HQ level
 
 ### Teachers in charge
 
-Ms Jasmine Sujatha <br> 
-Ms Azria Binte Azman
+Mr Wong Chin Seng <br> 
+Ms Jasmine Sujatha (2IC)
 
 ### Schedule
 
-Every Friday from 2.30 to 5.30pm
+Even Tuesday: 3pm - 6pm <br>
+Odd Friday: 2.30pm - 5.30pm
+
+
+### Venue
+
+Parade Square/D'YC Resort <br>
+
 
 <figure>  
 <img src="/images/NCDCC-1.jpg">  
@@ -77,6 +84,13 @@ Every Friday from 2.30 to 5.30pm
 <img src="/images/NCDCC-3.jpg">  
 <figcaption> NCDCC cadets sharing their knowledge on basic first aid skills with our school OSO staff for Emergency Preparedness (EP) Day. </figcaption>  
 </figure>
+
+<figure>  
+<img src="/images/NCDCC-4.jpg">  
+<figcaption> Unreeling a fire hose. </figcaption>  
+</figure>
+
+
 
 <figure>  
 <img src="/images/NCDCC-5.jpg">  
