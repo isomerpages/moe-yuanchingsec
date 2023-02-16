@@ -6,6 +6,8 @@ third_nav_title: Clubs & Societies
 ---
 ### Introduction
 
+![mascot](/images/Infocomm%20mascot.png)
+
 The Infocomm Technology CCA provides students the platform to appreciate technology and equip them with Information Technology (IT) skills required in the future. Our CCA is branched into three main areas – Public Address (PA), Photography & Videography and Media (Animation). Lower secondary members will have the opportunity to acquire skills from all three areas and specialise in one of the branches based on their interest and relevant competencies when they progress to Secondary 3. Through opportunities to showcase their talent in national competitions and school events, our CCA members also develop important 21st century competencies which are essential to prepare them for the future.
 
 ### CCA Activities
@@ -41,15 +43,19 @@ Finalists, National Infocomm Competition \[i.code\]
 ### Teachers in charge
 
 Ms Chen Cui Xia (Overall IC) <br> 
-Mr Huang Zhijie <br> 
-Ms Chan Sze Ki <Br> 
-Mdm Shanthy Raja
+Ms Tsering Choden<br> 
+Mr Zachary Wong<Br> 
 
 ### Schedule
 
 Every Tuesday and Thursday: 3pm to 5pm
 
 PA students involved in school performances or events will be notified of the schedule for any extra training sessions or rehearsals accordingly. 
+
+
+### Venue
+
+Computer Labs 1 & 2, Blk B Level 2
 
 ### CCA Photographs
 
