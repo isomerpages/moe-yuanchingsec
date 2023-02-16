@@ -34,14 +34,18 @@ National Patrol Camp Silver Award 2019
 
 Mr Foo Say Kin (Overall I/C) <br>
 Ms Nadia Bte Madzan <Br>
-Ms Nur Shazana Binte Saini <br>
 Mdm Lim Yi Hui
 
 ### Schedule
 
-Alternate Fridays and Saturdays Sessions (to enlist the service of the alumni on Saturdays) <br>
-Fridays: 2.30 pm to 5.30 pm <br>
-Saturdays: 8 am to 12.30 pm
+Even Tuesday: 3pm to 6pm <br>
+Odd Friday: 2.30pm to 5.30 pm
+
+### Venue
+
+Turf <br>
+
+
 
 <figure>  
 <img src="/images/Scouts%20-%20National%20Day%20Observance%20Ceremony%20at%20Yuhua%20Community%20Centre.png">  
