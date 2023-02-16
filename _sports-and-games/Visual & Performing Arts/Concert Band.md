@@ -44,6 +44,11 @@ Every Tuesday and Thursday: 3:00pm to 6:00pm
 
 Band Room and Music Room
 
+### CCA Photographs
+
+| | | |
+| -------- | -------- | -------- |
+
 
 <figure>  
 <img src="/images/2022%20SIBF%20Band%20Members.jpeg">  
