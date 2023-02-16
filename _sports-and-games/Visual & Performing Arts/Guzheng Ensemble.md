@@ -50,6 +50,10 @@ Every Tuesday and Thursday: 3:00pm to 6:00pm
 
 Guzheng Room and AVT
 
+### CCA Photographs
+
+| | | |
+| -------- | -------- | -------- |
 
 ![](/images/guzheng.jpg)
 
