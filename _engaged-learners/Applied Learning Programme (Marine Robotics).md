@@ -11,7 +11,13 @@ Starting from lower secondary levels, our students will acquire the essential sk
 
 _Tier 1 – Construction of SeaPerch Through Design Thinking_
 
-![](/images/applied%20learning.jpg)
+
+
+| ![SeaPerch](/images/Hands-on%20Learning%20in%20Prototyping%20the%20Seaperch.jpg) |![Remote](/images/Testing%20Out%20the%20Remote%20Control%20Seaperch.jpg) | 
+| -------- | -------- | 
+| Hands-on learning in prototyping the SeaPerch   | Testing out the Remote Control     |
+
+
 
 _Tier 1 – Learning Computational Thinking Through micro:bit and M5Go_
 
