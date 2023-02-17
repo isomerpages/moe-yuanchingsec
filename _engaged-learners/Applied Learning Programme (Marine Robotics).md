@@ -11,12 +11,13 @@ Starting from lower secondary levels, our students will acquire the essential sk
 
 _Tier 1 – Construction of SeaPerch Through Design Thinking_
 
-
-
-| ![SeaPerch](/images/Hands-on%20Learning%20in%20Prototyping%20the%20Seaperch.jpg) |![Remote](/images/Testing%20Out%20the%20Remote%20Control%20Seaperch.jpg) | 
-| -------- | -------- | 
-| Hands-on learning in prototyping the SeaPerch   | Testing out the Remote Control     |
-
+| | | 
+| -------- | -------- |
+| **1. Hands-on learning in prototyping the SeaPerch** | **2. Testing out the Remote Control** | 
+| <img src="/images/Hands-on Learning in Prototyping the Seaperch.jpg" style="width:200px;"/> | <img src="/images/Testing Out the Remote Control Seaperch.jpg" style="width:200px;"/> | 
+| **3. Launching their SeaPerch** | **4. Launching their SeaPerch** |
+| <img src="/images/Launching the Seaperch.jpg" style="width:200px;"/> | <img src="/images/Launching Their Seaperch.jpg" style="width:500px;"/> |
+| | |
 
 
 _Tier 1 – Learning Computational Thinking Through micro:bit and M5Go_
@@ -29,4 +30,6 @@ Our ALP programme also empowers students to take ownership of their learning and
 
 _Tier 2 Talent Development – Competitions and Exposure to Industry_
 
-![](/images/applied%20learning%202.jpg)
+![alp](/images/ALP%20tier%202.jpg)
+
+![drone2](/images/Drone%202%20alp.jpg)
