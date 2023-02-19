@@ -27,7 +27,7 @@ locations:
     maps_link: https://goo.gl/maps/1CnX258wkJoFBVaS9
     title: School Address
   - address:
-      - Phone
+      - Call
       - 6261 2489
       - ""
     operating_hours: []
