@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Contact Us/Contact Us.md
       - Contact Us/.keep
       - Parents.md
       - Staff.md
