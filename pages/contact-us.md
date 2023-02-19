@@ -26,18 +26,11 @@ locations:
         description: ""
     maps_link: https://goo.gl/maps/1CnX258wkJoFBVaS9
     title: School Address
-  - address:
-      - Call
-      - 6261 2489
-      - ""
-    operating_hours: []
-    maps_link: ""
-    title: Contact Us
 contacts:
   - content:
       - phone: +65 6261 2489
       - email: ycss@moe.edu.sg
-      - other: ""
+      - other: <a>https://for.edu.sg/ycss-feedbackform
     title: Send us your feedback
   - content:
       - phone: ""
