@@ -30,11 +30,11 @@ contacts:
   - content:
       - phone: +65 6261 2489
       - email: ycss@moe.edu.sg
-      - other: <a>https://for.edu.sg/ycss-feedbackform
+      - other: ""
     title: Send us your feedback
   - content:
-      - phone: ""
+      - phone: +65 6261 6275
       - email: ""
-      - other: https://for.edu.sg/ycss-feedbackform
-    title: Online Feedback Form
+      - other: ""
+    title: Fax
 ---
