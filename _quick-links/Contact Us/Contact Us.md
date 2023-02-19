@@ -4,7 +4,6 @@ permalink: /contact-us/
 description: ""
 third_nav_title: Contact Us
 ---
-
 # Get in touch with  <br> **Yuan Ching Secondary School**
 
 
@@ -13,6 +12,9 @@ third_nav_title: Contact Us
 **Contact Us:**  <br> **Phone** <br>  6261 2489  
 **Fax :** 6261 6275  
 **Email Address :** ycss@moe.edu.sg  
+
+**Send us your feedback**
+If you have a query, feedback or wish to report a problem related to this website, please fill in the [online form.](https://for.edu.sg/ycss-feedbackform)
 
 **Getting Here**
 Bus Services :  240, 246, 154  
