@@ -17,6 +17,9 @@ sections:
         - title: Students
           description: ""
           url: https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/students/
+        - title: School Calendar
+          description: ""
+          url: ""
       title: Yuan Ching Secondary School
       subtitle: Efforts Today Rewards Tomorrow
       background: /images/Hero banner (2).png
