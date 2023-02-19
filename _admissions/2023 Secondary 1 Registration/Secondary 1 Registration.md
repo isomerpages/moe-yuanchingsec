@@ -23,5 +23,5 @@ Please use the links below to start the process.
 | Student posted to  | Student who would like to ||
 | -------- | -------- | -------- |
 | [Sec 1 Express 2023](https://ycssopenhouse.wixsite.com/ycsssec1exp2023)         | [Transferring Into Yuan Ching Secondary School](/admissions/transfer-in/) |
-| [Sec 1 Normal Academic 2023](https://ycssopenhouse.wixsite.com/ycsssec1na2023)          | Transfer Out of Yuan Ching Secondary School |
+| [Sec 1 Normal Academic 2023](https://ycssopenhouse.wixsite.com/ycsssec1na2023)          | [Transfer Out of Yuan Ching Secondary School](/admissions/transfer-out/) |
 | [Sec 1 Normal Technical 2023](https://ycssopenhouse.wixsite.com/ycsssec1nt2023)            |
