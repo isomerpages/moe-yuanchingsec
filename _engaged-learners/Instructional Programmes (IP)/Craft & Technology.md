@@ -6,6 +6,8 @@ third_nav_title: Instructional Programmes (IP)
 ---
 ### Key Programmes
 
+![CnT](/images/Craft%20&%20Technology%20Department.jpg)
+
 **Department Overview** <br>
 The Craft & Tech Dept oversee the development of students critical and inventive thinking skills through the coursework based content and pedagogy processes. The dynamics of the department is based on the need to development alternative assessments for the students through the competent teachers who are constantly in the process of developing resources and looking at new ways of working with the colleagues and with other department staff.
 
