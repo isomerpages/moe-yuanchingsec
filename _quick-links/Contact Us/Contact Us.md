@@ -5,16 +5,29 @@ description: ""
 third_nav_title: Contact Us
 ---
 
+# Get in touch with  <br> **Yuan Ching Secondary School**
 
 
-**Address :** 103 Yuan Ching Road, Singapore 618654  
-**Contact :**  6261 2489  
+**School Address** : <br> 103 Yuan Ching Road, Singapore 618654  
+
+**Contact Us:**  <br> **Phone** <br>  6261 2489  
 **Fax :** 6261 6275  
+**Email Address :** ycss@moe.edu.sg  
 
 **Getting Here**
 Bus Services :  240, 246, 154  
 Nearest MRT : Lakeside (EW 26), Exit B  
  [Map of Yuan Ching Secondary School](https://goo.gl/maps/1CnX258wkJoFBVaS9)
+
+
+| Operating Hours  |  |
+|:---:|:---:|
+|  **Monday** |  7.30am - 2.30pm |
+|  **Tuesday** |  7.30am - 2.30pm |
+|  **Wednesday**|  8.30am - 3.15pm |
+|  **Thursday** |  7.30am - 2.30pm |
+|  **Friday**  | 7.30am - 12.30pm |
+| | |
  
 | Other Contact Numbers  |  |
 |:---:|:---:|
