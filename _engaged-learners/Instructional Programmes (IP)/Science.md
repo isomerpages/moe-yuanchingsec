@@ -6,6 +6,8 @@ third_nav_title: Instructional Programmes (IP)
 ---
 ### Key Programmes
 
+![Sci](/images/Science%20Department.jpg)
+
 **Department Overview** 
 
 **Vision:** <br>
@@ -59,5 +61,3 @@ The Science Department aims to ignite students’ curiosity about day-to-day hap
 |![TIE](/images/Science-5.png) | |
 | -------- | -------- | 
 | Conducting fieldwork during TIE Trip to Australia, Canberra in 2019     |    |
-
-
