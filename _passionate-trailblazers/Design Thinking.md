@@ -22,7 +22,7 @@ Students are introduced to concepts of Design Thinking, with opportunities to ap
 <u> Secondary 2 </u><br>
 Students take on a more rigorous challenge in the designing and making of water robot capable of completing assigned tasks and deepen their learning in design thinking skills building upon the Values-In-Action programme that they have identified in Secondary 1.
 
-<u> Secondary 3 </u><br>
+<u> Secondary 3 & 4 </u><br>
 Students take to implementing the Values-In-Action programmes they have designed and application of design thinking mindsets and skills in various external competitions.
 
 <figure>  
