@@ -6,6 +6,9 @@ third_nav_title: Instructional Programmes (IP)
 ---
 ### Key Programmes
 
+![](/images/Physical%20Education%20Department.jpg)
+
+
 **Department Overview**
 
 **Introduction:** <Br>
