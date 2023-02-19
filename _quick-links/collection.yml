@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Contact Us.md
-      - Contact Us/.keep
       - Parents.md
       - Staff.md
       - Students.md
