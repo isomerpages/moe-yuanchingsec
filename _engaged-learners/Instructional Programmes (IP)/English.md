@@ -6,6 +6,8 @@ third_nav_title: Instructional Programmes (IP)
 ---
 ### Key Programmes
 
+![EL](/images/English%20Department.jpg)
+
 **Department Overview** <br>
 Every Individual an Empathetic Communicator, a Discerning Reader and a Creative Inquirer.
 
