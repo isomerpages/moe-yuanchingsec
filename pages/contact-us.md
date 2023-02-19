@@ -39,9 +39,4 @@ contacts:
       - email: ycss@moe.edu.sg
       - other: ""
     title: Send us your feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
