@@ -6,6 +6,9 @@ third_nav_title: Instructional Programmes (IP)
 ---
 ### Key Programmes
 
+![MA](/images/Mathematics%20Department.jpg)
+
+
 **Department Overview** <br>
 The YCSS Mathematics Department is committed to create joyful and authentic learning experiences for our students. We aim to nurture our students into passionate learners and creative problem solvers of Mathematics.
 
