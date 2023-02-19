@@ -6,7 +6,7 @@ third_nav_title: Instructional Programmes (IP)
 ---
 ### Key Programmes
 
-![](/images/Humanities.png)
+![](/images/Humanities%20Department.jpg)
 
 **Department Overview** <br>
 Our YCSS Humanities Vision - we aim to develop students to be critical thinkers; empathetic learners; and be responsible and concerned citizens.  
