@@ -2,8 +2,8 @@ collections:
   quick-links:
     output: true
     order:
-      - Contact Us.md
       - Parents.md
       - Staff.md
       - Students.md
       - School Calendar.md
+      - Contact Us.md
