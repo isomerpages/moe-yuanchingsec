@@ -39,4 +39,9 @@ contacts:
       - email: ycss@moe.edu.sg
       - other: ""
     title: Send us your feedback
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://for.edu.sg/ycss-feedbackform
+    title: Online Feedback Form
 ---
