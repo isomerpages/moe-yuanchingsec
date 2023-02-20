@@ -10,6 +10,6 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 
 **Weighted Assessment 1** <br> 
 [WA1 Schedule for Sec 1](/files/Sec%201_WA1%20Schedule_13%20Jan.pdf)<br>
-[WA1 Schedule for Sec 2]() <Br>
-[WA1 Schedule for Sec 3]() <br>
+[WA1 Schedule for Sec 2](/files/Sec%202_WA1%20Schedule_13%20Jan.pdf)<br>
+[WA1 Schedule for Sec 3](/files/Sec%203_WA1%20Schedule_13%20Jan.pdf)<br>
 [WA1 Schedule for Sec 4 and 5](/files/Sec%204_5_WA1%20Schedule_13%20Jan.pdf)
