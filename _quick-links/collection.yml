@@ -2,7 +2,7 @@ collections:
   quick-links:
     output: true
     order:
-      - Contact Us.md
+      - Find us.md
       - Parents.md
       - Staff.md
       - Students.md
