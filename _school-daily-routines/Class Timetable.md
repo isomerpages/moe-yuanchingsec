@@ -12,10 +12,10 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 
 [Secondary 1](/files/Sec%201%20UPDATED%202023%20YCSS%20Sem%201%20Timetable%20Classes.pdf)
 
-[Secondary 2]() 
+[Secondary 2](/files/Sec%202%20UPDATED%202023%20YCSS%20Sem%201%20Timetable%20Classes.pdf)
 
-[Secondary 3]()
+[Secondary 3](/files/Sec%203%20UPDATED%202023%20YCSS%20Sem%201%20Timetable%20Classes_compressed.pdf)
 
-[Secondary 4]() 
+[Secondary 4](/files/Sec%204%20UPDATED%202023%20YCSS%20Sem%201%20Timetable%20Classes.pdf)
 
-[Secondary 5]()
+[Secondary 5](/files/Sec%205%20UPDATED%202023%20YCSS%20Sem%201%20Timetable%20Classes.pdf)
