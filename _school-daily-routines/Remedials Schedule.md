@@ -3,10 +3,18 @@ title: Remedials Schedule
 permalink: /quick-links/for-students/school-daily-routines/remedials-schedule/
 description: ""
 ---
-
 _For PDLP devices, you may also tap and hold the link and select Download Linked File ._
 
-<u>2022</u> <br>
-[Sec 1 Bedrock Bridging Programme](/files/Sec%201%20Bedrock%20%20Bridging%20Programme.pdf) <br>
-[Sec 2 Bedrock Bridging Programme](/files/Sec%202%20Bedrock%20Bridging%20Programme.pdf) <br>
-[Sec 3 Bedrock Bridging Programme](/files/Sec%203%20Bedrock%20Bridging%20Programme.pdf)
+<u>2023 Semester 1</u> <br>
+
+[YCSS CCA Schedule Semester 1 2023]()
+
+[Sec 1 Weekly Remedial & CCA Schedule]()
+
+[Sec 2 Weekly Remedial & CCA Schedule]()
+
+[Sec 3 Weekly Remedial & CCA Schedule]()
+
+[Sec 4 Weekly Remedial & CCA Schedule]()
+
+[Sec 5 Weekly Remedial & CCA Schedule]()
