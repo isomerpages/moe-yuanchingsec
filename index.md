@@ -1,32 +1,44 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Yuan Ching Secondary School
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      key_highlights:
+        - title: Parents
+          description: ""
+          url: https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/parents/
+        - title: Staff
+          description: ""
+          url: https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/staff/
+        - title: Students
+          description: ""
+          url: https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/students/
+        - title: School Calendar
+          description: ""
+          url: /quick-links/for-students/school-calendar/
+      title: Yuan Ching Secondary School
+      subtitle: Efforts Today Rewards Tomorrow
+      background: /images/Hero banner (2).png
+  - resources:
+      title: "Announcements "
+      button: More
+  - infopic:
+      title: Enriching Minds, Unleashing Potential, Impacting Lives
+      subtitle: School Mission
+      image: /images/MISSION_ YCSS2022 Day2 (76).jpg
+      alt: Image alt text
+  - infopic:
+      title: Every Individual a Thinker, an Achiever, a Concerned Citizen
+      subtitle: School Vision
+      image: /images/VISSION_ YCSS2022 Day2 (77)-min.jpg
+      alt: Image alt text
+  - infopic:
+      title: IExCEL-Integrity,Excellence, Compassion, Enterprise, Loyalty
+      subtitle: School Values
+      image: /images/VALUES2_ YCSS2022 Day2 (108)-min.jpg
+      alt: Image alt text
 ---
-

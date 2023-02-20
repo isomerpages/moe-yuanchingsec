@@ -1,0 +1,9 @@
+collections:
+  school-daily-routines:
+    output: true
+    order:
+      - Class Timetable.md
+      - Remedials Schedule.md
+      - Exam Timetable (School and National).md
+      - School Holiday Programme.md
+      - Weighted Assessment.md

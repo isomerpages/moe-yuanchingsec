@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/yuan-ching-secondary-school.jpg
 links:
+  - title: About YCSS
+    collection: about-ycss
+  - title: Confident Leaders
+    collection: confident-leaders
+  - title: Engaged Learners
+    collection: engaged-learners
+  - title: Passionate Trailblazers
+    collection: passionate-trailblazers
+  - title: Admissions
+    collection: admissions
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /contact-us

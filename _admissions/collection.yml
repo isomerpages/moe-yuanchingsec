@@ -1,0 +1,13 @@
+collections:
+  admissions:
+    output: true
+    order:
+      - Direct School Admission (DSA).md
+      - Local Transfer.md
+      - International Students.md
+      - Returning Singaporean.md
+      - Open House 2022.md
+      - 2023 Secondary 1 Registration/.keep
+      - 2023 Secondary 1 Registration/Secondary 1 Registration.md
+      - 2023 Secondary 1 Registration/Transfer In.md
+      - 2023 Secondary 1 Registration/Transfer Out.md

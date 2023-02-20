@@ -2,31 +2,39 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Yuan Ching Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 103 Yuan Ching Road
+      - Singapore 618654
+      - ""
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+      - days: Monday
+        time: 7.30am - 2.30pm
+        description: ""
+      - days: Tuesday
+        time: 7.30am - 2.30pm
+        description: ""
+      - days: Wednesday
+        time: 8.30am - 3.15pm
+        description: ""
+      - days: Thursday
+        time: 7.30am - 2.30pm
+        description: ""
+      - days: Friday
+        time: 7.30am - 12.30pm
+        description: ""
+    maps_link: https://goo.gl/maps/1CnX258wkJoFBVaS9
+    title: School Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6261 2489
+      - email: ycss@moe.edu.sg
+      - other: ""
+    title: Send us your feedback
+  - content:
+      - phone: +65 6261 6275
+      - email: ""
+      - other: ""
+    title: Fax
 ---

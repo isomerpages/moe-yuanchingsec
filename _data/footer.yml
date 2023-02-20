@@ -1,10 +1,8 @@
 contact_us: /contact-us/
 show_reach: true
-feedback: 
 faq: /faq/
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+  facebook: https://www.facebook.com/yuanching.official/
+  youtube: https://www.youtube.com/channel/UCMwGYyqwN1q2L9X8y0gM-MA
+  instagram: https://www.instagram.com/yuanching.official/
+feedback: https://for.edu.sg/ycss-feedbackform

@@ -1,0 +1,97 @@
+---
+title: Basketball
+permalink: /engaged-learners/co-curricular-activities-cca/sports-n-games/basketball/
+description: ""
+third_nav_title: Sports & Games
+---
+### Introduction
+
+“Scholar Sportsmen” is the motto of Yuan Ching Secondary School Basketball Team.
+
+Each member of the basketball team always strive to achieve the best results in both academic and sport domain. Each member of the team are expected to encourage his fellow peers to excel both on and off the court.  
+
+The team trains on Tuesdays and Thursdays during the school term. Selected students will train with added intensity during the school holidays to prepare them for National School Games Basketball Competition. The team also participates in other ad hoc competitions and friendly games throughout the year.
+
+Secondary One students who are interested to join the Basketball CCA are selected based on their attitude, physical and technical abilities during trials conducted by the coach and teachers-in-charge. Those who make the cut for the CCA undergo a disciplined yet rewarding training regime under the close supervision of our teachers and coaches.
+
+**VISION:** Every Basketballer, a Sportsman, a Scholar.
+
+**MISSION:** To promote and provide developmentally appropriate basketball programmes for all CCA members which enhance their physical health, character development, and enjoyment of the sport in a safe environment.
+
+### CCA Activities
+
+*   Annual CCA affirmation ceremony for graduating seniors
+*   CCA Day Camp
+*   Friendly Matches
+*   Intra-School Games
+
+### Achievements / Participations
+
+**2020** <br>
+West Zone Inter-School Basketball 'B' Division Championships 2020
+
+**2019** <br>
+West Zone Inter-School Basketball 'B' Division Championships 2019: 1st Round
+
+West Zone Inter-School Basketball 'C' Division Championships 2019: 2nd Round
+
+**2018** <br>
+West Zone Inter-School Basketball 'B' Division Championships 2018: 1st Round
+
+West Zone Inter-School Basketball 'C' Division Championships 2018: 2nd Round
+
+### Teachers in charge
+
+Mr Zhang Jiawen (IC) <br>
+Mr Liew Kok Keong <br>
+Mr Senduran Vasudevan
+
+### Schedule
+
+Every Tuesdays & Thursdays <br>
+3.00-6.00pm  <Br> 
+
+### Venue
+
+Venue (1) : Basketball Court/Canal  
+Venue (2) : Basketball Court/ISH
+
+### CCA Photographs
+
+| | | |
+| -------- | -------- | -------- |
+
+<figure>  
+<img src="/images/2022 Basketball B Division Boys.png">  
+<figcaption> 2022 Basketball B Division Boys </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/2022 Basketball B Division Boys in action.png">  
+<figcaption> 2022 Basketball B Division Boys </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Debrief session after training.png">  
+<figcaption> Debrief session after training </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/2022 Basketball C Division Boys in action.png">  
+<figcaption> 2022 Basketball C Division Boys in action </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/2022 Basketball C Division Boys in action.png">  
+<figcaption> 2022 Basketball C Division Boys in action </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/CCA Award.png">  
+<figcaption> CCA Award </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Basketball-6.jpg">  
+<figcaption> Our Sec 1 boys training during eCCA over Zoom </figcaption> 
+</figure>
