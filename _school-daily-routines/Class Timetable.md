@@ -10,19 +10,12 @@ Please select your class and download the timetable (PDF Format). <br>
 
 _For PDLP devices, you may also tap and hold the link and select Download Linked File ._
 
-| [Secondary 1](/files/Sec%201%20UPDATED%202023%20YCSS%20Sem%201%20Timetable%20Classes.pdf) | | | |
-|---|---|---|---|
+[Secondary 1](/files/Sec%201%20UPDATED%202023%20YCSS%20Sem%201%20Timetable%20Classes.pdf) 
 
-| [Secondary 2]() | | | |
-|---|---|---|---|
+[Secondary 2]() 
 
+[Secondary 3]()
 
-| [Secondary 3]() | | | |
-|---|---|---|---|
+[Secondary 4]() 
 
-
-| [Secondary 4]() | | | | 
-|---|---|---|---|
-
-|[Secondary 5]() | | | | 
-|---|---|---|---|
+[Secondary 5]() 
