@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Find us.md
       - Parents.md
       - Staff.md
       - Students.md
