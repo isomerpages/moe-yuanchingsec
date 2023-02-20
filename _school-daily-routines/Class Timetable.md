@@ -5,8 +5,7 @@ description: ""
 ---
 **2023 Class Timetable**
 
-Please select your class and download the timetable (PDF Format). 
-
+Please select your class and download the timetable (PDF Format). <br>
 <u> Information correct as at 30 December 2022. </u>
 
 _For PDLP devices, you may also tap and hold the link and select Download Linked File ._
