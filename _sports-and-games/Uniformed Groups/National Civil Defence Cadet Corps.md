@@ -71,9 +71,6 @@ Parade Square/D'YC Resort <br>
 
 ### CCA Photographs
 
-| | | |
-| -------- | -------- | -------- |
-
 
 <figure>  
 <img src="/images/NCDCC-1.jpg">  
