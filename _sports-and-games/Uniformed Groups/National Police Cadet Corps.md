@@ -47,9 +47,6 @@ Venue (2) : Forum / BB
 
 ### CCA Photographs
 
-| | | |
-| -------- | -------- | -------- |
-
 <u><strong> Training / Camp: </strong></u>
 
 | | | 
