@@ -101,8 +101,8 @@ Ethnic Celebrations (Jan 2020)
 <img src="/images/Graduation%20Ceremony%202020.jpg">
 4NA Graduation Ceremony 2020 (Sep 2020)
 
-
-![](/images/National_Day_2022.jpeg)
+	
+![National Day 2022](/images/National_Day_2022.jpeg)
 National Day 2022
 
 
