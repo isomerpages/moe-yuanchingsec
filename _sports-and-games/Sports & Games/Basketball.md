@@ -58,8 +58,6 @@ Venue (2) : Basketball Court/ISH
 
 ### CCA Photographs
 
-| | | |
-| -------- | -------- | -------- |
 
 <figure>  
 <img src="/images/2022 Basketball B Division Boys.png">  
