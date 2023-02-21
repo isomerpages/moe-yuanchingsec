@@ -102,15 +102,27 @@ Ethnic Celebrations (Jan 2020)
 4NA Graduation Ceremony 2020 (Sep 2020)
 
 	
+<figure>
+<img src="/images/Graduation%20Ceremony%202020.jpg">
+4NA Graduation Ceremony 2020 (Sep 2020)
+	
+	
 ![National Day 2022](/images/National_Day_2022.jpeg)
-National Day 2022
 
+	National Day 2022
+
+	
 
 ![](/images/Night_Study%20(2022).jpeg)
-Night Study (2022)
 
+	Night Study (2022)
+
+	
 ![](/images/PSG_Oct_Meeting%20(2022).jpeg)
-	PSG October Meeting (2022)
+	
+PSG October Meeting (2022)
+
 
 ![](/images/Compass_Kit%20(2022).jpeg)
-Compass Kit (2022)
+
+	Compass Kit (2022)
