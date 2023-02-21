@@ -46,9 +46,6 @@ Band Room and Music Room
 
 ### CCA Photographs
 
-| | | |
-| -------- | -------- | -------- |
-
 
 <figure>  
 <img src="/images/2022%20SIBF%20Band%20Members.jpeg">  
