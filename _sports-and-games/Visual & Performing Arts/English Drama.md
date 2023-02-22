@@ -51,9 +51,6 @@ PBL Studio
 
 ### CCA Photographs
 
-| | | |
-| -------- | -------- | -------- |
-
 <figure>  
 <img src="/images/English%20Drama-1.jpg">  
 <figcaption> Our talented actors in action </figcaption>  

@@ -52,8 +52,6 @@ Guzheng Room and AVT
 
 ### CCA Photographs
 
-| | | |
-| -------- | -------- | -------- |
 
 ![](/images/guzheng.jpg)
 

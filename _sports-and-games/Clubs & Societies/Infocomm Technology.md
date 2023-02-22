@@ -59,10 +59,10 @@ Computer Labs 1 & 2, Blk B Level 2
 
 ### CCA Photographs
 
-<figure>  
-<img src="images/Students%20doing%20stop%20motion%20animation%20during%20training.png">  
-<figcaption> Students doing stop motion animation during training </figcaption>  
-</figure>	
+
+![](/images/Students%20doing%20stop%20motion%20animation%20during%20training.png)
+
+Students doing stop motion animation during training
 
 <figure>  
 <img src="/images/Students%20learning%20about%20the%20setup%20of%20green%20screen%20in%20filming%20and%20photography.png">  

@@ -44,10 +44,6 @@ Venue (2) : School Hall
 
 ### CCA Photographs
 
-| | | |
-| -------- | -------- | -------- |
-
-
 <figure>  
 <img src="/images/Performance%20at%20Homecoming%20Concert%20in%20the%20School%20Hall%202022.png">  
 <figcaption> Performance at Homecoming Concert in the School Hall (2022) </figcaption>  

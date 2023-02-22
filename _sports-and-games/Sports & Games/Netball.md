@@ -64,8 +64,6 @@ Venue(Thurs) : Parade Square / ISH
 
 ### CCA Photographs
 
-| | | |
-| -------- | -------- | -------- |
 
 <figure>  
 <img src="/images/Netball-1.jpg">  

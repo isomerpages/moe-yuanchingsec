@@ -10,13 +10,13 @@ sections:
       key_highlights:
         - title: Parents
           description: ""
-          url: https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/parents/
+          url: /quick-links/parents/
         - title: Staff
           description: ""
-          url: https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/staff/
+          url: /quick-links/staff/
         - title: Students
           description: ""
-          url: https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/students/
+          url: /quick-links/students/
         - title: School Calendar
           description: ""
           url: /quick-links/for-students/school-calendar/

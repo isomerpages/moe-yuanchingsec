@@ -38,17 +38,14 @@ Mdm Lim Yi Hui
 
 ### Schedule
 
-Even Tuesday: 3pm to 6pm <br>
-Odd Friday: 2.30pm to 5.30 pm
+Every Friday: 2.30pm - 5.30pm <br>
+Every Saturday: 8.00am - 12.00pm
 
 ### Venue
 
 Turf <br>
 
 ### CCA Photographs
-
-| | | |
-| -------- | -------- | -------- |
 
 <figure>  
 <img src="/images/Scouts%20-%20National%20Day%20Observance%20Ceremony%20at%20Yuhua%20Community%20Centre.png">  

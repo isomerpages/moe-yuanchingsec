@@ -76,8 +76,6 @@ Carpark/ Clementi Stadium/ Bedok Reservoir <br>
 
 ### CCA Photographs
 
-| | | |
-| -------- | -------- | -------- |
 <figure>  
 <img src="/images/Cross%20Country-1.jpg">  
 <figcaption> 2019 ‘B’ Boys 2000m Steeplechase </figcaption>  

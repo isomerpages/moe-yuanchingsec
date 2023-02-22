@@ -72,9 +72,6 @@ Every Tuesday: 3.00pm to 6.00pm <br>
 
 ### CCA Photographs
 
-| | | |
-| -------- | -------- | -------- |
-
 <figure>  
 <img src="/images/Indian%20Dance%20Natl%20Day%202022.png">  
 <figcaption> National Day Celebration 2022 </figcaption>  
