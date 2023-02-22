@@ -52,69 +52,50 @@ Mdm Siti Juliyana <br>
 Mdm Logabaigi
 
 
+![](/images/Parenting%20Talks%202019.jpg)
 
-<figure>
-<img src="/images/Parenting%20Talks%202019.jpg">
-</figure>
 Parenting Talks – Equipping the parents with skills to communicate with their children (Mar 2019)
 
-<figure>
-<img src="/images/Fathers%20@%20School%202019.jpg">
-</figure>
+![](/images/Fathers%20@%20School%202019.jpg)
+
 Fathers@School 2019 – Fostering a stronger father-child bond
 					
+![](/images/Compass%20Kit%202019.jpg)
 
-<figure>
-<img src="/images/Compass%20Kit%202019.jpg">
-</figure>
 Making of the Compass Kit to encourage graduating students (Aug 2019)
 				
+![](/images/Night%20Study%202019.jpg)
 
-<figure>
-<img src="/images/Night%20Study%202019.jpg">
-</figure>
 Night Study – Snacks to motivate the grad students to press on (Sep 2019)
 
-<figure>
-<img src="/images/Family%20Day%202019.jpg">
-</figure>
+![](/images/Family%20Day%202019.jpg)
+
 PSG Family Day_1 (Nov 2019) 
 													
+![](/images/Family%20Day%202019%20II.jpg)
 
-<figure>
-<img src="/images/Family%20Day%202019%20II.jpg">
-</figure>
 PSG Family Day_2 (Nov 2019)
 													
+![](/images/CNY-2020.jpg)
 
-<figure>
-<img src="/images/CNY-2020.jpg">
-</figure>
 Ethnic Celebrations (Jan 2020)														
 
-<figure>
-<img src="/images/AGM-2020.jpg">
-	PSG Annual General Meeting (Jan 2020) – Renewal of leadership 
-
-
-<figure>
-<img src="/images/Graduation%20Ceremony%202020.jpg">
-4NA Graduation Ceremony 2020 (Sep 2020)
-
+![](/images/AGM-2020.jpg)
 	
-<figure>
-<img src="/images/Graduation%20Ceremony%202020.jpg">
+PSG Annual General Meeting (Jan 2020) – Renewal of leadership 
+
+![](/images/Graduation%20Ceremony%202020.jpg)
+
 4NA Graduation Ceremony 2020 (Sep 2020)
-	
 	
 ![](/images/National_Day_2022.jpeg)
 
-	National Day 2022
+National Day 2022
 
 
 ![](/images/Night_Study%20(2022).jpeg)
 
-	Night Study (2022)
+Night Study (2022)
 
 	
 ![](/images/PSG_Oct_Meeting%20(2022).jpeg)
@@ -123,4 +104,4 @@ PSG October Meeting (2022)
 
 ![](/images/Compass_Kit%20(2022).jpeg)
 
-	Compass Kit (2022)
+Compass Kit (2022)
