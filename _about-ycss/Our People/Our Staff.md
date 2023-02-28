@@ -68,7 +68,7 @@ third_nav_title: Our People
 | 5 Harmony | Mrs Goh-Cheong Wei Leng | 
 | | |
 
-### SUBJECT TEACHERS & NON-TEACHING STAFF
+### SUBJECT TEACHERS
 
 | Name | Designation |
 | --- | --- |
@@ -92,6 +92,7 @@ third_nav_title: Our People
 | | |
 
 ### EXECUTIVE AND ADMINISTRATIVE STAFF (EAS)
+
 | Name | Designation |
 | --- | --- |
 | Mr See Thou Yew Cheong | Admin Manager |
