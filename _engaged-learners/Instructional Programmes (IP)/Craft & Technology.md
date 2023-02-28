@@ -36,8 +36,6 @@ Everyone is a practitioner of care, concern, curiosity and creativity. (4Cs)
 | Mr Lai Weng Keong | Ms Tsering Choden | Mdm Nancy Lau |
 | Mr Ong Sheo Yuan |  | Miss Shanti Armugam |
 | Mr Tham Wai Keong |  | Ms Tan Ai Lin |
-| Mr Low Giau Ming |  | Mdm Peter Durairaj Bharat Senthil Vijaya Ratna |
-| Mr Jofri Bin Osman |  |  |
 | | |
 
 ### Gallery
