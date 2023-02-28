@@ -4,7 +4,6 @@ permalink: /about-ycss/our-people/our-staff/
 description: ""
 third_nav_title: Our People
 ---
-
 ![Yuan Ching Secondary School 2022](/images/All%20Staff%20Photo%202022%20(Collage)-min.jpg)
 
 ### SENIOR TEACHERS
@@ -90,6 +89,11 @@ third_nav_title: Our People
 | Ms Khoo Chee Suan | School Counsellor |
 | Mdm Sharifah Aisyah Binte Nasar Ahmad | Special Needs Officer (SEN) |
 | Ms Tan Sici, Susie | Student Welfare Officer (SWO) |
+| | |
+
+### EXECUTIVE AND ADMINISTRATIVE STAFF (EAS)
+| Name | Designation |
+| --- | --- |
 | Mr See Thou Yew Cheong | Admin Manager |
 | Mr Govindarajoo G N Naidu | Operations Manager |
 | Mr Raymond Ho | Operations Manager |
