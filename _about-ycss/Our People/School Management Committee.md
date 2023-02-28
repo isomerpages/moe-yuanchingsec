@@ -36,10 +36,9 @@ third_nav_title: Our People
 
 | Name | Designation |
 | --- | --- |
-| Mr Sivaperakas s/o Ramasamy Muthiah | Subject Head/ Art |
+| Mr Sivaperakas s/o Muthiah | Subject Head/ Art |
 | Mr Lim Chow Chiat Paul | Subject Head/ Citizenship Education |
 | Mr Chen Zhanjiang | Subject Head/ Innovation |
-| Mr C.Ganesh | Subject Head/ Learner Needs |
 | Ms Liu Yunman | Subject Head/ Mathematics |
 | Mdm Chai Jiamin | Subject Head/ PE & CCA |
 | Ms Arulushamaheswary Anbalagan | Subject Head/ Student Leadership |
@@ -48,6 +47,6 @@ third_nav_title: Our People
 | Mdm Koh Jie Ying | Assistant Year Head (Upper Sec) |
 | Mr Lai Weng Keong | Assistant Year Head (Lower Sec) |
 | Ms Tsering Choden | Subject Head/ Infocomm Technology (Covering) |
-| Mr C.Ganesh | Subject Head/ Learner Needs (Covering) |
+| Mr C. Ganesh | Subject Head/ Learner Needs (Covering) |
 | Ms Nan Zhonghua | Subject Head/ Student Well-being (Covering) |
 | | |
