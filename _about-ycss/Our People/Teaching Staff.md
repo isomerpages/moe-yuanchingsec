@@ -11,7 +11,7 @@ third_nav_title: Our People
 | Name | Designation |
 | --- | --- |
 | Miss Yap Jen Huey | Senior Teacher/ Chinese Language |
-| Mdm Cheong Wei Leng | Senior Teacher / Geography |
+| Mrs Goh-Cheong Wei Leng | Senior Teacher / Geography |
 | Miss Tan Kwee Theng | Senior Teacher/ History |
 | Mr Liew Kok Keong | Senior Teacher/ Mathematics |
 | | |
