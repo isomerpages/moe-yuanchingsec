@@ -8,15 +8,15 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Parents
+        - title: For Parents
           description: ""
-          url: /quick-links/parents/
-        - title: Staff
+          url: /quick-links/forparents/
+        - title: For Staff
           description: ""
-          url: /quick-links/staff/
-        - title: Students
+          url: /quick-links/forstaff/
+        - title: For Students
           description: ""
-          url: /quick-links/students/
+          url: /quick-links/forstudents/
         - title: School Calendar
           description: ""
           url: /quick-links/for-students/school-calendar/
