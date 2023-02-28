@@ -11,7 +11,7 @@ third_nav_title: Our People
 | Name | Designation |
 | --- | --- |
 | Miss Yap Jen Huey | Senior Teacher/ Chinese Language |
-| Mdm Cheong Wei Leng | Senior Teacher / Geography |
+| Mrs Goh-Cheong Wei Leng | Senior Teacher / Geography |
 | Miss Tan Kwee Theng | Senior Teacher/ History |
 | Mr Liew Kok Keong | Senior Teacher/ Mathematics |
 | | |
@@ -36,7 +36,7 @@ third_nav_title: Our People
 | 2 Excellence | Mr Sivaperakas R Muthiah | Mr Wong Chin Seng |  |
 | 2 Compassion| Ms Jasmine Widodo | Ms Kelly Yeo Ee Ling |  |
 | 2 Enterprise | Ms Yap Jen Huey | Mr Mohd Azhar |  |
-| 2 Respect | Ms Mok Yuen Teng | Ms Shazana Bte Saini|   
+| 2 Respect | Ms Mok Yuen Teng | Miss Kelly Tan Shi Hui|   
 | 2 Resilience | Mr Foo Say Kin | Mdm Khasturi Gonasaygnran |   
 | 2 Loyalty  | Mr Fadzel  | Ms Shanti Armugam  | 
 | | | 
@@ -65,7 +65,7 @@ third_nav_title: Our People
 | 4 Respect | Mr Zhang Jiawen | Ms Normalah Bte Baharin |  |
 | 4 Resilience | Ms Goh Woon Xian | Mr Amos Lee Canguang |   
 | 4 Loyalty | Mr Lai Weng Keong | Ms Nadia Bte Madzan |  |
-| 5 Harmony | Mdm Goh-Cheong Wei Leng | 
+| 5 Harmony | Mrs Goh-Cheong Wei Leng | 
 | | |
 
 ### SUBJECT TEACHERS & NON-TEACHING STAFF
@@ -74,7 +74,7 @@ third_nav_title: Our People
 | --- | --- |
 | Mr Lim Fang Kwan | Teacher |
 | Mr Mohamad Malek Sufahat | Teacher |
-| Ms Sumita | Teacher |
+| Ms Sumita Sathi | Teacher |
 | Ms Chen Yaqi Bernice | Teacher |
 | Mdm Fang Chen Lan  | Teacher  |
 | Mr Jamal Mohinitheen Bin Ahamed Ghani | Teacher |
@@ -87,7 +87,7 @@ third_nav_title: Our People
 | Mdm Yak Guat Eng | Teacher |
 | Mdm Kang Jean Nie | School Counsellor |
 | Ms Khoo Chee Suan | School Counsellor |
-| Mdm Sharifah Aisyah Binte Nasar Ahmad | Allied Educator (Learning & Behavioral Support) |
+| Mdm Sharifah Aisyah Binte Nasar Ahmad | Special Needs Officer (SEN) |
 | Ms Tan Sici, Susie | Student Welfare Officer (SWO) |
 | Mr See Thou Yew Cheong | Admin Manager |
 | Mr Govindarajoo G N Naidu | Operations Manager |

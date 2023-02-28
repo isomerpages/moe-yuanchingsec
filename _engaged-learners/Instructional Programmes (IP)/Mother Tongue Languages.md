@@ -59,7 +59,6 @@ Our students had participated in various competitions and many returned with not
 | Mdm Fang Chen Lan | Mdm Musniffa Mustaffa | Mr Jamal Mohinitheen |
 | Ms Nan Zhonghua | Miss Normalah Bahrain |  |
 | Ms Ong Fui Ping |  |  |
-| Ms Voon Xin Yi |  |  |
 | Mdm Yak Guat Eng |  |  |
 | | | |
 
