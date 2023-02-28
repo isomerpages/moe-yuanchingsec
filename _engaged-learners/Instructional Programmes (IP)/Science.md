@@ -38,14 +38,14 @@ The Science Department aims to ignite students’ curiosity about day-to-day hap
 
 **HOD Science:** Mdm Chin Yi Mei
 
-| Physics | Chemistry | Biology | Lab Staff |
+| Physics | Chemistry | Biology | |
 |---|---|---|---|
-| Mr Tan Kok Chiew | Mr Leung Yulun | Ms Dimas Nurr Aidilin Mas'od | Mdm Lor Ah Tin |
-| Mr Malek | Ms Nadia Madzan | Mr Zhang Jiawen | Mr Donnavan Loh Siang Hwee |
-| Mr Chen Zhanjiang | Mr Lee Siak Kheng | Ms Azria Azman | Mdm Goh Choo Noi |
+| Mr Tan Kok Chiew | Mr Leung Yulun | Ms Dimas Nurr Aidilin Mas'od | 
+| Mr Malek | Ms Nadia Madzan | Mr Zhang Jiawen | 
+| Mr Chen Zhanjiang | Mr Lee Siak Kheng | Ms Azria Azman | 
 | Mr Chua Kok Yew | Ms Eunice Leong | Mr C. Ganesh |  |
-| Mr Huang Zhi Jie | Mr Wong Chin Seng  | Ms Jasmine Widodo  |  |
-| Ms Mok Yuen Teng |  |  |  |
+| Mr Huang Zhi Jie | Mr Wong Chin Seng  | Ms Jasmine Widodo  |  
+| Ms Mok Yuen Teng |  
 | | | |
 
 ### Gallery
