@@ -19,10 +19,10 @@ Our EL curriculum provides all students the opportunities and resources to devel
 
 | |  |  |
 |--------|--------|--------|
-| Mr Janageeraman Senivasan | Mr Paul Lim Chow Chiat |
-| Miss Kelly Yeo Ee Ling | Miss Tan Mei See Ashley |
-| Miss Sumita Sathi  | Mrs Siva Thavaranee D/O Rasiah| Mr Amos Lee Canguang |
-| Ms Amanda Ong Jia Yi | Miss Jasmine Sujatha  | Mr Mohd Azhar |
+| Mr Janageeraman Senivasan | Mr Paul Lim Chow Chiat | Mr Amos Lee Canguang |
+| Miss Kelly Yeo Ee Ling | Miss Tan Mei See Ashley | Mr Mohd Azhar |
+| Miss Sumita Sathi  | Mrs Siva Thavaranee D/O Rasiah| 
+| Ms Amanda Ong Jia Yi | Miss Jasmine Sujatha  | 
 | Mr Chong Xiang Yang Isaac | Ms Leong Jun Xi Jean
 | | |
 
