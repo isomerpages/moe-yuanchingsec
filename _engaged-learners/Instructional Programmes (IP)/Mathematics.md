@@ -81,9 +81,7 @@ Our Talent Development Programme provides a range of activities such as training
 **Subject Head Maths:** Ms Liu Yunman <br> 
 **Senior Teacher Maths:** Mr Liew Kok Keong
 
-<center><strong> Maths Teachers </strong></center>
-
-| CS 1 | CS 2 | AED & Flexi-Adjunct |
+|  |  | |
 |---|---|---|
 | Ms Mok Yuen Teng | Mr Foo Say Kin | Ms Shanthy Raja (AED) |
 | Ms Eunice Leong  | Ms Nadia Madzan | Mdm Wong Ling Ling |
