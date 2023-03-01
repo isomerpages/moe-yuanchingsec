@@ -68,7 +68,7 @@ third_nav_title: Our People
 | 5 Harmony | Mrs Goh-Cheong Wei Leng | 
 | | |
 
-### SUBJECT TEACHERS
+### SUBJECT TEACHERS AND NON-TEACHING STAFF
 
 | Name | Designation |
 | --- | --- |
