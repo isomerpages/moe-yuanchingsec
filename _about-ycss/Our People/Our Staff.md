@@ -1,6 +1,6 @@
 ---
-title: Teaching Staff
-permalink: /about-ycss/our-people/teaching-staff/
+title: Our Staff
+permalink: /about-ycss/our-people/our-staff/
 description: ""
 third_nav_title: Our People
 ---
@@ -68,7 +68,7 @@ third_nav_title: Our People
 | 5 Harmony | Mrs Goh-Cheong Wei Leng | 
 | | |
 
-### SUBJECT TEACHERS & NON-TEACHING STAFF
+### SUBJECT TEACHERS AND NON-TEACHING STAFF
 
 | Name | Designation |
 | --- | --- |
@@ -89,6 +89,12 @@ third_nav_title: Our People
 | Ms Khoo Chee Suan | School Counsellor |
 | Mdm Sharifah Aisyah Binte Nasar Ahmad | Special Needs Officer (SEN) |
 | Ms Tan Sici, Susie | Student Welfare Officer (SWO) |
+| | |
+
+### EXECUTIVE AND ADMINISTRATIVE STAFF (EAS)
+
+| Name | Designation |
+| --- | --- |
 | Mr See Thou Yew Cheong | Admin Manager |
 | Mr Govindarajoo G N Naidu | Operations Manager |
 | Mr Raymond Ho | Operations Manager |
