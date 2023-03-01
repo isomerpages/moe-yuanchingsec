@@ -10,3 +10,10 @@ Click [here](https://go.gov.sg/ycss-ict) for more information on the programme
 Click [here](/files/PDLP%20Application%20Form%20for%20Subsidy%20OF%20EF.pdf) to download the application form for subsidy for purchase of Personal Learning Device.
 
 [PDLP Application Form for Subsidy OF EF.pdf](/files/PDLP%20Application%20Form%20for%20Subsidy%20OF%20EF.pdf)
+
+#### **Parents' Resources**
+
+Parents/Guardians play an important role in keeping their children safe online, and are encouraged to read the following resources to learn more about how to keep their children safe online:
+
+*  [Parent Handbook (I) on Learning with a PLD](/files/IP2%20-%20Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf)
+*   [Parent Handbook (II) on Learning with a PLD](/files/IP3%20-%20Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf)
