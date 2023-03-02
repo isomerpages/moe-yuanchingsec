@@ -11,7 +11,7 @@ Click [here](/files/PDLP%20Application%20Form%20for%20Subsidy%20OF%20EF.pdf) t
 
 [PDLP Application Form for Subsidy OF EF.pdf](/files/PDLP%20Application%20Form%20for%20Subsidy%20OF%20EF.pdf)
 
-
+[Personal Learning Device (PLD) Initiative Briefing](/files/YCS%202023%20IP1%20-%20Parent%20Engagement%20Deck_2023.pdf)
 
 #### **Parents' Resources**
 
