@@ -87,7 +87,7 @@ third_nav_title: Our People
 | Mdm Yak Guat Eng | Teacher |
 | Mdm Kang Jean Nie | School Counsellor |
 | Ms Khoo Chee Suan | School Counsellor |
-| Mdm Sharifah Aisyah Binte Nasar Ahmad | Special Needs Officer (SEN) |
+| Mdm Sharifah Aisyah Binte Nasar Ahmad | Special Educational Needs Officer (SEN) |
 | Ms Tan Sici, Susie | Student Welfare Officer (SWO) |
 | | |
 
