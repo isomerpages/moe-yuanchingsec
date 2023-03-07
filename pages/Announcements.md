@@ -3,6 +3,12 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+# 2023 March Holiday Programme
+
+
+Please refer [here](/quick-links/for-students/school-daily-routines/school-holiday-programme/) for the detailed schedule of the enrichment programmes and remedial sessions on the 13th and 14th March 2023.
+
+
 ### Blended Learning Day 2023
 
 On Blended Learning Days, students are to submit their morning check-in form before 9 am. 
