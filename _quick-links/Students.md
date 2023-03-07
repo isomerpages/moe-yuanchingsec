@@ -12,5 +12,5 @@ description: ""
 | [Class Timetable](/quick-links/for-students/school-daily-routines/class-timetable/) |[School Booklist & Stationery](/quick-links/for-students/school-booklist-n-stationery/) | | |
 | [Remedial Schedule](/quick-links/for-students/school-daily-routines/remedials-schedule/)   |  | | |
 | [Exam Timetable (School/National)](/quick-links/for-students/school-daily-routines/exam-timetable-school-national/)    | | | |
-[School Holiday Programme](/quick-links/for-students/school-daily-routines/school-holiday-programme/)  | | | |
+| [School Holiday Programme](/quick-links/for-students/school-daily-routines/school-holiday-programme/)  | | | |
 | [Weighted Assessment](/quick-links/for-students/school-daily-routines/weighted-assessment/)    | | | |
