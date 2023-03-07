@@ -87,7 +87,7 @@ third_nav_title: Our People
 | Mdm Yak Guat Eng | Teacher |
 | Mdm Kang Jean Nie | School Counsellor |
 | Ms Khoo Chee Suan | School Counsellor |
-| Mdm Sharifah Aisyah Binte Nasar Ahmad | Special Needs Officer (SEN) |
+| Mdm Sharifah Aisyah Binte Nasar Ahmad | Special Educational Needs Officer (SEN) |
 | Ms Tan Sici, Susie | Student Welfare Officer (SWO) |
 | | |
 
@@ -109,5 +109,10 @@ third_nav_title: Our People
 | Ms Norhasimah Karim | Corporate Support Officer |
 | Mr Viknesvaran | Desktop Engineer |
 | Mr Charef Abderrahmane | Desktop Engineer |
+| Mdm Goh Choo Noi  | Operation Support Officer  |
+| Mdm Lum Lai Siong  | Operation Support Officer  |
+| Mdm Peter Durairaj Bharat Senthil Vijaya Ratna  | Operation Support Officer  |
+| Mdm Pospervali d/o Murukhan Vaiyapury  | Operation Support Officer  |
+| Mdm Toh Chooi Hoon  | Operation Support Officer  |
 | Mdm Chua Meow Hua  | Library Assistant  |
 | | |

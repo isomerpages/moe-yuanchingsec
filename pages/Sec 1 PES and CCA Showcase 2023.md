@@ -3,10 +3,9 @@ title: Sec 1 PES and CCA Showcase 2023
 permalink: /others/Sec1PESCCAShowcase2023/
 description: ""
 ---
-
 Dear Parents/ Guardians,
 
-Please click the files below for more information that was shared during Sec 1 Parent Engagement Session and CCA Showcase 2023.
+Please click the files below for more information that was shared during Sec 1 Parent Engagement Session (PES) and CCA Showcase 2023.
 
 * [Sec 1 MTP - January 2023](/files/Sec%201%20MTP%20slides%20Jan%202023_website.pdf)
 
