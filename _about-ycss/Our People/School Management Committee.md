@@ -19,7 +19,7 @@ third_nav_title: Our People
 | --- | --- |
 | Ms Patsy Chua | HOD/ CCE |
 | Ms Joy Tay Huijuan | HOD/ Craft & Technology |
-| Mrs Buganiesh Squires | HOD/ English |
+| Mrs Buganeish Squires | HOD/ English Language & Literature |
 | Mr Subramaniam Mohanamoothy | HOD/ Humanities |
 | Mrs Erh-Ong Ka Min | HOD/ Infocomm Technology |
 | Ms Ong Wan Hui | HOD/ Mathematics |
