@@ -15,7 +15,7 @@ Our EL curriculum provides all students the opportunities and resources to devel
 
 ### Teachers
 
-**HOD English Language:** Mrs Buganiesh Squires <br>
+**HOD English Language and Literature:** Mrs Buganeish Squires <br>
 
 | |  |  |
 |--------|--------|--------|
