@@ -25,7 +25,7 @@ third_nav_title: Our People
 | 1 Compassion | Ms Nan Zhonghua | Ms Jean Leong Jun Xi |  |
 | 1 Enterprise | Mdm Chai Jiamin | Mr Senduran Vasudevan |  |
 | 1 Respect | Mr C. Ganesh | Ms Tan Ai Lin |  |
-| 1 Loyalty | Mr Tham Wai Keong | Ms Shanti Armugam |  |
+| 1 Loyalty | Mr Tham Wai Keong | Mdm Shanthy Raja Nayagam |  |
 | | | | |
 
 ### SEC 2 FORM TEACHERS
