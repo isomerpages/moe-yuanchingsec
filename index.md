@@ -23,9 +23,6 @@ sections:
       title: Yuan Ching Secondary School
       subtitle: Efforts Today Rewards Tomorrow
       background: /images/Hero banner (2).png
-  - resources:
-      title: "Announcements "
-      button: More
   - infopic:
       title: Enriching Minds, Unleashing Potential, Impacting Lives
       subtitle: School Mission
@@ -41,4 +38,12 @@ sections:
       subtitle: School Values
       image: /images/VALUES2_ YCSS2022 Day2 (108)-min.jpg
       alt: Image alt text
+  - resources:
+      title: "Announcements "
+      button: More
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
