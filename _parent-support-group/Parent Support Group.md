@@ -31,7 +31,7 @@ Strengthening Family Bonds, Deepening Understanding, Enriching Partnerships
 
 The participation of the PSG resulted in providing moments where families can create memories and bond.
 
-### YCSS PSG EXCO 202
+### YCSS PSG EXCO 2022
 
 **Chairman:** Mdm Janet Tan
 
@@ -46,8 +46,8 @@ The participation of the PSG resulted in providing moments where families can cr
 **Asst. Treasurer:** Mdm Angi Ang	
 
 **Committee Members:** <br>
-Mdm Ramlah Suloh <Br>
-Mr Khairul <Br>
+Mdm Ramlah Suloh <br>
+Mr Khairul <br>
 Mdm Siti Juliyana <br>
 Mdm Logabaigi
 
