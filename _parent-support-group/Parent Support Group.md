@@ -33,9 +33,9 @@ The participation of the PSG resulted in providing moments where families can cr
 
 ### YCSS PSG EXCO 2023
 
-**Chairman:** Mdm Alice Yap
+**Chairperson:** Mdm Alice Yap
 
-**Vice-Chairman:** Mdm Muzalina
+**Vice-Chairperson:** Mdm Muzalina
 
 **Secretary:** Mdm Viviene Lee
 
