@@ -39,11 +39,11 @@ The participation of the PSG resulted in providing moments where families can cr
 
 **Secretary:** Mdm Viviene Lee
 
-**Asst. Secretary:** Mrs Bellfyn Huang
+**Assistant Secretary:** Mrs Bellfyn Huang
 
 **Treasurer:** Mdm Angi Ang	
 
-**Asst. Treasurer:** Mdm Ramlah
+**Assistant Treasurer:** Mdm Ramlah
 
 **Committee Members:** <br>
 Mdm Lognaigi<br>
