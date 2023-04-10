@@ -25,7 +25,7 @@ third_nav_title: Our People
 | 1 Compassion | Ms Nan Zhonghua | Ms Jean Leong Jun Xi |  |
 | 1 Enterprise | Mdm Chai Jiamin | Mr Senduran Vasudevan |  |
 | 1 Respect | Mr C. Ganesh | Ms Tan Ai Lin |  |
-| 1 Loyalty | Mr Tham Wai Keong | Ms Shanti Armugam |  |
+| 1 Loyalty | Mr Tham Wai Keong | Mdm Shanthy Raja Nayagam |  |
 | | | | |
 
 ### SEC 2 FORM TEACHERS
@@ -50,7 +50,8 @@ third_nav_title: Our People
 | 3 Compassion | Ms Angela Lee Mui Huang | Ms Vilochana D/O Veloo |  |
 | 3 Enterprise | Ms Siti Nurshila Bte Roslan | Ms Jasmine Sujatha |  |
 | 3 Respect | Mdm Ng Li Mei | Ms Ashley Tan Mei See | Ms Audrey Goh Xin Yun  |
-| 3 Resilience | Mdm Musniffa Bte Mustaffa | Mdm Chen Cui Xia| Mr Isaac Chong Xiang Yang 
+| 3 Resilience | Mdm Musniffa Bte Mustaffa | Mdm Chen Cui Xia| Mr Isaac Chong Xiang Yang |
+| 3 Harmony | Mr Mohd Fahmy B Abdul Latif | Ms Yeo Jie Ting
 | 3 Loyalty | Mr Tommy Cheng | Mr Segar Muniandy | Mr Zachary Wong Jiann Tsong |
 | | |
 
@@ -101,7 +102,7 @@ third_nav_title: Our People
 | Ms Nur Suhailah Bte Abdul Halim | Admin Executive |
 | Mdm Kek Boon Hui Yvonne | Admin Executive |
 | Mdm Anniah Shofina | ICT Manager |
-| Mdm Loh Ah Tin | School Laboratory Technician |
+| Mdm Lor Ah Tin | School Laboratory Technician |
 | Mr Donnavan Loh Siang Hwee | School Laboratory Technician |
 | Mr Kelvin Low Giau Ming | Education Workshop Instructor (EWI) |
 | MrJofri Bin Osman | Education Workshop Instructor (EWI) |

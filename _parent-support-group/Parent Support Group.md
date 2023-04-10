@@ -31,25 +31,28 @@ Strengthening Family Bonds, Deepening Understanding, Enriching Partnerships
 
 The participation of the PSG resulted in providing moments where families can create memories and bond.
 
-### YCSS PSG EXCO 202
+### YCSS PSG EXCO 2023
 
-**Chairman:** Mdm Janet Tan
+**Chairperson:** Mdm Alice Yap
 
-**Vice-Chairman:** Mdm Alice Yap
+**Vice-Chairperson:** Mdm Muzalina
 
-**Secretary:** Mr Jonathan Poo
+**Secretary:** Mdm Viviene Lee
 
-**Asst. Secretary:** Mdm Viviene Lee
+**Assistant Secretary:** Mrs Bellfyn Huang
 
-**Treasurer:** Mdm Ng Boon Yen
+**Treasurer:** Mdm Angi Ang	
 
-**Asst. Treasurer:** Mdm Angi Ang	
+**Assistant Treasurer:** Mdm Ramlah
 
 **Committee Members:** <br>
-Mdm Ramlah Suloh <Br>
-Mr Khairul <Br>
-Mdm Siti Juliyana <br>
-Mdm Logabaigi
+Mdm Lognaigi<br>
+Mr Khairul <br>
+Mdm Daphne Heng<br>
+Mdm Phui Lea<br>
+
+
+
 
 
 ![](/images/Parenting%20Talks%202019.jpg)
