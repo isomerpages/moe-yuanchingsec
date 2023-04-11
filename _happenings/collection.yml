@@ -2,4 +2,5 @@ collections:
   happenings:
     output: true
     order:
+      - Happenings/Happenings.md
       - Happenings/.keep
