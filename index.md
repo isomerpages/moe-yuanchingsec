@@ -38,6 +38,6 @@ sections:
         Yuan Ching!
       button: Submit here
       url: https://for.edu.sg/yc45-memoriesgallery
-      image: /images/45 years.JPG
+      image: /images/45 years_.JPG
       alt: Image alt text
 ---
