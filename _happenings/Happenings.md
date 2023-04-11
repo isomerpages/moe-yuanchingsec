@@ -3,6 +3,8 @@ title: Happenings
 permalink: /happenings/
 description: ""
 ---
+# 2023 <br>
+
 ### YCSS inaugural Speaker's Corner
 
 Did you know that YCSS had our inaugural Speakers' Corner - A Forum For the Students, By the Students on Monday, 11th April? Visit our&nbsp;[Facebook page](https://www.facebook.com/yuanching.official/)&nbsp;or&nbsp;[Instagram](https://www.instagram.com/p/CcSX9jxKhh6/?utm_source=ig_web_copy_link)&nbsp;for&nbsp;pictures of our Student Speakers deep in the action of passionately presenting the various perspectives regarding the Ukraine war!
