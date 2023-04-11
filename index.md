@@ -30,7 +30,7 @@ sections:
       button: Find out more about Yuan Ching Secondary PSG
       url: /about-ycss/our-people/parent-support-group/
       image: /images/PSG register.png
-      alt: go.gov.sg/ycss-psg-register
+      alt: Image alt text
   - infopic:
       title: 45 years of Yuan Ching
       subtitle: Yuan Ching Secondary School
