@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - QUICKLINKS/Staff.md
       - QUICKLINKS/Parents.md
       - QUICKLINKS/.keep
       - Students.md
