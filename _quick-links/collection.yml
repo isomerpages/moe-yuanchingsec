@@ -4,5 +4,4 @@ collections:
     order:
       - QUICKLINKS/Parents.md
       - QUICKLINKS/.keep
-      - Staff.md
       - Students.md
