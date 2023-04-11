@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - Happenings/February.md
       - Happenings/January.md
       - Happenings/Happenings.md
       - Happenings/.keep
