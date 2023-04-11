@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: QUICKLINKS
           description: For Staff, Parents & Students
-          url: /quick-links/quicklinks/
+          url: /quick-links/QUICKLINKS/
         - title: School Calendar
           description: ""
           url: /quick-links/for-students/school-calendar/
