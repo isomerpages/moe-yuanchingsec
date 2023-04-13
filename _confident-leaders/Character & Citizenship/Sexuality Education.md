@@ -77,34 +77,33 @@ a. Science <br> b. Character and Citizenship Education (CCE) </p>
 
 <center><strong> Secondary 5 </strong></center>
 
-| UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
-|---|---|---|---|
-|  Respectful Relationships &amp; Safety    |  1<br>(60 mins) | • Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>• Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>• Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | Term 1 Week 6  |
+| UNIT | Lesson Title | Lesson Overview | Lesson Objectives<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
+|---|---|---|---|---|
+|  Respectful Relationships &amp; Safety    |  This is Where I Draw the Line <br>(60 mins) | In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others. | •Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 1 Week 65 |
 | | | 
- 
- _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE 2021 Secondary 4 Lesson 1, "Levelling the Ground" from the unit, "Respectful Relationship and Safety"._
+
  
 ### eTeens&nbsp;Programme&nbsp;
 
-8.&nbsp;&nbsp; &nbsp;_eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.
+8.&nbsp;&nbsp; &nbsp;_eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_  is conducted in two segments – a mass talk segment and a classroom-based programme.
 
-9.&nbsp;&nbsp; &nbsp;Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.
+9.&nbsp;&nbsp; &nbsp;Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
   
-**At Yuan Ching Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2022:**
+**At Yuan Ching Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2023:**
 
-| Topics/Lessons | Programme Learning Objectives | Time Period<br>(e.g. Term 3 Week 9) |
+| Topics/Lessons | Programme Learning Objectives | Time Period<br> |
 |---|---|---|
-| Mass Talk by HPB appointed vendor | • Awareness of the different STIs and HIV/AIDS<br>• Modes of transmission<br>• Modes of protection, specifically on how the condom is used<br>• Consequences and impact of STIs/HIV | Term 2 Week 7 |
-| Classroom-based Lesson | • Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 2 Week 8 |
+| Mass Talk by HPB appointed vendor | • Awareness of the different STIs and HIV/AIDS<br>• Modes of transmission<br>• Modes of protection, specifically on how the condom is used<br>• Consequences and impact of STIs/HIV | Term 2 Week 8 |
+| Classroom-based Lesson | • Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 2 Week 9 |
 | | | 
 
 ### Information for Parents
 
 10.  Parents may opt their children out of Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.  Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form on the Parents' Gateway App. The completed form is to be submitted by 31/01/2022.
+11.  Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form on the Parents' Gateway App. The completed form is to be submitted by 31/01/2023.
 
-12.  Parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form on the Parents' Gateway App. The completed form is to be submitted by 31/01/2022.
+12.  Parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form on the Parents' Gateway App. The completed form is to be submitted by 31/01/2023.
 
 13.  Parents can contact the school at 62612489 or&nbsp;[ycss@moe.edu.sg](mailto:ycss@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
 
