@@ -2,6 +2,7 @@
 title: Students
 permalink: /quick-links/students/
 description: ""
+third_nav_title: QUICKLINKS
 ---
 | Academic | Non-Academic | |
 | -------- | -------- | -------- |

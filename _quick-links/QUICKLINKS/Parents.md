@@ -2,6 +2,7 @@
 title: Parents
 permalink: /quick-links/parents/
 description: ""
+third_nav_title: QUICKLINKS
 ---
 * [Financial Assistance Scheme (FAS)](/others/financial-assistance-scheme-fas/)
 

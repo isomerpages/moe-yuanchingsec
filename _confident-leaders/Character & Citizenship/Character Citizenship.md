@@ -1,8 +1,8 @@
 ---
-title: Character & Citizenship
+title: Character Citizenship
 permalink: /confident-leaders/character-n-citizenship/
 description: ""
-third_nav_title: Character & Citizenship
+third_nav_title: Character &amp; Citizenship
 ---
 ### OVERVIEW
 
@@ -23,8 +23,8 @@ CCE @ Yuan Ching comprises of the following components with its supporting key p
 
 | Components in CCE | Key Programmes |
 |---|---|
-| CCE Curriculum | • National Education (NE)<br>• Sexuality Education (SEd)<br>• Mental Health (MH)<br>• Education & Career Guidance (ECG)<br>• Family Education (FE)<br>• Cyber Wellness (CW) |
-| School-based CCE | • Social Skills Booster (SSB)<br>• Peer Support Relationships (PSR)<br>• The ABCD Thinking Habits of YCS<br>• Value of the Month (VOTM)<br>• Guiding & Empowering students for Affiliation & Resilience to Unlock their Potential (GEAR-UP) Programme<br>• Assembly Programme |
+| CCE Curriculum | • National Education (NE)<br>• Sexuality Education (SEd)<br>• Mental Health (MH)<br>• Education &amp; Career Guidance (ECG)<br>• Family Education (FE)<br>• Cyber Wellness (CW) |
+| School-based CCE | • Social Skills Booster (SSB)<br>• Peer Support Relationships (PSR)<br>• The ABCD Thinking Habits of YCS<br>• Value of the Month (VOTM)<br>• Guiding &amp; Empowering students for Affiliation &amp; Resilience to Unlock their Potential (GEAR-UP) Programme<br>• Assembly Programme |
 | Citizenship Education | • National Education (NE)<br>  ◦ NE Commemorative Days<br>  ◦ NE Learning Journeys (LJs)<br>  ◦ NE Ambassadors<br>• International Students Programme<br>• Trips for International Experience (TIE)<br>• Values-in-Action (VIA) Programme |
 | Student Leadership | • Personal Leadership<br>• Peer Leadership<br>• Inspiring Leadership |
 | | |
@@ -46,17 +46,17 @@ CCE @ Yuan Ching comprises of the following components with its supporting key p
 
 <figure>
 <img src="/images/CCE-4.png">
-<figcaption> Virtual Education & Career Guidance (ECG) Fair as an integral of Home-based-Learning. </figcaption>
+<figcaption> Virtual Education &amp; Career Guidance (ECG) Fair as an integral of Home-based-Learning. </figcaption>
 </figure>
 
 <figure>
 <img src="/images/CCE-5.png">
-<figcaption> Spreading positivity and cultivating character & citizenship through the Yuan Ching Webinar Series. </figcaption>
+<figcaption> Spreading positivity and cultivating character &amp; citizenship through the Yuan Ching Webinar Series. </figcaption>
 </figure>
 
 <figure>
 <img src="/images/CCE-6.png">
-<figcaption> Spreading positivity and cultivating character & citizenship through the Yuan Ching Webinar Series.
+<figcaption> Spreading positivity and cultivating character &amp; citizenship through the Yuan Ching Webinar Series.
 </figcaption>
 </figure>
 

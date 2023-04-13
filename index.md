@@ -8,37 +8,37 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Parents
-          description: ""
-          url: /quick-links/parents/
-        - title: Staff
-          description: ""
-          url: /quick-links/staff/
-        - title: Students
-          description: ""
+        - title: QUICKLINKS
+          description: For Staff, Parents & Students
           url: /quick-links/students/
         - title: School Calendar
           description: ""
           url: /quick-links/for-students/school-calendar/
+        - title: Happenings
+          description: ""
+          url: /happenings/happenings/january2023/
+        - title: Announcements
+          description: ""
+          url: /announcements/
       title: Yuan Ching Secondary School
       subtitle: Efforts Today Rewards Tomorrow
       background: /images/Hero banner (2).png
-  - resources:
-      title: "Announcements "
-      button: More
   - infopic:
-      title: Enriching Minds, Unleashing Potential, Impacting Lives
-      subtitle: School Mission
-      image: /images/MISSION_ YCSS2022 Day2 (76).jpg
+      title: Parent Support Group
+      subtitle: Yuan Ching Secondary School
+      description: Scan QR code to join Yuan Ching PSG!
+      button: Find out more about Yuan Ching Secondary PSG
+      url: /about-ycss/our-people/parent-support-group/
+      image: /images/PSG register.png
       alt: Image alt text
   - infopic:
-      title: Every Individual a Thinker, an Achiever, a Concerned Citizen
-      subtitle: School Vision
-      image: /images/VISSION_ YCSS2022 Day2 (77)-min.jpg
-      alt: Image alt text
-  - infopic:
-      title: IExCEL-Integrity,Excellence, Compassion, Enterprise, Loyalty
-      subtitle: School Values
-      image: /images/VALUES2_ YCSS2022 Day2 (108)-min.jpg
+      title: 45 years of Yuan Ching
+      subtitle: Yuan Ching Secondary School
+      description: Submit your fondest memories of any place, experiences or people of
+        Yuan Ching that make Yuan Ching a home for us all!  Our Stories, Our
+        Yuan Ching!
+      button: Submit here
+      url: https://for.edu.sg/yc45-memoriesgallery
+      image: /images/45 years_.JPG
       alt: Image alt text
 ---

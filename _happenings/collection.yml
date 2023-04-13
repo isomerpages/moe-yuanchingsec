@@ -1,0 +1,9 @@
+collections:
+  happenings:
+    output: true
+    order:
+      - Happenings/April.md
+      - Happenings/March.md
+      - Happenings/February.md
+      - Happenings/January.md
+      - Happenings/.keep
