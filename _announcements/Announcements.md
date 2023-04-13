@@ -25,7 +25,7 @@ Information on their learning tasks/activities/ assignments can be found on ICT@
 -----
 
 
-### Parents' Connect Sep/Dec 2023
+### Parents' Connect 2023
 
 Dear Parents/Guardians
 
@@ -69,6 +69,8 @@ Read our latest issue of YC Scoop [here](https://yuanchingsec-moe-edu-sg-admin.
 ### Providing Authentic Learning Experiences with PLDs
 
 Yuan Ching Secondary School (YCSS) has adopted a department-based approach to leverage the affordance of PLDs to design for active learning within authentic learning environments.
+
+Read [here](https://sites.google.com/moe.edu.sg/personaliseddigitallearningpro/good-stories/providing-authentic-learning-experiences-with-plds-yuan-ching-sec?authuser=0) for the article featured in MOE Educational Technology (ETD)’s Good Stories!
 
 ---------
 
