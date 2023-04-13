@@ -19,3 +19,9 @@ YCSS Team C: Gold Award
 ### SYF
 
 ### Speakers Corner
+
+![](/images/speaker%20corner%2001.jpeg)
+
+![](/images/speakers%20corner%2002.jpeg)
+
+We had our second Speaker's Corner Event. The topic was on Sustainability in Action.
