@@ -3,11 +3,18 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-# 2023 March Holiday Programme
+### Class Timetable Term 2 (2023)
+
+Access it [here](https://yuanchingsec.edupage.org/timetable/)!
+
+
+
+### 2023 March Holiday Programme
 
 
 Please refer [here](/quick-links/for-students/school-daily-routines/school-holiday-programme/) for the detailed schedule of the enrichment programmes and remedial sessions on the 13th and 14th March 2023.
 
+----
 
 ### Blended Learning Day 2023
 
@@ -18,9 +25,19 @@ Information on their learning tasks/activities/ assignments can be found on ICT@
 -----
 
 
-### Parents' Connect Sep/Dec 2022
+### Parents' Connect Sep/Dec 2023
 
-Read [here](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-parents/yc-scoop/) for the Parents' Connect Sep/Dec 2022 issue!
+Dear Parents/Guardians
+
+The latest issue of Parents Connect is attached. 
+
+[March/April](/files/Parents%20Connect%20Mar-Apr%202023.pdf)
+
+Working in partnership with you to nurture your child/ward to become confident and engaged learners. 
+
+Thank you. 
+
+Yuan Ching Secondary School
 
 -----
 
