@@ -19,7 +19,7 @@ sections:
           url: /happenings/happenings/january2023/
         - title: Announcements
           description: ""
-          url: ""
+          url: /announcements/
       title: Yuan Ching Secondary School
       subtitle: Efforts Today Rewards Tomorrow
       background: /images/Hero banner (2).png
