@@ -22,7 +22,7 @@ sections:
           url: /announcements/
       title: Yuan Ching Secondary School
       subtitle: Efforts Today Rewards Tomorrow
-      background: /images/Hero banner (2).png
+      background: /images/homepage isomer.gif
   - infopic:
       title: Parent Support Group
       subtitle: Yuan Ching Secondary School
