@@ -28,7 +28,7 @@ You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education)
 4.&nbsp;&nbsp; &nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum. 
 
 5.&nbsp;&nbsp; &nbsp;The subjects that incorporate topics on sexuality include: <br>
-a. Science <br> b. Character and Citizenship Education (CCE) <p>
+a. Science <br> b. Character and Citizenship Education (CCE)
 
 <u><strong> Sexuality Education Lessons: </strong></u>
 
@@ -38,7 +38,7 @@ a. Science <br> b. Character and Citizenship Education (CCE) <p>
 
 ### At Yuan Ching Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2023:
 
-</p><center><strong> Secondary 1 </strong></center>
+<center><strong> Secondary 1 </strong></center>
 
 | UNIT | Lesson Title/ Duration | Lesson Overview | Lesson Objectives<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) | 
 |---|---|---|---| ---|
