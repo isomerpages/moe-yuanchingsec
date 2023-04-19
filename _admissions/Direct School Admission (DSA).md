@@ -13,7 +13,7 @@ For 2022, Yuan Ching Secondary School will offer Secondary One places to aspirin
 
 More information on our ALP can be found through the following link:
 
-[Yuan Ching Secondary School - Applied Learning Programme](https://www.yuanchingsec.moe.edu.sg/engaged-learners/applied-learning-programme-marine-robotics/)
+[Yuan Ching Secondary School - Applied Learning Programme](/engaged-learners/applied-learning-programme-marine-robotics/)
 
 The selection criteria and process for the talent areas will be updated from early-May. For more 
 information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec.
