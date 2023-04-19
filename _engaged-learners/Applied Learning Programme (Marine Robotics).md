@@ -45,6 +45,6 @@ Our ALP programme also empowers students to take ownership of their learning and
 |![](/images/programming%20for%20competitions.PNG)| ![](/images/tech%20alley.PNG)|  |
 | **Programming for External Competitions**    | **Exploring STEM in our Tech Alley**  |      |
 |![](/images/coding%20through%20games.PNG)| ![](/images/ai%20bootcamp.PNG)|  |
-| **Learning Coding through Games**    | ****Exposure to Latest Technology - SenseTime AI Bootcamp****  |      |
+| **Learning Coding through Games**    | **Exposure to Latest Technology - SenseTime AI Bootcamp**  |      |
 |![](/images/ai%20camera.PNG)| ![](/images/drones.PNG)|  |
-| ****Exploring AI Camera and its Impact on Transportation****    | ******Learning about Drones and its Applications******  |      |
+| **Exploring AI Camera and its Impact on Transportation**   | **Learning about Drones and its Applications** |      |
