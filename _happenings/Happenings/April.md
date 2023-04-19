@@ -18,6 +18,35 @@ YCSS Team C: Gold Award
 
 ### SYF
 
+**Chinese Dance** <br>
+
+![](/images/chinese%20dance%20syf.PNG)
+
+We are pleased to announce that our Chinese Dancers have achieved **Distinction** in this year's SYF presentation! Our girls have been practicing relentlessly, honing and perfecting their craft right up till the very day of their presentation. We are proud of how far they have grown. <br>
+Congratulations to the Chinese Dance CCA!
+
+**Concert Band**
+
+![](/images/concert%20band%20syf.jpg)
+
+Our Concert Band CCA has performed for SYF on 17 April 2023. Congratulations to the Concert Band CCA members for their hardwork and the BAND-tastic music!
+
+**English Drama CCA**
+
+![](/images/drama%20syf.PNG)
+
+Our English Drama CCA has performed for SYF on 17 April 2023.<br>
+Congratulations to the English Drama CCA members for their hardwork and poignant performance!
+
+**Indian Dance**
+
+![Indian Dance SYF 2023](/images/indian%20dance%20syf.PNG)
+
+![syf 02](/images/indian%20dance%20syf%2002.PNG)
+
+Our Indian dancers has performed for SYF on 18 April 2023. <br>
+Congratulations to the Indian Dance CCA members for their hardwork and the IND-credible dancers!
+
 ### Speakers Corner
 
 ![](/images/speaker%20corner%2001.jpeg)
