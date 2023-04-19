@@ -48,4 +48,3 @@ Our ALP programme also empowers students to take ownership of their learning and
 | **Learning Coding through Games**    | ****Exposure to Latest Technology - SenseTime AI Bootcamp****  |      |
 |![](/images/ai%20camera.PNG)| ![](/images/drones.PNG)|  |
 | ****Exploring AI Camera and its Impact on Transportation****    | ******Learning about Drones and its Applications******  |      |
-
