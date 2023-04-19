@@ -14,11 +14,11 @@ Starting from lower secondary levels, our students will acquire the essential sk
 **_Tier 1 – Construction of SeaPerch Through Design Thinking_**
 
 | | | 
-| -------- | -------- |
-| **1. Hands-on learning in prototyping the SeaPerch** | **2. Testing out the Remote Control** | 
+| -------- | -------- | 
 | <img src="/images/Hands-on Learning in Prototyping the Seaperch.jpg" style="width:200px;"> | <img src="/images/Testing Out the Remote Control Seaperch.jpg" style="width:200px;"> | 
-| **3. Launching their SeaPerch** | **4. Launching their SeaPerch** |
+| **1. Hands-on learning in prototyping the SeaPerch** | **2. Testing out the Remote Control** | 
 | <img src="/images/Launching the Seaperch.jpg" style="width:200px;"> | <img src="/images/Launching Their Seaperch.jpg" style="width:500px;"> |
+| **3. Launching their SeaPerch** | **4. Launching their SeaPerch** |
 | | |
 
 
@@ -42,7 +42,10 @@ Our ALP programme also empowers students to take ownership of their learning and
 |![](/images/participating%20in%20underwater%20challenge.PNG)| ![](/images/excelling%20in%20external%20competitions.PNG) |  |
 | -------- | -------- | -------- |
 | **Participating in Underwater Challenge**    | **Excelling in External Competitions**   |      |
-|![](/images/programming%20for%20competitions.PNG)| ![](/images/tier%201_06.png)|  |
+|![](/images/programming%20for%20competitions.PNG)| ![](/images/tech%20alley.PNG)|  |
 | **Programming for External Competitions**    | **Exploring STEM in our Tech Alley**  |      |
-
+|![](/images/coding%20through%20games.PNG)| ![](/images/ai%20bootcamp.PNG)|  |
+| **Learning Coding through Games**    | ****Exposure to Latest Technology - SenseTime AI Bootcamp****  |      |
+|![](/images/ai%20camera.PNG)| ![](/images/drones.PNG)|  |
+| ****Exploring AI Camera and its Impact on Transportation****    | ******Learning about Drones and its Applications******  |      |
 
