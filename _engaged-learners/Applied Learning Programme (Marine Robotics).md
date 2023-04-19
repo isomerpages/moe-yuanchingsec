@@ -39,17 +39,10 @@ Our ALP programme also empowers students to take ownership of their learning and
 **_Tier 2 – Talent Development - Competitions and Exposure to Industry_**
 
 
-|![](/images/tier%201_03.jpg)|  ![](/images/tier%201_01.jpg) |  |
+|![](/images/participating%20in%20underwater%20challenge.PNG)| ![](/images/excelling%20in%20external%20competitions.PNG) |  |
 | -------- | -------- | -------- |
 | **Participating in Underwater Challenge**    | **Excelling in External Competitions**   |      |
-|![](/images/tier%201_02.jpg)| ![](/images/tier%201_06.png)|  |
+|![](/images/programming%20for%20competitions.PNG)| ![](/images/tier%201_06.png)|  |
 | **Programming for External Competitions**    | **Exploring STEM in our Tech Alley**  |      |
 
 
-
-
-_Tier 2 Talent Development – Competitions and Exposure to Industry_
-
-![alp](/images/ALP%20tier%202.jpg)
-
-![drone2](/images/Drone%202%20alp.jpg)
