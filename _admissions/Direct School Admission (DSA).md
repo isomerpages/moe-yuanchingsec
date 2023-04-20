@@ -9,7 +9,7 @@ description: ""
 
 Introduced in 2004, the Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a secondary school, based on a diverse range of specific and non-academic achievements and talents that they can demonstrate beyond the Primary School Leaving Examination (PSLE).  
 
-For 2022, Yuan Ching Secondary School will offer Secondary One places to aspiring students with the strong desire to be developed under one of our distinctive programmes - Applied Learning Programme (ALP). Our ALP is in the category of Science, Technology, Engineering and Mathematics (Stem), focusing on Marine Robotics.
+For 2023, Yuan Ching Secondary School will offer Secondary One places to aspiring students with the strong desire to be developed under one of our distinctive programmes - Applied Learning Programme (ALP). Our ALP is in the category of Science, Technology, Engineering and Mathematics (Stem), focusing on Marine Robotics.
 
 More information on our ALP can be found through the following link:
 
