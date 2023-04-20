@@ -3,6 +3,21 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+### YC Cross Country Run
+
+![](/images/yccrosscountry23.PNG)
+
+Dear Parents and Alumni, our Annual Cross Country will return after a 4-year hiatus!
+
+Join us in this mass sporting event as we have included other activities, too, as part of our 45th Anniversary Celebrations. We will be having a fun walk with quizzes to be completed along the way, a lucky draw, a food carnival, a birthday celebration and a commemorative 45th Anniversary T-shirt for you.
+
+If you would like to participate as a volunteer or join us for the fun walk or competitive run, sign up using the link by 21 April, Friday.
+
+We will get in touch with you soon. While “slots” last! 💪
+
+[https://go.gov.sg/yccrosscountry23](https://go.gov.sg/yccrosscountry23)
+
+
 ### Class Timetable Term 2 (2023)
 
 Access it [here](https://yuanchingsec.edupage.org/timetable/)!
