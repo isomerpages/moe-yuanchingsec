@@ -53,4 +53,4 @@ Congratulations to the Indian Dance CCA members for their hardwork and the IND-c
 
 ![](/images/speakers%20corner%2002.jpeg)
 
-We had our second Speaker's Corner Event. The topic was on Sustainability in Action.
+We had our second Speaker's Corner Event on 10 April 2023. The topic was on Sustainability in Action. Our students had a great time and well done to our student presenters!
