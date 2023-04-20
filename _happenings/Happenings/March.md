@@ -16,7 +16,7 @@ _SC President Denise facilitating her table discussion on 4 Mar 2023_
 Our students are indeed very excited to explore fun lessons with their iPads!
 
 Sec 1 students have collected and unboxed their devices on 22 March during curriculum time. 
-You can refer to https://go.gov.sg/pdlpparenthandbook for more information on learning with a
+You can refer to [https://go.gov.sg/pdlpparenthandbook](https://go.gov.sg/pdlpparenthandbook) for more information on learning with a
 personal leaning device and tips and resources on supporting your child/ward in his/her digital
 learning journey. 
 
