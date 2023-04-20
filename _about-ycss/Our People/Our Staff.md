@@ -107,7 +107,6 @@ third_nav_title: Our People
 | Mr Kelvin Low Giau Ming | Education Workshop Instructor (EWI) |
 | MrJofri Bin Osman | Education Workshop Instructor (EWI) |
 | Mdm Cheong Wai Cheng Connie | Corporate Support Officer |
-| Ms Norhasimah Karim | Corporate Support Officer |
 | Mr Viknesvaran | Desktop Engineer |
 | Mr Charef Abderrahmane | Desktop Engineer |
 | Mdm Goh Choo Noi  | Operation Support Officer  |
