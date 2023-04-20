@@ -16,9 +16,9 @@ Starting from lower secondary levels, our students will acquire the essential sk
 | | | 
 | -------- | -------- | 
 | <img src="/images/Hands-on Learning in Prototyping the Seaperch.jpg" style="width:200px;"> | <img src="/images/Testing Out the Remote Control Seaperch.jpg" style="width:200px;"> | 
-| **1. Hands-on learning in prototyping the SeaPerch** | **2. Testing out the Remote Control** | 
+| **Hands-on learning in prototyping the SeaPerch** | **Prototyping a Remote Controlled Wireless Seaperch** | 
 | <img src="/images/Launching the Seaperch.jpg" style="width:200px;"> | <img src="/images/Launching Their Seaperch.jpg" style="width:500px;"> |
-| **3. Launching their SeaPerch** | **4. Launching their SeaPerch** |
+| **Applying Design Thinking in Designing their SeaPerch** | **Launching their SeaPerch** |
 | | |
 
 
