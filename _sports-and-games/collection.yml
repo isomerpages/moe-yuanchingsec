@@ -2,7 +2,6 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Sports & Games/Test Page.md
       - Sports & Games/.keep
       - Sports & Games/Basketball.md
       - Sports & Games/Football (Boys).md
