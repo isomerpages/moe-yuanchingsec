@@ -2,7 +2,7 @@
 title: Dragon and Lion Dance
 permalink: /engaged-learners/co-curricular-activities-cca/visual-n-performing-arts/dragon-and-lion-dance/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 ### Introduction
 
