@@ -3,6 +3,9 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+### School Holiday on 24th April 2023
+Please be informed that 24 April 2023 (Mon) is a school holiday. The school will be closed on that day. Thank you.
+
 ### YC Cross Country Run
 
 ![](/images/yccrosscountry23.PNG)
