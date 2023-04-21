@@ -12,7 +12,7 @@ The National Police Cadet Corps (NPCC) of Yuan Ching Secondary School has always
 ### CCA Activities
 *   Drills
 *   Campcraft Training
-*   Revolver Shooting (Sec 2 & 3)
+*   Revolver Shooting (Sec 2 &amp; 3)
 *   Annual Unit Camp (Sec 1)
 *   Adventure Training Camp (Sec 2)
 *   Survival Training Camp (Sec 3)
@@ -52,7 +52,7 @@ Venue (2) : Forum / BB
 | | | 
 | -------- | -------- |
 | **1. Adventurous / Survival Training Camp** | **2. Fun Climbing (Sec 1)** | 
-| <img src="/images/NPCC-1.jpg" style="width:400px;"/> | <img src="/images/NPCC-2.jpg" style="width:300px;"/> | 
+| <img src="/images/NPCC-1.jpg" style="width:400px;"> | <img src="/images/NPCC-2.jpg" style="width:300px;"> | 
 | **3. Canoe Polo (Sec 2)** | **4. Marksmanship Training (Sec 3)** |
-| <img src="/images/NPCC-3.jpg" style="width:300px;"/> | <img src="/images/NPCC-4.jpg" style="width:350px;"/> |
+| <img src="/images/NPCC-3.jpg" style="width:300px;"> | <img src="/images/NPCC-4.jpg" style="width:350px;"> |
 | | |

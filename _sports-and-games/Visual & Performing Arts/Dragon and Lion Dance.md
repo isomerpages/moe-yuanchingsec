@@ -1,12 +1,12 @@
 ---
 title: Dragon and Lion Dance
-permalink: /engaged-learners/co-curricular-activities-cca/clubs-n-societies/dragon-and-lion-dance/
+permalink: /engaged-learners/co-curricular-activities-cca/visual-n-performing-arts/dragon-and-lion-dance/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Visual &amp; Performing Arts
 ---
 ### Introduction
 
-Yuan Ching Secondary School Dragon & Lion Dance Troupe was established in 2006 to promote the cultural art of Dragon and Lion Dance. Over the years, the troupe recruited students from different ethnic and religious backgrounds who made Dragon and Lion Dance as their ideal sport. In the process of mastering the dance moves under the quality training our CCA members undergo, they not only find their minds and bodies being strengthened, but also grow into young men and women of resilience and fine character.
+Yuan Ching Secondary School Dragon &amp; Lion Dance Troupe was established in 2006 to promote the cultural art of Dragon and Lion Dance. Over the years, the troupe recruited students from different ethnic and religious backgrounds who made Dragon and Lion Dance as their ideal sport. In the process of mastering the dance moves under the quality training our CCA members undergo, they not only find their minds and bodies being strengthened, but also grow into young men and women of resilience and fine character.
 
 ### CCA Activities
 
@@ -27,7 +27,7 @@ Yuan Ching Secondary School Dragon & Lion Dance Troupe was established in 2006 t
 
 <u><strong> 2018: </strong></u>
 
-*   14th NTU Institutional Lion Dance Competition – Gold & Silver Lion Award
+*   14th NTU Institutional Lion Dance Competition – Gold &amp; Silver Lion Award
 *   3rd Foo Chow Dragon Dance Competition – Bronze Dragon Award
 *   Speed Dragon Challenge – Silver Dragon Award
 *   WEAVE Arts Festival at Gateway Theatre

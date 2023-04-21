@@ -44,8 +44,8 @@ Congratulations to the English Drama CCA members for their hardwork and poignant
 
 ![syf 02](/images/indian%20dance%20syf%2002.PNG)
 
-Our Indian dancers has performed for SYF on 18 April 2023. <br>
-Congratulations to the Indian Dance CCA members for their hardwork and the IND-credible dancers!
+Our Indian dancers has performed for SYF on 18 April 2023. <br> Indian dance have achieved **Certificate of Accomplishment** for SYF!
+Congratulations to the Indian Dance CCA members for their hardwork and the IND-credible dance!
 
 ### Speakers Corner
 
@@ -53,4 +53,4 @@ Congratulations to the Indian Dance CCA members for their hardwork and the IND-c
 
 ![](/images/speakers%20corner%2002.jpeg)
 
-We had our second Speaker's Corner Event. The topic was on Sustainability in Action.
+We had our second Speaker's Corner Event on 10 April 2023. The topic was on Sustainability in Action. Our students had a great time and well done to our student presenters!
