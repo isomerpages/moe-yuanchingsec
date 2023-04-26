@@ -53,7 +53,7 @@ Mdm Zubaidah Ariffin
 
 Odd Tuesdays: 3pm to 6pm<br>
 Odd Friday: 2.30pm to 5.30pm <br>
-Even Tuesday & Thursday: 3pm to 6pm
+Even Tuesday &amp; Thursday: 3pm to 6pm
 
 ### Venue
 

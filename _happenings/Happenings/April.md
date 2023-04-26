@@ -29,7 +29,7 @@ Congratulations to the Chinese Dance CCA!
 
 ![](/images/concert%20band%20syf.jpg)
 
-Our Concert Band CCA has performed for SYF on 17 April 2023. Congratulations to the Concert Band CCA members for their hardwork and the BAND-tastic music!
+Our Concert Band CCA has performed for SYF on 17 April 2023. Concert Band have achieved **Certificate of Accomplishment** for their SYF presentation! Congratulations to the Concert Band CCA members for their hardwork and the BAND-tastic music!
 
 **English Drama CCA**
 
