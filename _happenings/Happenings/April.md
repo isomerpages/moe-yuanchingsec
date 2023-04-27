@@ -4,6 +4,16 @@ permalink: /happenings/happenings/april2023/
 description: ""
 third_nav_title: Happenings
 ---
+### Mental Health Campaign
+On 25 April 2023, our Sec 3 Peer Support Leaders shared with the school community about the importance of mental wellness. They shared the Health Promotion Board (HPB) campaign "It's OKAY to Reach Out" campaign
+
+
+tips on how to reach out by remembering this acronym - It is **OKAY** to reach out! 
+
+
+
+
+
 ### 2023 NTU Institutional Lion Dance Competition 
 
 ![](/images/ntu%20lion%20dance.jpeg)
