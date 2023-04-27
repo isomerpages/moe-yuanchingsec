@@ -5,13 +5,11 @@ description: ""
 third_nav_title: Happenings
 ---
 ### Mental Health Campaign
-On 25 April 2023, our Sec 3 Peer Support Leaders shared with the school community about the importance of mental wellness. They shared the Health Promotion Board (HPB) campaign "It's OKAY to Reach Out" campaign
+On 25 April 2023, our Sec 3 Peer Support Leaders shared with the school community about the importance of mental wellness. They shared on the Health Promotion Board (HPB) campaign called "It's **OKAY** to Reach Out".
 
+![](/images/mental%20health%20campaign%20april.PNG)
 
-tips on how to reach out by remembering this acronym - It is **OKAY** to reach out! 
-
-
-
+![](/images/term%202%20-%20mental%20wellness%20campaign%202023.jpg)
 
 
 ### 2023 NTU Institutional Lion Dance Competition 
