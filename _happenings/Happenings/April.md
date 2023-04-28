@@ -57,6 +57,14 @@ Congratulations to the English Drama CCA members for their hardwork and poignant
 Our Indian dancers has performed for SYF on 18 April 2023. <br> Indian dance have achieved **Certificate of Accomplishment** for SYF!
 Congratulations to the Indian Dance CCA members for their hardwork and the IND-credible dance!
 
+**Malay Dance**
+
+![](/images/malay%20dance%20syf.jpeg)
+
+Our Malay dancers has performed for SYF on 26 April 2023. <br> Malay dance have achieved **Certificate of Accomplishment** for SYF!
+Congratulations to the Malay Dance CCA members for their hardwork and expressive dance!
+
+
 ### Speakers Corner
 
 ![](/images/speaker%20corner%2001.jpeg)
