@@ -5,9 +5,11 @@ description: ""
 third_nav_title: Happenings
 ---
 ### Mental Health Campaign
-On 25 April 2023, our Sec 3 Peer Support Leaders shared with the school community about the importance of mental wellness. They shared on the Health Promotion Board (HPB) campaign called "It's **OKAY** to Reach Out".
+On 25 April 2023, our Sec 3 Peer Support Leaders shared with the school community about the importance of mental wellness. 
 
 ![](/images/mental%20health%20campaign%20april.PNG)
+
+The school has also addressed the Health Promotion Board (HPB) campaign called "It's **OKAY** to Reach Out" as the students; iPad wallpaper!
 
 ![](/images/term%202%20-%20mental%20wellness%20campaign%202023.jpg)
 
