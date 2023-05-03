@@ -45,8 +45,8 @@ Our Concert Band CCA has performed for SYF on 17 April 2023. Concert Band have a
 
 ![](/images/drama%20syf.PNG)
 
-Our English Drama CCA has performed for SYF on 17 April 2023.<br>
-Congratulations to the English Drama CCA members for their hardwork and poignant performance!
+Our English Drama CCA has performed for SYF on 17 April 2023.<br> English Drama has achieved **Certificate of Accomplishment** for SYF! 
+Congratulations to the English Drama CCA members for their hardwork and poignant showcase!
 
 **Indian Dance**
 
