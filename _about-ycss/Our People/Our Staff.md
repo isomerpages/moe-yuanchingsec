@@ -49,7 +49,7 @@ third_nav_title: Our People
 | 3 Excellence | Mr Chua Kok Yew | Ms Arulushamaheswary |  | 
 | 3 Compassion | Ms Angela Lee Mui Huang | Ms Vilochana D/O Veloo |  |
 | 3 Enterprise | Ms Siti Nurshila Bte Roslan | Ms Jasmine Sujatha |  |
-| 3 Respect | Mdm Ng Li Mei | Ms Ashley Tan Mei See | Ms Audrey Goh Xin Yun  |
+| 3 Respect | Mdm Ng Li Mei | Ms Audrey Goh Xin Yun  |
 | 3 Resilience | Mdm Musniffa Bte Mustaffa | Mdm Chen Cui Xia| Mr Isaac Chong Xiang Yang |
 | 3 Harmony | Mr Mohd Fahmy B Abdul Latif | Ms Yeo Jie Ting
 | 3 Loyalty | Mr Tommy Cheng | Mr Segar Muniandy | Mr Zachary Wong Jiann Tsong |
