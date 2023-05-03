@@ -4,6 +4,20 @@ permalink: /happenings/happenings/april2023/
 description: ""
 third_nav_title: Happenings
 ---
+### Mental Health Campaign
+On 25 April 2023, our Sec 3 Peer Support Leaders shared with the school community about the importance of mental wellness. 
+
+![](/images/mental%20health%20campaign%20april.PNG)
+
+The school has also addressed the Health Promotion Board (HPB) campaign called "It's **OKAY** to Reach Out" as the students' iPad wallpaper!
+
+![](/images/term%202%20-%20mental%20wellness%20campaign%202023.jpg)
+
+It’s okay to reach out! Ycss had a series of activities and discussions surrounding the topic on mental wellness.
+
+![](/images/mental%20health%20campaign%20april02.PNG)
+
+
 ### 2023 NTU Institutional Lion Dance Competition 
 
 ![](/images/ntu%20lion%20dance.jpeg)
@@ -35,8 +49,8 @@ Our Concert Band CCA has performed for SYF on 17 April 2023. Concert Band have a
 
 ![](/images/drama%20syf.PNG)
 
-Our English Drama CCA has performed for SYF on 17 April 2023.<br>
-Congratulations to the English Drama CCA members for their hardwork and poignant performance!
+Our English Drama CCA has performed for SYF on 17 April 2023.<br> English Drama has achieved **Certificate of Accomplishment** for SYF! 
+Congratulations to the English Drama CCA members for their hardwork and poignant showcase!
 
 **Indian Dance**
 
@@ -46,6 +60,14 @@ Congratulations to the English Drama CCA members for their hardwork and poignant
 
 Our Indian dancers has performed for SYF on 18 April 2023. <br> Indian dance have achieved **Certificate of Accomplishment** for SYF!
 Congratulations to the Indian Dance CCA members for their hardwork and the IND-credible dance!
+
+**Malay Dance**
+
+![](/images/malay%20dance%20syf.jpeg)
+
+Our Malay dancers has performed for SYF on 26 April 2023. <br> Malay dance have achieved **Certificate of Accomplishment** for SYF!
+Congratulations to the Malay Dance CCA members for their hardwork and expressive dance!
+
 
 ### Speakers Corner
 
