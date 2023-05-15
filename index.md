@@ -26,7 +26,7 @@ sections:
   - infopic:
       title: Stories of Alumni
       button: Read more
-      url: /yuanchingsec
+      url: /resource/alumni/storiesofalumni/
       image: /images/alumni_shawn chia wei en.jpeg
       alt: Image alt text
   - infopic:
