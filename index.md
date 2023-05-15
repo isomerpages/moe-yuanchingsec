@@ -24,6 +24,12 @@ sections:
       subtitle: Efforts Today Rewards Tomorrow
       background: /images/Hero banner (2).png
   - infopic:
+      title: Stories of Alumni
+      button: Read more
+      url: /yuanchingsec
+      image: /images/alumni_shawn chia wei en.jpeg
+      alt: Image alt text
+  - infopic:
       title: Parent Support Group
       subtitle: Yuan Ching Secondary School
       description: Scan QR code to join Yuan Ching PSG!
