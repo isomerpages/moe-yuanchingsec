@@ -29,6 +29,7 @@ sections:
       url: /resource/alumni/storiesofalumni/
       image: /images/alumni_shawn chia wei en.jpeg
       alt: Image alt text
+      subtitle: Yuan Ching Secondary School
   - infopic:
       title: Parent Support Group
       subtitle: Yuan Ching Secondary School
