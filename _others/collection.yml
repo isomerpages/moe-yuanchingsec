@@ -2,6 +2,6 @@ collections:
   others:
     output: true
     order:
-      - YC Scoop.md
       - Parents' Connect.md
+      - YC Scoop.md
       - Parents Gateway.md

@@ -85,6 +85,7 @@ third_nav_title: Our People
 | Mrs Siva Thavaranee Rasiah | Teacher |
 | Mr Victor Tan Yian Liang | Teacher |
 | Mdm Wong Ling Ling | Teacher |
+| Mdm Wong Soo Hsin | Teacher |
 | Mdm Yak Guat Eng | Teacher |
 | Mdm Kang Jean Nie | School Counsellor |
 | Ms Khoo Chee Suan | School Counsellor |

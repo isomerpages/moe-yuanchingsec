@@ -43,7 +43,6 @@ third_nav_title: Our People
 | Mdm Chai Jiamin | Subject Head/ PE & CCA |
 | Ms Arulushamaheswary Anbalagan | Subject Head/ Student Leadership |
 | Mr Soong Mun Fye | Subject Head/ Student Management |
-| Ms Nan Zhonghua | Subject Head/ Student Wellbeing |
 | Mdm Koh Jie Ying | Assistant Year Head (Upper Sec) |
 | Mr Lai Weng Keong | Assistant Year Head (Lower Sec) |
 | Ms Tsering Choden | Subject Head/ Infocomm Technology (Covering) |
