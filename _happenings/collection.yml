@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Happenings/April 2023.md
-      - Happenings/March.md
+      - Happenings/March 2023.md
       - Happenings/February.md
       - Happenings/January.md
       - Happenings/.keep
