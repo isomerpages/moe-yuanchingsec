@@ -16,7 +16,7 @@ sections:
           url: /quick-links/for-students/school-calendar/
         - title: Happenings
           description: ""
-          url: /happenings/happenings/april2023/
+          url: /happenings/happenings/may2023/
         - title: Announcements
           description: ""
           url: /announcements/
