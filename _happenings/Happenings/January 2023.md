@@ -1,5 +1,5 @@
 ---
-title: January
+title: January 2023
 permalink: /happenings/happenings/january2023/
 description: ""
 third_nav_title: Happenings

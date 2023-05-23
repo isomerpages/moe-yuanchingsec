@@ -68,7 +68,7 @@ Our students had participated in various competitions and many returned with not
 
 ![CL programme](/images/Chinese%20Language%20Author-in-Residence%20Programme.jpeg) | ![wall activity](/images/Students%20engaging%20in%20language%20learning%20wall%20activity.jpeg) | 
 | -------- | -------- | 
-| Chinese Language Author-in-Residence Programme - Learning to pen lyrics and even sang their own song    | Students engaging in language learning wall activity     |
+| Chinese Language Author-in-Residence Programme -&nbsp;Learning to pen lyrics and even sang their own song| Students engaging in language learning wall activity|
 
 ![CPES](/images/CPES%20prog.jpeg) 
 Sec 2 Chinese Language students watching a theatre performance (CPES prog)

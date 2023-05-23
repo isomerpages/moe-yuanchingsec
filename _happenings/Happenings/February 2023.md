@@ -1,5 +1,5 @@
 ---
-title: February
+title: February 2023
 permalink: /happenings/happenings/february2023/
 description: ""
 third_nav_title: Happenings
@@ -20,5 +20,3 @@ Check out our very own YCSS insights newsletter for students! The YCSS insights 
 ### Morning Aesthetic Assembly - Singapore Traditional Music by BDS Music Group
 
 ![](/images/morningassembly01.JPG)
-
-
