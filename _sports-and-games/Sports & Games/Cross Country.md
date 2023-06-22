@@ -66,12 +66,12 @@ Ms Angela Lee
 
 ### Schedule
 
-Every Tuesday and Thursday <br>
-Time: 3pm - 6pm
+Tuesdays &amp; Thursdays <br>
+Time: 3.00pm - 6.00pm
 
 ### Venue
 
-Carpark/ Clementi Stadium/ Bedok Reservoir <br>
+School Gym/ Clementi Stadium/ Bedok Reservoir <br>
 
 
 ### CCA Photographs
