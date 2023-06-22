@@ -33,17 +33,18 @@ National Patrol Camp Silver Award 2019
 ### Teachers in charge
 
 Mr Foo Say Kin (Overall I/C) <br>
-Ms Nadia Bte Madzan <Br>
-Mdm Lim Yi Hui
+Ms Nadia Bte Madzan <br>
+Ms Lim Yi Hui
 
 ### Schedule
 
-Every Friday: 2.30pm - 5.30pm <br>
-Every Saturday: 8.00am - 12.00pm
+Alternate Fridays and Saturdays <br> 
+2.30pm - 5.30pm <br>
+8.00am - 12.30pm
 
 ### Venue
 
-Turf <br>
+Turf/ School Hall/ Canteen <br>
 
 ### CCA Photographs
 
