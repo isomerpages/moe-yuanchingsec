@@ -35,15 +35,13 @@ To promote performing arts and enhance the oratorical skills of our members to c
 
 ### Teachers in charge
 
-Miss Rathi Balakrishnan (IC)<br>
+Miss Rathi (IC)<br>
 Mr Lee Canguang Amos
 
 ### Schedule
 
-Every Tuesday: 3:00pm to 5.30pm <br>
-Every Thursday: 3.00pm to 6.00pm
+Thursdays: 3:00pm to 6.00pm <br>
 
-*Tuesday training is from Jan to Apr only*
 
 ### Venue
 
