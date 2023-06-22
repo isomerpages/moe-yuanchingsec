@@ -21,12 +21,6 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 | [4 Exp Prelim schedule](/files/2022%20O%20level%20Prelim%20Timetable_4E_Final_%20updated%2019%20Aug.pdf) | [4N OOS Prelim schedule](/files/2022%20O%20level%20Prelim%20Timetable_4N%20OOS_Final%20updated%2019%20Aug.pdf) | 
 | | |
 
-**2022 N-LEVEL PRELIMINARY EXAMINATION**
-
-| | | 
-| -------- | -------- | 
-| [4NA Prelim schedule](/files/2022%20N%20Prelim%20Timetable_4NA_22%20Jul%2022.pdf) | [4N OOS Prelim schedule](/files/2022%20N%20Prelim%20Timetable_4NT_24%20June%2022.pdf) | 
-| | |
 
 **2022 END-YEAR EXAMINATION**
 
@@ -37,9 +31,9 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 | [3E EYE schedule](/files/Updated%203E%20EYE%20PG.pdf) |[3NA EYE schedule](/files/Updated%203NA%20EYE%20PG.pdf) | [3NT EYE schedule ](/files/Updated%203NT%20EYE%20PG.pdf) |
 | | | |
 
-**2021 GCE O &amp; N LEVEL REGISTRATION INFORMATION FOR SCHOOL CANDIDATES**
+**2023 GCE O &amp; N LEVEL REGISTRATION INFORMATION FOR SCHOOL CANDIDATES**
 
-Click&nbsp;[here](/files/2021_instructions_for_school_candidates.pdf)&nbsp;for registration information.
+Click&nbsp;[[here]()]&nbsp;for registration information.
 
 **USE OF CALCULATORS AND DICTIONARIES DURING EXAMINATIONS**
 
