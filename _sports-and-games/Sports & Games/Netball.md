@@ -47,14 +47,14 @@ Every Netballer, a disciplined achiever who contributes actively towards team ex
 
 ### Teachers in charge
 
-Ms Yeo Jie Ting (I/C) <br>
-Miss Tan Mei See Ashley (2IC) <br>
-Miss Kelly Yeo Ee Ling <br>
+Miss Kelly Yeo Ee Ling (I/C) <br>
+Mr Isaac Chong <br>
+Mr Koh Shao Wei
 
 
 ### Schedule
 
-Every Tuesday and Thursday: 3:00pm to 6.00pm
+Tuesdays &amp; Thursdays: 3:00pm to 6.00pm
 
 
 ### Venue
@@ -92,7 +92,7 @@ Venue(Thurs) : Parade Square / ISH
 
 <figure>  
 <img src="/images/Netball-6.jpg">  
-<figcaption> Senior Farewell & Affirmation ceremony 2021 </figcaption>  
+<figcaption> Senior Farewell &amp; Affirmation ceremony 2021 </figcaption>  
 </figure>
 
 <figure>  
