@@ -109,13 +109,10 @@ Inaugural YCDB Regatta
 ### Teachers in charge
 
 Mr C Ganesh (Overall IC) <br>
-Ms Tan Ai Lin <br>
-Mr Tommy Cheng <br>
+Ms Tan Ai Lin (2IC) <br>
+Mr Sonny Liang <br>
 Ms Normalah
 
 ### Schedule
 
-Every Tuesdays and Thursdays<br>
-3pm to 6pm <br>
-
-
+Tuesdays &amp; Thursdays : 3.00pm to 6.00pm <br>
