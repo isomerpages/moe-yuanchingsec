@@ -30,7 +30,7 @@ To serve as a platform to ignite the joy of reading, gain knowledge and life ski
 *   Sec 1 Orientation Programme
 *   Project Pair Ceremony (Presentation)
 
-<u><Strong>2020 </strong></u>
+<u><strong>2020 </strong></u>
 *   Project Pair- Sec 1 Orientation Programme
 *   Teacher’s Day Project
 
@@ -46,7 +46,7 @@ Tuesdays: 3:00pm to 6.00pm
 
 ### Venue
 
-Library
+School Library
 
 ### CCA Photographs
 
