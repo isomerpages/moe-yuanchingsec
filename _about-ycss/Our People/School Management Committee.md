@@ -45,7 +45,7 @@ third_nav_title: Our People
 | Mr Soong Mun Fye | Subject Head/ Student Management |
 | Mdm Koh Jie Ying | Assistant Year Head (Upper Sec) |
 | Mr Lai Weng Keong | Assistant Year Head (Lower Sec) |
-| Ms Tsering Choden | Subject Head/ Infocomm Technology (Covering) |
-| Mr C. Ganesh | Subject Head/ Learner Needs (Covering) |
-| Ms Nan Zhonghua | Subject Head/ Student Well-being (Covering) |
+| Ms Tsering Choden | Subject Head/ Infocomm Technology |
+| Mr C. Ganesh | Subject Head/ Learner Needs  |
+| Ms Nan Zhonghua | Subject Head/ Student Well-being |
 | | |

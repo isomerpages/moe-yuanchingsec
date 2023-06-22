@@ -43,7 +43,7 @@ Mr Lee Siak Kheng
 
 ### Schedule
 
-Every Tuesday and Thursday: 3:00pm to 6:00pm
+Tuesdays &amp; Thursdays: 3:00pm to 6:00pm
 
 
 ### Venue

@@ -61,13 +61,12 @@ Ms Jasmine Sujatha (2IC)
 
 ### Schedule
 
-Even Tuesday: 3pm - 6pm <br>
-Odd Friday: 2.30pm - 5.30pm
+Fridays: 2.30pm - 5.30pm <br>
 
 
 ### Venue
 
-Parade Square/D'YC Resort <br>
+Guzheng Room and AVT <br>
 
 ### CCA Photographs
 

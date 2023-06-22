@@ -12,7 +12,7 @@ The club takes on a “Head-Heart-Hand” approach in which we aim to influence 
 
 In the Environmental Science Club, we aim to spread environmental awareness within our school and in the community. Our Values-In-Actions (VIA) projects consist of activities that spread environmental messages to the residents in the community.
 
-<u><Strong> VISION </strong></u><br>
+<u><strong> VISION </strong></u><br>
 To see our students become a well-informed and compassionate citizen of nature with all-rounded skills.  
 
 <u><strong> MISSION </strong></u><br>
@@ -27,7 +27,7 @@ To enthuse students in critical and creative engagements in issues and services 
 *   Environmental Sharing Sessions – Expose our members to current environmental challenges and possible solutions.
 *   Terrarium Workshop at PCF Sparkletots @ Taman Jurong – Conduct terrarium workshops for K1 students using recycled bottles as part of our VIA project.
 *   Recycling Project – Collect recyclables from residents in the Taman Jurong community.
-*   Sustainability Webinars & Learning Journeys (Singapore Sustainability Gallery).
+*   Sustainability Webinars &amp; Learning Journeys (Singapore Sustainability Gallery).
 *   Hydroponics Harvesting.
 *   Weekly Bonding Activities
 *   Gardening Sessions
@@ -57,28 +57,27 @@ Ms Dimas Nurr Aidilin
 
 ### Schedule
 
-Every Tuesday: 3.00 pm to 6.00 pm
+Tuesdays: 3.00 pm to 6.00 pm
 
 ### Venue
 
 The Arena, Blk D Level 2
 
 
+### CCA Photographs
+
 <figure>
-<img src="/images/Esclub.jpg" 
-    style="width:70%">
+<img src="/images/Esclub.jpg" style="width:70%">
 <figcaption> [ESClub] Dengue Prevention Outreach to Taman Jurong residents </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Environmental%20Science-1.jpg" 
-    style="width:70%">
+<img src="/images/Environmental%20Science-1.jpg" style="width:70%">
 <figcaption> [ESClub] Presenting environmental issues to fellow club members during our weekly Environmental Sharing Sessions. </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Environmental%20Science-2.jpg" 
-    style="width:70%">
+<img src="/images/Environmental%20Science-2.jpg" style="width:70%">
 <figcaption> [ESClub] Upcycling used red-packets into origami as part of Chinese New Year Celebration. </figcaption>
 </figure>
 
@@ -94,8 +93,7 @@ The Arena, Blk D Level 2
 </figure>
 
 <figure>
-<img src="/images/hydroponics%20system.png" 
-    style="width:70%">
+<img src="/images/hydroponics%20system.png" style="width:70%">
 <figcaption> [ESClub] Working hand in hand to care for the plants in our hydroponics system </figcaption>
 </figure>
 

@@ -37,13 +37,11 @@ Mr Mohammad Azhar
 
 ### Schedule
 
-Even Thursday: 3pm-6pm <br>
-Odd Friday: 2.30pm - 5.30pm
+Fridays: 2.30pm-5.30pm <br>
 
 ### Venue
 
-Venue (1) : Parade Square / D'YC Resort <br>
-Venue (2) : Forum / BB
+Venue (1) : Forum / BB
 
 ### CCA Photographs
 

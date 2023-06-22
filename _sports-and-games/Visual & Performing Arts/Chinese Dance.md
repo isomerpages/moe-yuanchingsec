@@ -30,11 +30,11 @@ Our Chinese Dance is a warm family welcoming all the students who love dance. We
 ### Teachers in charge
 
 Ms Nan Zhonghua (IC) <br>
-Ms Koh Jie Ying
+Ms Amanda Ong
 
 ### Schedule
 
-Tuesday and Thursday: 3:00pm to 6.00pm
+Tuesdays &amp; Thursdays: 3:00pm to 6.00pm
 
 
 ### Venue

@@ -8,7 +8,7 @@ third_nav_title: Clubs & Societies
 
 ![mascot](/images/Infocomm%20mascot.png)
 
-The Infocomm Technology CCA provides students the platform to appreciate technology and equip them with Information Technology (IT) skills required in the future. Our CCA is branched into three main areas – Public Address (PA), Photography & Videography and Media (Animation). Lower secondary members will have the opportunity to acquire skills from all three areas and specialise in one of the branches based on their interest and relevant competencies when they progress to Secondary 3. Through opportunities to showcase their talent in national competitions and school events, our CCA members also develop important 21st century competencies which are essential to prepare them for the future.
+The Infocomm Technology CCA provides students the platform to appreciate technology and equip them with Information Technology (IT) skills required in the future. Our CCA is branched into three main areas – Public Address (PA), Photography &amp; Videography and Media (Animation). Lower secondary members will have the opportunity to acquire skills from all three areas and specialise in one of the branches based on their interest and relevant competencies when they progress to Secondary 3. Through opportunities to showcase their talent in national competitions and school events, our CCA members also develop important 21st century competencies which are essential to prepare them for the future.
 
 ### CCA Activities
 
@@ -42,20 +42,19 @@ Finalists, National Infocomm Competition \[i.code\]
 
 ### Teachers in charge
 
-Ms Chen Cui Xia (Overall IC) <br> 
-Ms Tsering Choden<br> 
-Mr Zachary Wong<Br> 
+Ms Tsering Choden(Overall IC) <br> 
+Mr Zachary Wong <br> 
+Mr Audrey<br> 
+Ms Jean
 
 ### Schedule
 
-Every Tuesday and Thursday: 3pm to 5pm
-
-PA students involved in school performances or events will be notified of the schedule for any extra training sessions or rehearsals accordingly. 
+Tuesdays &amp; Thursdays: 3.00pm to 5.30pm
 
 
 ### Venue
 
-Computer Labs 1 & 2, Blk B Level 2
+Computer Labs 1 &amp; 2, Blk B Level 2
 
 ### CCA Photographs
 

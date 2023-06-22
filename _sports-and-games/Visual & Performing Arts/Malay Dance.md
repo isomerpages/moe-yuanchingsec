@@ -47,13 +47,11 @@ At the end of each practice session and performance, a debrief session will be c
 ### Teachers in charge
 
 Ms Siti Nurshila Roslan (I/C) <br>
-Mdm Zubaidah Ariffin
+Mdm Zubaidah
 
 ### Schedule
 
-Odd Tuesdays: 3pm to 6pm<br>
-Odd Friday: 2.30pm to 5.30pm <br>
-Even Tuesday &amp; Thursday: 3pm to 6pm
+Tuesdays: 3.00pm to 6.00pm<br>
 
 ### Venue
 

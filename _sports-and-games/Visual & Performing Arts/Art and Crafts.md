@@ -6,7 +6,7 @@ third_nav_title: Visual & Performing Arts
 ---
 ### Introduction
 
-The Art & Crafts CCA allows students with a shared interest to come together and create art as well as sharing knowledge and skills. Through the weekly sessions, the students explore different art media to produce art and work together to unleash their creative juices. These activities provide platforms for students to enhance their creativity, self-expression, and to gain a greater understanding of art making in a collaborative environment. Through a myriad of group projects, our CCA members also hone important life-skills and character that enables them to thrive in the future.
+The Art &amp; Crafts CCA allows students with a shared interest to come together and create art as well as sharing knowledge and skills. Through the weekly sessions, the students explore different art media to produce art and work together to unleash their creative juices. These activities provide platforms for students to enhance their creativity, self-expression, and to gain a greater understanding of art making in a collaborative environment. Through a myriad of group projects, our CCA members also hone important life-skills and character that enables them to thrive in the future.
 
 ### CCA Activities
 
@@ -26,11 +26,11 @@ Mdm Musnifffa
 
 ### Schedule
 
-Every Thursday: 3pm to 6pm
+Thursdays: 3.00pm to 6.00pm
 
 ### Venue
 
-Art Room 1 & 2, Blk F Level 2
+Art Room 1 &amp; 2, Blk F Level 2
 
 ### CCA Photographs
 

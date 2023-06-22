@@ -42,14 +42,13 @@ West Zone Inter-School Basketball 'C' Division Championships 2018: 2nd Round
 
 ### Teachers in charge
 
-Mr Zhang Jiawen (IC) <br>
+Mr Senduran Vasudevan (IC) <br>
 Mr Liew Kok Keong <br>
-Mr Senduran Vasudevan
+
 
 ### Schedule
 
-Every Tuesdays & Thursdays <br>
-3.00-6.00pm  <Br> 
+Tuesdays &amp; Thursdays : 3.00pm -6.00pm  <br> 
 
 ### Venue
 
