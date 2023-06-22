@@ -7,8 +7,7 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 
 <u>2023 Semester 2</u> <br>
 
-[YCSS CCA Schedule Semester 2 2023](/files/school%20website_ycss%20cca%20schedule%20semester%202,%202023.pdf)
-
+[YCSS CCA Schedule Semester 2 2023]()
 
 
 <u>2023 Semester 1</u> <br>
