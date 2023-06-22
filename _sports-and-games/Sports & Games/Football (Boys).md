@@ -43,13 +43,17 @@ B Div Nationals – 3rd place in SPL 2
 
 ### Teachers in charge
 
-Mr Fahmy Latif (IC) <br>
-Mr Standley Daniel <Br> 
+Mr Fahmy (IC) <br>
+Mr Standley Daniel <br> 
 Mr Chua Kok Yew <br> 
 
 ### CCA Schedule
 
-Tuesday and Thursday: 3:00pm to 6:00pm
+Tuesdays &amp; Thursdays : 3:00pm to 6:00pm
+
+### Venues
+
+Venue (1) : School Field / Canal 
 
 ### CCA Photographs
 
