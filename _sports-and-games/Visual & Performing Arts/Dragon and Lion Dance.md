@@ -54,10 +54,15 @@ Mdm Cheong Wei Leng
 
 ### Schedule
 
-Every Tuesday and Thursday: 3:00 pm to 6:00 pm
+Thursdays: 3:00 pm to 6:00 pm
 
-* Tuesday training is from Jan and Apr only
+### Venue
 
+Venue (1) : Forum <br>
+Venue (2) : School Hall
+
+
+### CCA Photographs
 
 <figure>  
 <img src="/images/Dragon%20and%20Lion%20Dance-1.jpg">  
