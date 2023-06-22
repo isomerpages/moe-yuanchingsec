@@ -5,6 +5,12 @@ description: ""
 ---
 _For PDLP devices, you may also tap and hold the link and select Download Linked File ._
 
+<u>2023 Semester 2</u> <br>
+
+[YCSS CCA Schedule Semester 2 2023](/files/school%20website_ycss%20cca%20schedule%20semester%202,%202023.pdf)
+
+
+
 <u>2023 Semester 1</u> <br>
 
 [YCSS CCA Schedule Semester 1 2023](/files/School%20Website_YCSS%20CCA%20Schedule%20Semester%201%202023_updated.pdf)
