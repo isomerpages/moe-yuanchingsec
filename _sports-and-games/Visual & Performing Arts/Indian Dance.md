@@ -72,7 +72,7 @@ Tuesdays: 3.00pm to 6.00pm <br>
 ### Venue
 
 Venue (1) : Dance Studio Level 4 <br>
-Venur (2) : School Hall
+Venue (2) : School Hall
 
 
 ### CCA Photographs
