@@ -59,7 +59,7 @@ Tuesdays &amp; Thursdays: 3:00pm to 6.00pm
 
 ### Venue
 
-Venue(Tues) : ISH
+Venue(Tues) : ISH <br>
 Venue(Thurs) : Parade Square / ISH
 
 ### CCA Photographs
