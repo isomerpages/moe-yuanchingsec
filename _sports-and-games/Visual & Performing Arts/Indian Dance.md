@@ -17,7 +17,7 @@ Apart from dancing, our members work closely with Taman Jurong CC and have contr
 *   School Performances
 *   External performances Eg : Taman Jurong CC
 *   Values-in-Action Projects
-*   Day camp & bonding activities
+*   Day camp &amp; bonding activities
 *   Competitions Eg Singapore Youth Festivals
 *   I-Dance Programme
 
@@ -45,7 +45,7 @@ Apart from dancing, our members work closely with Taman Jurong CC and have contr
 **2019**
 *   CCA Open House
 *   Ethnic Celebrations
-*   National Day & Speech Day
+*   National Day &amp; Speech Day
 *   SYF Certificate of Distinction
 *   Taman Jurong CC National Day Performance @ Jurong East
 *   Official Opening of Jurong Lake Gardens
@@ -67,8 +67,13 @@ Mdm Shanthy
 
 ### Schedule
 
-Every Tuesday: 3.00pm to 6.00pm <br>
-*Thursday training is from Jan to Apr only
+Tuesdays: 3.00pm to 6.00pm <br>
+
+### Venue
+
+Venue (1) : Dance Studio Level 4 <br>
+Venur (2) : School Hall
+
 
 ### CCA Photographs
 
