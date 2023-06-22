@@ -116,3 +116,8 @@ Ms Normalah
 ### Schedule
 
 Tuesdays &amp; Thursdays : 3.00pm to 6.00pm <br>
+
+### Venues
+
+Venue(1) : PassionWave @Jurong Lake <br>
+Venue(2) : D'YC Resort
