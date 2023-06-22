@@ -48,11 +48,11 @@ third_nav_title: Our People
 | 3 Integrity | Mr Liew Kok Keong | Ms Lim Yi Hui |  |
 | 3 Excellence | Mr Chua Kok Yew | Ms Arulushamaheswary |  | 
 | 3 Compassion | Ms Angela Lee Mui Huang | Ms Vilochana D/O Veloo |  |
-| 3 Enterprise | Ms Siti Nurshila Bte Roslan | Ms Jasmine Sujatha |  |
-| 3 Respect | Mdm Ng Li Mei | Ms Audrey Goh Xin Yun  |
-| 3 Resilience | Mdm Musniffa Bte Mustaffa | Mdm Chen Cui Xia| Mr Isaac Chong Xiang Yang |
-| 3 Harmony | Mr Mohd Fahmy B Abdul Latif | Ms Yeo Jie Ting
-| 3 Loyalty | Mr Tommy Cheng | Mr Segar Muniandy | Mr Zachary Wong Jiann Tsong |
+| 3 Enterprise | Ms Jasmine Sujatha  | Ms Siti Nurshila Bte Roslan |  |
+| 3 Respect | Ms Audrey Goh Xin Yun | Mr Sonny Liang Lai Hup   |
+| 3 Resilience | Mdm Musniffa Bte Mustaffa | Mr Isaac Chong Xiang Yang |
+| 3 Harmony | Mr Mohd Fahmy B Abdul Latif | Mr Kao Shao Wei
+| 3 Loyalty | Mr Segar Muniandy | Mr Zachary Wong Jiann Tsong |
 | | |
 
 ### SEC 4 & 5 FORM TEACHERS
@@ -63,7 +63,7 @@ third_nav_title: Our People
 | 4 Excellence  | Ms Eunice Leong Ying Xuan | Ms Azria Bte Azman |  |
 | 4 Compassion | Ms Tan Kwee Theng | Mr Huang Zhijie |  |
 | 4 Enterprise | Mdm Koh Jie Ying | Ms Tsering Choden |  |
-| 4 Respect | Mr Zhang Jiawen | Ms Normalah Bte Baharin |  |
+| 4 Respect | Ms Normalah Bte Baharin |  |
 | 4 Resilience | Ms Goh Woon Xian | Mr Amos Lee Canguang |   
 | 4 Loyalty | Mr Lai Weng Keong | Ms Nadia Bte Madzan |  |
 | 5 Harmony | Mrs Goh-Cheong Wei Leng | 
@@ -76,6 +76,7 @@ third_nav_title: Our People
 | Mr Lim Fang Kwan | Teacher |
 | Mr Mohamad Malek Sufahat | Teacher |
 | Ms Sumita Sathi | Teacher |
+| Mr Mohd Ahdani bin Kandar  | Teacher |
 | Ms Chen Yaqi Bernice | Teacher |
 | Mdm Fang Chen Lan  | Teacher  |
 | Mr Jamal Mohinitheen Bin Ahamed Ghani | Teacher |
@@ -83,6 +84,7 @@ third_nav_title: Our People
 | Ms Nancy Lau Leng Leng | Teacher |
 | Mr Ong Sheo Yuan | Teacher |
 | Mrs Siva Thavaranee Rasiah | Teacher |
+| Mdm Soh Kim Choo | Teacher |
 | Mr Victor Tan Yian Liang | Teacher |
 | Mdm Wong Ling Ling | Teacher |
 | Mdm Wong Soo Hsin | Teacher |
