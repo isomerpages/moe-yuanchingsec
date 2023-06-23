@@ -33,11 +33,11 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 
 **2023 GCE O &amp; N LEVEL REGISTRATION INFORMATION FOR SCHOOL CANDIDATES**
 
-Click&nbsp;[[here]()]&nbsp;for registration information.
+Click [here](/files/2023_registration_information_for_school_candidates.pdf) for registration information.
 
 **USE OF CALCULATORS AND DICTIONARIES DURING EXAMINATIONS**
 
 All students must ensure that they are using approved calculators and/or dictionaries for all examinations. Students who are found with unauthorized calculators/dictionaries during the school/national examination would have violated an examination regulation and actions would be taken against them.  
 
-[[List of approved calculators]()]<br>
-[[List of approved dictionaries]()]
+[List of approved calculators](/files/2023%20guidelines_calculators.pdf)<br>
+[List of approved dictionaries](/files/2023%20list_of_dictionaries_for_examination.pdf)
