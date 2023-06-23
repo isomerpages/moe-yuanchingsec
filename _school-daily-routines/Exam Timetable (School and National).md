@@ -21,12 +21,6 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 | [4 Exp Prelim schedule](/files/2022%20O%20level%20Prelim%20Timetable_4E_Final_%20updated%2019%20Aug.pdf) | [4N OOS Prelim schedule](/files/2022%20O%20level%20Prelim%20Timetable_4N%20OOS_Final%20updated%2019%20Aug.pdf) | 
 | | |
 
-**2022 N-LEVEL PRELIMINARY EXAMINATION**
-
-| | | 
-| -------- | -------- | 
-| [4NA Prelim schedule](/files/2022%20N%20Prelim%20Timetable_4NA_22%20Jul%2022.pdf) | [4N OOS Prelim schedule](/files/2022%20N%20Prelim%20Timetable_4NT_24%20June%2022.pdf) | 
-| | |
 
 **2022 END-YEAR EXAMINATION**
 
@@ -37,13 +31,13 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 | [3E EYE schedule](/files/Updated%203E%20EYE%20PG.pdf) |[3NA EYE schedule](/files/Updated%203NA%20EYE%20PG.pdf) | [3NT EYE schedule ](/files/Updated%203NT%20EYE%20PG.pdf) |
 | | | |
 
-**2021 GCE O &amp; N LEVEL REGISTRATION INFORMATION FOR SCHOOL CANDIDATES**
+**2023 GCE O &amp; N LEVEL REGISTRATION INFORMATION FOR SCHOOL CANDIDATES**
 
-Click&nbsp;[here](/files/2021_instructions_for_school_candidates.pdf)&nbsp;for registration information.
+Click [here](/files/2023_registration_information_for_school_candidates.pdf) for registration information.
 
 **USE OF CALCULATORS AND DICTIONARIES DURING EXAMINATIONS**
 
 All students must ensure that they are using approved calculators and/or dictionaries for all examinations. Students who are found with unauthorized calculators/dictionaries during the school/national examination would have violated an examination regulation and actions would be taken against them.  
 
-[List of approved calculators](/files/Approved%20calculators.pdf) <br>
-[List of approved dictionaries](/files/Approved%20dictionaries.pdf)
+[List of approved calculators](/files/2023%20guidelines_calculators.pdf)<br>
+[List of approved dictionaries](/files/2023%20list_of_dictionaries_for_examination.pdf)
