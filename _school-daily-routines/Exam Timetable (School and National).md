@@ -39,5 +39,5 @@ Click&nbsp;[[here]()]&nbsp;for registration information.
 
 All students must ensure that they are using approved calculators and/or dictionaries for all examinations. Students who are found with unauthorized calculators/dictionaries during the school/national examination would have violated an examination regulation and actions would be taken against them.  
 
-[List of approved calculators](/files/Approved%20calculators.pdf) <br>
-[List of approved dictionaries](/files/Approved%20dictionaries.pdf)
+[[List of approved calculators]()]<br>
+[[List of approved dictionaries]()]
