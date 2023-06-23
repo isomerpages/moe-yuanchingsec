@@ -51,7 +51,7 @@ third_nav_title: Our People
 | 3 Enterprise | Ms Jasmine Sujatha  | Ms Siti Nurshila Bte Roslan |  |
 | 3 Respect | Ms Audrey Goh Xin Yun | Mr Sonny Liang Lai Hup   |
 | 3 Resilience | Mdm Musniffa Bte Mustaffa | Mr Isaac Chong Xiang Yang |
-| 3 Harmony | Mr Mohd Fahmy B Abdul Latif | Mr Kao Shao Wei
+| 3 Harmony | Mr Mohd Fahmy B Abdul Latif | Mr Koh Shao Wei
 | 3 Loyalty | Mr Segar Muniandy | Mr Zachary Wong Jiann Tsong |
 | | |
 
