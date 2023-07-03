@@ -22,7 +22,7 @@ sections:
           url: /announcements/
       title: Yuan Ching Secondary School
       subtitle: Efforts Today Rewards Tomorrow
-      background: /images/hero mvv v4.gif
+      background: /images/hero mvv v5.gif
   - infopic:
       title: Stories of Alumni
       button: Read more
