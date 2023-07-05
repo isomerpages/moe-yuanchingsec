@@ -3,6 +3,22 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+### Edusave Character Award (ECHA) Nomination 2023
+
+The nominations for ECHA 2023 are open to the whole school community and the school key stakeholders such as parents, alumni, partners, as well as members of the public.  
+
+The nomination form can be downloaded below.  
+Nomination forms can be submitted to the school email (ycss@moe.edu.sg).
+
+Period of Nomination:
+5 July 2023 (Wednesday) - 21 July 2023 (Friday)
+
+Please see following documents for more details.
+
+[ECHA Presentation Slides 2023](/files/echa%20presentation%20slides.pdf) <br>
+[ECHA 2023 Nomination Form](/files/echa%202023%20nomination%20form%20(ycss).pdf)
+
+
 ### School Holiday on 24th April 2023
 Please be informed that 24 April 2023 (Mon) is a school holiday. The school will be closed on that day. Thank you.
 
@@ -36,7 +52,7 @@ Please refer [here](/quick-links/for-students/school-daily-routines/school-holid
 
 ### Blended Learning Day 2023
 
-On Blended Learning Days, students are to submit their morning check-in form before 9 am. 
+On Blended Learning Days, students are to submit their morning check-in form before 9 am.&nbsp;
 
 Information on their learning tasks/activities/ assignments can be found on ICT@Yuan Ching site ([https://go.gov.sg/ycss-ict](https://go.gov.sg/ycss-ict)).
 
@@ -61,25 +77,25 @@ Yuan Ching Secondary School
 
 ### Weighted Assessment (WA1) Schedule
 
-Read more about it [here](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-students/school-daily-routines/school-holiday-programme/) !
+Read more about it&nbsp;[here](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-students/school-daily-routines/school-holiday-programme/)&nbsp;!
 
 ------
 
 ### Sec 1 PES and CCA showcase 2023
 
-Let your creativity shine! Read [here](https://yuanchingsec.moe.edu.sg/qql/slot/u748/2022/YCSS%20Songwriting%20Contest%20Our%20School%20Our%20Song%202022_final.pdf) to find out more!
+Let your creativity shine! Read&nbsp;[here](https://yuanchingsec.moe.edu.sg/qql/slot/u748/2022/YCSS%20Songwriting%20Contest%20Our%20School%20Our%20Song%202022_final.pdf)&nbsp;to find out more!
 
 ------
 
 ### 2023 Semester 1 Remedials/CCA Schedule
 
-Click [here](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-students/school-daily-routines/exam-timetable-school-national/) to access the Sem 1 Remedials/CCA Schedule
+Click&nbsp;[here](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-students/school-daily-routines/exam-timetable-school-national/)&nbsp;to access the Sem 1 Remedials/CCA Schedule
 
 --------
 
 ### YC Scoop Issue 7
 
-Read our latest issue of YC Scoop [here](https://yuanchingsec-moe-edu-sg-admin.cwp.sg/qql/slot/u748/E-Newsletter/2022-Issue-7/index.html)!
+Read our latest issue of YC Scoop&nbsp;[here](https://yuanchingsec-moe-edu-sg-admin.cwp.sg/qql/slot/u748/E-Newsletter/2022-Issue-7/index.html)!
 
 ------
 
