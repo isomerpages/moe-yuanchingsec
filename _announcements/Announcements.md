@@ -8,7 +8,7 @@ description: ""
 The nominations for ECHA 2023 are open to the whole school community and the school key stakeholders such as parents, alumni, partners, as well as members of the public.  
 
 The nomination form can be downloaded below.  
-Nomination forms can be submitted to the school email (ycss@moe.edu.sg).
+Nomination forms can be submitted to the school email - [ycss@moe.edu.sg](ycss@moe.edu.sg) .
 
 Period of Nomination:
 5 July 2023 (Wednesday) - 21 July 2023 (Friday)
