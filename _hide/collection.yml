@@ -1,0 +1,4 @@
+collections:
+  hide:
+    output: true
+    order: []
