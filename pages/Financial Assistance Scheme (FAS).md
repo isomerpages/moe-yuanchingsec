@@ -3,7 +3,7 @@ title: Financial Assistance Scheme (FAS)
 permalink: /others/financial-assistance-scheme-fas/
 description: ""
 ---
-https://go.gov.sg/moe-efas[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)The Ministry of Education provides financial assistance (MOE FAS) to needy Singapore Citizen students in Government or Government-Aided Schools. For needy students who are not eligible for the MOE Financial Assistance Scheme, the School Advisory Committee also provides financial assistance (SAC FAS).
+The Ministry of Education provides financial assistance (MOE FAS) to needy Singapore Citizen students in Government or Government-Aided Schools. For needy students who are not eligible for the MOE Financial Assistance Scheme, the School Advisory Committee also provides financial assistance (SAC FAS).
 
 #### MINISTRY OF EDUCATION (MOE) FINANCIAL ASSISTANCE SCHEME
 
