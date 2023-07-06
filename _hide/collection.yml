@@ -2,4 +2,5 @@ collections:
   hide:
     output: true
     order:
+      - Transfer In.md
       - Secondary 1 Registration.md
