@@ -1,4 +1,5 @@
 collections:
   hide:
     output: true
-    order: []
+    order:
+      - Secondary 1 Registration.md
