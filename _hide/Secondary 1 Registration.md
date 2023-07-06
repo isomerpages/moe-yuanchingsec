@@ -2,7 +2,6 @@
 title: Secondary 1 Registration
 permalink: /admissions/secondary-1-registration/
 description: ""
-third_nav_title: 2023 Secondary 1 Registration
 ---
 2023 Intake Secondary 1 Registration
 

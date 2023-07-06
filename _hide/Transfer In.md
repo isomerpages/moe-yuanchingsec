@@ -2,9 +2,7 @@
 title: Transfer In
 permalink: /admissions/transfer-in/
 description: ""
-third_nav_title: 2023 Secondary 1 Registration
 ---
-
 Appeals to transfer IN to Yuan Ching Sec School need to be made by 28 Dec 2022 (Wednesday).
 
 You can either submit the application online via [Application for Transfer Into Yuan Ching  Secondary School for Sec 1 2023](https://form.gov.sg/636c7eb3a8e034001265e136) or you can download the [Application for Transfer form]() and submit the completed form together with the relevant supporting documents via the school email ([ycss@moe.edu.sg](mailto:ycss@moe.edu.sg)) or to the school’s General Office.  

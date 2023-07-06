@@ -1,0 +1,7 @@
+collections:
+  hide:
+    output: true
+    order:
+      - Transfer Out.md
+      - Transfer In.md
+      - Secondary 1 Registration.md

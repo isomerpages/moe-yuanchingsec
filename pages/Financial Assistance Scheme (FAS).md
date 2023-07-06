@@ -3,7 +3,6 @@ title: Financial Assistance Scheme (FAS)
 permalink: /others/financial-assistance-scheme-fas/
 description: ""
 ---
-
 The Ministry of Education provides financial assistance (MOE FAS) to needy Singapore Citizen students in Government or Government-Aided Schools. For needy students who are not eligible for the MOE Financial Assistance Scheme, the School Advisory Committee also provides financial assistance (SAC FAS).
 
 #### MINISTRY OF EDUCATION (MOE) FINANCIAL ASSISTANCE SCHEME
@@ -13,14 +12,14 @@ The student is a Singapore Citizen and meets one of the following conditions: <b
 (a) The family's Gross Household Income (GHI) does not exceed $1,000 per month or <br>
 (b) The family’s Per Capita Household Income (PCI) does not exceed $750\*
 
-\*PCI is gross monthly household income divided by +number of members in the household. <br>
+\*PCI is gross monthly household income divided by&nbsp;+number of members in the household.&nbsp;<br>
 Example: household with a gross monthly income of $3,500 with 5 members will qualify, as PCI is $700.
 
-+Household members include the student, his/her parents, and unmarried siblings of the student, **regardless** of the address. <br>
++Household members include the student, his/her parents, and unmarried siblings of the student,&nbsp;**regardless**&nbsp;of the address. <br>
 Grandparents and other dependents living at the same address may be included on a case-by-case basis. They include:
 
-1.  Relatives who are **old or sick and are unemployed and dependent** on the family; and
-2.  Child dependent (where family is the **legal guardian**).
+1.  Relatives who are&nbsp;**old or sick and are unemployed and dependent**&nbsp;on the family; and
+2.  Child dependent (where family is the&nbsp;**legal guardian**).
 
 The scheme provides for:
 
@@ -36,7 +35,7 @@ The scheme provides for:
 **Eligibility Criteria**
 
 1.  Student is a Singapore citizen and does not qualify for MOE FAS,
-2.  Gross Household Income (GHI) does not exceed $4,000 per month or Per Capita Income (PCI) is not more than $1000 per month, and
+2.  Gross Household Income (GHI) does not exceed $4,400 per month or Per Capita Income (PCI) is not more than $1,100 per month, and
 3.  Good conduct and at least 80% attendance in school.
 
 The scheme provides:
@@ -47,7 +46,7 @@ The scheme provides:
 *   Transport Subsidy of $10 per month for students taking public transport
 *   Meal Subsidy Programme of $15 per school week.
 
-<U> Summary of Benefits under both Financial Assistance Schemes - MOE FAS & SAC FAS</u>
+<u> Summary of Benefits under both Financial Assistance Schemes - MOE FAS &amp; SAC FAS</u>
 
 | FAS | School Fees | Standard Miscellaneous Fees | Textbook | School Attire | Meal Subsidy | Transport Subsidy |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -60,9 +59,9 @@ The scheme provides:
 <u><strong> Application Process </strong></u><br>
 Parents may apply for MOE FAS through either (1) hardcopy or (2) online via eFAS.
 
-Application forms are available from the General Office or you can download the application forms below. 
+Application forms are available from the General Office or you can download the application forms below.&nbsp;
 
-Application strictly via <u>hardcopy</u> form is required for: <br>
+Application strictly via&nbsp;<u>hardcopy</u>&nbsp;form is required for: <br>
 a. Family with other dependents (Great grandparents, Aunties/Uncles, Cousins and others) <br>
 b. Family with more than 5 children in Government and Government-Aided schools <br>
 c. Family with more than 4 unmarried children not in Government and Government-Aided schools <br>
@@ -76,10 +75,10 @@ All hardcopy application forms must be submitted together with the required supp
 
 | MOE FAS Application Form<br> | SAC FAS Application Form |
 |:---:|:---:|
-| Hardcopy:<br>MOE FAS Application Form.pdf<br><br>eFAS Application Link:<br>https://go.gov.sg/moe-efas  | Hardcopy: <br>SAC FAS Application Form.pdf | 
+| Hardcopy:<br>[MOE FAS Application Form](/files/moe%20fas%20application%20form.pdf)<br><br>eFAS Application Link:<br>[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)  | Hardcopy: <br>[SAC FAS Application Form](/files/sac%20fas%20application%20form.pdf) | 
 | | |
 
 Once the application is approved, the school will make arrangement for your child to collect the textbooks and uniform.
 
 <u><strong>Other Information</strong></u><br>
-To support low-income family with affordable home internet connectivity, you can apply Home Access programme through IMDA. Eligible Singaporean families can enjoy 2 years of subsidized fibre broadband connectivity. For more information and application, please visit [www.digitalaccess.gov.sg](http://www.digitalaccess.gov.sg/).
+To support low-income family with affordable home internet connectivity, you can apply Home Access programme through IMDA. Eligible Singaporean families can enjoy 2 years of subsidized fibre broadband connectivity. For more information and application, please visit&nbsp;[www.digitalaccess.gov.sg](http://www.digitalaccess.gov.sg/).
