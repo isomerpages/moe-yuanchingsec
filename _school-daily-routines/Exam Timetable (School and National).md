@@ -16,9 +16,7 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 
 **2023 O-LEVEL PRELIMINARY EXAMINATION**
 
-| | | 
-| -------- | -------- | 
-| [4Exp / 5NA Prelim Schedule](/files/2023%20o%20level%20prelim%20timetable_4e5n%206_jul.pdf)
+[4Exp / 5NA Prelim Schedule](/files/2023%20o%20level%20prelim%20timetable_4e5n%206_jul.pdf)
 
 
 **2022 END-YEAR EXAMINATION**
