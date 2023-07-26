@@ -3,7 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-### YC Scoop Issue 8
+### YC Scoop Issue 9
 
 Read our latest issue of YC Scoop [here!](https://online.fliphtml5.com/obrr/ddxv/)
 
