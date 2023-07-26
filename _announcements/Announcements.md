@@ -3,6 +3,12 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+### YC Scoop Issue 8
+
+Read our latest issue of YC Scoop [here!](https://online.fliphtml5.com/obrr/ddxv/)
+
+------
+
 ### Edusave Character Award (ECHA) Nomination 2023
 
 The nominations for ECHA 2023 are open to the whole school community and the school key stakeholders such as parents, alumni, partners, as well as members of the public.  
@@ -92,13 +98,6 @@ Let your creativity shine! Read&nbsp;[here](https://yuanchingsec.moe.edu.sg/qql/
 Click&nbsp;[here](https://staging.d3su4wj45hy3j2.amplifyapp.com/quick-links/for-students/school-daily-routines/exam-timetable-school-national/)&nbsp;to access the Sem 1 Remedials/CCA Schedule
 
 --------
-
-### YC Scoop Issue 7
-
-Read our latest issue of YC Scoop&nbsp;[here](https://yuanchingsec-moe-edu-sg-admin.cwp.sg/qql/slot/u748/E-Newsletter/2022-Issue-7/index.html)!
-
-------
-
 
 ### Providing Authentic Learning Experiences with PLDs
 
