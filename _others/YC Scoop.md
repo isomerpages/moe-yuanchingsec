@@ -5,6 +5,8 @@ description: ""
 ---
 Click to access our latest issue of YC Scoop.
 
+[2023/Issue 9](https://online.fliphtml5.com/obrr/ddxv/)
+
 [2022/Issue 8](https://online.fliphtml5.com/obrr/svaj/#p=1)
 
 [2022/Issue 7](https://online.fliphtml5.com/obrr/chvq/#p=1)
