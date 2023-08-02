@@ -6,7 +6,7 @@ third_nav_title: Instructional Programmes (IP)
 ---
 ### Key Programmes
 
-![MT](/images/Mother%20Tongue%20Department.jpg)
+![](/images/mother%20tongue%20department_formal.jpg)
 
 **Department Overview** <br>
 The vision of the department is to develop our students to be confident user of their Mother Tongue languages who have a deep appreciation of their ethnic cultures and values.
