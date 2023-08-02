@@ -6,7 +6,7 @@ third_nav_title: Instructional Programmes (IP)
 ---
 ### Key Programmes
 
-![](/images/Humanities%20Department.jpg)
+![](/images/humanities%20department_formal.jpg)
 
 **Department Overview** <br>
 Our YCSS Humanities Vision - we aim to develop students to be critical thinkers; empathetic learners; and be responsible and concerned citizens.  
@@ -16,7 +16,7 @@ We believe that students’ understanding of the society and the world they live
 Through the use of a variety of pedagogies and assessments, we seek to promote critical thinking in our students as they are exposed to the disciplines of Geography History, Social Studies and Principle of Accounts. To further enrich students’ learning experiences and to imbue the students with a global outlook, they are also offered opportunities to develop their interests beyond the classroom to hone in their skills to be effective communicators and solution seekers.
 
 **Enrichment Programmes** <br>
-**Talent Development Unit.** The department provides opportunities for students who have a passion for the Humanities to participate in various platforms where they can share their ideas and learn from participants who come from other schools. The department also identifies students and exposes them to various social and global issues and hone their analytical skills. Moreover, our students get to participate in various competitions organised by National University of Singapore, Curriculum Planning & Development Division (Ministry of Education), and other schools.
+**Talent Development Unit.** The department provides opportunities for students who have a passion for the Humanities to participate in various platforms where they can share their ideas and learn from participants who come from other schools. The department also identifies students and exposes them to various social and global issues and hone their analytical skills. Moreover, our students get to participate in various competitions organised by National University of Singapore, Curriculum Planning &amp; Development Division (Ministry of Education), and other schools.
 
 Some of the platforms where our students have excelled include:
 1.  NUS Geography Challenge;
@@ -33,7 +33,7 @@ Our student participants have done well to be awarded prizes for best position p
 
 **Subject-based Programmes** <br>
 
-**Historical Investigation:** <Br>
+**Historical Investigation:** <br>
 Historical Investigation is a key component of History education in lower secondary. It complements the content and gives students the opportunity to appreciate real-world applications of historical knowledge and skills. These include (i) collaboration, (ii) communication, (iii) creative and critical thinking skills which are applicable in the 21st century.
 
 Students work in groups to investigate a historical issue in Singapore’s history. They gather, analyse and consolidate the available evidence, and communicate their findings. For example, the Secondary 1 students investigated the qualities of our early pioneers who had to overcome difficulties and achieve success in life. They were given opportunities to look at various written and pictorial sources and present their findings in a platform using any ICT applications. The Secondary 2 students investigated on the impact of Japanese Occupation on the lives of the locals. They focused on the political, economic, social, and cultural aspects of life. The students did some perspective taking as a local who lived during the Japanese Occupation and write a diary based on their experiences.
@@ -52,7 +52,7 @@ Principles of Accounts provide students with knowledge on business accounting pr
 ### Teachers
 
 **HOD Humanities:** Mr Subramaniam Mohanamoothy <br> 
-**Senior Teacher (Humanities):** Ms Tan Kwee Theng (History) & Mrs Goh-Cheong Wei Leng (Geography)
+**Senior Teacher (Humanities):** Ms Tan Kwee Theng (History) &amp; Mrs Goh-Cheong Wei Leng (Geography)
 
 | Geography | History | Social Studies | Principles of Accounts |
 |---|---|---|---|
@@ -78,8 +78,7 @@ Principles of Accounts provide students with knowledge on business accounting pr
 
 **Geographical Investigation**
 
-<img src="/images/Sense%20Perch.png" 
-    style="width:50%">
+<img src="/images/Sense%20Perch.png" style="width:50%">
 
 Students used a SensePerch, created as part of ALP to study the quality of water at Jurong Lake. The investigation is done by tapping into the skills taught during Science lessons.
 

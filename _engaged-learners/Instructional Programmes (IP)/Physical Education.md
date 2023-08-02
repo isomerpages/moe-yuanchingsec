@@ -6,12 +6,11 @@ third_nav_title: Instructional Programmes (IP)
 ---
 ### Key Programmes
 
-![](/images/Physical%20Education%20Department.jpg)
-
+![](/images/physical%20education%20department_formal.jpg)
 
 **Department Overview**
 
-**Introduction:** <Br>
+**Introduction:** <br>
 The PE Department of Yuan Ching Secondary School identifies and implements innovative changes that positively affect the school and the community. We are trailblazers and futurists who exemplify the spirit of innovation in the development of our educational approaches with strong work ethics, creativity, foresight and the use of technology to achieve developmental excellence.
 
 **Department Vision:** To enable YCSians demonstrate the physical skills, practices, and schools values (IExCEL) to enjoy a lifetime of active, healthy living.
@@ -29,8 +28,8 @@ The Physical Education Programme in Yuan Ching Secondary School builds on the fo
 Yuan Ching Secondary School offers six different physical activities. In these physical activities offered by the school, students will be provided with instruction and the opportunity to participate competently. They should also be able to carry out the physical activities independently and safely on their own beyond school.
 
 Six Physical Activities offered in Yuan Ching Secondary School:
-*   Athletics (Running – sprints, middle & distance running)
-*   Athletics (Field events & team events)
+*   Athletics (Running – sprints, middle &amp; distance running)
+*   Athletics (Field events &amp; team events)
 *   Ultimate Frisbee (Territorial-Invasion)
 *   Volleyball (Net-Barrier)
 *   Softball (Striking-Fielding)
@@ -40,8 +39,7 @@ In addition to the six physical activities highlighted above, students will also
 
 Allocation of learning areas and physical activities by level is shown below:
 
-<img src="/images/PE%20Activities.jpg" 
-    style="width:70%">
+<img src="/images/PE%20Activities.jpg" style="width:70%">
 
 **Enrichment Programmes** <br>
 Annual Track and Field Meet <br>

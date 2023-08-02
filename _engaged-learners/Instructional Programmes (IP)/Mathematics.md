@@ -6,8 +6,7 @@ third_nav_title: Instructional Programmes (IP)
 ---
 ### Key Programmes
 
-![MA](/images/Mathematics%20Department.jpg)
-
+![](/images/mathematics%20department_formal%202023.jpg)
 
 **Department Overview** <br>
 The YCSS Mathematics Department is committed to create joyful and authentic learning experiences for our students. We aim to nurture our students into passionate learners and creative problem solvers of Mathematics.
@@ -40,7 +39,7 @@ The Sec 1 Math Trail is an in-house programme in which students are engaged in f
 <figcaption> Getting excited over Time to Climb </figcaption>
 </figure>
 
-**(b) Sec 3 Mathematical Modelling** <Br>
+**(b) Sec 3 Mathematical Modelling** <br>
 In the Sec 3 Mathematical Modelling Programme, students are tasked to work on a real world problem and propose the possible solutions. AN example of the task is to estimate the total amount of food waste produced in Singapore over the next decade.
 
 <figure>
@@ -62,8 +61,7 @@ In the Sec 3 Mathematical Modelling Programme, students are tasked to work on a 
 The Sec 1 Data Collection and Research Project provides the students an opportunity to learn data collection, analytic and research skills with different scenario tasks. An example of the task is to estimate the total number of hours spent by schoolmates on social media platforms in a week.
 
 <figure>
-<img src="/images/Pic%208_Interviewing%20students%20for%20data%20collection%20and%20research.png" 
-    style="width:40%">
+<img src="/images/Pic%208_Interviewing%20students%20for%20data%20collection%20and%20research.png" style="width:40%">
 <figcaption> Interviewing students for data collection and research </figcaption>
 </figure>
 
@@ -96,7 +94,7 @@ Our Talent Development Programme provides a range of activities such as training
 
 |  |  | 
 | -------- | -------- | 
-|<img src="/images/Pic%201_Making%20Ribena.jpeg" style="width:200px;"/>  Making Ribena | <img src="/images/Pic%202_Measuring%20netball%20court.jpg" style="width:200px;"/> Measuring netball court | 
-| <img src="/images/Pic%203_Deciding%20which%20coke%20to%20buy.jpg" style="width:200px;"/> Deciding which coke to buy  | <img src="/images/Pic%204_Getting%20excited%20over%20Time%20to%20Climb.jpg" style="width:200px;"/> Getting excited over Time to Climb |
-| <img src="/images/Pic%205_Guiding%20students%20through%20the%20MM%20process.jpg" style="width:200px;"/> Guiding students through the MM process |  <img src="/images/Pic%206_Explaining%20solution%20to%20classmates.jpeg" style="width:200px;"/> Explaining solution to classmates |
+|<img src="/images/Pic%201_Making%20Ribena.jpeg" style="width:200px;">  Making Ribena | <img src="/images/Pic%202_Measuring%20netball%20court.jpg" style="width:200px;"> Measuring netball court | 
+| <img src="/images/Pic%203_Deciding%20which%20coke%20to%20buy.jpg" style="width:200px;"> Deciding which coke to buy  | <img src="/images/Pic%204_Getting%20excited%20over%20Time%20to%20Climb.jpg" style="width:200px;"> Getting excited over Time to Climb |
+| <img src="/images/Pic%205_Guiding%20students%20through%20the%20MM%20process.jpg" style="width:200px;"> Guiding students through the MM process |  <img src="/images/Pic%206_Explaining%20solution%20to%20classmates.jpeg" style="width:200px;"> Explaining solution to classmates |
 | | |

@@ -4,7 +4,8 @@ permalink: /about-ycss/our-people/our-staff/
 description: ""
 third_nav_title: Our People
 ---
-![Yuan Ching Secondary School 2022](/images/All%20Staff%20Photo%202022%20(Collage)-min.jpg)
+
+![](/images/all%20staff%20(70%20x%2040cm)_v4-min.jpg)
 
 ### SENIOR TEACHERS
 

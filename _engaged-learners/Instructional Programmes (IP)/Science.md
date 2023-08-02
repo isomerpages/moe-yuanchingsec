@@ -6,7 +6,7 @@ third_nav_title: Instructional Programmes (IP)
 ---
 ### Key Programmes
 
-![Sci](/images/Science%20Department.jpg)
+![](/images/science%20department_formal.jpg)
 
 **Department Overview** 
 
