@@ -6,10 +6,10 @@ third_nav_title: Instructional Programmes (IP)
 ---
 ### Key Programmes
 
-![CnT](/images/Craft%20&%20Technology%20Department.jpg)
+![](/images/craft%20&amp;%20technology%20department_formal.jpg)
 
 **Department Overview** <br>
-The Craft & Tech Dept oversee the development of students critical and inventive thinking skills through the coursework based content and pedagogy processes. The dynamics of the department is based on the need to development alternative assessments for the students through the competent teachers who are constantly in the process of developing resources and looking at new ways of working with the colleagues and with other department staff.
+The Craft &amp; Tech Dept oversee the development of students critical and inventive thinking skills through the coursework based content and pedagogy processes. The dynamics of the department is based on the need to development alternative assessments for the students through the competent teachers who are constantly in the process of developing resources and looking at new ways of working with the colleagues and with other department staff.
 
 **Vision** <br>
 Everyone is a practitioner of care, concern, curiosity and creativity. (4Cs)
@@ -17,7 +17,7 @@ Everyone is a practitioner of care, concern, curiosity and creativity. (4Cs)
 **Enrichment Programmes**
 *   Smart Shopping- Comparative on-line shopping through mini-project.
 *   Semestral Art Exhibitions
-*   C & Dept Integrated Programme Cum Affirmation Day
+*   C &amp; Dept Integrated Programme Cum Affirmation Day
 *   iChef by Republic Polytechnic
 *   Food Science Experiments
 *   Industry Visits
@@ -27,7 +27,7 @@ Everyone is a practitioner of care, concern, curiosity and creativity. (4Cs)
 
 ### Teachers
 
-**HOD Craft & Technology:** Ms Joy Tay Huijuan<br>
+**HOD Craft &amp; Technology:** Ms Joy Tay Huijuan<br>
 **Subject Head Art:** Mr Sivaperakas R Muthiah
 
 | Design and Technology | Art | Food and Nutrition Science/Music |
