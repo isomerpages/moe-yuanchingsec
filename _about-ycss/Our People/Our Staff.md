@@ -4,7 +4,6 @@ permalink: /about-ycss/our-people/our-staff/
 description: ""
 third_nav_title: Our People
 ---
-
 ![](/images/all%20staff%20(70%20x%2040cm)_v4-min.jpg)
 
 ### SENIOR TEACHERS
@@ -86,7 +85,6 @@ third_nav_title: Our People
 | Mr Ong Sheo Yuan | Teacher |
 | Mrs Siva Thavaranee Rasiah | Teacher |
 | Mdm Soh Kim Choo | Teacher |
-| Mr Victor Tan Yian Liang | Teacher |
 | Mdm Wong Ling Ling | Teacher |
 | Mdm Wong Soo Hsin | Teacher |
 | Mdm Yak Guat Eng | Teacher |
