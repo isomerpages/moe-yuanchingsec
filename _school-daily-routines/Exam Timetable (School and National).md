@@ -5,12 +5,9 @@ description: ""
 ---
 _For PDLP devices, you may also tap and hold the link and select Download Linked File ._
 
-**2023 N-LEVEL PRELIMINARY EXAMINATION**
+**2023 N-LEVEL  EXAMINATION**
 
-| | | 
-| -------- | -------- | 
-| [4NA Prelim schedule](/files/2023%20n%20prelim%20timetable_4na%20(1).pdf) | [4NT Prelim schedule](/files/2023%20n%20prelim%20timetable_4nt.pdf) | 
-| | |
+[(Revised) GCE N(A)/N(T)-Level examination timetable](/files/gce%20n-level%20exam%20timetable%2011_08_2023%20for%20publication.pdf)
 
 
 
