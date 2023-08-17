@@ -10,11 +10,9 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 [(Revised) GCE N(A)/N(T)-Level examination timetable](/files/gce%20n-level%20exam%20timetable%2011_08_2023%20for%20publication.pdf)
 
 
-
 **2023 O-LEVEL PRELIMINARY EXAMINATION**
 
-[4Exp / 5NA Prelim Schedule](/files/2023%20o%20level%20prelim%20timetable_4e5n%206_jul.pdf)
-
+[(Revised) 4Exp/5NA Prelim Examination Timetable](/files/2023%20o%20level%20prelim%20timetable_4e5n%2016%20aug.pdf)
 
 **2022 END-YEAR EXAMINATION**
 
