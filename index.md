@@ -29,6 +29,7 @@ sections:
       url: /resource/alumni/storiesofalumni/
       image: /images/nur hidayah.jpg
       subtitle: Yuan Ching Secondary School
+      alt: Image alt text
   - infopic:
       title: Parent Support Group
       subtitle: Yuan Ching Secondary School
