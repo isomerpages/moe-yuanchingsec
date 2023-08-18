@@ -27,7 +27,7 @@ sections:
       title: Stories of Alumni
       button: Read more
       url: /resource/alumni/storiesofalumni/
-      image: /images/alumni_shawn chia wei en.jpeg
+      image: /images/nur hidayah.jpg
       alt: Image alt text
       subtitle: Yuan Ching Secondary School
   - infopic:
