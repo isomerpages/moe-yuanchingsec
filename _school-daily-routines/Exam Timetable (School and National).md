@@ -5,6 +5,16 @@ description: ""
 ---
 _For PDLP devices, you may also tap and hold the link and select Download Linked File ._
 
+**2023 END-YEAR EXAMINATION**
+
+| | | |
+| -------- | -------- | -------- | 
+| [1Exp EOY ](/files/1e%20eoy%202023.pdf) | [1N EOY](/files/1na%20eoy%202023.pdf) | [1NT EOY](/files/1nt%20eoy%202023.pdf)  |
+|[2Exp EOY](/files/2e%20eoy%202023.pdf) | [2NA EOY](/files/2na%20eoy%202023.pdf) | [2NT EOY](/files/2nt%20eoy%202023.pdf) |
+| [3Exp EOY](/files/3e_final%20eoy%202023.pdf) | [3N EOY](/files/3n_final%20eoy%202023.pdf)| [3NT EOY](/files/3t_final%20eoy%202023.pdf)|
+| | | |
+
+
 **2023 N-LEVEL  EXAMINATION**
 
 [(Revised) GCE N(A)/N(T)-Level examination timetable](/files/gce%20n-level%20exam%20timetable%2011_08_2023%20for%20publication.pdf)
@@ -14,14 +24,7 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 
 [(Revised 4Exp/5NA Prelim examination timetable](/files/2023%20o%20level%20prelim%20timetable_4e5n%2017%20aug.pdf)
 
-**2022 END-YEAR EXAMINATION**
 
-| | | |
-| -------- | -------- | -------- | 
-| [1E EYE schedule](/files/EYE_1E_29%20Aug.pdf) | [1NA EYE schedule](/files/EYE_1NA_29%20Aug.pdf) | [1NT EYE schedule](/files/Updated%201NT%20EYE%20PG.pdf)  |
-| [2E EYE schedule](/files/EYE_2E_29%20Aug.pdf) |&nbsp;[2NA EYE schedule](/files/EYE_2NA_29%20Aug.pdf) | [2NT EYE schedule](/files/Updated%202NT%20EYE%20PG.pdf) |
-| [3E EYE schedule](/files/Updated%203E%20EYE%20PG.pdf) |[3NA EYE schedule](/files/Updated%203NA%20EYE%20PG.pdf) | [3NT EYE schedule ](/files/Updated%203NT%20EYE%20PG.pdf) |
-| | | |
 
 **2023 GCE O &amp; N LEVEL REGISTRATION INFORMATION FOR SCHOOL CANDIDATES**
 

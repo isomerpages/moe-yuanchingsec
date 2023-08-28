@@ -57,9 +57,8 @@ Principles of Accounts provide students with knowledge on business accounting pr
 | Geography | History | Social Studies | Principles of Accounts |
 |---|---|---|---|
 | Mrs Erh-Ong Ka Min | Mr Paul Lim | Ms Rathi D/O Bala Krishnan | Mdm Koh Jie Ying |
-| Ms Arulushamaheswary | Mr Mohamed Fahmy | Ms Tan Mei See Ashley | Mdm Angela Lee |
-| Mr Zhang Jia Wen | Mr Standley Daniel | Ms Kelly Yeo |  |
-| Ms Yeo Jie Ting | Mr Amos Lee |  |  |
+| Ms Arulushamaheswary | Mr Mohamed Fahmy | Ms Kelly Yeo | Mdm Angela Lee |
+| Mr Amos Lee  | Mr Standley Daniel |   |
 | | | 
 
 ### Gallery

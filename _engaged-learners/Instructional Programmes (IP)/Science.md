@@ -41,10 +41,10 @@ The Science Department aims to ignite students’ curiosity about day-to-day hap
 | Physics | Chemistry | Biology | |
 |---|---|---|---|
 | Mr Tan Kok Chiew | Mr Leung Yulun | Ms Dimas Nurr Aidilin Mas'od | 
-| Mr Malek | Ms Nadia Madzan | Mr Zhang Jiawen | 
-| Mr Chen Zhanjiang | Mr Lee Siak Kheng | Ms Azria Azman | 
-| Mr Chua Kok Yew | Ms Eunice Leong | Mr C. Ganesh |  |
-| Mr Huang Zhi Jie | Mr Wong Chin Seng  | Ms Jasmine Widodo  |  
+| Mr Malek | Ms Nadia Madzan | Ms Azria Azman |  | 
+| Mr Chen Zhanjiang | Mr Lee Siak Kheng | Mr C. Ganesh |  |
+| Mr Chua Kok Yew | Ms Eunice Leong | Ms Jasmine Widodo  |  
+| Mr Huang Zhi Jie | Mr Wong Chin Seng  | 
 | Ms Mok Yuen Teng |  
 | | | |
 
