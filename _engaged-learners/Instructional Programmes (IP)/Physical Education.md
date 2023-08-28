@@ -57,7 +57,7 @@ Sports Education Programme
 | Department Teachers |  |
 | -------- | -------- | 
 | Mr Lim Fang Kwan | Mr C.Ganesh |
-| Mr Foo Say Kin | Ms Yeo Jie Ting |
+| Mr Foo Say Kin | Mr Sonny Liang Lai Hup |
 | | |
 
 ### Gallery
