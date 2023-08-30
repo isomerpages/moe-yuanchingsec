@@ -15,3 +15,4 @@ third_nav_title: QUICKLINKS
 | [Exam Timetable (School/National)](/quick-links/for-students/school-daily-routines/exam-timetable-school-national/)    | | | |
 | [School Holiday Programme](/quick-links/for-students/school-daily-routines/school-holiday-programme/)  | | | |
 | [Weighted Assessment](/quick-links/for-students/school-daily-routines/weighted-assessment/)    | | | |
+| [Student Online Travel Declaration (*only for those not onboard PG*)](https://go.gov.sg/ycss-student-declaretravels)
