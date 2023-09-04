@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - Happenings/September 2023.md
       - Happenings/August 2023.md
       - Happenings/July 2023.md
       - Happenings/May 2023.md
