@@ -3,6 +3,24 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+### Parents' Connect 2023
+
+Dear Parents/Guardians
+
+The latest issue of Parents Connect is attached. 
+
+[Parents' Connect (Sep-Dec 2023) issue](/files/parents%20connect%20sep-dec%202023.pdf)
+
+Working in partnership with you to nurture your child/ward to become confident and engaged learners. 
+
+Thank you. 
+
+Yuan Ching Secondary School
+
+-----
+
+
+
 ### YC Scoop Issue 9
 
 Read our latest issue of YC Scoop [here!](https://online.fliphtml5.com/obrr/ddxv/)
@@ -64,22 +82,6 @@ Information on their learning tasks/activities/ assignments can be found on ICT@
 
 -----
 
-
-### Parents' Connect 2023
-
-Dear Parents/Guardians
-
-The latest issue of Parents Connect is attached. 
-
-[March/April](/files/Parents%20Connect%20Mar-Apr%202023.pdf)
-
-Working in partnership with you to nurture your child/ward to become confident and engaged learners. 
-
-Thank you. 
-
-Yuan Ching Secondary School
-
------
 
 ### Weighted Assessment (WA1) Schedule
 
