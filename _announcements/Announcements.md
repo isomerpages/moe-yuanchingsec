@@ -3,6 +3,32 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+### MOE - A World Beyond School
+
+![](/images/moe%20wbs.jpg)
+
+MOE is organizing the 2nd session of “Insights Into the World Beyond School” live on [Facebook](http://go.gov.sg/awbs-sep2) on 14 Sep 2023 (Thu) from 8pm to 9pm. Students, Parents and Staff are encouraged to join in the session to learn about how many companies have shifted to skills-based hiring and what it means to prepare our students for the world of work. Hear from the panellists the evolution of HR practices, types of emerging jobs in the near future, and the skills in demand. 
+
+Recordings of past sessions are available on [MOE Facebook](https://www.facebook.com/moesingapore/) and [YouTube](https://youtube.com/playlist?list=PLgBw4fHUtzK1Uhx5VIhh7YFXp8iEZjs1_). The next Facebook Live session will be in November 2023 so do look out for it. 
+
+### Parents' Connect 2023
+
+Dear Parents/Guardians
+
+The latest issue of Parents Connect is attached. 
+
+[Parents' Connect (Sep-Dec 2023) issue](/files/parents%20connect%20sep-dec%202023.pdf)
+
+Working in partnership with you to nurture your child/ward to become confident and engaged learners. 
+
+Thank you. 
+
+Yuan Ching Secondary School
+
+-----
+
+
+
 ### YC Scoop Issue 9
 
 Read our latest issue of YC Scoop [here!](https://online.fliphtml5.com/obrr/ddxv/)
@@ -64,22 +90,6 @@ Information on their learning tasks/activities/ assignments can be found on ICT@
 
 -----
 
-
-### Parents' Connect 2023
-
-Dear Parents/Guardians
-
-The latest issue of Parents Connect is attached. 
-
-[March/April](/files/Parents%20Connect%20Mar-Apr%202023.pdf)
-
-Working in partnership with you to nurture your child/ward to become confident and engaged learners. 
-
-Thank you. 
-
-Yuan Ching Secondary School
-
------
 
 ### Weighted Assessment (WA1) Schedule
 
