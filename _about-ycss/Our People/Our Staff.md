@@ -101,7 +101,6 @@ third_nav_title: Our People
 | Mr See Thou Yew Cheong | Admin Manager |
 | Mr Govindarajoo G N Naidu | Operations Manager |
 | Mdm Bay Lee Hoon | Operations Manager |
-| Mr Raymond Ho | Operations Manager |
 | Ms Nur Suhailah Bte Abdul Halim | Admin Executive |
 | Mdm Kek Boon Hui Yvonne | Admin Executive |
 | Mdm Anniah Shofina | ICT Manager |
