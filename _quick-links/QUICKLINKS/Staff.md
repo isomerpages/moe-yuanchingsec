@@ -15,7 +15,7 @@ third_nav_title: QUICKLINKS
 *   [ICT Service Request Form](https://go.gov.sg/ycss-ictrequest)
 *   [HRP Portal](https://www.hrp.gov.sg/hrp/#/)
 *   [Ministry of Education Sports & Recreation Club](https://www.mesrc.net/)
-*   [MIMS Portal](https://portal.mims.moe.gov.sg/)
+*   [MIMS Portal](https://mims.moe.gov.sg/)
 *   [MOE Website](https://www.moe.gov.sg/)
 *   [MOE Sports and Recreation Club (MESRC)](https://www.mesrc.net/)
 *   [One Portal All Learners (OPAL) 2.0](https://www.opal2.moe.edu.sg/app/learner)
