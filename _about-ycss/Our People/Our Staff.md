@@ -48,7 +48,8 @@ third_nav_title: Our People
 | 3 Integrity | Mr Liew Kok Keong | Ms Lim Yi Hui |  |
 | 3 Excellence | Mr Chua Kok Yew | Ms Arulushamaheswary |  | 
 | 3 Compassion | Ms Angela Lee Mui Huang | Ms Vilochana D/O Veloo |  |
-| 3 Enterprise | Ms Jasmine Sujatha  | Ms Siti Nurshila Bte Roslan |  |
+| 3 Enterprise | Ms Jasmine Sujatha  | Ms Siti Nurshila Bte Roslan
+|  | |                                                             Sarah Ong Jia Qi  |
 | 3 Respect | Ms Audrey Goh Xin Yun | Mr Sonny Liang Lai Hup   |
 | 3 Resilience | Mdm Musniffa Bte Mustaffa | Mr Isaac Chong Xiang Yang |
 | 3 Harmony | Mr Mohd Fahmy B Abdul Latif | Mr Koh Shao Wei
