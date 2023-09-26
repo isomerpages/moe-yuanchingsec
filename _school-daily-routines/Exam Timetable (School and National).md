@@ -9,8 +9,8 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 
 | | | |
 | -------- | -------- | -------- | 
-| [1Exp EOY ](/files/1e%20eoy%202023.pdf) | [1N EOY](/files/1na%20eoy%202023.pdf) | [1NT EOY](/files/1nt%20eoy%202023.pdf)  |
-|[2Exp EOY](/files/2e%20eoy%202023.pdf) | [2NA EOY](/files/2na%20eoy%202023.pdf) | [2NT EOY](/files/2nt%20eoy%202023.pdf) |
+| [1Exp EOY ](/files/1e%20eoy%202023.pdf) | [1N EOY](/files/1na%20eoy%202023.pdf) | [1NT EOY](/files/1nt_26%20sep2023.pdf) |
+|[2Exp EOY](/files/2e%20eoy%202023.pdf) | [2NA EOY](/files/2na_26%20sep2023.pdf) | [2NT EOY](/files/2nt%20eoy%202023.pdf) |
 | [3Exp EOY](/files/3e_final%20eoy%202023.pdf) | [3N EOY](/files/3n_final%20eoy%202023.pdf)| [3NT EOY](/files/3t_final%20eoy%202023.pdf)|
 | | | |
 
