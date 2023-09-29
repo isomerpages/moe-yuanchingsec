@@ -26,6 +26,6 @@ third_nav_title: QUICKLINKS
 
 * [Parents-In-Education](https://www.schoolbag.edu.sg/)
 
-* [Sec 1 PES and CCA Showcase 2023](/others/Sec1PESCCAShowcase2023/)
+* [Secondary 1 - 5 Parents' Engagement Session sharing 2023](https://yuanchingsec.moe.edu.sg/others/pes2023/)
 
 * [YC Scoop](/quick-links/for-parents/yc-scoop/)
