@@ -17,7 +17,7 @@ Please click the files below for more information that was shared during Sec 1-5
 
 * [Sec 2 Parents' Engagement session sharing](/files/sc_secondary%202%20parents'%20engagement%202023.pdf)
 
-* [Sec 2 Education & Career Guidance (ECG) sharing ]()
+* [Sec 2 Education & Career Guidance (ECG) sharing](/files/ecgc_sec%202_ecg%20parent%20talk_ycss%2031%20mar%202023_final.pdf)
 
 * [Sec 3-4 Parents' Engagement Session sharing](/files/sc_secondary%203-4%20parents'%20engagement%202023.pdf)
 
