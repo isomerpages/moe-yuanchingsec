@@ -27,7 +27,7 @@ sections:
       title: Stories of Alumni
       button: Read more
       url: /resource/alumni/storiesofalumni/
-      image: /images/nur hidayah.jpg
+      image: /images/alumni_ryal high res.jpg
       subtitle: Yuan Ching Secondary School
       alt: Image alt text
   - infopic:
