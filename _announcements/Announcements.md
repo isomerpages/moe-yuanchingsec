@@ -5,7 +5,7 @@ description: ""
 ---
 ### Year End Holiday Crime Prevention Advisory 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjGpmqXPnKVEdGCBoR9lpBNIlG8fgkckgksrJ_vcXV89d9GHh_4AvkrRFMC1PRTxAPZfK-MYkVlj28/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjGpmqXPnKVEdGCBoR9lpBNIlG8fgkckgksrJ_vcXV89d9GHh_4AvkrRFMC1PRTxAPZfK-MYkVlj28/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 [End of Year School Holiday Advisory](/files/end%20of%20year%20school%20holiday%20advisory.pdf)
 
