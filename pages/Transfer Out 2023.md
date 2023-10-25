@@ -1,6 +1,6 @@
 ---
-title: Transfer Out
-permalink: /admissions/transfer-out/
+title: Transfer Out 2023
+permalink: /transferout2023/
 description: ""
 ---
 Please note that you will still need to complete your [Online Registration](https://form.gov.sg/638eac7ea122920011c29437) first before making your transfer request.

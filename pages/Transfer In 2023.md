@@ -1,6 +1,6 @@
 ---
-title: Transfer In
-permalink: /admissions/transfer-in/
+title: Transfer In 2023
+permalink: /transferin2023/
 description: ""
 ---
 Appeals to transfer IN to Yuan Ching Sec School need to be made by 28 Dec 2022 (Wednesday).
