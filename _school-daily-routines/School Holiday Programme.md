@@ -5,14 +5,10 @@ description: ""
 ---
 _For PDLP devices, you may also tap and hold the link and select Download Linked File ._  
 
-**2023 June Holidays Remedial Programme**
+**2023 Oct/November Bedrock / Bridging Programme**
 
-* [2023 June Holidays Remedial Programme](/files/2023%20june%20remedial%20schedule.pdf)
+* [Sec 1 Bedrock & Bridging Programme](/files/sec%201%20bedrock%20&%20bridging%20programme.pdf)
 
+* [Sec 2 Bedrock & Bridging Programme](/files/sec%202%20bedrock%20&%20bridging%20programme.pdf)
 
-
-**2023 March Holidays Remedial Programme**
-
-* [2023 March Holiday Remedial Schedule](/files/2023%20March%20Holiday%20Remedial%20Schedule_.pdf)
-
-* [2023 March Holiday Enrichment Programmes](/files/2023%20March%20Holiday%20Enrichment%20Programmes.pdf)
+* [Sec 3 Bridging Programme](/files/sec%203%20bridging%20programme.pdf)
