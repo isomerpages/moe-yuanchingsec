@@ -1,0 +1,7 @@
+collections:
+  parents-links:
+    output: true
+    order:
+      - Parents' Connect.md
+      - YC Scoop.md
+      - Parents Gateway.md
