@@ -1,5 +1,5 @@
 collections:
-  others:
+  parents-links:
     output: true
     order:
       - Parents' Connect.md
