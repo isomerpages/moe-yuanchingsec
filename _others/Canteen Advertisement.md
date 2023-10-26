@@ -34,7 +34,7 @@ MRT:&nbsp;Lakeside MRT station
 *   Able to maintain high standard of food safety and personal hygiene.
 *   Healthy and fit to operate the stall.
 
-**Applicants should preferably fulfil the following criteria:**
+**Applicants should preferably fulfill the following criteria:**
 
 *   Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 *   Possess catering experience or experience operating in a school environment.
