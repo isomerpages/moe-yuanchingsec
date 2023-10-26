@@ -9,6 +9,6 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 
 * [Sec 1 Bedrock & Bridging Programme](/files/sec%201%20bedrock%20&%20bridging%20programme.pdf)
 
-* [Sec 2 Bedrock & Bridging Programme](/files/sec%202%20bedrock%20&%20bridging%20programme.pdf)
+* [Sec 2 Bedrock & Bridging Programme](/files/sec%202%20bedrock%20&%20bridging%20programme%20(updated).pdf)
 
 * [Sec 3 Bridging Programme](/files/sec%203%20bridging%20programme.pdf)
