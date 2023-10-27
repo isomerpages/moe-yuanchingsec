@@ -14,11 +14,11 @@ Click on the link below to access the booklist for&nbsp;**2023**.
 
 #### PACIFIC BOOKSTORES ONLINE/ WALK IN PURCHASE 2023
 
-In line with the school’s safe management measures, you are encouraged to make your purchases via pacific bookstore’s online platform ([https://www.pacificbookstores.com](https://www.pacificbookstores.com/)).
+You are encouraged to make your purchases via pacific bookstore’s online platform ([https://www.pacificbookstores.com](https://www.pacificbookstores.com/)).
 
 This platform will enable you to make your books and uniform purchases with the option of Home Delivery (with delivery charges) or Self Collection.
 
-Do take note that the website ([https://www.pacificbookstores.com](https://www.pacificbookstores.com/)) will only be available from&nbsp;**5 Nov 2021 to 13 Dec 2021**.
+Do take note that the website ([https://www.pacificbookstores.com](https://www.pacificbookstores.com/)) will only be available from&nbsp;**3 Nov 2023 to 15 Dec 2023**.
 
 Please refer&nbsp;[here](/files/Letter%20to%20Parent%20for%20Online%20Purchase%202022%20YCSS.pdf)&nbsp;for the guided procedures for your purchases.
 
