@@ -77,7 +77,6 @@ third_nav_title: Our People
 | Mr Lim Fang Kwan | Teacher |
 | Mr Mohamad Malek Sufahat | Teacher |
 | Ms Sumita Sathi | Teacher |
-| Mr Mohd Ahdani bin Kandar  | Teacher |
 | Ms Chen Yaqi Bernice | Teacher |
 | Mdm Fang Chen Lan  | Teacher  |
 | Mr Jamal Mohinitheen Bin Ahamed Ghani | Teacher |
