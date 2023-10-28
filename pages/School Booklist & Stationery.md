@@ -3,23 +3,32 @@ title: School Booklist & Stationery
 permalink: /quick-links/for-students/school-booklist-n-stationery/
 description: ""
 ---
-Click on the link below to access the booklist for&nbsp;**2023**.
+### Click on the link below to access the booklist for **2024**.
+
 
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
-| [Sec 1 Express](/files/1EXP%202022.pdf) | [Sec 2 Express](/files/2EXP%202022.pdf) | [Sec 3 Express](/files/3EXP%202022.pdf) | [Sec 4 Express](/files/4EXP%202022.pdf) |
-| [Sec 1 Normal Academic](/files/1NA%202022.pdf) | [Sec 2 Normal Academic](/files/2NA%202022.pdf) | [Sec 3 Normal Academic](/files/3NA%202022.pdf) | [Sec 4 Normal Academic](/files/4NA%202022.pdf) <br><br>[Sec 5 Normal Academic](/files/5NA%202022.pdf) |
-| [Sec 1 Normal Technical](/files/1NT%202022.pdf) | [Sec 2 Normal Technical](/files/2NT%202022.pdf) | [Sec3 Normal Technical](/files/3NT%202022.pdf) | [Sec 4 Normal Technical](/files/4NT%202022.pdf) |
+| [Sec 1 G1](/files/sec%201%20g1.pdf) | [Sec 1 G2](/files/sec%201%20g2.pdf) | [Sec 1 G3](/files/sec%201%20g3.pdf) |  |
+| [Sec 2 Exp](/files/sec%202%20exp.pdf) | [Sec 2 NA](/files/sec%202%20na.pdf) | [Sec 2 NT](/files/sec%202%20nt.pdf) |  |
+| [Sec 3 Exp](/files/sec%203%20exp.pdf) | [Sec 3 NA](/files/sec%203%20na.pdf) | [Sec 3 NT](/files/sec%203%20nt.pdf) | 
+| [Sec 4 Exp](/files/s4%20exp.pdf) | [Sec 4 NA](/files/sec%204%20na.pdf) | [Sec 4 NT](/files/sec%204%20nt.pdf) |
+| [Sec 5 NA](/files/sec%205%20na.pdf) |
 | | | |
 
 #### PACIFIC BOOKSTORES ONLINE/ WALK IN PURCHASE 2023
 
 You are encouraged to make your purchases via pacific bookstore’s online platform ([https://www.pacificbookstores.com](https://www.pacificbookstores.com/)).
 
-This platform will enable you to make your books and uniform purchases with the option of Home Delivery (with delivery charges) or Self Collection.
+a) Home Delivery: Purchase online via [Pacific Bookstores](https://www.pacificbookstores.com/) where a delivery charge of $14.60 applies.
 
-Do take note that the website ([https://www.pacificbookstores.com](https://www.pacificbookstores.com/)) will only be available from&nbsp;**3 Nov 2023 to 15 Dec 2023**.
+b) Self Collection: Order online via [Pacific Bookstores](https://www.pacificbookstores.com/) and collection can be made at the school on the appointed dates booked at the website.
+
+c) Walk-in: Purchase at the school bookshop during the dates and operating hours stated in the booklist.
+
+For students who are on MOE Financial Assistance, please do not purchase the books on your own. The school will contact the students/parents directly regarding the arrangements for the collection of the books and uniform.
+
+If your child is offered subjects at a more demanding level, please refer to the booklist of those subjects being offered at a more demanding level for your purchase.
+
+Do take note that the [Pacific Bookstore website](https://www.pacificbookstores.com/) will only be available from&nbsp;**3 November 2023 to 15 December 2023**.
 
 Please refer&nbsp;[here](/files/Letter%20to%20Parent%20for%20Online%20Purchase%202022%20YCSS.pdf)&nbsp;for the guided procedures for your purchases.
-
-For students on <u>Financial Assistance Schemes </u>, the school will contact the student / parents directly on the arrangements for the collection of the books and uniform. Please do not purchase online.
