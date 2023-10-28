@@ -31,4 +31,4 @@ If your child is offered subjects at a more demanding level, please refer to the
 
 Do take note that the [Pacific Bookstore website](https://www.pacificbookstores.com/) will only be available from&nbsp;**3 November 2023 to 15 December 2023**.
 
-Please refer&nbsp;[here](/files/Letter%20to%20Parent%20for%20Online%20Purchase%202022%20YCSS.pdf)&nbsp;for the guided procedures for your purchases.
+Please refer [here](/files/user%20guide%20for%20online%20purchase%20of%20school%20textbooks%202024.pdf) for the guided procedures for your purchases.
