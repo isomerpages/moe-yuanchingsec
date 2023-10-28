@@ -17,7 +17,7 @@ description: ""
 
 #### PACIFIC BOOKSTORES ONLINE/ WALK IN PURCHASE 2023
 
-You are encouraged to make your purchases via pacific bookstore’s online platform ([https://www.pacificbookstores.com](https://www.pacificbookstores.com/)).
+You are encouraged to make your purchases via Pacific Bookstores online platform ([https://www.pacificbookstores.com](https://www.pacificbookstores.com/)).
 
 a) Home Delivery: Purchase online via [Pacific Bookstores](https://www.pacificbookstores.com/) where a delivery charge of $14.60 applies.
 
