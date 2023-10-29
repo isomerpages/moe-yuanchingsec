@@ -15,7 +15,7 @@ description: ""
 | [Sec 5 NA](/files/sec%205%20na.pdf) |
 | | | |
 
-#### PACIFIC BOOKSTORES ONLINE/ WALK IN PURCHASE 2023
+#### PACIFIC BOOKSTORES ONLINE/ WALK IN PURCHASE
 
 You are encouraged to make your purchases via Pacific Bookstores online platform ([https://www.pacificbookstores.com](https://www.pacificbookstores.com/)).
 
