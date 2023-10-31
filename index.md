@@ -24,6 +24,14 @@ sections:
       subtitle: Efforts Today Rewards Tomorrow
       background: /images/hero mvv v6.gif
   - infopic:
+      title: Open House 2023
+      subtitle: Yuan Ching Secondary School
+      id: infopic
+      description: "9am-12pm | Onsite | Microsite | Talks by School Leaders: 9.30am & 11am"
+      button: Visit US
+      url: https://yuanchingopenhouse.wixsite.com/ycoh
+      image: /images/open house 2023.png
+  - infopic:
       title: Stories of Alumni
       button: Read more
       url: /resource/alumni/storiesofalumni/
