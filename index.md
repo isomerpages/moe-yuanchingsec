@@ -29,7 +29,7 @@ sections:
       id: infopic
       description: "9am-12pm | Onsite | Microsite | Talks by School Leaders: 9.30am & 11am"
       button: Visit US
-      url: https://yuanchingopenhouse.wixsite.com/ycoh
+      url: /admissions/openhouse2023/
       image: /images/open house 2023.png
   - infopic:
       title: Stories of Alumni
