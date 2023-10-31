@@ -31,6 +31,7 @@ sections:
       button: Visit US
       url: /admissions/openhouse2023/
       image: /images/open house 2023.png
+      alt: Banner
   - infopic:
       title: Stories of Alumni
       button: Read more
