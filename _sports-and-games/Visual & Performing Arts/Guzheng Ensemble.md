@@ -21,6 +21,14 @@ As not everyone is gifted with natural musical skills, Yuan Ching Guzheng Ensemb
 
 ### Achievements
 
+
+<strong><u>2023 </u></strong>
+*   Singapore Youth Festival - Certificate of Distinction
+*   World Guzheng Competition - Gold Award
+*   Nanyang International Music Competition (Chinese Music Division) - Silver Award 
+*   Ethnic Celebration
+*   School National Day Celebration
+
 <strong><u>2022 </u></strong>
 *   Ethnic Celebration
 *   School National Day Celebration
@@ -32,11 +40,6 @@ As not everyone is gifted with natural musical skills, Yuan Ching Guzheng Ensemb
 *   SYFplaysOnline – Kampong Love
 *   Ethnic Celebration
 *   National Day – Home (Video)
-
-<strong><u>2020</u></strong>
-*   SYFgoesOnline – SYF Pieces Reimagined
-*   3rd 心情溶剂 The Dream Composition in Chinese Songwriting Category
-*   Ethnic Celebration
 
 ### Teachers in charge
 
