@@ -3,12 +3,14 @@ title: Guzheng Ensemble
 permalink: /engaged-learners/co-curricular-activities-cca/visual-n-performing-arts/guzheng-ensemble/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ### Introduction
 
-Yuan Ching Guzheng Ensemble was started in 2005. Through the Guzheng Ensemble, students learn to appreciate the intrinsic beauty of the Guzheng. While they learn to appreciate classical Chinese musical pieces, they also learn to appreciate how a traditional musical instrument could still be relevant in the contemporary musical scene.
+Yuan Ching Guzheng Ensemble was started in 2005. Through the Guzheng Ensemble, students learn to appreciate the intrinsic beauty of the Guzheng. While they learn to appreciate classical Chinese musical pieces, they also learn to appreciate how a traditional musical instrument could still be relevant in the contemporary musical scene. <br>
 
-As not everyone is gifted with natural musical skills, Yuan Ching Guzheng Ensemble aspires to provide opportunities to help students understand that hard work and resilience will enable them to master the skills of playing Guzheng. Eventually, students will pick up a meaningful pursuit that brings joy in their lives.
+As not everyone is gifted with natural musical skills, Yuan Ching Guzheng Ensemble aspires to provide opportunities to help students to understand that hard work and resilience will enable them to master Guzheng playing skills. At the end of the day, students will pick up a meaningful pursuit that can bring them joy in their lives.
+
 
 ### CCA Activities
 
