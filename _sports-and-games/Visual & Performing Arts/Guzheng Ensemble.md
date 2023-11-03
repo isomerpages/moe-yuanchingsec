@@ -57,12 +57,9 @@ Guzheng Room and AVT
 
 ### CCA Photographs
 
+![Guzheng Bonding Session](/images/1-guzheng%20bonding%20session.jpg)
+Guzheng Bonding Session
 
-![](/images/guzheng.jpg)
+![Normal Training](/images/2-normal%20training%202.jpg)
+Normal Training 
 
-<figure>  
-<img src="/images/2022%20YCSS%20Homecoming.png">  
-<figcaption> 2022 YCSS Homecoming Event </figcaption>  
-</figure>
-
-![](/images/taman%20jurong.jpg)
