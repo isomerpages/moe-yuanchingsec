@@ -61,5 +61,22 @@ Guzheng Room and AVT
 Guzheng Bonding Session
 
 ![Normal Training](/images/2-normal%20training%202.jpg)
-Normal Training 
+Normal Training
 
+![2023 Exchange Programme with Clementi Town Secondary and Xishan Primary](/images/3-2023%20exchange%20programme%20clementi%20town%20secondary%20and%20xishan%20primary.jpg)
+
+![2023 exchange programme clementi town secondary and xishan primary](/images/4-2023%20exchange%20programme%20clementi%20town%20secondary%20and%20xishan%20primary.jpg)
+2023 Exchange Programme with Clementi Town Secondary and Xishan Primary
+
+![2023 SYF Presentation &amp; Preparation](/images/5-2023%20syf%20presentation%20and%20preparation.jpg)
+2023 SYF Presentation &amp; Preparation
+
+![2023 SYF Presentation &amp; Preparation](/images/6-2023%20syf%20presentation%20&amp;%20preparation.jpg)
+
+![2023 SYF Presentation &amp; Preparation](/images/7-2023%20syf%20presentation%20and%20preparation.jpg)
+
+
+![2023 VIA - Performance at Alexandra Hospital](/images/8-2023%20via%20-%20performance%20at%20alexandra%20hospital.jpg)
+2023 VIA - Performance at Alexandra Hospital
+
+![Music Appreciation - Watching SCO Concert](/images/9-music%20appreciation%20-%20watching%20sco%20concert.jpg)
