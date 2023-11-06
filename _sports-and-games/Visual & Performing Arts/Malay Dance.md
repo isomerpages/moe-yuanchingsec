@@ -3,6 +3,7 @@ title: Malay Dance
 permalink: /engaged-learners/co-curricular-activities-cca/visual-n-performing-arts/malay-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ### Introduction
 
@@ -70,6 +71,9 @@ Venue (2) : Dance Studio Level 1 <br>
 <figcaption> Malay Dance VIA 2022 - Book Donation Drive @Dignity Mama </figcaption>  
 </figure>
 
+
+
+
 <figure>  
 <img src="/images/P3NTAS%20Gelanggang%20Tari%202022.jpg"> 
 <figcaption> P3NTAS: GELANGGANG TARI 2022 </figcaption>  
@@ -80,17 +84,9 @@ Venue (2) : Dance Studio Level 1 <br>
 <figcaption> YCSS Homecoming 2022 </figcaption>  
 </figure>
 
-<figure>  
-<img src="/images/YCSS%20Homecoming%202022_2.jpg"> 
-<figcaption> YCSS Homecoming 2022 </figcaption>  
-</figure>
 
 <figure>  
 <img src="/images/Singapore%20Youth%20Festival%202021.jpg"> 
 <figcaption> Singapore Youth Festival 2021 </figcaption>  
 </figure>
 
-<figure>  
-<img src="/images/Singapore%20Youth%20Festival%202021_2.jpg"> 
-<figcaption> Singapore Youth Festival 2021 </figcaption>  
-</figure>
