@@ -57,6 +57,8 @@ Guzheng Room and AVT
 
 ### CCA Photographs
 
+
+
 <figure>  
 <img src="/images/1-guzheng%20bonding%20session.jpg">  
 <figcaption> Guzheng Bonding Session </figcaption>  
@@ -80,7 +82,7 @@ Guzheng Room and AVT
 
 <figure>  
 <img src="/images/5-2023%20syf%20presentation%20and%20preparation.jpg">  
-<figcaption> 2023 Presentation &amp; Preparation </figcaption>  
+<figcaption> 2023 SYF Presentation &amp; Preparation </figcaption>  
 </figure>
 
 
@@ -101,5 +103,5 @@ Guzheng Room and AVT
 
 <figure>  
 <img src="/images/9-music%20appreciation%20-%20watching%20sco%20concert.jpg">  
-<figcaption> Music Appreciation - Watching SCO Concert</figcaption>  
+<figcaption> Music Appreciation - Watching Singapore Chinese Orchestra (SCO) Concert</figcaption>  
 </figure>
