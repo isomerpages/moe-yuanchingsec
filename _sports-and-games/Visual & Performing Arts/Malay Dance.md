@@ -36,7 +36,6 @@ Every dance practice session will begin with a series of warm up routines compri
 *   YCSS Ethnic Celebration
 *   Taman Jurong CC National Day Celebration
 
-
 ### Teachers in charge
 
 Ms Siti Nurshila Roslan (I/C) <br>
@@ -54,7 +53,7 @@ Venue (2) : Dance Studio Level 1 <br>
 ### CCA Photographs
 
 <figure>  
-<img src="/images/01%20syf%20malay%20dance%202023.jpg"> 
+<img src="/images/01%20syf%20malay%20dance%202023_.png"> 
 <figcaption> Singapore Youth Festival Arts Presentation 2023 </figcaption>  
 </figure>
 
