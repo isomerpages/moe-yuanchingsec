@@ -62,17 +62,19 @@ Venue (2) : Dance Studio Level 1 <br>
 ### CCA Photographs
 
 <figure>  
-<img src="/images/Hari%20Raya%20Performance%202022.png"> 
-<figcaption> Hari Raya Performance 2022 </figcaption>  
+<img src="/images/01%20syf%20malay%20dance%202023.jpg"> 
+<figcaption> Singapore Youth Festival Arts Presentation 2023 </figcaption>  
 </figure>
 
 <figure>  
-<img src="/images/Malay%20Dance%20VIA%202022%20-%20Book%20Donation%20Drive%20Dignity%20Mama.jpg"> 
-<figcaption> Malay Dance VIA 2022 - Book Donation Drive @Dignity Mama </figcaption>  
+<img src="/images/02%20ycss%20cny%20celebration%202023.jpg"> 
+<figcaption> YCSS Chinese New Year Celebration 2023 </figcaption>  
 </figure>
 
-
-
+<figure>  
+<img src="/images/malay%20dance%20costume%20dress%20up.jpg"> 
+<figcaption> Costume Dress Up Game during Malay Dance Day Camp 2023 </figcaption>  
+</figure>
 
 <figure>  
 <img src="/images/P3NTAS%20Gelanggang%20Tari%202022.jpg"> 
@@ -89,4 +91,3 @@ Venue (2) : Dance Studio Level 1 <br>
 <img src="/images/Singapore%20Youth%20Festival%202021.jpg"> 
 <figcaption> Singapore Youth Festival 2021 </figcaption>  
 </figure>
-
