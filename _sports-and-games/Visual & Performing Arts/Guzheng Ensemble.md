@@ -58,15 +58,19 @@ Guzheng Room and AVT
 ### CCA Photographs
 
 <figure>  
-<img src="/images/Performance%20at%20Homecoming%20Concert%20in%20the%20School%20Hall%202022.png">  
-<figcaption> Performance at Homecoming Concert in the School Hall (2022) </figcaption>  
+<img src="/images/1-guzheng%20bonding%20session.jpg">  
+<figcaption> Guzheng Bonding Session </figcaption>  
 </figure>
 
-![Guzheng Bonding Session](/images/1-guzheng%20bonding%20session.jpg)
-Guzheng Bonding Session
+<figure>  
+<img src="/images/2-normal%20training%202.jpg">  
+<figcaption> Normal Training </figcaption>  
+</figure>
 
-![Normal Training](/images/2-normal%20training%202.jpg)
-Normal Training
+<figure>  
+<img src="/images/3-2023%20exchange%20programme%20clementi%20town%20secondary%20and%20xishan%20primary.jpg">  
+<figcaption> 2023 Exchange Programme with Clementi Town and Xishan Primary </figcaption>  
+</figure>
 
 ![2023 Exchange Programme with Clementi Town Secondary and Xishan Primary](/images/3-2023%20exchange%20programme%20clementi%20town%20secondary%20and%20xishan%20primary.jpg)
 
