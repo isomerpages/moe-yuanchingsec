@@ -7,18 +7,22 @@ variant: markdown
 ---
 ### Introduction
 
-In Yuan Ching Secondary, our Malay dancers will be introduced to the different dance genres both in dance movement as well as in theoretical aspects behind each dance.
-
-Our Dancers will also have opportunities to explore the use of dance props, accessories and costumes according to each genre.
+In Yuan Ching Secondary, our Malay dancers will be introduced to the different dance genres both in dance movement as well as in theoretical aspects behind each dance. Our dancers will also have opportunities to explore the use of dance props, accessories, and costumes according to each genre.
 
 At the end of each practice session and performance, a debrief session will be conducted to allow dancers to reflect on their dance experiences and challenges. The Teachers-in-charge, instructor and dance members will also be using this platform to affirm dancers who have demonstrated the school values of iExCEL.
 
 ### CCA Activities
 
-*   Every dance practice session will begin with a series of warm up routines comprising of physical exercises such as running, stretching and strengthening exercises.
-*   Dancers will learn the foundational techniques and cultural context of different dance genres.
+Every dance practice session will begin with a series of warm up routines comprising of physical exercises such as running, stretching, and strengthening exercises. Dancers will learn the foundational techniques and cultural context of different dance genres.
 
 ### Achievements
+
+<u> 2023 </u>
+* Singapore Youth Festival Arts Presentation 2023 – Certificate of Accomplishment
+* YCSS Chinese New Year Celebration 2023
+* Malay Dance Day Camp 2023
+* Muara Festival 2023 – Youth Stage
+
 
 <u> 2022 </u>
 *   P3NTAS: Gelanggang Tari 2022 - 2nd Runner Up
@@ -32,18 +36,6 @@ At the end of each practice session and performance, a debrief session will be c
 *   YCSS Ethnic Celebration
 *   Taman Jurong CC National Day Celebration
 
-<u> 2020 </u>
-*   YCSS Ethnic Celebration
-*   SYFgoesOnline – DanceVerve20
-*   Welcome In My Backyard – Recorded Performance for Migrant Workers
-
-<u> 2019 </u>
-*   Singapore Youth Festival 2019 – Certificate of Distinction
-*   MESRA Berzapin Dance Competition- 3rd Prize
-*   Jurong Lake Garden Official Opening Performance
-*   YCSS Ethnic Celebration
-*   YCSS Speech Day cum National Day
-*   Values-In-Action – Delivering Hampers to the Needy Families
 
 ### Teachers in charge
 
