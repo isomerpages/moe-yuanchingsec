@@ -39,7 +39,7 @@ Students volunteer to keep their home training ground, Jurong Lake clean during 
 
 **2023** <br>
 <u> National Inter-School Dragon Boat Championships </u> <br> 
-'B' Boys 20 Crew: 4tTH <br>
+'B' Boys 20 Crew: 4TH <br>
 <u> National Inter-School Dragon Boat Championships </u> <br>
 'C' Boys 10 Crew: 3RD <br>
 'C' Boys 20 Crew: 3RD <br>
