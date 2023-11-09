@@ -3,6 +3,7 @@ title: Dragon Boat
 permalink: /engaged-learners/co-curricular-activities-cca/sports-n-games/dragon-boat/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ### Introduction
 
@@ -35,34 +36,43 @@ Students volunteer to keep their home training ground, Jurong Lake clean during 
 
 ### Achievements / Participations
 
-**2016** <br>
-<u> Temasek Regatta 2016 </u><br>
-10 crew (Women) Minor Final – 1ST <br>
-20 crew (Men) Minor Final – 1ST
 
-<u> 16th National Inter-school Dragon Boat Championships </u><br>
-C Girls/DB22 – 1ST <br>
-C DIV GIRLS/DB 12 – 1ST <br>
-C Boys/DB12 – 3RD <br>
-B Girls/DB12 – 4TH <br>
-B Boys/DB22 – 4TH <br>
-C Boys/DB22 – 4TH <br>
-B Boys/DB12 – 5TH 
+**2023** <br>
+<u> National Inter-School Dragon Boat Championships </u> <br> 
+'B' Boys 20 Crew: 4TH <br>
+<u> National Inter-School Dragon Boat Championships </u> <br>
+'C' Boys 10 Crew: 3RD <br>
+'C' Boys 20 Crew: 3RD <br>
+'B' Boys 10 Crew: 9TH <br>
+'B' Boys 20 Crew: 4TH <br>
 
-**2017** <br>
-<u> Temasek Regatta 2017 </u><br>
-10 crew (Women) – 1ST <br>
-20 crew (Men) – 1ST <br> 
-10 crew (Women) – 4TH <br>
-20 crew (Men) – 4TH
+**2022** <br>
+<u>Singapore Dragon Boat Festival</u><br>
+'B' Girls 12 Crew: 4TH <br>
+<u>Pesta Sukan </u><br>
+'B' &amp; 'C' Division Mixed 12 Crew: 1ST and 3RD 
+
+
+**2021** <br>
+Inaugural YCDB Regatta
+
+
+**2019** <br>
+<u> Temasek Regatta 2019 </u> <br>
+Female 10 crew: <br>
+Team A – 1ST
+
+Boys 10 crew: <br>
+Team B– 3RD
 
 <u> National Inter-school Dragon Boat Championships </u><br>
-B Div Girls 10 Crew (DB12)- 5TH <br>
-B Div Boys 10 Crew (DB12) – 5TH <br>
-C Div Girls 10 Crew (DB12) – 1ST <br>
-C Div Girls 20 Crew (DB22) – 1ST <br>
-C Div Boys 10 Crew (DB12) – 6TH <br>
-C Div Boys 20 Crew (DB22) – 3RD
+C Div BOYS 10 Crew (DB12) – 3RD <br>
+B Div GIRLS 20 Crew (DB22) – 2ND<br>
+B Div BOYS 20 Crew (DB22) – 3RD
+
+<u>Pesta Sukan</u> <br>
+Millennials Mixed – Finalist
+
 
 **2018** <br>
 <u> Temasek Regatta 2018 </u><br>
@@ -87,24 +97,6 @@ C Div GIRLS 12 Crew (DB12) – 4TH
 <u> Singapore National Games (SNG) Dragon Boat </u><br>
 DB12 SNG 200m Youth Girls – 3RD  
 
-**2019** <br>
-<u> Temasek Regatta 2019 </u> <br>
-Female 10 crew: <br>
-Team A – 1ST
-
-Boys 10 crew: <br>
-Team B– 3RD
-
-<u> National Inter-school Dragon Boat Championships </u><br>
-C Div BOYS 10 Crew (DB12) – 3RD <br>
-B Div GIRLS 20 Crew (DB22) – 2ND<br>
-B Div BOYS 20 Crew (DB22) – 3RD
-
-Pesta Sukan <br>
-Millennials Mixed – Finalist
-
-**2021** <br>
-Inaugural YCDB Regatta
 
 ### Teachers in charge
 
@@ -115,7 +107,7 @@ Ms Normalah
 
 ### Schedule
 
-Tuesdays &amp; Thursdays : 3.00pm to 6.00pm <br>
+Fridays: 2pm to 4pm <br>
 
 ### Venues
 

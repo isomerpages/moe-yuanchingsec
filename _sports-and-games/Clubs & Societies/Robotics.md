@@ -3,6 +3,7 @@ title: Robotics
 permalink: /engaged-learners/co-curricular-activities-cca/clubs-n-societies/robotics/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ### Introduction
 
@@ -23,6 +24,9 @@ Students will be exposed to four steps of visual thinking namely Looking, Seeing
 *   Learn additional programming languages (Python and Sketch) to augment logical thinking skills and applications.
 
 ### Achievements / Participations
+
+<u><strong> 2023: </strong></u> <br>
+NRC Competition 2023 - CoderZ Silver Award
 
 <u><strong> 2022: </strong></u> <br>
 NRC Competition 2022 - Participation

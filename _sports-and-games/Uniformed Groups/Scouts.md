@@ -3,6 +3,7 @@ title: Scouts
 permalink: /engaged-learners/co-curricular-activities-cca/uniformed-groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### Introduction
 
@@ -27,8 +28,9 @@ To contribute to the education of young people, through a value system based on 
 
 ### Achievements
 
-Frank Cooper Sands Award (Gold) 2017 – 2019 <br>
-National Patrol Camp Silver Award 2019
+National Patrol Camp Silver Award 2018<br>
+Frank Cooper Sands Award (Gold Award) 2018 to 2022<br>
+Honours Pennant (2022)
 
 ### Teachers in charge
 
