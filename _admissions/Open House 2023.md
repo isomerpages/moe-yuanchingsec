@@ -6,11 +6,11 @@ variant: markdown
 ---
 ### Welcome to Yuan Ching Secondary Open House
 
-Yuan Ching Secondary School will be holding our Open House on **25 Nov 2023 (Saturday**), **9am - 12pm**. 
+Yuan Ching Secondary School will be holding our Open House on 25 Nov 2023 (Saturday), 9am - 12pm. 
 
-Please visit our [microsite](https://ycssopenhouse.wixsite.com/ycoh) for more information!
+Please visit our [**microsite**](https://ycssopenhouse.wixsite.com/ycoh) for more information!
 
-Please click&nbsp;[HERE](http://go.gov.sg/ycoh2023)&nbsp;to register your interest to attend our Open House!
+Please click&nbsp;[**HERE**](http://go.gov.sg/ycoh2023)&nbsp;to register your interest to attend our Open House!
 
 ![Digital Banner YCOH 2023](/images/open%20house%20digital%20banner_updated071123_.png)
 
