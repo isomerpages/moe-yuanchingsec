@@ -107,7 +107,8 @@ Ms Normalah
 
 ### Schedule
 
-Fridays: 2pm to 4pm <br>
+Tuesdays &amp; Thursdays: 3.00pm - 6.00pm <br>
+Fridays: 2.00pm to 4.00pm (during competition season)
 
 ### Venues
 
