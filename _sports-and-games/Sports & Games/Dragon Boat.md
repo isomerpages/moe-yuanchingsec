@@ -47,9 +47,10 @@ Students volunteer to keep their home training ground, Jurong Lake clean during 
 
 **2022** <br>
 <u>Singapore Dragon Boat Festival</u><br>
-'B' Girls 12 Crew: 4TH <br>
-<u>Pesta Sukan </u><br>
-'B' &amp; 'C' Division Mixed 12 Crew: 1ST and 3RD 
+Singapore Dragon Boat Festival<br>
+‘B’ Girls 12 Crew: 4th <br>
+<u>Pesta Sukan</u><br>
+‘B’ &amp; ‘C’ Division Mixed 12 Crew: 1st and 3rd
 
 
 **2021** <br>
