@@ -32,7 +32,8 @@ To develop our members into exemplars of loyalty, perseverance and strength
 	*   This is usually held in the September holidays.
 	*   CCA leaders plan team bonding activities for the teams and also prepare personalized mementos for the out-going group of seniors to thank them for their contributions to the team.
 *   Values-in-action programme  <br>Seniors collaborate with PA Water-Venture to be a part of Project Blue Wave, which is aimed at keeping Singapore waters clean and at the same time promoting environmental awareness among Singaporeans. <br>
-Students volunteer to keep their home training ground, Jurong Lake clean during their training sessions.
+
+     Students volunteer to keep their home training ground, Jurong Lake clean during their training sessions.
 
 ### Achievements / Participations
 
@@ -47,7 +48,6 @@ Students volunteer to keep their home training ground, Jurong Lake clean during 
 
 **2022** <br>
 <u>Singapore Dragon Boat Festival</u><br>
-Singapore Dragon Boat Festival<br>
 ‘B’ Girls 12 Crew: 4th <br>
 <u>Pesta Sukan</u><br>
 ‘B’ &amp; ‘C’ Division Mixed 12 Crew: 1st and 3rd
