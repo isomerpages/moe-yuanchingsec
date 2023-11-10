@@ -3,6 +3,7 @@ title: Indian Dance
 permalink: /engaged-learners/co-curricular-activities-cca/visual-n-performing-arts/indian-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ### Introduction
 
@@ -22,6 +23,13 @@ Apart from dancing, our members work closely with Taman Jurong CC and have contr
 *   I-Dance Programme
 
 ### Achievements / Participation
+
+**2023**
+* CCA Open House
+* YCSS Chinese New Year Performance
+* Singapore Youth Festival 2023
+* Taman Jurong National Day Celebration Performance
+* Indian Dance Day Camp
 
 **2022**
 *   CCA Open House
