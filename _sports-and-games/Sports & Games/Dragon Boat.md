@@ -25,7 +25,7 @@ To develop our members into exemplars of loyalty, perseverance and strength
 *   Competitions:
 	*   Members are grouped into teams of 12-crew or 22-crew in their various divisions.
 	*   We send multiple teams to participate in races targeted at students such as SDBA Century Race, Pesta Sukan and National Inter-school Dragon Boat Championships annually.
-	*   On top of that, our students also participate in open category competitions where they test skills against adults.
+	*   On top of that, our students also participate in open category competitions where they test their skills against adults.
 	*   Other than that, we also participate in novelty segments like mixed-crew races.
 *   Bonding session and Seniors Appreciation:
 	*   As a large CCA with girls and boys teams, this is a good opportunity for all CCA members to get together.
