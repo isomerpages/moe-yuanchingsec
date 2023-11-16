@@ -3,12 +3,15 @@ title: Cross Country
 permalink: /engaged-learners/co-curricular-activities-cca/sports-n-games/cross-country/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ### Introduction
 
 Yuan Ching Cross Country has a long history dating back from the 1980s. In the 1980s, the girls team dominated the National Inter-school Cross Country arena. In the recent years since the official revival of the CCA in 2016, the Cross Country ‘B’ Boys has made a remarkable improvement, achieving a commendable 17th and 11th team position in the National Inter-school Cross Country Championships 2014 and 2015 respectively.
 
 In 2019, our Yuan Ching Cross Country team clinched their first National Inter-school Track and Field and National Inter-school Cross Country medals since the 1990s.
+
+Besides the NSG Cross Country and Track &amp; Field Championships, the CCA also took part in events organised by external organisations, such as the Wings Athletics Cross Country, Taman Jurong Homerun &amp; Pocari Sweat Run. 
 
 **Vision** <br>
 Every Cross Country Runner will cultivate a lifelong passion for running, and pursue athletic as well as academic excellence.
@@ -23,6 +26,7 @@ To develop every cross country runner in the area of self-discipline, strength o
 *   Long runs
 *   Fartlek training
 *   Circuit training
+*   Team Bonding (Cooperative/Competitive Games)
 *   Cross country day camp
 
 ### Achievements
@@ -66,8 +70,8 @@ Ms Angela Lee
 
 ### Schedule
 
-Tuesdays &amp; Thursdays <br>
-Time: 3.00pm - 6.00pm
+Every Tuesday <br>
+Time: 3.10pm - 6.00pm
 
 ### Venue
 
@@ -97,6 +101,11 @@ School Gym/ Clementi Stadium/ Bedok Reservoir <br>
 </figure>
 
 <figure>  
-<img src="/images/Cross%20Country-5.jpg">  
-<figcaption> YCSS Cross Country Intra CCA Games 2021 - Track </figcaption>  
+<img src="/images/YCSS_Cross_Country_Training_2023___Running_Drills.jpg">  
+<figcaption> YCSS Cross Country Training 2023 - Running Drills </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/YCSS_Cross_Country_Participating_in_Pocari_Sweat_Run_2023___2_4km_challenge.jpg">  
+<figcaption> YCSS Cross Country Participating in Pocari Sweat Run 2023 – 2.4km challenge </figcaption>  
 </figure>

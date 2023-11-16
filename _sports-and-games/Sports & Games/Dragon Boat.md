@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Introduction
 
-Dragon boat is a Physical Sports CCA which aims to develop students to be mentally and physically strong. As it is a team sport, students participate in all aspects of the training together in order to perform as one during races. The values learnt and skills developed during their time in Dragon Boat CCA serves to prepare our students to overcome challenges in their lives.
+Dragon Boat is a Physical Sports CCA which aims to develop students to be mentally and physically strong. As it is a team sport, students participate in all aspects of the training together in order to perform as one during races. The values learnt and skills developed during their time in Dragon Boat serves to prepare our students to overcome challenges in their lives.
 
 <u><strong> VISION </strong></u> <br>
 Strength in Mind, Body and Spirit
@@ -24,33 +24,33 @@ To develop our members into exemplars of loyalty, perseverance and strength
 	*   Technical aspects of the sport, specifically paddling and body posture are taught and applied by the students.
 *   Competitions:
 	*   Members are grouped into teams of 12-crew or 22-crew in their various divisions.
-	*   We send multiple teams to participate in races targeted at students such as Temasek Regatta and National Inter-school Dragon Boat Championships annually.
-	*   On top of that, our students also participate in open category competitions where they put their skills against adults.
+	*   We send multiple teams to participate in races targeted at students such as SDBA Century Race, Pesta Sukan and National Inter-school Dragon Boat Championships annually.
+	*   On top of that, our students also participate in open category competitions where they test their skills against adults.
 	*   Other than that, we also participate in novelty segments like mixed-crew races.
 *   Bonding session and Seniors Appreciation:
 	*   As a large CCA with girls and boys teams, this is a good opportunity for all CCA members to get together.
 	*   This is usually held in the September holidays.
 	*   CCA leaders plan team bonding activities for the teams and also prepare personalized mementos for the out-going group of seniors to thank them for their contributions to the team.
 *   Values-in-action programme  <br>Seniors collaborate with PA Water-Venture to be a part of Project Blue Wave, which is aimed at keeping Singapore waters clean and at the same time promoting environmental awareness among Singaporeans. <br>
-Students volunteer to keep their home training ground, Jurong Lake clean during their training sessions.
+
+     Students volunteer to keep their home training ground, Jurong Lake clean during their training sessions.
 
 ### Achievements / Participations
 
 
 **2023** <br>
 <u> National Inter-School Dragon Boat Championships </u> <br> 
-'B' Boys 20 Crew: 4TH <br>
-<u> National Inter-School Dragon Boat Championships </u> <br>
-'C' Boys 10 Crew: 3RD <br>
-'C' Boys 20 Crew: 3RD <br>
-'B' Boys 10 Crew: 9TH <br>
-'B' Boys 20 Crew: 4TH <br>
+‘C’ Boys 10 Crew: 3rd <br>
+‘C’ Boys 20 Crew: 3rd <br>
+‘B’ Girls 10 Crew: 4th <br>
+‘B’ Boys 10 Crew: 5th and 9th <br> 
+‘B’ Boys 20 Crew: 4th <br>
 
 **2022** <br>
 <u>Singapore Dragon Boat Festival</u><br>
-'B' Girls 12 Crew: 4TH <br>
-<u>Pesta Sukan </u><br>
-'B' &amp; 'C' Division Mixed 12 Crew: 1ST and 3RD 
+‘B’ Girls 12 Crew: 4th <br>
+<u>Pesta Sukan</u><br>
+‘B’ &amp; ‘C’ Division Mixed 12 Crew: 1st and 3rd
 
 
 **2021** <br>
@@ -107,7 +107,8 @@ Ms Normalah
 
 ### Schedule
 
-Fridays: 2pm to 4pm <br>
+Tuesdays &amp; Thursdays: 3.00pm - 6.00pm <br>
+Fridays: 2.00pm to 4.00pm (during competition season)
 
 ### Venues
 
