@@ -29,7 +29,7 @@ sections:
       id: infopic
       description: "9am-12pm | Onsite | Microsite | Talks by School Leaders: 9.30am & 11am"
       button: Visit US
-      url: /admissions/openhouse2023/
+      url: https://ycssopenhouse.wixsite.com/ycoh
       image: /images/open house digital banner_updated071123.png
       alt: Banner
   - infopic:
