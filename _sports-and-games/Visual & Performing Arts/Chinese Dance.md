@@ -55,16 +55,11 @@ Venue (2) : School Hall
 
 <figure>  
 <img src="/images/CN_01.png">  
-<figcaption> Singapore Youth Festival </figcaption>  
-</figure>
-
-<figure>  
-<img src="/images/CN_02.png">  
-<figcaption> SYF </figcaption>  
+<figcaption> 2023 Chinese Dance Singapore Youth Festival (SYF) Presentation </figcaption>  
 </figure>
 
 
 <figure>  
 <img src="/images/CN_03.png">  
-<figcaption> Performance at Chinese Dance Fiesta </figcaption>  
+<figcaption> 2023 Singapore Chinese Dance Theatre (SCDT) Performance at Vivo City </figcaption>  
 </figure>
