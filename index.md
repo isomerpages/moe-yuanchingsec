@@ -4,7 +4,8 @@ title: Yuan Ching Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: The General Office will be closed on 21 Nov (Full Day) for a staff
+  event. For any enquiries, please email to ycss@moe.edu.sg. Thank you.
 sections:
   - hero:
       key_highlights:
@@ -23,6 +24,7 @@ sections:
       title: Yuan Ching Secondary School
       subtitle: Efforts Today Rewards Tomorrow
       background: /images/hero mvv v6.gif
+      variant: center
   - infopic:
       title: Open House 2023
       subtitle: Yuan Ching Secondary School
