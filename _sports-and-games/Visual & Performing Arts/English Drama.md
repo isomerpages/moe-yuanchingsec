@@ -3,6 +3,7 @@ title: English Drama
 permalink: /engaged-learners/co-curricular-activities-cca/visual-n-performing-arts/english-drama/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ### Introduction
 
@@ -24,6 +25,7 @@ To promote performing arts and enhance the oratorical skills of our members to c
 
 ### Achievements
 
+*   Singapore Youth Festival (SYF) 2023: 'Finding the Gone': Awarded Certificate of Accomplishment
 *   Singapore Youth Festival (SYF) 2021: ‘Gordon’s Turn’: Awarded Certificate of Accomplishment
 *   Singapore Youth Festival (SYF) 2019: ‘Picture Perfect’: Awarded Certificate of Accomplishment
 *   Drama Club Exchange Programme with Fuhua Secondary School in 2019
@@ -55,8 +57,8 @@ PBL Studio
 </figure>
 
 <figure>  
-<img src="/images/English%20Drama-2.jpg">  
-<figcaption> Singapore Youth Festival 2021 </figcaption>  
+<img src="/images/02__SYF_2023.jpeg">  
+<figcaption> Singapore Youth Festival 2023 </figcaption>  
 </figure>
 
 <figure>  
@@ -70,6 +72,6 @@ PBL Studio
 </figure>
 
 <figure>  
-<img src="/images/English%20Drama-5.jpg">  
-<figcaption> Lights! Camera! Action!- Our Actors at SYF 2021 </figcaption>  
+<img src="/images/04__SYF_2023.jpeg">  
+<figcaption> Lights! Camera! Action!- Our Actors at SYF 2023 </figcaption>  
 </figure>
