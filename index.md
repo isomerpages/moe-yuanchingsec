@@ -17,9 +17,6 @@ sections:
         - title: Happenings
           description: ""
           url: /happenings/happenings/october2023/
-        - title: Announcements
-          description: ""
-          url: /announcements/
       title: Yuan Ching Secondary School
       subtitle: Efforts Today Rewards Tomorrow
       background: /images/hero mvv v6.gif
@@ -50,15 +47,5 @@ sections:
       button: Find out more about Yuan Ching Secondary PSG
       url: /about-ycss/our-people/parent-support-group/
       image: /images/PSG register.png
-      alt: Image alt text
-  - infopic:
-      title: 45 years of Yuan Ching
-      subtitle: Yuan Ching Secondary School
-      description: Submit your fondest memories of any place, experiences or people of
-        Yuan Ching that make Yuan Ching a home for us all!  Our Stories, Our
-        Yuan Ching!
-      button: Submit here
-      url: https://for.edu.sg/yc45-memoriesgallery
-      image: /images/45 years_.JPG
       alt: Image alt text
 ---
