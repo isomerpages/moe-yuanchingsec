@@ -33,7 +33,7 @@ sections:
   - infopic:
       title: Stories of Alumni
       button: Read more
-      url: /resource/alumni/storiesofalumni/
+      url: /resource/storiesofalumni/
       image: /images/alumni_ryal high res.jpg
       subtitle: Yuan Ching Secondary School
       alt: Image alt text
