@@ -24,6 +24,9 @@ sections:
       subtitle: Efforts Today Rewards Tomorrow
       background: /images/hero mvv v6.gif
       variant: center
+  - resources:
+      title: Announcements/Happenings
+      id: resources
   - infopic:
       title: Open House 2023
       subtitle: Yuan Ching Secondary School
@@ -58,7 +61,4 @@ sections:
       url: https://for.edu.sg/yc45-memoriesgallery
       image: /images/45 years_.JPG
       alt: Image alt text
-  - resources:
-      title: Announcements/Happenings
-      id: resources
 ---
