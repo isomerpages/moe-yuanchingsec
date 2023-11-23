@@ -4,7 +4,7 @@ title: Yuan Ching Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Join us for our Yuan Ching Open House 2023 on 25 Nov, 9am-12pm!
 sections:
   - hero:
       key_highlights:
