@@ -58,4 +58,7 @@ sections:
       url: https://for.edu.sg/yc45-memoriesgallery
       image: /images/45 years_.JPG
       alt: Image alt text
+  - resources:
+      title: Announcements/Happenings
+      id: resources
 ---
