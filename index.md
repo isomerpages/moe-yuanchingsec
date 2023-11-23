@@ -25,15 +25,6 @@ sections:
       title: Announcements & Highlights
       id: resources
   - infopic:
-      title: Open House 2023
-      subtitle: Yuan Ching Secondary School
-      id: infopic
-      description: "9am-12pm | Onsite | Microsite | Talks by School Leaders: 9.30am & 11am"
-      button: Visit US
-      url: https://ycssopenhouse.wixsite.com/ycoh
-      image: /images/open house digital banner_updated071123.png
-      alt: Banner
-  - infopic:
       title: Stories of Alumni
       button: Read more
       url: /resource/storiesofalumni/
