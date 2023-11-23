@@ -15,7 +15,7 @@ sections:
           description: ""
           url: /quick-links/for-students/school-calendar/
         - title: Open House 2023
-          description: 25 Nov 2023
+          description: Infosite
           url: https://ycssopenhouse.wixsite.com/ycoh
       title: Yuan Ching Secondary School
       subtitle: Efforts Today Rewards Tomorrow
