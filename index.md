@@ -39,4 +39,10 @@ sections:
       url: /about-ycss/our-people/parent-support-group/
       image: /images/PSG register.png
       alt: Image alt text
+  - infobar:
+      title: Data Privacy
+      subtitle: Yuan Ching Secondary School
+      id: infobar
+      button: Read more
+      url: /privacy/
 ---
