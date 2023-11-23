@@ -19,7 +19,7 @@ sections:
       background: /images/hero mvv v6.gif
       variant: center
   - resources:
-      title: Announcements/Happenings
+      title: Announcements & Highlights
       id: resources
   - infopic:
       title: Open House 2023
