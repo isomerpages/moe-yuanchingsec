@@ -14,9 +14,6 @@ sections:
         - title: School Calendar
           description: ""
           url: /quick-links/for-students/school-calendar/
-        - title: Happenings
-          description: ""
-          url: /happenings/happenings/october2023/
       title: Yuan Ching Secondary School
       subtitle: Efforts Today Rewards Tomorrow
       background: /images/hero mvv v6.gif
