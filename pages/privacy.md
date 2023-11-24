@@ -1,6 +1,7 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: markdown
 ---
 1.    This is a Yuan Ching Secondary School, Ministry of Education website.
 
@@ -17,3 +18,9 @@ permalink: /privacy/
 5.    To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
 
 6.    This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
+
+**Data Privacy**
+
+Photographs or video images of you and/or your child may be taken during school activities and events such as classroom lessons, CCA, VIA, school camps, or school concerts. The school may use and publish such photographs or video recordings in school publications, the school’s website, social media channels, and/or other official school communication channels. 
+
+Should you have any concerns, please reach out to us via letter or email (ycss@moe.edu.sg).

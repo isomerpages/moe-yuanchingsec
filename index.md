@@ -4,7 +4,7 @@ title: Yuan Ching Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Join us for our Yuan Ching Open House 2023 on 25 Nov, 9am-12pm!
 sections:
   - hero:
       key_highlights:
@@ -14,29 +14,20 @@ sections:
         - title: School Calendar
           description: ""
           url: /quick-links/for-students/school-calendar/
-        - title: Happenings
-          description: ""
-          url: /happenings/happenings/october2023/
-        - title: Announcements
-          description: ""
-          url: /announcements/
+        - title: Open House 2023
+          description: Infosite
+          url: https://ycssopenhouse.wixsite.com/ycoh
       title: Yuan Ching Secondary School
       subtitle: Efforts Today Rewards Tomorrow
       background: /images/hero mvv v6.gif
       variant: center
-  - infopic:
-      title: Open House 2023
-      subtitle: Yuan Ching Secondary School
-      id: infopic
-      description: "9am-12pm | Onsite | Microsite | Talks by School Leaders: 9.30am & 11am"
-      button: Visit US
-      url: https://ycssopenhouse.wixsite.com/ycoh
-      image: /images/open house digital banner_updated071123.png
-      alt: Banner
+  - resources:
+      title: Announcements & Highlights
+      id: resources
   - infopic:
       title: Stories of Alumni
       button: Read more
-      url: /resource/alumni/storiesofalumni/
+      url: /resource/stories-of-alumni/
       image: /images/alumni_ryal high res.jpg
       subtitle: Yuan Ching Secondary School
       alt: Image alt text
@@ -48,14 +39,10 @@ sections:
       url: /about-ycss/our-people/parent-support-group/
       image: /images/PSG register.png
       alt: Image alt text
-  - infopic:
-      title: 45 years of Yuan Ching
+  - infobar:
+      title: Data Privacy
       subtitle: Yuan Ching Secondary School
-      description: Submit your fondest memories of any place, experiences or people of
-        Yuan Ching that make Yuan Ching a home for us all!  Our Stories, Our
-        Yuan Ching!
-      button: Submit here
-      url: https://for.edu.sg/yc45-memoriesgallery
-      image: /images/45 years_.JPG
-      alt: Image alt text
+      id: infobar
+      button: Read more
+      url: /privacy/
 ---
