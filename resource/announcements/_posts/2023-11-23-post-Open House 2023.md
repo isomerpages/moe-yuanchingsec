@@ -11,3 +11,5 @@ variant: markdown
 
 
 ![Open House 2023](/images/open%20house%20digital%20banner_updated071123_.png)
+
+Click [here](https://ycssopenhouse.wixsite.com/ycoh) to visit the infosite.
