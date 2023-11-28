@@ -20,8 +20,7 @@ Our internationalization trips provide authentic learning opportunities through 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZeUHXP7vV5DQfXbJI6KHw5uP1HTWG01yAu4g5JpBqZI-BdWlkT8hT4husGoHj6ylk9D-y9qfbOmrn/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
-Reflections:
-
+**Reflections:** <br>
 **By Theirry (3I 2023)** <br>
 I also noticed that Singapore and Hong Kong have many similarities and differences. For example, both countries have similar foods such as Dim Sum. However, unexpectedly Hong Kong is much more expensive compared to Singapore where one meal in Hong Kong is usually at least $10 SGD. Additionally, Singapore and Hong Kong are similar in terms of night markets. Singapore has night markets in Chinatown while Hong Kong has night markets such as the Temple Street Night Market which is one of the places we explored.
 
