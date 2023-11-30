@@ -17,14 +17,14 @@ Students posted to:
 [Posting Group 3](#PostingGroup3)<br>**
 
 
-# **Posting Group 1**
+### **Posting Group 1**
 
 [Back to Top](#Backtotop)
 
-# **Posting Group 2**
+### **Posting Group 2**
 
 [Back to Top](#Backtotop)
-# **Posting Group 3**
+### **Posting Group 3**
 
 
 **Section A: Online Registration**&nbsp;
