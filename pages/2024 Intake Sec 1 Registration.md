@@ -51,4 +51,4 @@ Please access the FormSG below to make your choice. Once your form is submitted,
 
 The school will contact the students who have been offered Higher Mother Tongue Language (HMTL) by 12.00pm on 23 Dec 2022.
 
-[Back to Top](#Backtotop)
+[Back to Top](#PostingGroup3)
