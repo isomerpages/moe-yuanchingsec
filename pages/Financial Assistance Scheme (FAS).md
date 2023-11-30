@@ -2,6 +2,7 @@
 title: Financial Assistance Scheme (FAS)
 permalink: /others/financial-assistance-scheme-fas/
 description: ""
+variant: markdown
 ---
 The Ministry of Education provides financial assistance (MOE FAS) to needy Singapore Citizen students in Government or Government-Aided Schools. For needy students who are not eligible for the MOE Financial Assistance Scheme, the School Advisory Committee also provides financial assistance (SAC FAS).
 
@@ -75,7 +76,7 @@ All hardcopy application forms must be submitted together with the required supp
 
 | MOE FAS Application Form<br> | SAC FAS Application Form |
 |:---:|:---:|
-| Hardcopy:<br>[MOE FAS Application Form](/files/moe%20fas%20application%20form.pdf)<br><br>eFAS Application Link:<br>[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)  | Hardcopy: <br>[SAC FAS Application Form](/files/sac%20fas%20application%20form.pdf) | 
+| Hardcopy:<br>[MOE FAS Application Form 2024](/files/MOE_FAS_Application_Form_2024.pdf)<br><br>eFAS Application Link:<br>[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)  | Hardcopy: <br>[SAC FAS Application Form](/files/sac%20fas%20application%20form.pdf) | 
 | | |
 
 Once the application is approved, the school will make arrangement for your child to collect the textbooks and uniform.
