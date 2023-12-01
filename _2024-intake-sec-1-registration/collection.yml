@@ -1,7 +1,0 @@
-collections:
-  2024-intake-sec-1-registration:
-    output: true
-    order:
-      - 2024 Intake Sec 1 Registration.md
-      - Sec 1 Posting Group 3.md
-      - Important Information.md
