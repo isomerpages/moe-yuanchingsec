@@ -79,7 +79,7 @@ d. Family with more than 3 grandparents in the household
 | Hardcopy:<br>[MOE-FAS Application Form](/files/moe_fas_application_form(updated%20oct%202023).pdf)<br><br>eFAS Application Link:<br>[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)  | Hardcopy: <br> [SAC-FAS Application Form](/files/SAC_FAS_Application_Form.pdf)| 
 | | |
 
-Once the application is approved, the school will make arrangement for your child to collect the textbooks and uniform.
+Once the application is approved, the school will make arrangement for your child to collect the textbooks and uniform. <br>
 
 <u><strong>Other Information</strong></u><br>
 If you are interested to apply for subsidized broadband and /or laptop tablet under IMDA DigitalAccess@Home, you can apply via [www.digitalaccess.gov.sg](https://www.digitalaccess.gov.sg) or contact 63773800 or e-mail: [digitalaccess@imda.gov.sg](digitalaccess@imda.gov.sg) </p>
