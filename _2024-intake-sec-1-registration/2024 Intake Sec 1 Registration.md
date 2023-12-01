@@ -12,9 +12,9 @@ Students do not need to physically report to our school on 23 Dec 2023. Registra
 Please use the links below to start registering.
 Students posted to:
 
-**[Posting Group 1](#PostingGroup1)<br> 
-[Posting Group 2](#PostingGroup2)<br>
-[Posting Group 3](#PostingGroup3)<br>**
+**Posting Group 1<br> 
+Posting Group 2<br>
+Posting Group 3<br>**
 
 
 
