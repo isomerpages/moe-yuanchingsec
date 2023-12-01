@@ -72,7 +72,7 @@ d. Family with more than 3 grandparents in the household
 
 </p><p style="text-align: justify;">Student who is a ComCare recipient need not submit the application for MOE FAS as it will be automatically granted to all ComCare recipients.  
 
-</p><p style="text-align: justify;">All hardcopy application forms must be submitted together with the required supporting documents to the General Office.
+</p><p style="text-align: justify;">All hardcopy application forms must be submitted together with the required supporting documents to the General Office. <br>
 
 | MOE FAS Application Form<br> | SAC FAS Application Form |
 |:---:|:---:|
