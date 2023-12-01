@@ -2,6 +2,7 @@
 title: YCSS at a Glance
 permalink: /about-ycss/ycss-at-a-glance/
 description: ""
+variant: markdown
 ---
 **Official Name: Yuan Ching Secondary School**
 
@@ -11,7 +12,7 @@ Yuan Ching Secondary School started out as an English and Chinese integrated sch
 
 ![](/images/YCSS%20at%20a%20glance.jpg)
 
-The school was completely rebuilt with brand new buildings and facilities on the same site under MOE’s PRIME (Project for Renovating & Improving Existing Schools) from Jun 2006 to Dec 2008.
+The school was completely rebuilt with brand new buildings and facilities on the same site under MOE’s PRIME (Project for Renovating &amp; Improving Existing Schools) from Jun 2006 to Dec 2008.
 
 From her humble beginnings of 11 Sec 1 classes, 18 teaching staff and 11 non-teaching staff, the school has since flourished into a learner-centred learning environment with innovatively designed learning spaces, leveraging on network and learning technologies that facilitate self-directed learning and collaborative opportunities for our 1140 students, while showcasing students’ academic work, visual and performing arts.
 
@@ -22,29 +23,31 @@ The school’s approach to education is one that integrates collaboration and va
 **School Motto: Efforts Today, Rewards Tomorrow, is a translation from the Chinese version,  
 “今日耕耘，明日长青”**
 
-<img src="/images/yuan-ching-secondary-school.jpg" 
-    style="width:25%">
+<img src="/images/yuan-ching-secondary-school.jpg" style="width:25%">
 
-<u> School Crest: </u> <br>
+**<u> School Crest: </u> <br>**
 The school crest embodies the values of progress and continuous improvement represented by the Rotary Wheel.
 
 The band of students holding hands reflects the caring, supportive and close-knit school community, valuing strong partnership with stakeholders and partners.
 
 At the centre of the school crest is the radiating sun formation where the source of learning shines and energises a passion of life-long learning and whole child development.
 
-<u> Colours: </u> <br>
+**<u> Colours: </u> <br>**
 Orange, like the radiance from the sun, exemplifies compassion and loyalty of our students.
 
 Black exudes the steadfastness, strength and integrity of our students.  
 
 Yellow, its brilliance personifies our students’ youthful resilience, excellence and enterprise.
 
-<u> Site Area: 39188 m2 </u> <br>
+**<u> Site Area: 39188 m2 </u> <br>**
 The wide expanse and lush greenery offers authentic learning experiences beyond classrooms to the outdoor learning environment, leveraging on the eco-pond and green garden in our school, where every space is a learning space.
 
 ![](/images/YCSS%20at%20a%20glance%202.jpg)
 
-<u> Green Energy: </u><br>
+**<u> Green Energy: </u><br>**
 Complementing the lush greenery of our school, the rooftops of the different blocks in the school are installed with 1540 solar panels where the photovoltaic systems generate 600,000 kWh of energy, which translates to an estimated 70% of energy consumption in the school being green energy.
 
 ![](/images/YCSS%20at%20a%20glance%203.jpg)
+
+**<u> Our Corporate Video </u><br>**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/-HPBgtuHTlU?si=j8RLKD_DX2NXy1m3&amp;autoplay=1&amp;playlist=-HPBgtuHTlU&amp;loop=1" height="315" width="560"></iframe>
