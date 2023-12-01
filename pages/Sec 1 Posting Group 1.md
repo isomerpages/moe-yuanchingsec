@@ -4,28 +4,46 @@ permalink: /sec1postinggroup1/
 variant: markdown
 description: ""
 ---
-### Welcome Message from Principal for Parents
+### Registration Matters
 
-Dear Parent/Guardian,&nbsp;
-
-<p style="text-align: justify;">Welcome to Yuan Ching! By joining us, you made the right decision to embark you child/ward on a journey towards life-long learning that will eventually lead to success! Congratulations!</p>
-
-<p style="text-align: justify;">We aim to provide your child/ward with a learner-centric and values-driven education that nurtures holistic development. This is encapsulated in our School Mission of 'Enriching Minds, Unleashing Potential, Impacting Lives' and our School Vision of developing every student to be 'A Thinker, an Achiever, and a Concerned Citizen'.
-
-</p><p style="text-align: justify;">Anchoring our mission and vision is our school values which we uphold and enact through the lenses of a positive education and mental resilience. Our Total Curriculum is guided by the principles of being Inclusive,&nbsp;Experiential,&nbsp;Contemporary,&nbsp;E\-enabled and one that inculcates a&nbsp;Life-long learning mindset (I ExCEL)
-
-</p><p style="text-align: justify;">It is our belief that the potential of every child is best realised with the strong support and active partnership of parents/guardians. We strongly encourage parents to join our Parent Support Group (PSG) and the Positive Parenting Programme (PPP) so that we can nurture our learners in the best way possible, together hand-in-hand.
-
-</p><p style="text-align: justify;">To welcome your child/ward and to induct him/her into the new Yuan Ching family, our teachers and student leaders have been working hard to put together a&nbsp;Sec 1 Orientation Programme from 4 to 6 Jan 2022 (Tues to Thu), followed by a&nbsp;virtual campfire on 7 Jan 2022 (Fri) ending at 5.30pm.&nbsp;Lunch will be provided for the students. There will be a CCA showcase on 4, 6 and 7 Jan 2022 in the afternoon for students to learn about the various CCAs in Yuan Ching.
-
-</p><p style="text-align: justify;">Basic information on our school and details of school programmes is available on the school’s website and also in the&nbsp;2023 Student Handbook &amp; Planner&nbsp;which is specially curated for your child. It will be issued to your child/ward during the Sec 1 Orientation.
-
-</p><p style="text-align: justify;">We will meet you virtually on&nbsp;8 Jan 2022 (Sat) at 9.00am&nbsp;to share with you more about Yuan Ching during the Principal’s Address. We look forward to a meaningful and fruitful partnership with you in the years ahead. 
-
-
-<img style="width:50%" src="/images/Ms_Ng_Message.png">
+### Section A: Online Registration
+Compulsory for ALL students (to be completed by 12pm, 22 Dec 2023. <br>
+<u>Online Registration</u>
 	
-Thank you<br>
-Ms. Ng Sook Kit<br>
-Principal
-</p>
+### Section B: More Demanding Level for Sec 1 (2024)
+<p style="text-align: justify;">To allow students more flexibility and better develop their strengths, Yuan Ching offers students who qualify a chance to study English, Math, Science or Mother Tongue at a more demanding level. 
+
+</p><p style="text-align: justify;">Please read the information below and exercise your option to either accept or reject the offer. If your child achieve the following grades, please access the FormSG below using the relevant link/QR code.
+
+	
+</p><p style="text-align: justify;">Please access the FormSG below to make your choice. Once your form is submitted, it will be considered that your options are confirmed and accepted. There will be no further confirmation notice from the school. Please make your options by 22 Dec 2022, 12pm.
+	
+
+### Section C: Higher Mother Tongue Language (HMTL)
+</p><p style="text-align: justify;"> The school will contact the students who have been offered Higher Mother Tongue Language (HMTL) by 12pm on 23 Dec 2022.
+	
+### Section D: MOE Financial Assistance Scheme (FAS)
+	
+</p><p style="text-align: justify;">MOE provides financial assistance for students who need support. <br>
+There are two ways of FAS application: <br>
+	
+**<u>A) Already Approved MOE FAS for 2023 with Approval Letter from Primary School</u><br>**
+The school will call the parents to arrange an appointment from 23 to 30 Dec 2022 for the collection of the textbooks and uniform. You are not required to come to the school on 22 Dec 2022. Please bring along the Letter of Approval from the Primary School for verification on the arranged date. However, if the school has not contacted you by 28 Dec 2022, please contact the school to enquire. <br>
+	
+<u>**B) New applications for FAS**</u><br>
+Parents may apply for MOE FAS through either (1) hardcopy or (2) online via eFAS below. Application forms are also available from the General Office. 
+For students who are not eligible for MOE FAS, you may consider applying for SAC FAS. Please click on the application form below for the eligibility criteria.
+Please submit the completed form to the school or via eFAS from 23 to 30 Dec 2022 with all supporting documents.
+Please do not buy any books or uniform without the FAS Approval Letter as there will be NO refund if you do so.
+
+
+
+| MOE FAS Application Form| SAC FAS Application Form | 
+| -------- | -------- | 
+| Hardcopy:<br>   | Hardcopy: <br>     | 
+| Hardcopy   | Hardcopy     | 
+
+	
+	
+	
+	</p>
