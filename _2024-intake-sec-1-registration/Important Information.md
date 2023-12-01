@@ -43,7 +43,7 @@ On 5 Jan 2024, students are to bring $4.00 (payment to be made to Photographer f
 ### Section K: CCA Showcase and Parent Engagament Session
 	
 <p></p><p style="text-align: justify;">The CCA showcase will be held on Friday, 13 Jan 2023 from 3:30pm to 5:30pm. Students will be brought to different CCA booths for some experience on the different CCAs offered by the school.
-Parents Engagement Session will be conducted from 6 – 8pm at the school hall and dinner will be provided. More details will be given at a later date. <br>
+Parents Engagement Session will be conducted from 6 – 8pm at the school hall and dinner will be provided. More details will be given at a later date. <br></p>
 
 	
 ### Section L: CCA Trials
@@ -53,7 +53,7 @@ More information on the timing of the trials will be given at a later date. <br>
 	
 ### Section M: Joining Parent Support Group
 	
-</p><p style="text-align: justify;">A warm welcome to the Yuan Ching Family! <br>
+A warm welcome to the Yuan Ching Family! <br>
 	
 We would like to invite you to join our Yuan Ching Secondary School Parents Support Group. If you are keen, please click on the following link or scan the QR code to complete the registration form. <br>
 	
@@ -62,13 +62,14 @@ Link to Parent Support Group (PSG) Registration Form
 
 ### Section N: Parents Gateway (PG) app
 	
-</p><p style="text-align: justify;">The school will issue consent forms via the PG app. Parents are encouraged to give their consent via the app. You can download your app through Apple App Store or Google Play Store to enjoy these features. <br>
+<p></p><p style="text-align: justify;">The school will issue consent forms via the PG app. Parents are encouraged to give their consent via the app. You can download your app through Apple App Store or Google Play Store to enjoy these features. <br></p>
 	
 For more information on using Parents Gateway Mobile Application: Parents gateway <br>
 
 	
 	
 ### Section O: School Miscellaneous Fees
+	
 	
 |  | Non-Malay SC Pupils | Malay SC Pupils | Singapore Permanent Residents (SPRs)# | International Students (ASEAN)* | International Students (NON-ASEAN)#|
 | -------- | -------- | -------- | -------- | -------- | -------- |
@@ -110,4 +111,4 @@ For more information on using Parents Gateway Mobile Application: Parents gatewa
 	
 •    Abuse of technology will be dealt with seriously. <br>
 
-</p>
+<p></p>
