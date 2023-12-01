@@ -16,11 +16,11 @@ Compulsory for ALL students (to be completed by 12pm, 22 Dec 2023. <br>
 </p><p style="text-align: justify;">Please read the information below and exercise your option to either accept or reject the offer. If your child achieve the following grades, please access the FormSG below using the relevant link/QR code.
 
 	
-</p><p style="text-align: justify;">Please access the FormSG below to make your choice. Once your form is submitted, it will be considered that your options are confirmed and accepted. There will be no further confirmation notice from the school. Please make your options by 22 Dec 2022, 12pm.
+</p><p style="text-align: justify;">Please access the FormSG below to make your choice. Once your form is submitted, it will be considered that your options are confirmed and accepted. There will be no further confirmation notice from the school. Please make your options by 22 Dec 2022, 12pm. <br>
 	
 
 ### Section C: Higher Mother Tongue Language (HMTL)
-</p><p style="text-align: justify;"> The school will contact the students who have been offered Higher Mother Tongue Language (HMTL) by 12pm on 23 Dec 2022.
+</p><p style="text-align: justify;"> The school will contact the students who have been offered Higher Mother Tongue Language (HMTL) by 12pm on 23 Dec 2022. <br>
 	
 ### Section D: MOE Financial Assistance Scheme (FAS)
 	
@@ -28,14 +28,15 @@ Compulsory for ALL students (to be completed by 12pm, 22 Dec 2023. <br>
 There are two ways of FAS application: <br>
 	
 **<u>A) Already Approved MOE FAS for 2023 with Approval Letter from Primary School</u><br>**
+	
 The school will call the parents to arrange an appointment from 23 to 30 Dec 2022 for the collection of the textbooks and uniform. You are not required to come to the school on 22 Dec 2022. Please bring along the Letter of Approval from the Primary School for verification on the arranged date. However, if the school has not contacted you by 28 Dec 2022, please contact the school to enquire. <br>
 	
 <u>**B) New applications for FAS**</u><br>
+	
 Parents may apply for MOE FAS through either (1) hardcopy or (2) online via eFAS below. Application forms are also available from the General Office. 
 For students who are not eligible for MOE FAS, you may consider applying for SAC FAS. Please click on the application form below for the eligibility criteria.
 Please submit the completed form to the school or via eFAS from 23 to 30 Dec 2022 with all supporting documents.
 Please do not buy any books or uniform without the FAS Approval Letter as there will be NO refund if you do so.
-
 
 
 | MOE FAS Application Form| SAC FAS Application Form | 
@@ -85,7 +86,7 @@ c) Walk-in: Purchase at the school bookshop during the dates and operating hours
 * </p><p style="text-align: justify;">Click here to indicate if you would like to purchase a PLD with the school bulk purchase by 5th Jan 2024 (Fri).
 
 
-* </p><p style="text-align: justify;">If you are unable to submit the form online, please inform the Form Teacher on the 1st day of school for a hardcopy version.
+* </p><p style="text-align: justify;">If you are unable to submit the form online, please inform the Form Teacher on the 1st day of school for a hardcopy version. <br>
 
 ### Section H: First Day of School
 
@@ -112,24 +113,24 @@ School Hours:
 
 CCA and enrichment programmes are conducted after school hours. <br>
 
-On the first day of school, Tuesday, 3 Jan 2023, Sec 1 students will report in school uniform by 8:20AM.
+On the first day of school, Tuesday, 3 Jan 2023, Sec 1 students will report in school uniform by 8:20AM. <br>
 
 ### Section I: Sec 1 Orientation Programme
 	
-Please refer to the Orientation Programme which will be sent to you via Parent's Gateway
+Please refer to the Orientation Programme which will be sent to you via Parent's Gateway. <br>
 
 ### Section J: Individual Photo Taking
 	
-On 5 Jan 2024, students are to bring $4.00 (payment to be made to Photographer for photo-taking) except those who are awaiting transfer results.
+On 5 Jan 2024, students are to bring $4.00 (payment to be made to Photographer for photo-taking) except those who are awaiting transfer results. <br>
 
 ### Section K: CCA Showcase and Parent Engagament Session
 	
 </p><p style="text-align: justify;">The CCA showcase will be held on Friday, 13 Jan 2023 from 3:30pm to 5:30pm. Students will be brought to different CCA booths for some experience on the different CCAs offered by the school.
-Parents Engagement Session will be conducted from 6 – 8pm at the school hall and dinner will be provided. More details will be given at a later date.
+Parents Engagement Session will be conducted from 6 – 8pm at the school hall and dinner will be provided. More details will be given at a later date. <br>
 
 ### Section L: CCA Trials
 	
-More information on the timing of the trials will be given at a later date.
+More information on the timing of the trials will be given at a later date. <br>
 
 	
 ### Section M: Joining Parent Support Group
@@ -145,7 +146,7 @@ Link to Parent Support Group (PSG) Registration Form
 	
 </p><p style="text-align: justify;">The school will issue consent forms via the PG app. Parents are encouraged to give their consent via the app. You can download your app through Apple App Store or Google Play Store to enjoy these features. <br>
 	
-For more information on using Parents Gateway Mobile Application: Parents gateway
+For more information on using Parents Gateway Mobile Application: Parents gateway <br>
 
 	
 	
@@ -163,9 +164,10 @@ For more information on using Parents Gateway Mobile Application: Parents gatewa
 
 
 *Singaporean students can pay the 2nd Tier miscellaneous fees ($10.00 per month) by using their Edusave Account. <br>
-#Current rates subject to changes by MOE.
+#Current rates subject to changes by MOE. <br>
 	
 ### Section P: Frequently Asked Questions
+	
 ### Section Q: General Rules of School
 **i. Attire <br>**
 •    Students are to wear the prescribed school uniform and modification to the uniform is strictly not allowed. <br>
