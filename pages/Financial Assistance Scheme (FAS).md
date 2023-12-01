@@ -82,4 +82,4 @@ d. Family with more than 3 grandparents in the household
 Once the application is approved, the school will make arrangement for your child to collect the textbooks and uniform.
 
 <u><strong>Other Information</strong></u><br>
-</p><p style="text-align: justify;">If you are interested to apply for subsidized broadband and /or laptop tablet under IMDA DigitalAccess@Home, you can apply via [www.digitalaccess.gov.sg](www.digitalaccess.gov.sg) or contact 63773800 or e-mail: [digitalaccess@imda.gov.sg](digitalaccess@imda.gov.sg)</p>
+If you are interested to apply for subsidized broadband and /or laptop tablet under IMDA DigitalAccess@Home, you can apply via [www.digitalaccess.gov.sg](https://www.digitalaccess.gov.sg) or contact 63773800 or e-mail: [digitalaccess@imda.gov.sg](digitalaccess@imda.gov.sg) </p>
