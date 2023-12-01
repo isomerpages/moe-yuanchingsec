@@ -14,7 +14,7 @@ Students posted to:
 
 **Posting Group 1<br> 
 Posting Group 2<br>
-Posting Group 3<br>**
+[Posting Group 3](/sec1postinggroup3/)<br>**
 
 
 
