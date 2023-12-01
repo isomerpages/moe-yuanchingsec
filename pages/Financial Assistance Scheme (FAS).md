@@ -72,7 +72,7 @@ d. Family with more than 3 grandparents in the household
 
 </p><p style="text-align: justify;">Student who is a ComCare recipient need not submit the application for MOE FAS as it will be automatically granted to all ComCare recipients.  
 
-</p><p style="text-align: justify;">All hardcopy application forms must be submitted together with the required supporting documents to the General Office. <br>
+</p><p style="text-align: justify;">All hardcopy application forms must be submitted together with the required supporting documents to the General Office. <br></p>
 
 | MOE FAS Application Form | SAC FAS Application Form |
 |:---:|:---:|
@@ -82,4 +82,4 @@ d. Family with more than 3 grandparents in the household
 Once the application is approved, the school will make arrangement for your child to collect the textbooks and uniform. <br>
 
 <u><strong>Other Information</strong></u><br>
-If you are interested to apply for subsidized broadband and /or laptop tablet under IMDA DigitalAccess@Home, you can apply via [www.digitalaccess.gov.sg](https://www.digitalaccess.gov.sg) or contact 63773800 or e-mail: [digitalaccess@imda.gov.sg](digitalaccess@imda.gov.sg) </p>
+If you are interested to apply for subsidized broadband and /or laptop tablet under IMDA DigitalAccess@Home, you can apply via [www.digitalaccess.gov.sg](https://www.digitalaccess.gov.sg) or contact 63773800 or e-mail: [digitalaccess@imda.gov.sg](digitalaccess@imda.gov.sg) 
