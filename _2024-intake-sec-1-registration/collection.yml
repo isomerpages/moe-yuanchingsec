@@ -2,5 +2,5 @@ collections:
   2024-intake-sec-1-registration:
     output: true
     order:
-      - Sec 1 Posting Group 1.md
       - 2024 Intake Sec 1 Registration.md
+      - Sec 1 Posting Group 1.md
