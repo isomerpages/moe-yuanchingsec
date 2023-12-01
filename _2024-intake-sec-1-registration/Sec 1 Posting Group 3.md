@@ -31,7 +31,8 @@ There are two ways of FAS application: <br>
 	
 <p style="text-align: justify;">The school will call the parents to arrange an appointment from 23 to 30 Dec 2022 for the collection of the textbooks and uniform. You are not required to come to the school on 22 Dec 2022. Please bring along the Letter of Approval from the Primary School for verification on the arranged date. However, if the school has not contacted you by 28 Dec 2022, please contact the school to enquire. <br></p>
 	
-<u>**B) New applications for FAS**</u><br>
+	
+**<u>B) New applications for FAS</u><br>**
 	
 <p style="text-align: justify;">Parents may apply for MOE FAS through either (1) hardcopy or (2) online via eFAS below. Application forms are also available from the General Office. 
 For students who are not eligible for MOE FAS, you may consider applying for SAC FAS. Please click on the application form below for the eligibility criteria.
@@ -42,7 +43,7 @@ Please do not buy any books or uniform without the FAS Approval Letter as there 
 | MOE FAS Application Form| SAC FAS Application Form | 
 | -------- | -------- | 
 | Hardcopy:<br> [MOE-FAS Application Form](/files/moe_fas_application_form(updated%20oct%202023).pdf)   | Hardcopy: <br> [SAC-FAS Application Form](/files/SAC_FAS_Application_Form.pdf)     | 
-| eFAS Application:<br>  https://go.gov.sg/moe-efas  | 
+| eFAS Application:<br>  [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)  | 
 
 For the details on MOE FAS &amp; SAC FAS, you may click on the link below. <br>
 	<u>Financial Assistance Scheme</u><br>
@@ -88,7 +89,7 @@ c) <u>Walk-in</u>: Purchase at the school bookshop during the dates and operatin
 
 ### Section H: First Day of School
 
-<u>**Results for Request for Transfer (under MOE Medical Appeal Exercise):**</u><br>
+**<u>Results for Request for Transfer (under MOE Medical Appeal Exercise):</u><br>**
 
 <p></p><p style="text-align: justify;">Applicants should continue to attend lessons in Yuan Ching Sec while waiting for the results of the appeal. <br>
 	
@@ -98,7 +99,8 @@ c) <u>Walk-in</u>: Purchase at the school bookshop during the dates and operatin
 	
 </p><p style="text-align: justify;">The Student Handbook will be issued to all students except those awaiting the results of their transfer requests. </p>
 
-**School Hours:**
+**School Hours:** <br>
+
 | Day | School Hours | 
 | -------- | -------- | 
 | Monday    | 7.30am - 2.30pm    | 
@@ -126,6 +128,7 @@ On 5 Jan 2024, students are to bring $4.00 (payment to be made to Photographer f
 <p></p><p style="text-align: justify;">The CCA showcase will be held on Friday, 13 Jan 2023 from 3:30pm to 5:30pm. Students will be brought to different CCA booths for some experience on the different CCAs offered by the school.
 Parents Engagement Session will be conducted from 6 – 8pm at the school hall and dinner will be provided. More details will be given at a later date. <br>
 
+	
 ### Section L: CCA Trials
 	
 More information on the timing of the trials will be given at a later date. <br>
