@@ -53,3 +53,10 @@ For details on MOE FAS &amp; SAC FAS, you may click on the link below.
 * [Sec 1 G2](/files/sec%201%20g2.pdf)
 * [Sec 1 G1](/files/sec%201%20g1.pdf)
 
+<strong>Step 5: Purchase of Personal Learning Device</strong><br>
+<p style="text-align: justify;">In alignment with the vision of the MOE EdTech Masterplan 2030 – Technology-transformed Learning, to prepare students for a Technology-transformed World, our Yuan Ching National Digital Literacy Programme (NDLP) aims to create opportunities and curate experiences for all our students to develop their digital literacy competencies to create, curate and connect information in digital environment.  </p>
+<p style="text-align: justify;">This is enabled by the provision of a Personal Learning Device (PLD) for every student. The school has chosen iPad as the school prescribed PLD for our Secondary One students.
+	Please read this <u>letter</u> and [Infographic](/files/IP8___Infographic_on_the_PLD_Initiative_2024_FINAL_Sec_1_.pdf) on the Yuan Ching PLD Initiative 2024 on the important information about the PLD for your child/ward before submitting your option below.</p>
+
+* Click [here](https://go.gov.sg/pdlpadmin) to indicate if you would like to purchase a PLD with the school bulk purchase by <strong><u>5th Jan 2024 (Fri)</u></strong>.
+* If you are unable to submit the form online, please inform the Form Teacher on the 1st day of school for a hardcopy version.
