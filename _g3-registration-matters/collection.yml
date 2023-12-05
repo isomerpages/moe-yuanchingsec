@@ -1,4 +1,5 @@
 collections:
   g3-registration-matters:
     output: true
-    order: []
+    order:
+      - Online Registration Form.md
