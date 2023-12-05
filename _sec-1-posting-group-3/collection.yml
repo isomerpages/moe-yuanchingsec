@@ -1,5 +1,4 @@
 collections:
   sec-1-posting-group-3:
     output: true
-    order:
-      - Registration Matters.md
+    order: []
