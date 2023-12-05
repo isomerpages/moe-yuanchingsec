@@ -14,11 +14,11 @@ Please use the links below to start the process.
 Students posted to:
 
 
-| Sec 1 Posting Group 1 | Sec 1 Posting Group 2 | Sec 1 Posting Group 3 |
+| Sec 1 Posting Group 1 | Sec 1 Posting Group 2 | [Sec 1 Posting Group 3](/2024-intake-sec-1-registration/sec1pg3/) |
 | -------- | -------- | -------- |
 
 
 Student who would like to: 
 
 | Transfer INTO Yuan Ching Secondary School | Transfer OUT Yuan Ching Secondary Schoo | 
-| -------- | -------- | 
+| -------- | -------- |
