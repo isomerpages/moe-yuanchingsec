@@ -11,14 +11,14 @@ third_nav_title: Sec 1 Posting Group 3
 <u>Step 4: Sale of Books and Uniform</u><br>
 <u>Step 5: Purchase of Personal Learning Device</u><br>
 
-<strong>Step 1: Online Registration Form (Compulsory)</strong><br>
+##### <strong>Step 1: Online Registration Form (Compulsory)</strong><br>
 Compulsory for ALL students (to be completed from <strong>20 Dec 2023, 9am to 21 Dec 2023, 12pm)</strong>.<br>
 
 
-<strong>Step 2: Higher Mother Tongue Language (HMTL)</strong><br>
+##### <strong>Step 2: Higher Mother Tongue Language (HMTL)</strong><br>
 The school will contact the students who have been offered Higher Mother Tongue Language (HMTL) by <strong>22 Dec 2023, 12pm</strong> via the phone numbers registered in the primary school. <br>
 
-<strong>Step 3: MOE Financial Assistance Scheme (FAS)</strong><br>
+##### <strong>Step 3: MOE Financial Assistance Scheme (FAS)</strong><br>
 MOE provides financial assistance for students who need support.
 There are two ways of FAS application: <br>
 <strong><u>A)  Already Approved MOE FAS for 2024 with Approval Letter from Primary School</u></strong><br>
@@ -40,7 +40,7 @@ There are two ways of FAS application: <br>
 For details on MOE FAS &amp; SAC FAS, you may click on the link below. 
 [Financial Assistance Scheme](/others/financial-assistance-scheme-fas/)
 
-<strong>Step 4: Sale of Books and Uniform</strong><br>
+##### <strong>Step 4: Sale of Books and Uniform</strong><br>
 
 <p style="text-align: justify;">You may access the website from <strong><u>21 Dec – 27 Dec 2023</u></strong> to purchase the books and uniform online to avoid queuing in the school. There will be 2 options of purchases – Home delivery (with a delivery charge) and Self-collection via the website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com).</p>
 <p style="text-align: justify;">Please refer the above website under <strong>FAQs</strong>  for the guide on how to purchase your books and uniform online.</p>
@@ -53,7 +53,7 @@ For details on MOE FAS &amp; SAC FAS, you may click on the link below.
 * [Sec 1 G2](/files/sec%201%20g2.pdf)
 * [Sec 1 G1](/files/sec%201%20g1.pdf)
 
-<strong>Step 5: Purchase of Personal Learning Device</strong><br>
+##### <strong>Step 5: Purchase of Personal Learning Device</strong><br>
 <p style="text-align: justify;">In alignment with the vision of the MOE EdTech Masterplan 2030 – Technology-transformed Learning, to prepare students for a Technology-transformed World, our Yuan Ching National Digital Literacy Programme (NDLP) aims to create opportunities and curate experiences for all our students to develop their digital literacy competencies to create, curate and connect information in digital environment.  </p>
 <p style="text-align: justify;">This is enabled by the provision of a Personal Learning Device (PLD) for every student. The school has chosen iPad as the school prescribed PLD for our Secondary One students.
 	Please read this <u>letter</u> and [Infographic](/files/IP8___Infographic_on_the_PLD_Initiative_2024_FINAL_Sec_1_.pdf) on the Yuan Ching PLD Initiative 2024 on the important information about the PLD for your child/ward before submitting your option below.</p>
