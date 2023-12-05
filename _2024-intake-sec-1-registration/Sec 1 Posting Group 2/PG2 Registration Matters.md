@@ -28,6 +28,7 @@ Compulsory for ALL students (to be completed from <strong>20 Dec 2023, 9am to 21
 
 <strong>Please access the FormSG below to make your choice.</strong>
 	
+<p style="text-align: center;">PG2 offered G3 subjects</p>
 <p style="text-align: justify;"><img style="width:50%" src="/images/G2YC2024MDL.png">
 	[https://for.edu.sg/g2yc2024mdl](https://for.edu.sg/g2yc2024mdl)</p>
 
