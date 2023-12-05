@@ -6,8 +6,8 @@ description: ""
 ---
 # Welcome to the Yuan Ching Family!
 
-<p style="text-align: justify;">Our Sec 1 Registration process will start on 20 Dec 2023 from 9am onwards.
-Students do not need to physically report to our school on 21 Dec 2023. Registration, buying of books and uniform could be done online. </p>
+<p style="text-align: justify;">Our Sec 1 Registration process will start on <strong>20 Dec 2023</strong> from <strong>9am </strong> onwards.
+Students do not need to physically report to our school on <strong>21 Dec 2023</strong>. Registration, buying of books and uniform could be done online. </p>
 
 Please use the links below to start the process.
 
