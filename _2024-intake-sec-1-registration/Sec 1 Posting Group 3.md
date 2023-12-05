@@ -12,7 +12,7 @@ Dear Parent/Guardian,&nbsp;
 
 <p style="text-align: justify;">We aim to provide your child/ward with a learner-centric and values-driven education that nurtures holistic development. This is encapsulated in our School Mission of 'Enriching Minds, Unleashing Potential, Impacting Lives' and our School Vision of developing every student to be 'A Thinker, an Achiever, and a Concerned Citizen'.
 
-</p><p style="text-align: justify;">Anchoring our mission and vision is our school values which we uphold and enact through the lenses of a positive education and mental resilience. Our Total Curriculum is guided by the principles of being Inclusive,&nbsp;Experiential,&nbsp;Contemporary,&nbsp;E\-enabled and one that inculcates a&nbsp;Life-long learning mindset (I ExCEL)
+</p><p style="text-align: justify;">Anchoring our mission and vision is our school values which we uphold and enact through the lenses of a positive education and mental resilience. Our Total Curriculum is guided by the principles of being <u>I</u>nclusive,&nbsp;<u>E</u>xperiential,&nbsp;<u>C</u>ontemporary,&nbsp;<u>E</u>-enabled and one that inculcates a&nbsp;<u>L</u>ife-long learning mindset (I ExCEL)
 
 </p><p style="text-align: justify;">It is our belief that the potential of every child is best realised with the strong support and active partnership of parents/guardians. We strongly encourage parents to join our Parent Support Group (PSG) and the Positive Parenting Programme (PPP) so that we can nurture our learners in the best way possible, together hand-in-hand.
 
