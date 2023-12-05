@@ -16,9 +16,11 @@ Please use the links below to start the process.
 
 | [Sec 1 Posting Group 1](/2024-intake-sec-1-registration/sec1pg1/) | [Sec 1 Posting Group 2](/2024-intake-sec-1-registration/sec1pg2/) | [Sec 1 Posting Group 3](/2024-intake-sec-1-registration/sec1pg3/) |
 | -------- | -------- | -------- |
+| | | | |
 
 
 <strong>Student who would like to: </strong>
 
 | [Transfer INTO Yuan Ching Secondary School](/transferin2024/) | [Transfer OUT of Yuan Ching Secondary School](/transferout2024/) | 
 | -------- | -------- |
+| | | | |
