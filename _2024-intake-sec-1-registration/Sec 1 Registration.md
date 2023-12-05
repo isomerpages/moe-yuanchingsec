@@ -11,14 +11,14 @@ Students do not need to physically report to our school on <strong>21 Dec 2023</
 
 Please use the links below to start the process.
 
-Students posted to:
+**Students posted to:**
 
 
 | [Sec 1 Posting Group 1](/2024-intake-sec-1-registration/sec1pg1/) | [Sec 1 Posting Group 2](/2024-intake-sec-1-registration/sec1pg2/) | [Sec 1 Posting Group 3](/2024-intake-sec-1-registration/sec1pg3/) |
 | -------- | -------- | -------- |
 
 
-Student who would like to: 
+<strong>Student who would like to: </strong>
 
-| [Transfer INTO Yuan Ching Secondary School](/transferin2024/) | Transfer OUT Yuan Ching Secondary School | 
+| [Transfer INTO Yuan Ching Secondary School](/transferin2024/) | [Transfer OUT of Yuan Ching Secondary School](/transferout2024/) | 
 | -------- | -------- |
