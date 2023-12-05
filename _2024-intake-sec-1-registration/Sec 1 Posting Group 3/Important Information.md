@@ -50,4 +50,29 @@ On the first day of school, Tuesday, 2 Jan 2024, Sec 1 students will report in s
 *Singaporean students can pay the miscellaneous fees ($20.00 per month) by using their Edusave Account. <br>
 #Current rates subject to changes by MOE. <br>
 
+### <strong>5. General Rules for School </strong>
+**i. Attire <br>**
+•    Students are to wear the prescribed school uniform and modification to the uniform is strictly not allowed. <br>
+•    School uniform and socks must be made by the appointed school tailor. Pants and skirts must not be too tight-fitting. Skirts must not be more than 2-finger spacing above the knees. Socks must cover the ankle when worn and the letters ‘YCSS’ must be visible.  <br>
+•    Shoes must be plain white with white shoe laces.  <br>
+	
+**ii. Appearance  <br>**
+•    Hairstyle must be conservative and not outlandish.  <br>
+•    Hair colour must be natural. Any shade of colouring of hair (highlighting/dyes) is strictly not allowed.  <br>
+•    Hair for boys must be short, simple, neat and natural (no perming).  <br>
+•    Girls with long hair that falls below collar must tie their hair neatly and firmly with plain hair band/ribbons/clips. The fringe must not fall below the eyebrows.  <br>
+•    Fingernails must be kept short and neat. Nail polish is not allowed.  <br>
+•    Only girls are allowed to wear one pair of identical ear studs on the ear lobes. Ear studs must be small, plain, metallic and without precious stones. Multiple piercings or earrings are not allowed.  <br>
+•    Spectacles must be plain, non-tinted and not flashy. Contact lenses must not be coloured.  <br>
+•    Accessories of any kind (e.g. ring, chain, bracelet) are not allowed to be worn with the school uniform.  <br>
+•    Religious items (e.g. religious amulets) if worn, must be hidden from view. <br>
+	
+**iii. Policy on the use of Mobile Phone in school  <br>**
+•    Mobile phones are to be switched off and kept out of sight during curriculum time/ remedial/CCAs.  <br>
+•    Mobile phones are allowed to be used only in the canteen after school/remedial/CCAs.  <br>
+•    Students are to refrain from using the camera function, playing music from the speaker and charging their mobile phone in school. <br>
+•    Consequences of non-adherence include: <br>
+-Mobile phone will be confiscated (including SIM card) for one week. <br>
+•    Abuse of technology will be dealt with seriously. <br>
 
+<p></p>
