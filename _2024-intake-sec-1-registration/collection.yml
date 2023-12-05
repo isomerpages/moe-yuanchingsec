@@ -2,6 +2,7 @@ collections:
   2024-intake-sec-1-registration:
     output: true
     order:
+      - PG2 Registration Matters/Sec 1 Posting Group 2.md
       - PG2 Registration Matters/.keep
       - Sec 1 Registration.md
       - Sec 1 Posting Group 1.md
