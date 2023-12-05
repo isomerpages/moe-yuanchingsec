@@ -1,5 +1,0 @@
-collections:
-  g3-registration-matters:
-    output: true
-    order:
-      - Online Registration Form.md
