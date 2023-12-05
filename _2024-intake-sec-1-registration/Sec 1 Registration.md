@@ -20,5 +20,5 @@ Students posted to:
 
 Student who would like to: 
 
-| Transfer INTO Yuan Ching Secondary School | Transfer OUT Yuan Ching Secondary School | 
+| [Transfer INTO Yuan Ching Secondary School](/transferin2024/) | Transfer OUT Yuan Ching Secondary School | 
 | -------- | -------- |
