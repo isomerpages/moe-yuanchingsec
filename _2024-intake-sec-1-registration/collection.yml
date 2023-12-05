@@ -2,9 +2,9 @@ collections:
   2024-intake-sec-1-registration:
     output: true
     order:
-      - Transfer Out for Sec 1 2024.md
-      - Transfer In for Sec 1 2024.md
       - Sec 1 Registration.md
       - Sec 1 Posting Group 1.md
       - Sec 1 Posting Group 2.md
       - Sec 1 Posting Group 3.md
+      - Transfer In for Sec 1 2024.md
+      - Transfer Out for Sec 1 2024.md
