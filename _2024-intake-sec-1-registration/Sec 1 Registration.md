@@ -11,7 +11,7 @@ Students do not need to physically report to our school on <strong>21 Dec 2023</
 
 Please use the links below to start the process.
 
-**Students posted to:**
+**Student posted to:**
 
 
 | [Sec 1 Posting Group 1](/2024-intake-sec-1-registration/sec1pg1/) | [Sec 1 Posting Group 2](/2024-intake-sec-1-registration/sec1pg2/) | [Sec 1 Posting Group 3](/2024-intake-sec-1-registration/sec1pg3/) |
