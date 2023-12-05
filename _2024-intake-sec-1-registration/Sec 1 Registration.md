@@ -1,6 +1,24 @@
 ---
 title: Sec 1 Registration
 permalink: /2024-intake-sec-1-registration/sec1registration/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+# Welcome to the Yuan Ching Family!
+
+<p style="text-align: justify;">Our Sec 1 Registration process will start on 20 Dec 2023 from 9am onwards.
+Students do not need to physically report to our school on 21 Dec 2023. Registration, buying of books and uniform could be done online. </p>
+
+Please use the links below to start the process.
+
+Students posted to:
+
+
+| Sec 1 Posting Group 1 | Sec 1 Posting Group 2 | Sec 1 Posting Group 3 |
+| -------- | -------- | -------- |
+
+
+Student who would like to: 
+
+| Transfer INTO Yuan Ching Secondary School | Transfer OUT Yuan Ching Secondary Schoo | 
+| -------- | -------- | 
