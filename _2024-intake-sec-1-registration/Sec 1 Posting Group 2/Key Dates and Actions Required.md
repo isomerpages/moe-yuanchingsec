@@ -12,15 +12,13 @@ Please report to school with all relevant medical documents by 12PM.<br>
 <u>Request for <strong>Transfer OUT</strong> for all other reasons: <br></u> 
 Please approach the relevant school to Appeal to transfer.<br>
 <u>Appeals to Transfer IN: <br></u>
-Please fill up appeal form on school website and submit by <strong>27 Dec 2023</strong>. </p><p>
+Please fill up appeal form on school website and submit by <strong>27 Dec 2023</strong>. </p><br>
 
 ##### <strong><u>21 – 29 Dec 2023 - Purchase of Books, Stationery, Uniform, Attire, Socks at School Bookshop</u></strong>
 
-</p><p style="text-align: justify;">Access the website from <strong><u>21 Dec – 27 Dec</u></strong> to purchase the books and uniform online to avoid queuing in the school. 
+<p></p><p style="text-align: justify;">Access the website from <strong><u>21 Dec – 27 Dec</u></strong> to purchase the books and uniform online to avoid queuing in the school. 
 
-There will be 2 options of purchases <br>
-* Home delivery (with a delivery charge) or <br>
-* Self-collection via the website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com). </p>
+There will be 2 options of purchases Home delivery (with a delivery charge) or Self-collection via the website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com). </p>
 
 You may also walk in to purchase the books and uniform at the school bookshop from <strong><u>21 Dec to 29 Dec 2023 (Weekday: 9am – 3pm, Sat: 9am – 12pm)</u></strong> but do expect to queue up for the purchases. <br>
 
