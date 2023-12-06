@@ -53,4 +53,4 @@ Mr Lai Weng Keong<br>
 Assistant Year Head/ Lower Sec
 <p></p>
 
-#### Please proceed to [PG3 Registration Matters](sec-1-posting-group-3/pg3registrationmatters/) to start your registration process. 
+#### Please proceed to [PG3 Registration Matters](/sec-1-posting-group-3/pg3registrationmatters/) to start your registration process.
