@@ -24,7 +24,7 @@ Dear Parent/Guardian,&nbsp;
 </p><p style="text-align: justify;">We will meet you virtually on&nbsp;8 Jan 2022 (Sat) at 9.00am&nbsp;to share with you more about Yuan Ching during the Principal’s Address. We look forward to a meaningful and fruitful partnership with you in the years ahead. 
 
 
-<img style="width:50%" src="/images/Ms_Ng_Message.png">
+<img style="width:30%" src="/images/Ms_Ng_Message.png">
 	
 Thank you<br>
 Ms. Ng Sook Kit<br>
@@ -46,7 +46,7 @@ Dear Students,
 <p style="text-align: justify;">We are thrilled that you are joining us and cannot wait to start this exciting new journey together with you! See you on 2 Jan 2024! </p>
 
 
-<img style="width:50%" src="/images/Mr_Lai.png">
+<img style="width:30%" src="/images/Mr_Lai.png">
 
 Sincerely,<br>
 Mr Lai Weng Keong<br>
