@@ -58,7 +58,11 @@ For details on MOE FAS &amp; SAC FAS, you may click on the link below. <br>
 
 ##### <strong>Step 4: Sale of Books and Uniform</strong><br>
 
-<p style="text-align: justify;">You may access the website from <strong><u>21 Dec – 27 Dec 2023</u></strong> to purchase the books and uniform online to avoid queuing in the school. There will be 2 options of purchases – Home delivery (with a delivery charge) and Self-collection via the website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com).</p>
+<p style="text-align: justify;">You may access the website from <strong><u>21 Dec – 27 Dec 2023</u></strong> to purchase the books and uniform online to avoid queuing in the school. 
+
+There will be 2 options of purchases <br>
+* Home delivery (with a delivery charge) or <br>
+* Self-collection via the website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com). </p>
 <p style="text-align: justify;">Please refer the above website under <strong>FAQs</strong>  for the guide on how to purchase your books and uniform online.</p>
 <p style="text-align: justify;">You may still walk in to purchase the books and uniform at the school bookshop from 21 Dec to 29 Dec 2023 (Weekday: 9am – 3pm, Sat: 9am – 12pm) but do expect to queue up for the purchases.</p>
 <p style="text-align: justify;">For students offered More Demanding Level subjects under Full Subject-Based Banding (FSBB) or Higher Mother Tongue Language (HMTL), you would need to confirm the subjects that you will be taking before purchasing the books. If you are not sure, do not purchase the books. You can still purchase the books after school starts on 2 Jan 2024. </p>
