@@ -10,6 +10,7 @@ third_nav_title: Sec 1 Posting Group 2
 <u>Step 3: MOE Financial Assistance Scheme (FAS)</u><br>
 <u>Step 4: Sale of Books and Uniform</u><br>
 <u>Step 5: Purchase of Personal Learning Device</u><br>
+<u> [Key Dates and Actions Required](2024-intake-sec-1-registration/sec-1-posting-group-2/keydatesandactionsrequired/)</u><br>
 
 ##### <strong>Step 1: Online Registration Form (Compulsory)</strong><br>
 Compulsory for ALL students (to be completed from <strong>20 Dec 2023, 9am to 21 Dec 2023, 12pm)</strong>.<br>
@@ -53,7 +54,7 @@ There are two ways of FAS application: <br>
 | Hardcopy:<br> [MOE-FAS Application Form](/files/moe_fas_application_form(updated%20oct%202023).pdf)   | Hardcopy: <br> [SAC-FAS Application Form](/files/SAC_FAS_Application_Form.pdf)     | 
 | eFAS Application:<br>  [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)  | 
 
-For details on MOE FAS &amp; SAC FAS, you may click on the link below. 
+For details on MOE FAS &amp; SAC FAS, you may click on the link below. <br>
 [Financial Assistance Scheme](/others/financial-assistance-scheme-fas/)
 
 ##### <strong>Step 4: Sale of Books and Uniform</strong><br>
