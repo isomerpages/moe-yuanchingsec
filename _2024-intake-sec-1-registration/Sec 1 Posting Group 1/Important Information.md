@@ -13,7 +13,7 @@ We would like to invite you to join our Yuan Ching Secondary School Parents Supp
 
 Link to [Parent Support Group (PSG) Registration Form](https://go.gov.sg/ycss-psg-register)
 
-![PSG Registration](/images/PSG%20register.png)
+<img style="width:50%" src="/images/PSG%20register.png">
 
 ### <strong>2. Parents Gateway (PG) App</strong>
 
