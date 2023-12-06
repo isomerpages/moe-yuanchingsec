@@ -45,3 +45,5 @@ The CCA showcase and Parents Engagement session will be held on the morning of S
 
 ##### <strong><u>16 Jan and 18 Jan 2024 - CCA Trials</u></strong><br>
 More information on the timing of the trials will be given at a later date.
+
+#### Please proceed to [Important Information](/2024-intake-sec-1-registration/sec-1-posting-group-2/importantinformation/).
