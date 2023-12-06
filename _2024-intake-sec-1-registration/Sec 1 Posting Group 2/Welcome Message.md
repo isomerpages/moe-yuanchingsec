@@ -53,4 +53,4 @@ Mr Lai Weng Keong<br>
 Assistant Year Head/ Lower Sec
 <p></p>
 
-#### Please proceed to [PG2 Registration Matters](2024-intake-sec-1-registration/sec-1-posting-group-2/pg2registrationmatters/)  to start the registration process.
+#### Please proceed to [PG2 Registration Matters](/2024-intake-sec-1-registration/sec-1-posting-group-2/pg2registrationmatters/)  to start the registration process.
