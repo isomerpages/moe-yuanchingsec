@@ -32,7 +32,7 @@ Compulsory for ALL students (to be completed from <strong>20 Dec 2023, 9am to 21
 
 ![G1YC2024MDL](/images/G1YC2024MDL.png)
 
-<p style="text-align: center;">https://for.edu.sg/g1yc2024mdl
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://for.edu.sg/g1yc2024mdl
 
 
 For enquiries, please contact the school General Office at: 62612489.
@@ -42,7 +42,7 @@ MOE provides financial assistance for students who need support.
 There are two ways of FAS application: <br>
 <strong><u>A)  Already Approved MOE FAS for 2024 with Approval Letter from Primary School</u></strong><br>
 
-</p><p style="text-align: justify;">The school will call the parents to arrange an appointment from 22 to 29 Dec 2023 for the collection of the textbooks and uniform. You are not required to come to the school on 21 Dec 2023. Please bring along the Letter of Approval from the Primary School for verification on the arranged date. However, if the school has not contacted you by 27 Dec 2023, please contact the school to enquire. </p>
+<p></p><p style="text-align: justify;">The school will call the parents to arrange an appointment from 22 to 29 Dec 2023 for the collection of the textbooks and uniform. You are not required to come to the school on 21 Dec 2023. Please bring along the Letter of Approval from the Primary School for verification on the arranged date. However, if the school has not contacted you by 27 Dec 2023, please contact the school to enquire. </p>
 
 <strong><u>B) New applications for FAS</u></strong><br>
 
