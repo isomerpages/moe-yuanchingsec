@@ -30,9 +30,9 @@ Compulsory for ALL students (to be completed from <strong>20 Dec 2023, 9am to 21
 	
 <p style="text-align: center;">PG1 offered G2 subjects</p>
 
-![G1YC2024MDL](/images/G1YC2024MDL.png)
+<img style="width:50%" src="/images/G1YC2024MDL.png">
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://for.edu.sg/g1yc2024mdl
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://for.edu.sg/g1yc2024mdl](https://for.edu.sg/g1yc2024mdl)
 
 
 For enquiries, please contact the school General Office at: 62612489.
@@ -61,11 +61,11 @@ For details on MOE FAS &amp; SAC FAS, you may click on the link below. <br>
 
 ##### <strong>Step 4: Sale of Books and Uniform</strong><br>
 
-<p style="text-align: justify;">You may access the website from <strong><u>21 Dec – 27 Dec 2023</u></strong> to purchase the books and uniform online to avoid queuing in the school. 
+<p style="text-align: justify;">You may access the website from <strong><u>21 Dec – 27 Dec 2023</u></strong> to purchase the books and uniform online to avoid queuing in the school. </p>
 
 There will be 2 options of purchases <br>
 * Home delivery (with a delivery charge) or <br>
-* Self-collection via the website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com). </p>
+* Self-collection via the website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com). <p></p>
 
 <p style="text-align: justify;">Please refer the above website under <strong>FAQs</strong>  for the guide on how to purchase your books and uniform online.</p>
 
