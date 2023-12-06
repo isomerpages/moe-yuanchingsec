@@ -76,3 +76,5 @@ On the first day of school, Tuesday, 2 Jan 2024, Sec 1 students will report in s
 •    Abuse of technology will be dealt with seriously. <br>
 
 <p></p>
+
+For frequently asked questions, please proceed to [FAQs](/2024-intake-sec-1-registration/faqs/).
