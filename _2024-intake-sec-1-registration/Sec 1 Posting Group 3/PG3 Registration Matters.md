@@ -46,8 +46,9 @@ For details on MOE FAS &amp; SAC FAS, you may click on the link below.
 	
 There will be 2 options of purchases <br>
 * Home delivery (with a delivery charge) or <br>
-* Self-collection via the website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com). </p>
-<p style="text-align: justify;">Please refer the above website under <strong>FAQs</strong>  for the guide on how to purchase your books and uniform online.</p>
+* Self-collection via the website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com). <br>
+	
+</p><p style="text-align: justify;">Please refer the above website under <strong>FAQs</strong>  for the guide on how to purchase your books and uniform online.</p>
 <p style="text-align: justify;">You may still walk in to purchase the books and uniform at the school bookshop from 21 Dec to 29 Dec 2023 (Weekday: 9am – 3pm, Sat: 9am – 12pm) but do expect to queue up for the purchases.</p>
 <p style="text-align: justify;">For students offered More Demanding Level subjects under Full Subject-Based Banding (FSBB) or Higher Mother Tongue Language (HMTL), you would need to confirm the subjects that you will be taking before purchasing the books. If you are not sure, do not purchase the books. You can still purchase the books after school starts on 2 Jan 2024. </p>
 <p style="text-align: justify;">For FAS students, you can only collect the books and uniform after receiving the FAS Approval Letter from the school. Please do not buy the books on your own as there will be NO refund if you do so.</p>
@@ -60,7 +61,8 @@ There will be 2 options of purchases <br>
 ##### <strong>Step 5: Purchase of Personal Learning Device</strong><br>
 <p style="text-align: justify;">In alignment with the vision of the MOE EdTech Masterplan 2030 – Technology-transformed Learning, to prepare students for a Technology-transformed World, our Yuan Ching National Digital Literacy Programme (NDLP) aims to create opportunities and curate experiences for all our students to develop their digital literacy competencies to create, curate and connect information in digital environment.  </p>
 <p style="text-align: justify;">This is enabled by the provision of a Personal Learning Device (PLD) for every student. The school has chosen iPad as the school prescribed PLD for our Secondary One students.
-	Please read this <u>letter</u> and [Infographic](/files/IP8___Infographic_on_the_PLD_Initiative_2024_FINAL_Sec_1_.pdf) on the Yuan Ching PLD Initiative 2024 on the important information about the PLD for your child/ward before submitting your option below.</p>
+
+Please read this <u>letter</u> and [Infographic](/files/IP8___Infographic_on_the_PLD_Initiative_2024_FINAL_Sec_1_.pdf) on the Yuan Ching PLD Initiative 2024 on the important information about the PLD for your child/ward before submitting your option below.</p>
 
 * Click [here](https://go.gov.sg/pdlpadmin) to indicate if you would like to purchase a PLD with the school bulk purchase by <strong><u>5th Jan 2024 (Fri)</u></strong>.
 * If you are unable to submit the form online, please inform the Form Teacher on the 1st day of school for a hardcopy version.
