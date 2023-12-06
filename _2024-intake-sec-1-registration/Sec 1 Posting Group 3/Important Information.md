@@ -13,7 +13,7 @@ We would like to invite you to join our Yuan Ching Secondary School Parents Supp
 
 Link to [Parent Support Group (PSG) Registration Form](https://go.gov.sg/ycss-psg-register)
 
-![PSG Registration](/images/PSG%20register.png)
+<img style="width:50%" src="/images/PSG%20register.png">
 
 ### <strong>2. Parents Gateway (PG) App</strong>
 
@@ -76,3 +76,5 @@ On the first day of school, Tuesday, 2 Jan 2024, Sec 1 students will report in s
 •    Abuse of technology will be dealt with seriously. <br>
 
 <p></p>
+
+For frequently asked questions, please proceed to&nbsp;[FAQs](/2024-intake-sec-1-registration/faqs/).
