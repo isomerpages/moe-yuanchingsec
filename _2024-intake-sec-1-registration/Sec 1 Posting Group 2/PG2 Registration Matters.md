@@ -95,3 +95,5 @@ f.	comparable performance to school-prescribed PLD <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;v.	Resolution: 2048 x 1536 or higher resolution<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vi.	WiFi function should work and support at least IEEE<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 802.11a/b/g/n/ac/ax standard that uses 5GHz<br>
 g.	device should not be installed with additional Operating Systems, antivirus software, Device Management and Parental Control tools other than the MOE DMA;
+
+Please proceed to [Important Information](2024-intake-sec-1-registration/sec-1-posting-group-2/importantinformation/).
