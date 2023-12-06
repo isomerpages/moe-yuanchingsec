@@ -20,7 +20,7 @@ Please fill up appeal form on school website and submit by <strong>27 Dec 2023</
 	
 There will be 2 options of purchases<br>
 -Home delivery (with a delivery charge) or <br>
--Self-collection via the website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com). <p></p>
+-Self-collection via the website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com). <br>
 
 You may also walk in to purchase the books and uniform at the school bookshop from <strong><u>21 Dec to 29 Dec 2023 (Weekday: 9am – 3pm, Sat: 9am – 12pm)</u></strong> but do expect to queue up for the purchases. <br>
 
