@@ -10,6 +10,7 @@ third_nav_title: Sec 1 Posting Group 1
 <u>Step 3: MOE Financial Assistance Scheme (FAS)</u><br>
 <u>Step 4: Sale of Books and Uniform</u><br>
 <u>Step 5: Purchase of Personal Learning Device</u><br>
+<u>[Key Dates and Actions Required](2024-intake-sec-1-registration/sec-1-posting-group-1/keydatesandactionsrequired/)</u><br>
 
 ##### <strong>Step 1: Online Registration Form (Compulsory)</strong><br>
 Compulsory for ALL students (to be completed from <strong>20 Dec 2023, 9am to 21 Dec 2023, 12pm)</strong>.<br>
