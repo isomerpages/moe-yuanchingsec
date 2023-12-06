@@ -52,3 +52,5 @@ Sincerely,<br>
 Mr Lai Weng Keong<br>
 Assistant Year Head/ Lower Sec
 <p></p>
+
+#### Please proceed to <u>PG1 Registration Matters</u> to start the registration process.
