@@ -29,18 +29,20 @@ Compulsory for ALL students (to be completed from <strong>20 Dec 2023, 9am to 21
 <strong>Please access the FormSG below to make your choice.</strong>
 	
 <p style="text-align: center;">PG1 offered G2 subjects</p>
-<img style="width:60%" src="/images/G1YC2024MDL.png"><br>
-<p style="text-align: center;"> [https://for.edu.sg/g1yc2024mdl](https://for.edu.sg/g1yc2024mdl) </p>
+
+![G1YC2024MDL](/images/G1YC2024MDL.png)
+
+<p style="text-align: center;">https://for.edu.sg/g1yc2024mdl
 
 
-For enquiries, please contact the school General Office at: 62612489
+For enquiries, please contact the school General Office at: 62612489.
 
 ##### <strong>Step 3: MOE Financial Assistance Scheme (FAS)</strong><br>
 MOE provides financial assistance for students who need support.
 There are two ways of FAS application: <br>
 <strong><u>A)  Already Approved MOE FAS for 2024 with Approval Letter from Primary School</u></strong><br>
 
-<p style="text-align: justify;">The school will call the parents to arrange an appointment from 22 to 29 Dec 2023 for the collection of the textbooks and uniform. You are not required to come to the school on 21 Dec 2023. Please bring along the Letter of Approval from the Primary School for verification on the arranged date. However, if the school has not contacted you by 27 Dec 2023, please contact the school to enquire. </p>
+</p><p style="text-align: justify;">The school will call the parents to arrange an appointment from 22 to 29 Dec 2023 for the collection of the textbooks and uniform. You are not required to come to the school on 21 Dec 2023. Please bring along the Letter of Approval from the Primary School for verification on the arranged date. However, if the school has not contacted you by 27 Dec 2023, please contact the school to enquire. </p>
 
 <strong><u>B) New applications for FAS</u></strong><br>
 
@@ -59,9 +61,16 @@ For details on MOE FAS &amp; SAC FAS, you may click on the link below. <br>
 
 ##### <strong>Step 4: Sale of Books and Uniform</strong><br>
 
-<p style="text-align: justify;">You may access the website from <strong><u>21 Dec – 27 Dec 2023</u></strong> to purchase the books and uniform online to avoid queuing in the school. There will be 2 options of purchases – Home delivery (with a delivery charge) and Self-collection via the [website](https://www.pacificbookstores.com).</p>
+<p style="text-align: justify;">You may access the website from <strong><u>21 Dec – 27 Dec 2023</u></strong> to purchase the books and uniform online to avoid queuing in the school. 
+
+There will be 2 options of purchases <br>
+* Home delivery (with a delivery charge) or <br>
+* Self-collection via the website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com). </p>
+
 <p style="text-align: justify;">Please refer the above website under <strong>FAQs</strong>  for the guide on how to purchase your books and uniform online.</p>
+
 <p style="text-align: justify;">You may still walk in to purchase the books and uniform at the school bookshop from 21 Dec to 29 Dec 2023 (Weekday: 9am – 3pm, Sat: 9am – 12pm) but do expect to queue up for the purchases.</p>
+
 <p style="text-align: justify;">For students offered More Demanding Level subjects under Full Subject-Based Banding (FSBB) or Higher Mother Tongue Language (HMTL), you would need to confirm the subjects that you will be taking before purchasing the books. If you are not sure, do not purchase the books. You can still purchase the books after school starts on 2 Jan 2024. </p>
 <p style="text-align: justify;">For FAS students, you can only collect the books and uniform after receiving the FAS Approval Letter from the school. Please do not buy the books on your own as there will be NO refund if you do so.</p>
 
