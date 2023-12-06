@@ -10,7 +10,6 @@ third_nav_title: Sec 1 Posting Group 3
 <u>Step 3: MOE Financial Assistance Scheme (FAS)</u><br>
 <u>Step 4: Sale of Books and Uniform</u><br>
 <u>Step 5: Purchase of Personal Learning Device</u><br>
-<u> [Key Dates and Actions Required](/2024-intake-sec-1-registration/sec-1-posting-group-3/keydatesandactionsrequired/) </u><br>
 
 ##### <strong>Step 1: Online Registration Form (Compulsory)</strong><br>
 Compulsory for ALL students (to be completed from <strong>20 Dec 2023, 9am to 21 Dec 2023, 12pm)</strong>.<br>
@@ -79,3 +78,5 @@ f.	comparable performance to school-prescribed PLD <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;v.	Resolution: 2048 x 1536 or higher resolution<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vi.	WiFi function should work and support at least IEEE<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 802.11a/b/g/n/ac/ax standard that uses 5GHz<br>
 g.	device should not be installed with additional Operating Systems, antivirus software, Device Management and Parental Control tools other than the MOE DMA;
+
+#### Please proceed to [Key Dates and Actions Required](/2024-intake-sec-1-registration/sec-1-posting-group-3/keydatesandactionsrequired/).
