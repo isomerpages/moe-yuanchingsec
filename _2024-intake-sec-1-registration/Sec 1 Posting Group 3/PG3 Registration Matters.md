@@ -60,3 +60,21 @@ For details on MOE FAS &amp; SAC FAS, you may click on the link below.
 
 * Click [here](https://go.gov.sg/pdlpadmin) to indicate if you would like to purchase a PLD with the school bulk purchase by <strong><u>5th Jan 2024 (Fri)</u></strong>.
 * If you are unable to submit the form online, please inform the Form Teacher on the 1st day of school for a hardcopy version.
+* If you are <u>pending transfer</u> or would like to use your <u>personal computing device</u> in school, please submit this [form](https://go.gov.sg/ycsspld-optout). To ensure that your personal learning device is suitable, please refer to the specifications below.
+
+<strong>Suitability of Student-Owned Device to Function as Personal Learning Device</strong> <br>
+<p style="text-align: justify;">Your personal learning device should meet the following specifications in order for it to be managed by the Device Management Application (DMA). The DMA is crucial as it allows the teacher to control the student’s use of computing device during class time. </p>
+
+a. it should be an iOS device<br>
+b. device should not be older than 4 years from manufacturing date; <br>
+c.	battery should hold charge for at least 4 hours; <br>
+d.	comparable form factor to school-prescribed PLD (e.g. touchscreen, physical keyboard, Apple Pencil); <br>
+e.	comparable features to school-prescribed PLD (e.g. inking);<br>
+f.	comparable performance to school-prescribed PLD <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i.	Processor: A10 Fusion or better<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ii.	Capacity: 32GB or higher<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.	OS Version: iPadOS 15 or higher<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iv.	Screen Size: 10.0 to 11.0 inch (diagonal)<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;v.	Resolution: 2048 x 1536 or higher resolution<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vi.	WiFi function should work and support at least IEEE<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 802.11a/b/g/n/ac/ax standard that uses 5GHz<br>
+g.	device should not be installed with additional Operating Systems, antivirus software, Device Management and Parental Control tools other than the MOE DMA;
