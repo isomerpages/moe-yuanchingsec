@@ -128,7 +128,7 @@ third_nav_title: Sec 1 Posting Group 1
     <p>Click <a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">here</a> to indicate if you would like to purchase a PLD with the <u>school bulk purchase</u> by <strong><u>5th Jan 2024 (Fri)</u></strong>.</p>
   </li>
   <li>
-    <p>If you are unable to submit the form online, you may download the form <a href="/files/YCS_IP4_Intent_to_Purchase_for_PDLP__For_GGAS__website.pdf)" rel="noopener noreferrer nofollow" target="_blank">here</a>  and submit to the Form Teacher on the 1st day of school. You may also obtain the hardcopy form from the Form Teacher on the 1st day of school.</p>
+    <p>If you are unable to submit the form online, you may download the form <a href="/files/YCS_IP4_Intent_to_Purchase_for_PDLP__For_GGAS__website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>  and submit to the Form Teacher on the 1st day of school. You may also obtain the hardcopy form from the Form Teacher on the 1st day of school.</p>
   </li>
   <li>
     <p>If you are <u>pending transfer</u> out of Yuan Ching Secondary School or would like to use your <u>personal computing device</u> in school, please submit this <a href="https://go.gov.sg/ycsspld-optout" rel="noopener noreferrer nofollow" target="_blank">form</a>. To ensure that your personal learning device is suitable, please refer to the specifications below.</p>
