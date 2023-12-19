@@ -2,7 +2,6 @@ collections:
   2024-intake-sec-1-registration:
     output: true
     order:
-      - Contact Us.md
       - Sec 1 Registration.md
       - Sec 1 Posting Group 1/.keep
       - Sec 1 Posting Group 1/Welcome Message.md
@@ -22,3 +21,4 @@ collections:
       - Transfer In for Sec 1 2024.md
       - Transfer Out for Sec 1 2024.md
       - FAQs.md
+      - Contact Us.md
