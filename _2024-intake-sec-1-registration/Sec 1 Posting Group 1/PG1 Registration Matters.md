@@ -13,7 +13,7 @@ third_nav_title: Sec 1 Posting Group 1
 <h5><strong>Step 1: Online Registration Form (Compulsory)</strong><br></h5>
 <p>Compulsory for ALL students (to be completed from <strong>20 Dec 2023, 12pm to 21 Dec 2023, 12pm</strong>.<br>
 <a href="https://go.gov.sg/s1yc2024" rel="noopener noreferrer nofollow" target="_blank">Online Registration</a></p>
-<h5><strong>Step 2: More Demanding Level Subjects (Compulsory)</strong><br></h5>
+<h5><strong>Step 2: More Demanding Level Subjects (Compulsory)<br> From 20 Dec, 4pm to 21 Dec, 12pm</strong><br></h5>
 <p>To allow students more flexibility and better develop their strengths, Yuan Ching offers students who qualify a chance to study English Language, Mother Tongue Languages, Mathematics and/or Science at a more demanding level. This means that PG1 students may take G2 subjects.</p>
 <p>Please read the information below and exercise your option to either accept or reject the offer. If your child achieve the following grades, please access the FormSG below using the relevant link/QR code.</p>
 <table>
