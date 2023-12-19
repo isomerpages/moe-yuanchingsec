@@ -12,7 +12,7 @@ third_nav_title: Sec 1 Posting Group 2
 <u>Step 5: Purchase of Personal Learning Device</u><br></p>
 <h5><strong>Step 1: Online Registration Form (Compulsory)</strong><br></h5>
 <p>Compulsory for ALL students (to be completed from <strong>20 Dec 2023, 12pm to 21 Dec 2023, 12pm)</strong>.<br>
-<a href="https://go.gov.sg/sec12024intake" rel="noopener noreferrer nofollow" target="_blank">Online Registration</a></p>
+<a href="https://go.gov.sg/s1yc2024" rel="noopener noreferrer nofollow" target="_blank">Online Registration</a></p>
 <h5><strong>Step 2: More Demanding Level Subjects (Compulsory)</strong><br></h5>
 <p>To allow students more flexibility and better develop their strengths, Yuan Ching offers students who qualify a chance to study English Language, Mother Tongue Languages, Mathematics and/or Science at a more demanding level. This means that PG2 students may take G3 subjects.</p>
 <p>Please read the information below and exercise your option to either accept or reject the offer. If your child achieve the following grades, please access the FormSG below using the relevant link/QR code.</p>
