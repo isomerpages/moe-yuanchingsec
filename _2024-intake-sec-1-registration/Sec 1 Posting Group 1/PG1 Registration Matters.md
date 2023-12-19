@@ -122,13 +122,13 @@ third_nav_title: Sec 1 Posting Group 1
 <h5><strong>Step 5: Purchase of Personal Learning Device</strong><br></h5>
 <p>In alignment with the vision of the MOE EdTech Masterplan 2030 – Technology-transformed Learning, to prepare students for a Technology-transformed World, our Yuan Ching National Digital Literacy Programme (NDLP) aims to create opportunities and curate experiences for all our students to develop their digital literacy competencies to create, curate and connect information in digital environment.</p>
 <p>This is enabled by the provision of a Personal Learning Device (PLD) for every student. The school has chosen iPad as the school prescribed PLD for our Secondary One students.</p>
-<p>Please read this <u>letter</u> and <a href="/files/IP8___Infographic_PLD_2024_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic</a> on the Yuan Ching PLD Initiative 2024 on the important information about the PLD for your child/ward before submitting your option below.</p>
+<p>Please read this <a href="/files/YCS_IP4_Letter_to_Parents_for_PDLP_Procurement__For_GGAS__website.pdf[]" rel="noopener noreferrer nofollow" target="_blank">Ietter</a> and <a href="/files/IP8___Infographic_PLD_2024_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic</a> on the Yuan Ching PLD Initiative 2024 on the important information about the PLD for your child/ward before submitting your option below.</p>
 <ul data-tight="true" class="tight">
   <li>
     <p>Click <a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">here</a> to indicate if you would like to purchase a PLD with the <u>school bulk purchase</u> by <strong><u>5th Jan 2024 (Fri)</u></strong>.</p>
   </li>
   <li>
-    <p>If you are unable to submit the form online, please inform the Form Teacher on the 1st day of school for a hardcopy version.</p>
+    <p>If you are unable to submit the form online, you may download the form <a href="[](/files/YCS_IP4_Intent_to_Purchase_for_PDLP__For_GGAS__website.pdf)[]" rel="noopener noreferrer nofollow" target="_blank">here</a>  and submit to the Form Teacher on the 1st day of school. You may also obtain the hardcopy form from the Form Teacher on the 1st day of school.</p>
   </li>
   <li>
     <p>If you are <u>pending transfer</u> out of Yuan Ching Secondary School or would like to use your <u>personal computing device</u> in school, please submit this <a href="https://go.gov.sg/ycsspld-optout" rel="noopener noreferrer nofollow" target="_blank">form</a>. To ensure that your personal learning device is suitable, please refer to the specifications below.</p>
