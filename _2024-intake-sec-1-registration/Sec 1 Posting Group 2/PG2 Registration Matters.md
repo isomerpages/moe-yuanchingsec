@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Sec 1 Posting Group 2
 ---
 <p><u>Step 1: Online Registration Form (Compulsory)</u><br>
-<u>Step 2: More Demanding Level Subjects (Compulsory)</u><br>
+<u>Step 2: More Demanding Level (Compulsory)</u><br>
 <u>Step 3: MOE Financial Assistance Scheme (FAS)</u><br>
 <u>Step 4: Sale of Books and Uniform</u><br>
 <u>Step 5: Purchase of Personal Learning Device</u><br></p>
