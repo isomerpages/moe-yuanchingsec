@@ -45,7 +45,9 @@ On the first day of school, Tuesday, 2 Jan 2024, Sec 1 students will report in s
 | Total  | $25     | $20     | $580     | $991.80     | $1931.80    |
 	
 
-Mode of Payment : Cash / Cheque/ GIRO/ SAM machine<p></p><p>*Singaporean students can pay the miscellaneous fees ($20.00 per month) by using their Edusave Account. <br>#Current rates subject to changes by MOE. <br></p><h3>
+Mode of Payment : Cash / Cheque/ GIRO/ SAM machine<br>
+*Singaporean students can pay the miscellaneous fees ($20.00 per month) by using their Edusave Account. <br>
+#Current rates subject to changes by MOE. <br>
 	
 ### 5. General Rules for School
 **i. Attire** <br>
@@ -74,4 +76,4 @@ Mode of Payment : Cash / Cheque/ GIRO/ SAM machine<p></p><p>*Singaporean student
 -Mobile phone will be confiscated (including SIM card) for one week. <br>
 • Abuse of technology will be dealt with seriously. <br>
 
-For frequently asked questions, please proceed to [FAQs](/2024-intake-sec-1-registration/faqs/)</h3>
+For frequently asked questions, please proceed to [FAQs](/2024-intake-sec-1-registration/faqs/)
