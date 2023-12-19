@@ -30,7 +30,8 @@ For more information on using Parents Gateway Mobile Application: [Parents Gatew
 | Thursday  | 7.30am - 2.30pm / 3.05pm     |    |
 | Friday  | 7.30am - 12.30pm     |    |
 
-CCA and enrichment programmes are conducted after school hours. <br><p></p><p>On the first day of school, Tuesday, 2 Jan 2024, Sec 1 students will report in school uniform by 8:20AM.</p><h3>
+CCA and enrichment programmes are conducted after school hours. <br>
+On the first day of school, Tuesday, 2 Jan 2024, Sec 1 students will report in school uniform by 8:20AM.<br>
 	
 ### 4. School / Miscellaneous Fees
 	
@@ -44,7 +45,7 @@ CCA and enrichment programmes are conducted after school hours. <br><p></p><p>On
 | Total  | $25     | $20     | $580     | $991.80     | $1931.80    |
 	
 
-Mode of Payment : Cash / Cheque/ GIRO/ SAM machine<p></p><p>*Singaporean students can pay the miscellaneous fees ($20.00 per month) by using their Edusave Account. <br>#Current rates subject to changes by MOE. <br></p></h3><h3>
+Mode of Payment : Cash / Cheque/ GIRO/ SAM machine<p></p><p>*Singaporean students can pay the miscellaneous fees ($20.00 per month) by using their Edusave Account. <br>#Current rates subject to changes by MOE. <br></p><h3>
 	
 ### 5. General Rules for School
 **i. Attire** <br>
