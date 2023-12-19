@@ -10,8 +10,7 @@ A warm welcome to the Yuan Ching Family!<br>
 We would like to invite you to join our Yuan Ching Secondary School Parents Support Group. If you are keen, please click on the following link or scan the QR code to complete the registration form. <br>
 Link to [Parent Support Group (PSG) Registration Form](https://go.gov.sg/ycss-psg-register)
 
-![PSG ](/images/PSG%20register.png)
-
+<img style="width:50%" src="/images/PSG%20register.png">
 	
 ### 2. Parents Gateway (PG) App
 
@@ -21,8 +20,6 @@ For more information on using Parents Gateway Mobile Application: [Parents Gatew
 	
 	
 ### 3. School Hours (For Sec 1)
-
-
 
 
 | Day | School Hours| 
