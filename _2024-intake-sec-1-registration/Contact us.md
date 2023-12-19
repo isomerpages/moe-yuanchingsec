@@ -10,4 +10,4 @@ description: ""
 Follow us on<br>
 <a class="isomer-image-wrapper" href="https://www.facebook.com/yuanching.official/"><img style="width: 10%;" height="auto" width="100%" alt="FB" src="/images/FB_website.png"></a>
 <a class="isomer-image-wrapper" href="https://www.instagram.com/yuanching.official/"><img style="width: 10%;" height="auto" width="100%" alt="IG" src="/images/IG_website.png"></a>
-<a class="isomer-image-wrapper" href="https://www.youtube.com/channel/UCMwGYyqwN1q2L9X8y0gM-MA"><img style="width: 10%;" height="auto" width="100%" alt="YT" src="/images/Youtube_website.png"></a></u></p><p></p>
+<a class="isomer-image-wrapper" href="https://www.youtube.com/channel/UCMwGYyqwN1q2L9X8y0gM-MA"><img style="width: 10%;" height="auto" width="100%" alt="YT" src="/images/Youtube_website.png"></a></u></p>
