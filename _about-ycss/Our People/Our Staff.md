@@ -3,6 +3,7 @@ title: Our Staff
 permalink: /about-ycss/our-people/our-staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ![](/images/all%20staff%20(70%20x%2040cm)_v4-min.jpg)
 
@@ -20,54 +21,53 @@ third_nav_title: Our People
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| 1 Integrity | Mr Lee Siak Kheng | Ms Dimas Nurr Aidilin Mas'od |  |
-| 1 Excellence | Ms Rathi D/O Bala Krisnan  | Mdm Zubaidah Ariffin  |  |
-| 1 Compassion | Ms Nan Zhonghua | Ms Jean Leong Jun Xi |  |
-| 1 Enterprise | Mdm Chai Jiamin | Mr Senduran Vasudevan |  |
-| 1 Respect | Mr C. Ganesh | Ms Tan Ai Lin |  |
-| 1 Loyalty | Mr Tham Wai Keong | Mdm Shanthy Raja Nayagam |  |
+| 1 Integrity | Mr Standley Daniel | Ms Neo Wen Xin |  |
+| 1 Excellence | Ms Mok Yuen Teng | Ms Wong Wei Na  |  |
+| 1 Compassion | Mr Lai Wen Keong | Ms Jasmine Widodo |  |
+| 1 Enterprise | Mr Sivaperakas R Muthiah | Mr Ryan Wong Pee Wah |  |
+| 1 Loyalty | Mr Mohamad Fadzel  | Ms Amanda Ong Jia Yi |  |
+| 1 Respect | Ms Tsering Choden | Ms Shanti Armugam |  |
+| 1 Resilience | Mdm Goh-Cheong Wei Leng | Ms Goh Woon Xian
 | | | | |
 
 ### SEC 2 FORM TEACHERS
 
 | Class | Form Teachers |  |  |
 | --- | --- | --- | --- |
-| 2 Integrity | Mr Paul Lim Chow Chiat | Ms Amanda Ong |  |
-| 2 Excellence | Mr Sivaperakas R Muthiah | Mr Wong Chin Seng |  |
-| 2 Compassion| Ms Jasmine Widodo | Ms Kelly Yeo Ee Ling |  |
-| 2 Enterprise | Ms Yap Jen Huey | Mr Mohd Azhar |  |
-| 2 Respect | Ms Mok Yuen Teng | Miss Kelly Tan Shi Hui|   
-| 2 Resilience | Mr Foo Say Kin | Mdm Khasturi Gonasaygnran |   
-| 2 Loyalty  | Mr Fadzel  | Ms Shanti Armugam  | 
+| 2 Integrity | Mr Lee Siak Kheng | Ms DImas Nurr Aidilin Mas'od |  |
+| 2 Excellence | Ms Rathi D/O Bala Krishnan | Mdm Zubaidah Ariffin |  |
+| 2 Compassion| Ms Jean Leong Jun Xi | Ms Nan Zhonghua |  |
+| 2 Enterprise | Mr Senduran Vasudevan | Ms Irene Tay Pei Woon |  |
+| 2 Loyalty  | Mr Tham Wai Keong  | Mdm Shanthy Raja Nayagam  | 
+| 2 Respect | Mr C. Ganesh | Ms Tan Ai Lin |   
 | | | 
 
 ### SEC 3 FORM TEACHERS
 
 | Class | Form Teachers |  |  |
 | --- | --- | --- | --- |
-| 3 Integrity | Mr Liew Kok Keong | Ms Lim Yi Hui |  |
-| 3 Excellence | Mr Chua Kok Yew | Ms Arulushamaheswary |  | 
-| 3 Compassion | Ms Angela Lee Mui Huang | Ms Vilochana D/O Veloo |  |
-| 3 Enterprise | Ms Jasmine Sujatha  | Ms Siti Nurshila Bte Roslan
-|  | |                                                             Sarah Ong Jia Qi  |
-| 3 Respect | Ms Audrey Goh Xin Yun | Mr Sonny Liang Lai Hup   |
-| 3 Resilience | Mdm Musniffa Bte Mustaffa | Mr Isaac Chong Xiang Yang |
-| 3 Harmony | Mr Mohd Fahmy B Abdul Latif | Mr Koh Shao Wei
-| 3 Loyalty | Mr Segar Muniandy | Mr Zachary Wong Jiann Tsong |
+| 3 Integrity | Mr Keith Koh Choon Hean | Mr Kelvin Poh Xiao Zhang |  |
+| 3 Excellence | Mr Wong Ching Seng | Mr Mohammad Azhar |  | 
+| 3 Compassion | Ms Tan Kwee Theng | Ms Vilochana D/O Veloo |  |
+| 3 Enterprise | Ms Azria Binte Azman  | Mr Amos Lee Canguang
+| 3 Respect | Mr Paul Lim Chow Chiat | Ms Angela Lee Mui Huang  |
+| 3 Resilience | Mr Chen Zhanjiang | Ms Yap Jen Huey |
+| 3 Loyalty | Mdm Normalah Bte Baharin | Mr Foo Say Kin |
 | | |
 
 ### SEC 4 & 5 FORM TEACHERS
 
 | Class | Form Teachers |  |  | 
 |---|---|---|---|
-| 4 Integrity | Mr Chen Zhanjiang |  Mr Standley Daniel |  |
-| 4 Excellence  | Ms Eunice Leong Ying Xuan | Ms Azria Bte Azman |  |
-| 4 Compassion | Ms Tan Kwee Theng | Mr Huang Zhijie |  |
-| 4 Enterprise | Mdm Koh Jie Ying | Ms Tsering Choden |  |
-| 4 Respect | Ms Normalah Bte Baharin |  |
-| 4 Resilience | Ms Goh Woon Xian | Mr Amos Lee Canguang |   
-| 4 Loyalty | Mr Lai Weng Keong | Ms Nadia Bte Madzan |  |
-| 5 Harmony | Mrs Goh-Cheong Wei Leng | 
+| 4 Integrity | Mdm Lim Yi Hui | Mr Liew Kok Keong   |  |
+| 4 Excellence  | Mr Chua Kok Yew | Ms Arulushamaheswary |  |
+| 4 Compassion | Mdm Li-Koh Jie Ying | Ms Nadia Bte Madzan |  |
+| 4 Enterprise | Ms Jasmine Sujatha | Ms Siti Nurshila Bte Roslan|  |
+| 4 Respect | Mr Sonny Liang Lai Hup | Ms Audrey Goh Xin Yun   |
+| 4 Resilience | Mdm Musniffa Bte Mustaffa | Mr Isaac Chong Xiang Yang |   
+| 4 Loyalty | Mr Segar Muniandy | Mr Jeffrey Chen Weixiong |  |
+| 4 Harmony | Mr Mohd Fahmy | Mr Koh Shao Wei
+|5 Harmony | Mr Huang Zhijie | Ms Wu Ting
 | | |
 
 ### SUBJECT TEACHERS AND NON-TEACHING STAFF
@@ -77,6 +77,7 @@ third_nav_title: Our People
 | Mr Lim Fang Kwan | Teacher |
 | Mr Mohamad Malek Sufahat | Teacher |
 | Ms Sumita Sathi | Teacher |
+| Mr Soong Mun Fye | Teacher
 | Ms Chen Yaqi Bernice | Teacher |
 | Mdm Fang Chen Lan  | Teacher  |
 | Mr Jamal Mohinitheen Bin Ahamed Ghani | Teacher |
