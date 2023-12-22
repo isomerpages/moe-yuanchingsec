@@ -2,8 +2,11 @@
 title: YC Scoop
 permalink: /quick-links/for-parents/yc-scoop/
 description: ""
+variant: markdown
 ---
 Click to access our latest issue of YC Scoop.
+
+[2023/Issue 10](https://online.fliphtml5.com/obrr/rqzp/)
 
 [2023/Issue 9](https://online.fliphtml5.com/obrr/ddxv/)
 
