@@ -20,9 +20,7 @@ _For PDLP devices, you may also tap and hold the link and select Download Linked
 * [Sec 3_Weekly Remedial and CCA Schedule_Sem 1](/files/Sec_3_Weekly_Remedial_CCA_Routine_2024_semester_1__22_Dec_2023_.pdf)
 
 
-
 * [Sec 4_Weekly Remedial and CCA Schedule_Sem 1](/files/Sec_4_Weekly_Remedial_CCA_Routine_2024_semester_1__22_Dec_2023_.pdf)
-
 
 
 * [Sec 5_Weekly Remedial and CCA Schedule_Sem 1](/files/Sec_5_Weekly_Remedial_CCA_Routine_2024_semester_1__22_Dec_2023_.pdf)
