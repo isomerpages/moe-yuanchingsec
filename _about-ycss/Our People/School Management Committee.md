@@ -25,6 +25,7 @@ variant: markdown
 | Mr Subramaniam Mohanamoothy | HOD/ Humanities |
 | Mrs Erh-Ong Ka Min | HOD/ Infocomm Technology |
 | Ms Ong Wan Hui | HOD/ Mathematics |
+| Ms Liu Yunman | HOD / Mathematics (Covering) |
 | Mr Raymond Yeo Tong Wei | HOD/ Mother Tongue Languages |
 | Mdm Chin Yi Mei | HOD/ Science |
 | Mr Janageeraman s/o Senivasan | HOD/ Student Management |
@@ -37,14 +38,12 @@ variant: markdown
 
 | Name | Designation |
 | --- | --- |
-| Mr Sivaperakas s/o Muthiah | Subject Head/ Art |
+| Mr Sivaperakas s/o Muthiah | Subject Head/ Craft & Technology |
 | Mr Lim Chow Chiat Paul | Subject Head/ Citizenship Education |
-| Mr Chen Zhanjiang | Subject Head/ Innovation |
-| Ms Liu Yunman | Subject Head/ Mathematics |
+| Mr Chen Zhanjiang | Subject Head/ Innovation & Sustainability |
 | Ms Arulushamaheswary Anbalagan | Subject Head/ Student Leadership |
 | Mdm Koh Jie Ying | Assistant Year Head (Upper Sec) |
 | Mr Lai Weng Keong | Assistant Year Head (Lower Sec) |
 | Ms Tsering Choden | Subject Head/ Infocomm Technology |
 | Mr C. Ganesh | Subject Head/ CCA Internal |
-| Ms Nan Zhonghua | Subject Head/ Student Well-being (Covering) |
 | | |
