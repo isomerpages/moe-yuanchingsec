@@ -12,6 +12,7 @@ variant: markdown
 | Name | Designation |
 | --- | --- |
 | Miss Yap Jen Huey | Senior Teacher/ Chinese Language |
+| Ms Nan Zhonghua| Senior Teacher/ Chinese Language |
 | Mrs Goh-Cheong Wei Leng | Senior Teacher / Geography |
 | Miss Tan Kwee Theng | Senior Teacher/ History |
 | Mr Liew Kok Keong | Senior Teacher/ Mathematics |
