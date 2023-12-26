@@ -24,7 +24,7 @@ variant: markdown
 |---|---|---|---|
 | 1 Integrity | Mr Standley Daniel | Ms Neo Wen Xin |  |
 | 1 Excellence | Ms Mok Yuen Teng | Ms Wong Wei Na  |  |
-| 1 Compassion | Mr Lai Wen Keong | Ms Jasmine Widodo |  |
+| 1 Compassion | Mr Lai Weng Keong | Ms Jasmine Widodo |  |
 | 1 Enterprise | Mr Sivaperakas R Muthiah | Mr Ryan Wong Pee Wah |  |
 | 1 Loyalty | Mr Mohamad Fadzel  | Ms Amanda Ong Jia Yi |  |
 | 1 Respect | Ms Tsering Choden | Ms Shanti Armugam |  |
