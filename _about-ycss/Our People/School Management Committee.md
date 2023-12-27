@@ -3,13 +3,15 @@ title: School Management Committee
 permalink: /about-ycss/our-people/school-management-committee/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### SCHOOL LEADERS
 
 | Name | Designation |
 | --- | --- |
 | Ms Ng Sook Kit | Principal |
-| Mr Tang Hsin Wei | Vice Principal |
+| Mr Tang Hsin Wei | Vice Principal (Curriculum) |
+| Ms Tang Shien Yin | Vice Principal (Curriculum) |
 | Mr Julius Teo | Vice Principal (Administration) |
 | | |
 
@@ -23,8 +25,8 @@ third_nav_title: Our People
 | Mr Subramaniam Mohanamoothy | HOD/ Humanities |
 | Mrs Erh-Ong Ka Min | HOD/ Infocomm Technology |
 | Ms Ong Wan Hui | HOD/ Mathematics |
+| Ms Liu Yunman | HOD / Mathematics (Covering) |
 | Mr Raymond Yeo Tong Wei | HOD/ Mother Tongue Languages |
-| Mr Keith Koh Choon Hean | HOD/ PE & CCA |
 | Mdm Chin Yi Mei | HOD/ Science |
 | Mr Janageeraman s/o Senivasan | HOD/ Student Management |
 | Mr Tan Kok Chiew | School Staff Developer |
@@ -36,16 +38,12 @@ third_nav_title: Our People
 
 | Name | Designation |
 | --- | --- |
-| Mr Sivaperakas s/o Muthiah | Subject Head/ Art |
+| Mr Sivaperakas s/o Muthiah | Subject Head/ Craft & Technology |
 | Mr Lim Chow Chiat Paul | Subject Head/ Citizenship Education |
-| Mr Chen Zhanjiang | Subject Head/ Innovation |
-| Ms Liu Yunman | Subject Head/ Mathematics |
-| Mdm Chai Jiamin | Subject Head/ PE & CCA |
+| Mr Chen Zhanjiang | Subject Head/ Innovation & Sustainability |
 | Ms Arulushamaheswary Anbalagan | Subject Head/ Student Leadership |
-| Mr Soong Mun Fye | Subject Head/ Student Management |
 | Mdm Koh Jie Ying | Assistant Year Head (Upper Sec) |
 | Mr Lai Weng Keong | Assistant Year Head (Lower Sec) |
-| Ms Tsering Choden | Subject Head/ Infocomm Technology (Covering)|
-| Mr C. Ganesh | Subject Head/ Learner Needs (Covering) |
-| Ms Nan Zhonghua | Subject Head/ Student Well-being (Covering) |
+| Ms Tsering Choden | Subject Head/ Infocomm Technology |
+| Mr C. Ganesh | Subject Head/ CCA Internal |
 | | |

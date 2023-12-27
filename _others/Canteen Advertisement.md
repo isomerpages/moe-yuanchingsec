@@ -2,10 +2,11 @@
 title: Canteen Advertisement
 permalink: /canteenadvertisement/
 description: ""
+variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | --- | --- | --- |
-| Fusion Food (Halal or Non-Halal) | 15 December 2023 | Japanese/ Korean/ Thai food, etc are acceptable &nbsp; |
+| Fusion Food (Halal or Non-Halal) | June 2024 | Japanese/ Korean/ Thai food, etc are acceptable &nbsp; |
 
 **Application Procedure**
 
