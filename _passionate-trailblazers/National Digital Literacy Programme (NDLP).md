@@ -2,16 +2,19 @@
 title: National Digital Literacy Programme (NDLP)
 permalink: /passionate-trailblazers/national-digital-literacy-programme-ndlp/
 description: ""
+variant: markdown
 ---
-At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021.
+In alignment with the vision of the MOE EdTech Masterplan 2030 – Technology-transformed Learning, to prepare students for a Technology-transformed World, our Yuan Ching National Digital Literacy Programme (NDLP) aims to create opportunities and curate experiences for all our students to develop their digital literacy competencies to create, curate and connect information in digital environment.
 
-Visit [ICT @Yuan Ching](https://go.gov.sg/ycss-ict) for more information on the programme.
 
-Click [here](/files/PDLP%20Application%20Form%20for%20Subsidy%20OF%20EF.pdf) to download the application form for subsidy for purchase of Personal Learning Device.
+Please read this&nbsp;[Ietter](https://staging.d3su4wj45hy3j2.amplifyapp.com/files/YCS_IP4_Letter_to_Parents_for_PDLP_Procurement__For_GGAS__website.pdf)&nbsp;and&nbsp;[Infographic](https://staging.d3su4wj45hy3j2.amplifyapp.com/files/IP8___Infographic_PLD_2024_Sec_1.pdf)&nbsp;on the Yuan Ching PLD Initiative 2024 on the important information about the PLD for your child/ward
 
-[PDLP Application Form for Subsidy OF EF.pdf](/files/PDLP%20Application%20Form%20for%20Subsidy%20OF%20EF.pdf)
+Visit [ICT @Yuan Ching](https://go.gov.sg/ycss-ict)&nbsp;for more information on the programme.
 
-[Personal Learning Device (PLD) Initiative Briefing](/files/YCS%202023%20IP1%20-%20Parent%20Engagement%20Deck_2023.pdf)
+Click [here](/files/PDLP_APPLICATION_FOR_SUBSIDY_FOR_PURCHASE_OF_PERSONAL_LEARNING_DEVICE.pdf) to download the application form for subsidy for purchase of Personal Learning Device.
+
+
+[Personal Learning Device (PLD) Initiative Briefing by HOD ICT](/files/YCS%202023%20IP1%20-%20Parent%20Engagement%20Deck_2023.pdf)
 
 #### **Parents' Resources**
 
