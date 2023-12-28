@@ -35,7 +35,7 @@ variant: markdown
 
 | Class | Form Teachers |  |  |
 | --- | --- | --- | --- |
-| 2 Integrity | Mr Lee Siak Kheng | Ms DImas Nurr Aidilin Mas'od |  |
+| 2 Integrity | Mr Lee Siak Kheng | Ms Dimas Nurr Aidilin Mas'od |  |
 | 2 Excellence | Ms Rathi D/O Bala Krishnan | Mdm Zubaidah Ariffin |  |
 | 2 Compassion| Ms Jean Leong Jun Xi | Ms Nan Zhonghua |  |
 | 2 Enterprise | Mr Senduran Vasudevan | Ms Irene Tay Pei Woon |  |
