@@ -20,7 +20,6 @@ Click [here](/files/PDLP_APPLICATION_FOR_SUBSIDY_FOR_PURCHASE_OF_PERSONAL_LEARNI
 
 Parents/Guardians play an important role in keeping their children safe online, and are encouraged to read the following resources to learn more about how to keep their children safe online:
 
-* [Parent Handbook (I) on Learning with PLD]() <br>
-* [Parent Handbook (II) on Learning with PLD]()
+* [Parent Handbook on Learning with PLD](https://sites.google.com/view/hblyuanching/ndlp/parent-handbook?authuser=0) <br>
 * [Parent Kit on Raising a Digitally Smart Child](https://go.gov.sg/moe-raising-a-digitally-smart-child)
 * [Parent Kit on Cyber Wellness for your Child](https://go.gov.sg/moe-cyber-wellness)
