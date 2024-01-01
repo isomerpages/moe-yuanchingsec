@@ -12,7 +12,7 @@ variant: markdown
 | Ms Ng Sook Kit | Principal |
 | Mr Tang Hsin Wei | Vice Principal (Curriculum) |
 | Ms Tang Shien Yin | Vice Principal (Curriculum) |
-| Mr Julius Teo | Vice Principal (Administration) |
+| Mr Julius Teo Hui Yao | Vice Principal (Administration) |
 | | |
 
 ### SSD / YEAR HEADS / HEADS OF DEPARTMENT
