@@ -2,7 +2,6 @@ collections:
   2024-intake-sec-1-registration:
     output: true
     order:
-      - Sec 1 Registration.md
       - Sec 1 Posting Group 1/.keep
       - Sec 1 Posting Group 1/Welcome Message.md
       - Sec 1 Posting Group 1/PG1 Registration Matters.md
