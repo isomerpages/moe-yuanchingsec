@@ -84,7 +84,7 @@ variant: markdown
 | Mdm Fang Chen Lan  | Teacher  |
 | Mr Jamal Mohinitheen Bin Ahamed Ghani | Teacher |
 | Mdm Komathy D/O Ramanathan | Teacher  |
-Mdm Krishnaleela D/O Govindasamy | Teacher
+| Mdm Krishnaleela D/O Govindasamy | Teacher
 | Ms Nancy Lau Leng Leng | Teacher |
 | Mr Ong Sheo Yuan | Teacher |
 | Mrs Siva Thavaranee Rasiah | Teacher |
