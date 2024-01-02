@@ -6,5 +6,5 @@ description: ""
 image: ""
 variant: tiptap
 external: 2024-intake-sec-1-registration/sec1registration/
-permalink: /2024-intake-sec-1-registration/sec1registration/
+permalink: /2024-intake-sec-1-registration/welcomemessage/
 ---

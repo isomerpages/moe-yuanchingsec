@@ -2,9 +2,7 @@ collections:
   2024-intake-sec-1-registration:
     output: true
     order:
-      - Sec 1 Registration.md
       - Sec 1 Posting Group 1/.keep
-      - Sec 1 Posting Group 1/Welcome Message.md
       - Sec 1 Posting Group 1/PG1 Registration Matters.md
       - Sec 1 Posting Group 1/Key Dates and Actions Required.md
       - Sec 1 Posting Group 1/Important Information.md
@@ -18,7 +16,3 @@ collections:
       - Sec 1 Posting Group 3/PG3 Registration Matters.md
       - Sec 1 Posting Group 3/Key Dates and Actions Required.md
       - Sec 1 Posting Group 3/Important Information.md
-      - Transfer In for Sec 1 2024.md
-      - Transfer Out for Sec 1 2024.md
-      - FAQs.md
-      - Contact us.md
