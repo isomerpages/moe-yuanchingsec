@@ -42,7 +42,7 @@ Mr Lee Canguang Amos (2IC)
 
 ### Schedule
 
-Thursdays: 3:00pm to 6.00pm <br>
+Thursdays: 3:00pm to 6:00pm <br>
 
 
 ### Venue
