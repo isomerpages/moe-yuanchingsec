@@ -3,6 +3,7 @@ title: Infocomm Technology
 permalink: /engaged-learners/co-curricular-activities-cca/clubs-n-societies/infocomm-technology/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ### Introduction
 
@@ -42,10 +43,9 @@ Finalists, National Infocomm Competition \[i.code\]
 
 ### Teachers in charge
 
-Ms Tsering Choden(Overall IC) <br> 
-Mr Zachary Wong <br> 
-Mr Audrey<br> 
-Ms Jean
+Ms Tsering Choden(IC) <br> 
+Ms Irene Tay (2IC)<br> 
+Ms Audrey Goh
 
 ### Schedule
 
