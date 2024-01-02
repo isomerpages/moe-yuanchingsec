@@ -36,19 +36,19 @@ To nurture the love for dance as a performing art, and to instil perseverance an
 
 ### Teachers in charge
 
-Ms Nan Zhonghua (Overall IC) <br>
-Ms Amanda Ong
+Ms Amanda Ong (IC) <br>
+Ms Nan Zhonghua
 
 ### CCA Schedule
 
-Tuesday:  3.00pm to 6.00pm
-Thursday: 3.00pm to 6.00pm
+Tuesday and Thursday:  3.00pm to 6.00pm
 
 
 ### Venue
 
-Venue (1) : Dance Studio, Level 1 <br>
-Venue (2) : School Hall
+Venue (1) : School Hall <br>
+Venue (2) : Dance Studio, Level 1 
+
 
 ### CCA Photographs
 
