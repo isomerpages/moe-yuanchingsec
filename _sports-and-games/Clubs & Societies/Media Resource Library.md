@@ -3,6 +3,7 @@ title: Media Resource Library
 permalink: /engaged-learners/co-curricular-activities-cca/clubs-n-societies/media-resource-library/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ### Introduction
 
@@ -36,8 +37,9 @@ To serve as a platform to ignite the joy of reading, gain knowledge and life ski
 
 ### Teachers in charge
 
-Ms Vilochana (IC) <br> 
+Ms Jean Leong (IC) <br> 
 Ms Yap Jen Huey
+Ms Wu Ting
 Ms Josephine (Librarian)
 
 ### Schedule
