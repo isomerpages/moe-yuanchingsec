@@ -38,8 +38,8 @@ Every dance practice session will begin with a series of warm up routines compri
 
 ### Teachers in charge
 
-Ms Siti Nurshila Roslan (I/C) <br>
-Mdm Zubaidah
+Ms Siti Nurshila Roslan (IC) <br>
+Mdm Zubaidah (2IC)
 
 ### Schedule
 
@@ -47,8 +47,9 @@ Tuesdays: 3.00pm to 6.00pm<br>
 
 ### Venue
 
-Venue (1) : School Hall <br>
-Venue (2) : Dance Studio Level 1 <br>
+Venue (1) : Dance Studio Level 1 <br>
+Venue (2) : School Hall
+
 
 ### CCA Photographs
 
