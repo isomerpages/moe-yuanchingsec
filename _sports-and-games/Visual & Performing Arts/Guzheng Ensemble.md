@@ -44,7 +44,7 @@ As not everyone is gifted with natural musical skills, Yuan Ching Guzheng Ensemb
 ### Teachers in charge
 
 Miss Goh Woon Xian (IC) <br>
-Mr Lee Siak Kheng
+Mr Lee Siak Kheng (2IC)
 
 ### Schedule
 
