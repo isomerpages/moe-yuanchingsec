@@ -3,6 +3,7 @@ title: Art and Crafts
 permalink: /engaged-learners/co-curricular-activities-cca/visual-n-performing-arts/art-and-crafts/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ### Introduction
 
@@ -22,7 +23,7 @@ The Art &amp; Crafts CCA allows students with a shared interest to come together
 ### Teachers in charge
 
 Mr Mohamad Fadzel (IC) <br>
-Mdm Musnifffa
+Mdm Musnifffa (2IC)
 
 ### Schedule
 
