@@ -58,7 +58,7 @@ National Robotics Programming Competition 2019 by Nanyang Polytechnic
 ### Teachers in charge
 
 Mr Huang Zhijie (IC) <br>
-Ms Kelly Tan<br>
+Mr Jeffery Chen (2IC)
 
 
 ### Schedule
