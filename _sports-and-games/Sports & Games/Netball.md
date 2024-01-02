@@ -72,7 +72,7 @@ Ms Neo Wen Xin
 ### Schedule
 
 
-Tuesday and Thursday: 3:00pm to 6.00pm 
+Tuesday and Thursday: 3:00pm to 6:00pm 
 
 
 
