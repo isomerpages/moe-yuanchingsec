@@ -70,8 +70,8 @@ Apart from dancing, our members work closely with Taman Jurong CC and have contr
 
 ### Teachers in charge
 
-Mdm Khasturi (Overall I/C)<br>
-Mdm Shanthy
+Ms Vilochana D/O Veloo (IC)<br>
+Mdm Shanthy (2IC)
 
 ### Schedule
 
