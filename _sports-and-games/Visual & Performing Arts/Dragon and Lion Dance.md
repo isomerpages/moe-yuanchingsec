@@ -3,6 +3,7 @@ title: Dragon and Lion Dance
 permalink: /engaged-learners/co-curricular-activities-cca/visual-n-performing-arts/dragon-and-lion-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ### Introduction
 
@@ -50,7 +51,7 @@ Yuan Ching Secondary School Dragon &amp; Lion Dance Troupe was established in 20
 ### Teachers in charge
 
 Mr Segar Muniandy (IC)<br>
-Mdm Cheong Wei Leng
+Mr Ryan Wong (2IC)
 
 ### Schedule
 

@@ -38,11 +38,11 @@ To promote performing arts and enhance the oratorical skills of our members to c
 ### Teachers in charge
 
 Miss Rathi (IC)<br>
-Mr Lee Canguang Amos
+Mr Lee Canguang Amos (2IC)
 
 ### Schedule
 
-Thursdays: 3:00pm to 6.00pm <br>
+Thursdays: 3:00pm to 6:00pm <br>
 
 
 ### Venue

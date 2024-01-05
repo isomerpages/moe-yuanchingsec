@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /engaged-learners/co-curricular-activities-cca/visual-n-performing-arts/concert-band/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ### Introduction
 
@@ -33,8 +34,8 @@ Every year is brand new year of opportunities for us to showcase our musical tal
 ### Teachers in charge
 
 Ms Shanti Armugam (IC) <br>
-Ms Tan Kwee Theng (2IC) <br>
-Ms Azria Azman
+Ms Azria Azman (2IC) <br>
+MsTan Kwee Theng 
 
 ### Schedule
 

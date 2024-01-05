@@ -64,13 +64,15 @@ Every Netballer, a disciplined achiever who contributes actively towards team an
 
 ### Teachers in charge
 
-Mr Isaac Chong <br>
+Mr Isaac Chong (IC) <br>
+Mr Liew Kok Keong <br>
+Ms Neo Wen Xin
 
 
 ### Schedule
 
-C &amp; B Division <br>
-Tuesday and Thursday: 3:00pm to 5.30pm 
+
+Tuesday and Thursday: 3:00pm to 6:00pm 
 
 
 

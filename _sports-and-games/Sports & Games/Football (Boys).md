@@ -3,6 +3,7 @@ title: Football (Boys)
 permalink: /engaged-learners/co-curricular-activities-cca/sports-n-games/football-boys/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ### Introduction
 
@@ -44,12 +45,13 @@ B Div Nationals – 3rd place in SPL 2
 ### Teachers in charge
 
 Mr Fahmy (IC) <br>
-Mr Standley Daniel <br> 
+Mr Standley Daniel (2IC) <br> 
 Mr Chua Kok Yew <br> 
 
 ### CCA Schedule
 
-Tuesdays &amp; Thursdays : 3:00pm to 6:00pm
+Tuesdays &amp; Thursdays : 3:00pm to 6:00pm <br>
+Mondays and Wednesdays are NSG days
 
 ### Venues
 

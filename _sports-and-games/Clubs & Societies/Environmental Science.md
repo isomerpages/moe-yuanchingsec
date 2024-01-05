@@ -3,6 +3,7 @@ title: Environmental Science
 permalink: /engaged-learners/co-curricular-activities-cca/clubs-n-societies/environmental-science/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ### Introduction
 
@@ -53,7 +54,7 @@ Follow our activities on Instagram [YCSS EClub](https://www.instagram.com/ycss.e
 ### Teachers in charge
 
 Ms Jasmine Widodo (IC)<br>
-Ms Dimas Nurr Aidilin
+Ms Dimas Nurr Aidilin (2IC)
 
 ### Schedule
 
