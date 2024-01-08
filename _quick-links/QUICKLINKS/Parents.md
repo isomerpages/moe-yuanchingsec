@@ -7,7 +7,7 @@ variant: markdown
 ---
 | Useful Links | 
 | -------- | 
-| [2024 eStudent Handbook](https://for.edu.sg/yc2024-estudent-handbook)
+| [2024 eStudent Handbook](https://for.edu.sg/yc2024-estudent-handbook-v2)|
 |[Financial Assistance Scheme (FAS)](/others/financial-assistance-scheme-fas/)| 
 |[GCE ‘N’ & ‘O’ Level Syllabuses](https://www.seab.gov.sg/)| 
 |[ICT @Yuan Ching](https://sites.google.com/view/hblyuanching/home)| 
