@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://for.edu.sg/yc2024-estudent-handbook
+external: https://for.edu.sg/yc2024-estudent-handbook-v2
 ---
