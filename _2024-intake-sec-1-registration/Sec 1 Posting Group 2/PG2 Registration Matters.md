@@ -138,7 +138,7 @@ f. comparable performance to school-prescribed PLD<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i. Processor: A10 Fusion or better<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ii. Capacity: 32GB or higher<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii. OS Version: iPadOS 15 or higher<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iv. Screen Size: 10.0 to 11.0 inch (diagonal)<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iv. Screen Size: 10.0 to 11.9 inch (diagonal)<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;v. Resolution: 2048 x 1536 or higher resolution<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vi. WiFi function should work and support at least IEEE<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 802.11a/b/g/n/ac/ax standard that uses 5GHz<br>
