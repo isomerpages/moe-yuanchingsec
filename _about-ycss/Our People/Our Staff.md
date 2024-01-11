@@ -95,7 +95,7 @@ variant: markdown
 | Mdm Kang Jean Nie | School Counsellor |
 | Ms Khoo Chee Suan | School Counsellor |
 | Mdm Sharifah Aisyah Binte Nasar Ahmad | Special Educational Needs Officer (SEN) |
-| Ms Tan Sici, Susie | Student Welfare Officer (SWO) |
+| Ms Belle Kek Poh Poh | Student Welfare Officer (SWO) |
 | | |
 
 ### EXECUTIVE AND ADMINISTRATIVE STAFF (EAS)
