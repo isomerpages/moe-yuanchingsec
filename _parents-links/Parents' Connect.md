@@ -2,7 +2,11 @@
 title: Parents' Connect
 permalink: /quick-links/for-parents/parents-connect/
 description: ""
+variant: markdown
 ---
+**Parents' Connect 2024** <br>
+* [January/February](/files/Parents_Connect_Jan_Feb_2024.pdf)
+
 **Parents' Connect 2023** <br>
 * [January/February](/files/Parents%20Connect%20Jan-Feb%202023_final_cleared.pdf)
 * [March/April](/files/Parents%20Connect%20Mar-Apr%202023.pdf)
@@ -10,11 +14,3 @@ description: ""
 * [July/August](/files/parents%20connect%20jul-aug%20(2023).pdf)
 * [September/December](/files/parents%20connect%20sep-dec%202023.pdf)
 
-
-
-**Parents' Connect 2022** <br>
-* [January / February Issue](/files/ParentsConnectJan-Feb2022_cleared.pdf)<br>
-* [March / April Issue](/files/Parents%20Connect%20Mar-Apr%202022%20cleared.pdf)<br>
-* [May / June Issue](/files/Parents%20Connect%20May-Jun%202022_cleared.pdf)<br>
-* [July / Aug Issue](/files/Parents%20Connect%20Jul-Aug%202022%20cleared.pdf) <br>
-* [Sep / Dec Issue](/files/Parents%20Connect%20Sep-Dec%202022%20cleared.pdf)<br>
