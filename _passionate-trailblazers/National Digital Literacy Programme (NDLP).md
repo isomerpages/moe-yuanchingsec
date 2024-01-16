@@ -13,8 +13,7 @@ Visit [ICT @Yuan Ching](https://go.gov.sg/ycss-ict)&nbsp;for more information on
 
 Click [here](/files/PDLP_APPLICATION_FOR_SUBSIDY_FOR_PURCHASE_OF_PERSONAL_LEARNING_DEVICE.pdf) to download the application form for subsidy for purchase of Personal Learning Device.
 
-
-[Personal Learning Device (PLD) Initiative Briefing by HOD ICT](/files/YCS%202023%20IP1%20-%20Parent%20Engagement%20Deck_2023.pdf)
+[NDLP sharing by HOD ICT for Sec 1 PES 2024](/files/3__National_Digital_Literacy_Programme__NDLP_.pdf)
 
 #### **Parents' Resources**
 
