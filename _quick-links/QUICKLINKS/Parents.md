@@ -20,5 +20,5 @@ variant: markdown
 |[Parents Gateway](/quick-links/for-parents/parents-gateway/)|
 |[Parents' Connect](/quick-links/for-parents/parents-connect/)|
 |[Parents-In-Education](https://www.schoolbag.edu.sg/)|
-|[Sec 1 Parents' Engagement Session (PES) 2024](/sec1pes2024/)|
+|[Sec 1 Parents' Engagement Session 2024](https://yuanchingsec.moe.edu.sg/sec1pes2024/)|
 |[YC Scoop](/quick-links/for-parents/yc-scoop/)|
