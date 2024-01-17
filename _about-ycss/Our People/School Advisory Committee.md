@@ -7,7 +7,7 @@ variant: markdown
 ---
 | Name |  |
 |---|---|
-| Mr James Teo | Chairman (Designate) |
+| Mr James Teo | Chairman |
 | Mr Chua Lee San | Vice-Chairman |
 | Mr Chris Ong | Honorary Treasurer |
 | Mr Ler Kuang Yuan | Member |
