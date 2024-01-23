@@ -11,7 +11,7 @@ variant: markdown
 | Mr Chua Lee San | Vice-Chairman |
 | Mr Chris Ong | Honorary Treasurer |
 | Mr Ler Kuang Yuan | Member |
-| Mdm Shirley Poh | Member |
+| Mrs Shirley Poh | Member |
 | Mr Siow Seow Wei  | Member |
 | Mr Tan Kah Ann | Member |
 | Mr Tan Seng Kee | Member |
