@@ -1,0 +1,8 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - QUICKLINKS/Students.md
+      - QUICKLINKS/Staff.md
+      - QUICKLINKS/Parents.md
+      - QUICKLINKS/.keep

@@ -1,0 +1,14 @@
+logo: /images/yuan-ching-secondary-school.jpg
+links:
+  - title: About YCSS
+    collection: about-ycss
+  - title: Confident Leaders
+    collection: confident-leaders
+  - title: Engaged Learners
+    collection: engaged-learners
+  - title: Passionate Trailblazers
+    collection: passionate-trailblazers
+  - title: Admissions
+    collection: admissions
+  - title: Others
+    collection: others

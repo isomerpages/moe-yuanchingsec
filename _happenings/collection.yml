@@ -1,0 +1,14 @@
+collections:
+  happenings:
+    output: true
+    order:
+      - Happenings/October 2023.md
+      - Happenings/September 2023.md
+      - Happenings/August 2023.md
+      - Happenings/July 2023.md
+      - Happenings/May 2023.md
+      - Happenings/April 2023.md
+      - Happenings/March 2023.md
+      - Happenings/February 2023.md
+      - Happenings/January 2023.md
+      - Happenings/.keep

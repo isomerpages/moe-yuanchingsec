@@ -1,0 +1,8 @@
+collections:
+  parents-links:
+    output: true
+    order:
+      - Sec 1 Parents' Engagement Session 2024.md
+      - Parents' Connect.md
+      - YC Scoop.md
+      - Parents Gateway.md

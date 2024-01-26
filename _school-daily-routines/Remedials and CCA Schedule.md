@@ -1,0 +1,7 @@
+---
+title: Remedials and CCA Schedule
+permalink: /quick-links/for-students/school-daily-routines/remedials-and-cca-schedule/
+description: ""
+variant: tiptap
+---
+<p><em>For PDLP devices, you may also tap and hold the link and select Download Linked File .</em></p><p><u>2024 Semester 1</u> <br></p><table><tbody><tr><td rowspan="1" colspan="1"><p><a href="/files/Sec_1_Weekly_Remedial_CCA_Routine_2024_semester_1__28_Dec_2023_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/Sec_4_Weekly_Remedial_CCA_Routine_2024_semester_1__28_Dec_2023_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/Sec_2_Weekly_Remedial_CCA_Routine_2024_semester_1__28_Dec_2023_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/Sec_5_Weekly_Remedial_CCA_Routine_2024_semester_1__28_Dec_2023_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/Sec_3_Weekly_Remedial_CCA_Routine_2024_semester_1__28_Dec_2023_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>

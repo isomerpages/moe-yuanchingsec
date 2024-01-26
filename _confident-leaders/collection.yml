@@ -1,0 +1,12 @@
+collections:
+  confident-leaders:
+    output: true
+    order:
+      - Student Leadership.md
+      - Learning for Life Programme.md
+      - Values in Action (VIA).md
+      - GoGlobal@YCSS.md
+      - Character & Citizenship/.keep
+      - Character & Citizenship/Character Citizenship.md
+      - Character & Citizenship/National Education.md
+      - Character & Citizenship/Sexuality Education.md
