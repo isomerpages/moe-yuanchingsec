@@ -591,7 +591,7 @@ variant: tiptap
                     and act in alignment with our beliefs</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Term 1 Week 9</p>
+                <p>Term 3 Week 9</p>
             </td>
         </tr>
     </tbody>
