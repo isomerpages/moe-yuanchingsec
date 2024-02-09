@@ -43,7 +43,7 @@ Mdm Zubaidah (2IC)
 
 ### Schedule
 
-Tuesdays: 3.00pm to 6.00pm<br>
+Thursdays: 3.00pm to 6.00pm<br>
 
 ### Venue
 
