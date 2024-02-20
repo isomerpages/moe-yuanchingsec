@@ -15,7 +15,7 @@ variant: tiptap
 <p>Yuan Ching</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Resources with Parents</p>
+<p>Resources for Parents</p>
 </th>
 </tr>
 <tr>
