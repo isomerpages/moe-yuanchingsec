@@ -3,22 +3,135 @@ title: Parents
 permalink: /quick-links/parents/
 description: ""
 third_nav_title: QUICKLINKS
-variant: markdown
+variant: tiptap
 ---
-| Useful Links | 
-| -------- | 
-| [2024 eStudent Handbook](https://for.edu.sg/yc2024-estudent-handbook-v2)|
-|[Financial Assistance Scheme (FAS)](/others/financial-assistance-scheme-fas/)| 
-|[GCE ‘N’ & ‘O’ Level Syllabuses](https://www.seab.gov.sg/)| 
-|[ICT @Yuan Ching](https://sites.google.com/view/hblyuanching/home)| 
-|[Leaps 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0)| 
-|[MOE Instagram](https://www.instagram.com/parentingwith.moesg/)| 
-| [MOE (Secondary) Information](https://www.moe.gov.sg/secondary)| 
-| [National Digital Literacy Programme (NDLP)](/passionate-trailblazers/national-digital-literacy-programme-ndlp/)| 
-|[Parents’ Booklet to encourage Healthy Eating Habits at Home](/files/HPB%20HM%20Parents%20Booklet_School_Generic_30%20Mar.pdf)| 
-|[Financial Assistance Scheme (FAS)](/others/financial-assistance-scheme-fas/)| 
-|[Parents Gateway](/quick-links/for-parents/parents-gateway/)|
-|[Parents' Connect](/quick-links/for-parents/parents-connect/)|
-|[Parents-In-Education](https://www.schoolbag.edu.sg/)|
-|[Sec 1 Parents' Engagement Session 2024](/quick-links/for-parents/sec1pes2024/)|
-|[YC Scoop](/quick-links/for-parents/yc-scoop/)|
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Useful Links</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Yuan Ching</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Resources for Parents</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/others/financial-assistance-scheme-fas/" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance Scheme (FAS)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://for.edu.sg/yc2024-estudent-handbook-v2" rel="noopener noreferrer nofollow" target="_blank">2024 eStudent Handbook</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Coming soon!</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GCE ‘N’ &amp; ‘O’ Level Syllabuses</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sites.google.com/view/hblyuanching/home" rel="noopener noreferrer nofollow" target="_blank">ICT @Yuan Ching</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" rel="noopener noreferrer nofollow" target="_blank">Leaps 2.0</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/quick-links/for-parents/parents-connect/" rel="noopener noreferrer nofollow" target="_blank">Parents' Connect</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener noreferrer nofollow" target="_blank">MOE Instagram</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/quick-links/for-parents/sec1pes2024/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Parents' Engagement Session 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/secondary" rel="noopener noreferrer nofollow" target="_blank">MOE (Secondary) Information</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/quick-links/for-parents/yc-scoop/" rel="noopener noreferrer nofollow" target="_blank">YC Scoop</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/passionate-trailblazers/national-digital-literacy-programme-ndlp/" rel="noopener noreferrer nofollow" target="_blank">National Digital Literacy Programme (NDLP)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HPB%20HM%20Parents%20Booklet_School_Generic_30%20Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ Booklet to encourage Healthy Eating Habits at Home</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents-In-Education</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/quick-links/for-parents/parents-gateway/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
