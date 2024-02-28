@@ -12,7 +12,7 @@ variant: tiptap
 <p>Useful Links</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Yuan Ching</p>
+<p>Yuan Ching Secondary</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Resources for Parents</p>
@@ -28,7 +28,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Coming soon!</em>
+<p><a href="http://go.gov.sg/ycparents" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/ycparents</a>
 </p>
 </td>
 </tr>
