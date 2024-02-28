@@ -12,7 +12,7 @@ variant: tiptap
 <p>Useful Links</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Yuan Ching</p>
+<p>Yuan Ching Secondary</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Resources for Parents</p>
