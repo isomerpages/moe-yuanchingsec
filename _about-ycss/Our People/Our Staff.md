@@ -78,7 +78,8 @@ variant: markdown
 | Mr Lim Fang Kwan | Teacher |
 | Mr Mohamad Malek Sufahat | Teacher |
 | Ms Sumita Sathi | Teacher |
-| Mr Soong Mun Fye | Teacher
+| Mr Soong Mun Fye | Teacher|
+|Ms Nur Shazana | Teacher |
 | Ms Chen Yaqi Bernice | Teacher |
 | Ms Chiew Meng Lin | Teacher|
 | Mdm Fang Chen Lan  | Teacher  |
@@ -105,6 +106,7 @@ variant: markdown
 | Mr See Thou Yew Cheong | Admin Manager |
 | Mr Govindarajoo G N Naidu | Operations Manager |
 | Mdm Bay Lee Hoon | Operations Manager |
+|Mr Azmi Ahmad | Operations Manager|
 | Ms Nur Suhailah Bte Abdul Halim | Admin Executive |
 | Mdm Kek Boon Hui Yvonne | Admin Executive |
 | Mdm Anniah Shofina | ICT Manager |
