@@ -7,3 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please be informed that the YCSS Indoor Sports Hall (ISH) is closed for
+resurfacing works on <strong>7 to 15 June 2024. </strong>
+</p>
+<p>We apologize for any inconveniences.</p>
+<p>Thank you.</p>
