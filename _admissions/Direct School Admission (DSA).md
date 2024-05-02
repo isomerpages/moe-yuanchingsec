@@ -22,5 +22,9 @@ is in the category of Science, Technology, Engineering and Mathematics
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2023 YCSS Direction School Admission (DSA) - Robotics" src="/images/direction%20school%20admission_%20robotics%202023.png">
 </div>
-<h3></h3>
+<p><strong>The selection criteria and process for the talent areas will be updated from early-May. </strong>
+</p>
+<p><strong>For more  information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</strong>
+</p>
+<p></p>
 <p></p>
