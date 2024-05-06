@@ -45,13 +45,13 @@ the area of talent.</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11am
 to 3 June 2024, 3pm. For more details, please refer to MOE website –
-<a rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/dsa-sec</a>
+<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p></p>
 <p>Students currently&nbsp;<strong><u>not</u></strong>&nbsp;studying in MOE
 schools (i.e. non-mainstream school candidates and Returning Singaporeans)
 are required to apply for a Registration Number before they can apply through
-the DSA-Sec Portal. Details can be found at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
+the DSA-Sec Portal. Details can be found at:&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
 <p></p>
 <p>All international students are to take part in and fulfil the requirements
 of the Admissions&nbsp;<u>Exercise for International Students (AEIS)</u>&nbsp;before
