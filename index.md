@@ -22,6 +22,13 @@ sections:
       title: Announcements & Highlights
       id: resources
   - infopic:
+      title: Upcoming Events
+      id: infopic
+      button: Calendar
+      url: quick-links/for-students/school-calendar/
+      image: /images/Upcoming_Events__May17__1_.png
+      alt: Image alt text
+  - infopic:
       title: Stories of Alumni
       button: Read more
       url: /resource/stories-of-alumni/
