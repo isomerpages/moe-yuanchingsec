@@ -51,7 +51,7 @@ to 3 June 2024, 3pm. For more details, please refer to MOE website –
 <p>Students currently&nbsp;<strong><u>not</u></strong>&nbsp;studying in MOE
 schools (i.e. non-mainstream school candidates and Returning Singaporeans)
 are required to apply for a Registration Number before they can apply through
-the DSA-Sec Portal. Details can be found at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
+the DSA-Sec Portal. Details can be found at:&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
 <p></p>
 <p>All international students are to take part in and fulfil the requirements
 of the Admissions&nbsp;<u>Exercise for International Students (AEIS)</u>&nbsp;before
