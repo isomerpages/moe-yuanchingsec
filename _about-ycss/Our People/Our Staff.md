@@ -76,7 +76,6 @@ variant: markdown
 | Name | Designation |
 | --- | --- |
 | Mr Lim Fang Kwan | Teacher |
-| Mr Mohamad Malek Sufahat | Teacher |
 | Ms Sumita Sathi | Teacher |
 | Mr Soong Mun Fye | Teacher|
 |Ms Nur Shazana | Teacher |
@@ -85,7 +84,6 @@ variant: markdown
 | Mdm Fang Chen Lan  | Teacher  |
 | Mr Jamal Mohinitheen Bin Ahamed Ghani | Teacher |
 | Mdm Komathy D/O Ramanathan | Teacher  |
-| Mdm Krishnaleela D/O Govindasamy | Teacher
 | Ms Nancy Lau Leng Leng | Teacher |
 | Mr Ong Sheo Yuan | Teacher |
 | Mrs Siva Thavaranee Rasiah | Teacher |
