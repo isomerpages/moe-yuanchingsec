@@ -11,7 +11,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_March_Remedial_Schedule___11__12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">March Remedial Schedule </a>
+<p><a href="/files/Sec_3__2024_June_Remedial_Schedule_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3_2024 June Remedial Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_4_5_2024_June_Remedial_Schedule_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5_2024 June Remedial Schedule</a>
 </p>
 </li>
 </ul>
