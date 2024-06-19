@@ -8,7 +8,7 @@ variant: tiptap
 </p>
 <p><strong>2024 PRELIMINARY N-LEVEL EXAMINATION</strong>
 </p>
-<p><a href="/files/2024_N_Prelim_Timetable_4NA_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Preliminary Examination Timetable for 4NA</a>
+<p><a href="/files/2024_N_Prelim_Timetable_4NA_Final__amended_28_May.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Preliminary Examination Timetable for 4NA (Updated)</a>
 </p>
 <p><a href="/files/2024_N_Prelim_Timetable_4NT_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Preliminary Examination Timetable for 4NT</a>
 </p>
