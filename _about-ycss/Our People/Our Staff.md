@@ -11,11 +11,9 @@ variant: markdown
 
 | Name | Designation |
 | --- | --- |
-| Miss Yap Jen Huey | Senior Teacher/ Chinese Language |
 | Ms Nan Zhonghua| Senior Teacher/ Chinese Language |
 | Mrs Goh-Cheong Wei Leng | Senior Teacher / Geography |
 | Miss Tan Kwee Theng | Senior Teacher/ History |
-| Mr Liew Kok Keong | Senior Teacher/ Mathematics |
 | | |
 
 ### SEC 1 FORM TEACHERS
@@ -25,7 +23,7 @@ variant: markdown
 | 1 Integrity | Mr Standley Daniel | Ms Neo Wen Xin |  |
 | 1 Excellence | Ms Mok Yuen Teng | Ms Wong Wei Na  |  |
 | 1 Compassion | Mr Lai Weng Keong | Ms Jasmine Widodo |  |
-| 1 Enterprise | Mr Sivaperakas R Muthiah | Mr Ryan Wong Pee Wah |  |
+| 1 Enterprise | Mr Sivaperakas R Muthiah |  |
 | 1 Loyalty | Mr Mohamad Fadzel  | Ms Amanda Ong Jia Yi |  |
 | 1 Respect | Ms Tsering Choden | Ms Shanti Armugam |  |
 | 1 Resilience | Mdm Goh-Cheong Wei Leng | Ms Goh Woon Xian
@@ -36,7 +34,7 @@ variant: markdown
 | Class | Form Teachers |  |  |
 | --- | --- | --- | --- |
 | 2 Integrity | Mr Lee Siak Kheng | Ms Dimas Nurr Aidilin Mas'od |  |
-| 2 Excellence | Ms Rathi D/O Bala Krishnan | Mdm Zubaidah Ariffin |  |
+| 2 Excellence | Mdm Zubaidah Ariffin |  |
 | 2 Compassion| Ms Jean Leong Jun Xi | Ms Nan Zhonghua |  |
 | 2 Enterprise | Mr Senduran Vasudevan | Ms Irene Tay Pei Woon |  |
 | 2 Loyalty  | Mr Tham Wai Keong  | Mdm Shanthy Raja Nayagam  | 
@@ -60,7 +58,7 @@ variant: markdown
 
 | Class | Form Teachers |  |  | 
 |---|---|---|---|
-| 4 Integrity | Mdm Lim Yi Hui | Mr Liew Kok Keong   |  |
+| 4 Integrity | Mdm Lim Yi Hui |  |  |
 | 4 Excellence  | Mr Chua Kok Yew | Ms Arulushamaheswary |  |
 | 4 Compassion | Mdm Li-Koh Jie Ying | Ms Nadia Bte Madzan |  |
 | 4 Enterprise | Ms Jasmine Sujatha | Ms Siti Nurshila Bte Roslan|  |
