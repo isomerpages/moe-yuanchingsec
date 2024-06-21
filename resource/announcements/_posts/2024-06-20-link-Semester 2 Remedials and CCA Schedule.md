@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.yuanchingsec.moe.edu.sg/quick-links/for-students/school-daily-routines/remedials-and-cca-schedule/
+external: https://www.yuanchingsec.moe.edu.sg/quick-links/for-students/school-daily-routines/remedials-and-cca-schedule/
 ---
