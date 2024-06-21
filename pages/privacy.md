@@ -1,26 +1,40 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
-variant: markdown
+variant: tiptap
 ---
-1.    This is a Yuan Ching Secondary School, Ministry of Education website.
-
-2.    We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
-
-3.    You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-4.    If you provide us with personally identifiable data
-
-* We may share necessary data with other Government agencies, so as to serve you in the most efficient and effective way unless such sharing is prohibited by law.
-* We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
-* For your convenience, we may also display to you data you had previously supplied us or other Government Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
-
-5.    To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
-
-6.    This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
-
-**Data Privacy**
-
-Photographs or video images of you and/or your child may be taken during school activities and events such as classroom lessons, CCA, VIA, school camps, or school concerts. The school may use and publish such photographs or video recordings in school publications, the school’s website, social media channels, and/or other official school communication channels. 
-
-Should you have any concerns, please reach out to us via letter or email (ycss@moe.edu.sg).
+<h3><strong>YUAN CHING SECONDARY SCHOOL PRIVACY STATEMENT</strong></h3>
+<p>1.&nbsp; This is a Yuan Ching Secondary School website. Thank you for
+examining our privacy statement.</p>
+<p>2&nbsp;&nbsp; If you are only browsing this website, we do not capture
+data that allows us to identify you individually.</p>
+<p>3.&nbsp; If you choose to make an application or send us an e-mail for
+which you provide us with personally identifiable data, we may share necessary
+data with other Government agencies, so as to serve you in a most efficient
+and effective way, unless such sharing is prohibited by legislation. We
+will NOT share your personal data with non-Government entities, except
+where such entities have been authorised to carry out specific Government
+services.</p>
+<p>4.&nbsp; For your convenience, we may also display to you data you had
+previously supplied us or other Government agencies. This will speed up
+the transaction and save you the trouble of repeating previous submissions.
+Should the data be out-of-date, please supply us the latest data. We will
+retain your personal data only as necessary for the effective delivery
+of public services to you.</p>
+<p>5.&nbsp; To safeguard your personal data, all electronic storage and transmission
+of personal data are secured with appropriate security technologies.</p>
+<p>6.&nbsp; This site may contain links to non-Government sites whose data
+protection and privacy practices may differ from ours. We are not responsible
+for the content and privacy practices of these other websites and encourage
+you to consult the privacy notices of those sites.</p>
+<p></p>
+<p><strong>Data Privacy</strong>
+</p>
+<p>Photographs or video images of you and/or your child may be taken during
+school activities and events such as classroom lessons, CCA, VIA, school
+camps, or school concerts. The school may use and publish such photographs
+or video recordings in school publications, the school’s website, social
+media channels, and/or other official school communication channels.</p>
+<p>Should you have any concerns, please reach out to us via letter or email
+(<a rel="noopener noreferrer nofollow" target="_blank">ycss@moe.edu.sg</a>).</p>
+<p>&nbsp;</p>
