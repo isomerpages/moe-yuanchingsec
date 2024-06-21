@@ -23,10 +23,10 @@ variant: markdown
 | 1 Integrity | Mr Standley Daniel | Ms Neo Wen Xin |  |
 | 1 Excellence | Ms Mok Yuen Teng | Ms Wong Wei Na  |  |
 | 1 Compassion | Mr Lai Weng Keong | Ms Jasmine Widodo |  |
-| 1 Enterprise | Mr Sivaperakas R Muthiah |  |
+| 1 Enterprise | Mr Sivaperakas R Muthiah |  Ms Ong Zhiqing| |
 | 1 Loyalty | Mr Mohamad Fadzel  | Ms Amanda Ong Jia Yi |  |
 | 1 Respect | Ms Tsering Choden | Ms Shanti Armugam |  |
-| 1 Resilience | Mdm Goh-Cheong Wei Leng | Ms Goh Woon Xian
+| 1 Resilience | Mdm Cheong Wei Leng | Ms Goh Woon Xian
 | | | | |
 
 ### SEC 2 FORM TEACHERS
@@ -34,10 +34,10 @@ variant: markdown
 | Class | Form Teachers |  |  |
 | --- | --- | --- | --- |
 | 2 Integrity | Mr Lee Siak Kheng | Ms Dimas Nurr Aidilin Mas'od |  |
-| 2 Excellence | Mdm Zubaidah Ariffin |  |
+| 2 Excellence | Mdm Zubaidah Ariffin | Ms Wu Ting |
 | 2 Compassion| Ms Jean Leong Jun Xi | Ms Nan Zhonghua |  |
 | 2 Enterprise | Mr Senduran Vasudevan | Ms Irene Tay Pei Woon |  |
-| 2 Loyalty  | Mr Tham Wai Keong  | Mdm Shanthy Raja Nayagam  | 
+| 2 Loyalty  | Mr Chee Wai Lun  | Mdm Shanthy Raja Nayagam  | 
 | 2 Respect | Mr C. Ganesh | Ms Tan Ai Lin |   
 | | | 
 
@@ -50,7 +50,7 @@ variant: markdown
 | 3 Compassion | Ms Tan Kwee Theng | Ms Vilochana D/O Veloo |  |
 | 3 Enterprise | Ms Azria Binte Azman  | Mr Amos Lee Canguang
 | 3 Respect | Mr Paul Lim Chow Chiat | Ms Angela Lee Mui Huang  |
-| 3 Resilience | Mr Chen Zhanjiang | Ms Yap Jen Huey |
+| 3 Resilience | Mr Chen Zhanjiang | Ms Lai Cheng Man |
 | 3 Loyalty | Mdm Normalah Bte Baharin | Mr Foo Say Kin |
 | | |
 
@@ -58,15 +58,15 @@ variant: markdown
 
 | Class | Form Teachers |  |  | 
 |---|---|---|---|
-| 4 Integrity | Mdm Lim Yi Hui |  |  |
+| 4 Integrity | Mdm Lim Yi Hui | Ms Hannah D/O David  |
 | 4 Excellence  | Mr Chua Kok Yew | Ms Arulushamaheswary |  |
-| 4 Compassion | Mdm Li-Koh Jie Ying | Ms Nadia Bte Madzan |  |
+| 4 Compassion | Mdm Koh Jie Ying | Ms Nadia Bte Madzan |  |
 | 4 Enterprise | Ms Jasmine Sujatha | Ms Siti Nurshila Bte Roslan|  |
 | 4 Respect | Mr Sonny Liang Lai Hup | Ms Audrey Goh Xin Yun   |
 | 4 Resilience | Mdm Musniffa Bte Mustaffa | Mr Isaac Chong Xiang Yang |   
 | 4 Loyalty | Mr Segar Muniandy | Mr Jeffrey Chen Weixiong |  |
-| 4 Harmony | Mr Mohd Fahmy | Mr Koh Shao Wei
-|5 Harmony | Mr Huang Zhijie | Ms Wu Ting
+| 4 Harmony | Mr Mohd Fahmy | Mr Koh Shao Wei| Ms Liu Yunman| |
+|5 Harmony | Mr Huang Zhijie |
 | | |
 
 ### SUBJECT TEACHERS AND NON-TEACHING STAFF
