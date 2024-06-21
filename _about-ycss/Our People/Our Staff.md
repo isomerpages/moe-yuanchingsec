@@ -76,7 +76,8 @@ variant: markdown
 | Mr Lim Fang Kwan | Teacher |
 | Ms Sumita Sathi | Teacher |
 | Mr Soong Mun Fye | Teacher|
-|Ms Nur Shazana | Teacher |
+| Mr Tham Wai Keong | Teacher
+| Ms Nur Shazana | Teacher |
 | Ms Chen Yaqi Bernice | Teacher |
 | Ms Chiew Meng Lin | Teacher|
 | Mdm Fang Chen Lan  | Teacher  |
