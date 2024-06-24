@@ -25,7 +25,6 @@ variant: markdown
 | Mr Subramaniam Mohanamoothy | HOD/ Humanities |
 | Mrs Erh-Ong Ka Min | HOD/ Infocomm Technology |
 | Ms Ong Wan Hui | HOD/ Mathematics |
-| Ms Liu Yunman | HOD / Mathematics (Covering) |
 | Mr Raymond Yeo Tong Wei | HOD/ Mother Tongue Languages |
 | Mdm Chin Yi Mei | HOD/ Science |
 | Mr Janageeraman s/o Senivasan | HOD/ Student Management |
