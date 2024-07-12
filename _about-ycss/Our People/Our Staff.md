@@ -14,6 +14,7 @@ variant: markdown
 | Ms Nan Zhonghua| Senior Teacher/ Chinese Language |
 | Mrs Goh-Cheong Wei Leng | Senior Teacher / Geography |
 | Miss Tan Kwee Theng | Senior Teacher/ History |
+| Ms Jasmine Sujatha | Senior Teacher/ English Literature ||
 | | |
 
 ### SEC 1 FORM TEACHERS
@@ -73,20 +74,20 @@ variant: markdown
 
 | Name | Designation |
 | --- | --- |
-| Mr Lim Fang Kwan | Teacher |
-| Ms Sumita Sathi | Teacher |
-| Mr Soong Mun Fye | Teacher|
-| Mr Tham Wai Keong | Teacher
-| Ms Nur Shazana | Teacher |
 | Ms Chen Yaqi Bernice | Teacher |
 | Ms Chiew Meng Lin | Teacher|
 | Mdm Fang Chen Lan  | Teacher  |
 | Mr Jamal Mohinitheen Bin Ahamed Ghani | Teacher |
 | Mdm Komathy D/O Ramanathan | Teacher  |
+| Mr Lim Fang Kwan | Teacher |
 | Ms Nancy Lau Leng Leng | Teacher |
+| Ms Nur Shazana Binte Saini | Teacher |
 | Mr Ong Sheo Yuan | Teacher |
 | Mrs Siva Thavaranee Rasiah | Teacher |
 | Mdm Soh Kim Choo | Teacher |
+| Mr Soong Mun Fye | Teacher|
+| Ms Sumita Sathi | Teacher |
+| Mr Tham Wai Keong | Teacher |
 | Mdm Wong Ling Ling | Teacher |
 | Mdm Wong Soo Hsin | Teacher |
 | Mdm Yak Guat Eng | Teacher |
@@ -94,6 +95,7 @@ variant: markdown
 | Ms Khoo Chee Suan | School Counsellor |
 | Mdm Sharifah Aisyah Binte Nasar Ahmad | Special Educational Needs Officer (SEN) |
 | Ms Belle Kek Poh Poh | Student Welfare Officer (SWO) |
+| Ms Sumarni | Education & Career Guidance (ECG) Counsellor|
 | | |
 
 ### EXECUTIVE AND ADMINISTRATIVE STAFF (EAS)
@@ -113,7 +115,7 @@ variant: markdown
 | MrJofri Bin Osman | Education Workshop Instructor (EWI) |
 | Mdm Cheong Wai Cheng Connie | Corporate Support Officer |
 | Ms Evelyn Ang Poh Hoon | Corporate Support Officer |
-| Mr Viknesvaran | Desktop Engineer |
+| Mr Viknesvaran Giovindasamy | Desktop Engineer |
 | Mr Charef Abderrahmane | Desktop Engineer |
 | Mdm Goh Choo Noi  | Operation Support Officer  |
 | Mdm Lum Lai Siong  | Operation Support Officer  |
