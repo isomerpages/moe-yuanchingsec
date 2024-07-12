@@ -32,7 +32,7 @@ sections:
       title: Stories of Alumni
       button: Read more
       url: /resource/stories-of-alumni/
-      image: /images/alumni_mdriduwan.jpg
+      image: /images/Azwa_Syazweena.jpg
       subtitle: Yuan Ching Secondary School
       alt: Image alt text
   - infopic:
