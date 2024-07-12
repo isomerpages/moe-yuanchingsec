@@ -2,6 +2,7 @@
 title: Parent Support Group
 permalink: /about-ycss/our-people/parent-support-group/
 description: ""
+variant: markdown
 ---
 ![](/images/YCSS_PGS_Banner5.jpg)
 
@@ -51,60 +52,52 @@ Mr Khairul <br>
 Mdm Daphne Heng<br>
 Mdm Phui Lea<br>
 
+### PSG Chaperones during CCA days
+
+![](/images/01__PSG_Chaperone_During_Art_CCA__2023_.jpg)
+PSG Chaperone during Art CCA (2023)
+
+![](/images/02__PSG_Chaperone_during_Malay_Dance_CCA__2023_.jpg)
+PSG Chaperone during Malay Dance CCA (2023)
+
+### PSG Presence for Night Study
+
+![](/images/03__PSG_support_for_Night_Study__2023_.jpg)
+PSG support for Night Study (2023)
+
+![](/images/04__PSG_support_for_Night_Study__2023_.jpg)
+PSG support for Night Study (2023)
+
+### PSG Support for School Events
+
+![](/images/05__YCSS_Cross_Country__2024_.jpg)
+YCSS Cross Country (2024)
+
+![](/images/06__YCSS_Cross_Country__2024_.jpg)
+YCSS Cross Country (2024)
 
 
+### PSG Support for School Events
+
+![](/images/07__YCSS_Graduation_Assembly_and_Compass_Kit__2023_.jpg)
+YCSS Graduation Assembly and Compass Kit (2023)
+
+![](/images/08__YCSS_National_Day_Celebration__2023_.jpg)
+YCSS National Day Celebration (2023)
 
 
-![](/images/Parenting%20Talks%202019.jpg)
+### PSG Support for Student Projects
 
-Parenting Talks – Equipping the parents with skills to communicate with their children (Mar 2019)
+![](/images/09__PSG_support_for_Student_Initiated_Gift_of_Love_Project__2023_.jpg)
+PSG support for Student Initiated Gift of Love Project (2023)
 
-![](/images/Fathers%20@%20School%202019.jpg)
+### PSG Partnership in ECHA
 
-Fathers@School 2019 – Fostering a stronger father-child bond
-					
-![](/images/Compass%20Kit%202019.jpg)
-
-Making of the Compass Kit to encourage graduating students (Aug 2019)
-				
-![](/images/Night%20Study%202019.jpg)
-
-Night Study – Snacks to motivate the grad students to press on (Sep 2019)
-
-![](/images/Family%20Day%202019.jpg)
-
-PSG Family Day_1 (Nov 2019) 
-													
-![](/images/Family%20Day%202019%20II.jpg)
-
-PSG Family Day_2 (Nov 2019)
-													
-![](/images/CNY-2020.jpg)
-
-Ethnic Celebrations (Jan 2020)														
-
-![](/images/AGM-2020.jpg)
-	
-PSG Annual General Meeting (Jan 2020) – Renewal of leadership 
-
-![](/images/Graduation%20Ceremony%202020.jpg)
-
-4NA Graduation Ceremony 2020 (Sep 2020)
-	
-![](/images/National_Day_2022.jpeg)
-
-National Day 2022
+![](/images/10__PSG_and_SAC_member_panellists_for_ECHA_Interview__2023_.jpg)
+PSG and SAC member panellists for ECHA Interview (2023)
 
 
-![](/images/Night_Study%20(2022).jpeg)
+### PSG Meetings
 
-Night Study (2022)
-
-	
-![](/images/PSG_Oct_Meeting%20(2022).jpeg)
-	
-PSG October Meeting (2022)
-
-![](/images/Compass_Kit%20(2022).jpeg)
-
-Compass Kit (2022)
+![](/images/11__PSG_Meeting__2023_.jpg)
+PSG Meeting (2023)
