@@ -4,7 +4,10 @@ title: Yuan Ching Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: The school will be enhancing its phone system and you may
+  experience difficulties in reaching out to us via phone calls during the
+  period from 3 Sep to 6 Sep 2024. Please contact us via email at
+  ycss@moe.edu.sg where necessary.
 sections:
   - hero:
       key_highlights:
