@@ -6,6 +6,23 @@ variant: tiptap
 ---
 <p><em>For PDLP devices, you may also tap and hold the link and select Download Linked File .</em>
 </p>
+<p><strong><u>2024 Sec 1-3 End of Year Examination</u></strong>
+</p>
+<p><a href="/files/Sec_1_2024.pdf" rel="noopener nofollow" target="_blank">Sec 1 End of Year Exam Timetable</a>
+</p>
+<p><a href="/files/2E_2024.pdf" rel="noopener nofollow" target="_blank">Sec 2E End of Year Exam Timetable</a>
+</p>
+<p><a href="/files/2NA_2024.pdf" rel="noopener nofollow" target="_blank">Sec 2NA End of Year Exam Timetable</a>
+</p>
+<p><a href="/files/2NT_2024.pdf" rel="noopener nofollow" target="_blank">Sec 2NT End of Year Exam Timetable</a>
+</p>
+<p><a href="/files/3E_2024.pdf" rel="noopener nofollow" target="_blank">Sec 3E End of Year Exam Timetable</a>
+</p>
+<p><a href="/files/3N_2024.pdf" rel="noopener nofollow" target="_blank">Sec 3NA End of Year Exam Timetable</a>
+</p>
+<p><a href="/files/3T_2024.pdf" rel="noopener nofollow" target="_blank">Sec 3NT End of Year Exam Timetable</a>
+</p>
+<p></p>
 <p><strong>2024 PRELIMINARY O-LEVEL EXAMINATION</strong>
 </p>
 <p><a href="/files/2024_O_Level_Prelim_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Preliminary Examination Timetable for 4E/5N</a>
