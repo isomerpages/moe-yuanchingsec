@@ -123,5 +123,5 @@ variant: markdown
 | Mdm Peter Durairaj Bharat Senthil Vijaya Ratna  | Operation Support Officer  |
 | Mdm Pospervali d/o Murukhan Vaiyapury  | Operation Support Officer  |
 | Mdm Toh Chooi Hoon  | Operation Support Officer  |
-| Mdm Chua Meow Hua  | Library Assistant  |
+| Mr Kok Khuan Han  | Library Assistant  |
 | | |
