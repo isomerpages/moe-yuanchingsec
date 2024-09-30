@@ -26,7 +26,7 @@ sections:
       id: infopic
       button: Calendar
       url: quick-links/for-students/school-calendar/
-      image: /images/Upcoming_Events__Sep24.png
+      image: /images/Upcoming_Events__Oct24.png
       alt: Image alt text
   - infopic:
       title: Stories of Alumni
