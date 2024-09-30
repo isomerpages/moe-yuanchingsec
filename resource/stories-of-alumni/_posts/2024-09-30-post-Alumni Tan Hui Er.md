@@ -9,6 +9,11 @@ variant: tiptap
 ---
 <h1>Alumni Tan Hui Er awarded with Diploma with Merit in Arts Business Management Minor in Global Readiness</h1>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hui_Er_Grad_Pic.jpg">
+</div>
+<p></p>
+<p></p>
 <p>Hui Er, an alumna of Yuan Ching Secondary School's Class of 2020, is a
 bright and driven individual celebrated for her dedication to academic
 excellence and personal growth. During her time at Yuan Ching, she consistently
