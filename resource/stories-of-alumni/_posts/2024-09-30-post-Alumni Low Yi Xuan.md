@@ -7,9 +7,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h1>Alumni Low Yi Xuan</h1>
+<h1>Alumni Low Yi Xuan awarded The Singapore Mint Silver Medal and Diploma with Merit by Ngee Ann Polytechnic</h1>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumni_Low_Yi_Xuan.jpg">
+</div>
 <p>Yi Xuan, an alumnus of Yuan Ching Secondary School’s Class of 2020, exemplifies
 the spirit of leadership and commitment. As a dedicated member of the Scouts,
 he discovered his passion for adventure, and his inquisitive nature has
