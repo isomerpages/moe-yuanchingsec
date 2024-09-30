@@ -26,13 +26,13 @@ sections:
       id: infopic
       button: Calendar
       url: quick-links/for-students/school-calendar/
-      image: /images/Upcoming_Events__Sep24.png
+      image: /images/Upcoming_Events__Oct24.png
       alt: Image alt text
   - infopic:
       title: Stories of Alumni
       button: Read more
       url: /resource/stories-of-alumni/
-      image: /images/Azwa_Syazweena.jpg
+      image: /images/Screenshot_2024_09_30_113357.png
       subtitle: Yuan Ching Secondary School
       alt: Image alt text
   - infopic:
