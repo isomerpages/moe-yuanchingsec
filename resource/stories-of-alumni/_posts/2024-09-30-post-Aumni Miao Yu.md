@@ -10,6 +10,9 @@ variant: tiptap
 <h1>Alumni Miao Yu awarded Diploma with Merit and the prestigious Nurses Association Silver Medal &amp; Prize</h1>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MIAO_YU.jpg">
+</div>
 <p></p>
 <p>Miao Yu, an alumna of Yuan Ching Secondary School's Class of 2020, was
 a dedicated member of the school's Netball team. Throughout her time at
