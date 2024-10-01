@@ -39,7 +39,7 @@ the family; and</p>
 <p>Child dependent (where family is the&nbsp;<strong>legal guardian</strong>).</p>
 </li>
 </ol>
-<p>The scheme provides for:</p>
+<p>Benefits:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Full waiver of school fees of $5.00 per month</p>
@@ -110,8 +110,8 @@ list</p>
 </li>
 <li>
 <p>Free school attire, on a need basis - 2 sets of uniforms, 2 sets of PE
-attire, 1 set of School Polo T-shirt (For Secondary 1 students only), 2
-pairs of socks and 1 pair of shoes</p>
+attire, 1 piece of School Polo T-shirt (For Secondary 1 students only),
+2 pairs of socks and 1 pair of shoes</p>
 </li>
 <li>
 <p>Transport Subsidy of $10 per month for students taking public transport</p>
@@ -236,8 +236,8 @@ your child to collect the textbooks and uniform. <strong>Please do not buy schoo
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Subsidised Broadband and/or Laptop/Tablet</u></strong>
-<br>If you are interested to apply for subsidised broadband and/or laptop/tablet
+<h4><strong><u>Subsidised Broadband and/or Laptop/Tablet</u></strong></h4>
+<p>If you are interested to apply for subsidised broadband and/or laptop/tablet
 under IMDA DigitalAccess@Home<sup>#</sup>, you can apply via <a href="http://www.digitalaccess.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a> or
 contact 6377 3800 or e-mail: <a href="mailto:digitalaccess@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>.</p>
 <p><sup>#</sup>Subject to eligibility and availability.</p>
