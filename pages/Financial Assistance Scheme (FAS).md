@@ -53,7 +53,7 @@ list</p>
 </li>
 <li>
 <p>Free school attire, on a need basis – 2 sets of uniforms, 2 sets of PE
-attire, 1 set of School Polo T-shirt (<u>For Secondary 1 students only</u>),
+attire, 1 piece of School Polo T-shirt (<u>For Secondary 1 students only</u>),
 2 pairs of socks and 1 pair of shoes</p>
 </li>
 <li>
