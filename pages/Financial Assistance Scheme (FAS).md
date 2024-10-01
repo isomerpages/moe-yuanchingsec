@@ -73,15 +73,15 @@ assistance, please visit <a href="https://www.moe.gov.sg/financial-matters/finan
 <br>Parents may apply for MOE FAS through either (1) <a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">hardcopy </a>or (2) online
 via <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">eFAS Application</a>.
 Application forms are also available from the General Office.</p>
-<p>Once the application is approved, the school will make arrangement for
-your child to collect the textbooks and uniform. <strong>Please do not buy school attire and textbooks if you are applying for financial assistance as there will be no refund for items purchased.</strong>
-</p>
 <p>Parents/ guardians with children in different schools need to submit only <u>one</u> application
 form for all their school-going children/ wards to one of their schools.
 The school which receives the application form will inform the parents/
 guardians of the outcome for all the children.</p>
 <p>Student who is a ComCare recipient <u>need not</u> submit the application
 for MOE FAS as it will be automatically granted to all ComCare recipients.</p>
+<p>Once the application is approved, the school will make arrangement for
+your child to collect the textbooks and uniform. <strong>Please do not buy school attire and textbooks if you are applying for financial assistance as there will be no refund for items purchased.</strong>
+</p>
 <h2>SCHOOL ADVISORY COMMITTEE (SAC) FINANCIAL ASSISTANCE SCHEME</h2>
 <p><strong><u>Eligibility Criteria</u></strong>
 </p>
