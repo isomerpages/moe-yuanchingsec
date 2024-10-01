@@ -118,32 +118,12 @@ pairs of socks and 1 pair of shoes</p>
 </li>
 </ul>
 <p><strong><u>Application Process </u></strong>
-<br>Parents may apply for SAC FAS through <a href="/files/SAC_FAS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">hardcopy</a>.</p>
-<p>Application forms are available from the General Office.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>SAC FAS Application Form</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hardcopy:
-<br><a href="/files/SAC_FAS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC-FAS Application Form</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<br>Parents may apply for SAC FAS through <a href="/files/SAC_FAS_Application_Form_2024.pdf" rel="noopener nofollow" target="_blank">hardcopy</a>. Application
+forms are available from the General Office.</p>
 <p>Once the application is approved, the school will make arrangement for
 your child to collect the textbooks and uniform.</p>
 <p><strong>Please do not buy school attire and textbooks if you are applying for financial assistance as there will be no refund for items purchased.</strong>
 </p>
-<p></p>
 <p></p>
 <p><strong><u>Summary of Benefits under both Financial Assistance Schemes - MOE FAS &amp; SAC FAS</u></strong>
 </p>
