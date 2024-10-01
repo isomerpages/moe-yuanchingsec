@@ -288,8 +288,7 @@ your child to collect the textbooks and uniform.
 </p>
 <p><strong><u>Other Information</u></strong>
 <br>If you are interested to apply for subsidised broadband and/or laptop/tablet
-under IMDA DigitalAccess@Home<sup>#</sup>, you</p>
-<p>can apply via <a href="http://www.digitalaccess.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a> or
+under IMDA DigitalAccess@Home<sup>#</sup>, you can apply via <a href="http://www.digitalaccess.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a> or
 contact 6377 3800 or e-mail: <a href="mailto:digitalaccess@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>.</p>
 <p><sup>#</sup>Subject to eligibility and availability.</p>
 <p></p>
