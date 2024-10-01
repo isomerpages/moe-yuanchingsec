@@ -39,7 +39,8 @@ the family; and</p>
 <p>Child dependent (where family is the&nbsp;<strong>legal guardian</strong>).</p>
 </li>
 </ol>
-<p>Benefits:</p>
+<p><strong><u>Benefits:</u></strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Full waiver of school fees of $5.00 per month</p>
@@ -96,7 +97,8 @@ Income (PCI) is not more than $1,100 per month, and</p>
 <p>Good conduct and at least 80% attendance in school.</p>
 </li>
 </ol>
-<p>The scheme provides:</p>
+<p><strong><u>Benefits:</u></strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Full waiver of school fees of $5.00 per month</p>
