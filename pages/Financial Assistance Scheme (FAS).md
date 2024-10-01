@@ -71,7 +71,10 @@ assistance, please visit <a href="https://www.moe.gov.sg/financial-matters/finan
 <p><strong><u>Application Process </u></strong>
 <br>Parents may apply for MOE FAS through either (1) <a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">hardcopy </a>or (2) online
 via <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">eFAS Application</a>.
-Application forms are available from the General Office.</p>
+Application forms are also available from the General Office.</p>
+<p>Once the application is approved, the school will make arrangement for
+your child to collect the textbooks and uniform. <strong>Please do not buy school attire and textbooks if you are applying for financial assistance as there will be no refund for items purchased.</strong>
+</p>
 <p>Parents/ guardians with children in different schools need to submit only <u>one</u> application
 form for all their school-going children/ wards to one of their schools.
 The school which receives the application form will inform the parents/
@@ -119,14 +122,12 @@ pairs of socks and 1 pair of shoes</p>
 </ul>
 <p><strong><u>Application Process </u></strong>
 <br>Parents may apply for SAC FAS through <a href="/files/SAC_FAS_Application_Form_2024.pdf" rel="noopener nofollow" target="_blank">hardcopy</a>. Application
-forms are available from the General Office.</p>
+forms are also available from the General Office.</p>
 <p>Once the application is approved, the school will make arrangement for
-your child to collect the textbooks and uniform.</p>
-<p><strong>Please do not buy school attire and textbooks if you are applying for financial assistance as there will be no refund for items purchased.</strong>
+your child to collect the textbooks and uniform. <strong>Please do not buy school attire and textbooks if you are applying for financial assistance as there will be no refund for items purchased.</strong>
 </p>
 <p></p>
-<p><strong><u>Summary of Benefits under both Financial Assistance Schemes - MOE FAS &amp; SAC FAS</u></strong>
-</p>
+<h4><strong><u>Summary of Benefits under both Financial Assistance Schemes - MOE FAS &amp; SAC FAS</u></strong></h4>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
