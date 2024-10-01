@@ -61,6 +61,11 @@ attire, 1 set of School Polo T-shirt (<u>For Secondary 1 students only</u>),
 </li>
 <li>
 <p>Meal Subsidy of $38 per school week</p>
+<p></p>
+<p>For more information and to check if your child is eligible for financial
+assistance, please visit <a href="https://www.moe.gov.sg/financial-matters/financial-assistance/" rel="noopener nofollow" target="_blank">MOE Website</a>.</p>
+<p><a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet</a>
+</p>
 </li>
 </ul>
 <h4>SCHOOL ADVISORY COMMITTEE (SAC) FINANCIAL ASSISTANCE SCHEME</h4>
@@ -269,17 +274,7 @@ supporting documents to the General Office.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE FAS Website - Eligibility Calculator</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -292,10 +287,9 @@ your child to collect the textbooks and uniform.
 <br>
 </p>
 <p><strong><u>Other Information</u></strong>
-<br>If you need help to get a digital device and/or broadband internet access,
-you can apply for IMDA;s DigitalAccess@Home scheme<sup>#</sup>. For details,
-please visit <a href="http://www.digitalaccess.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a>.</p>
-<p>For enquiries, please contact IMDA hotline 6377 3800 or email: <a href="mailto:digitalaccess@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>
-</p>
+<br>If you are interested to apply for subsidised broadband and/or laptop/tablet
+under IMDA DigitalAccess@Home<sup>#</sup>, you</p>
+<p>can apply via <a href="http://www.digitalaccess.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a> or
+contact 6377 3800 or e-mail: <a href="mailto:digitalaccess@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>.</p>
 <p><sup>#</sup>Subject to eligibility and availability.</p>
 <p></p>
