@@ -39,7 +39,8 @@ the family; and</p>
 <p>Child dependent (where family is the&nbsp;<strong>legal guardian</strong>).</p>
 </li>
 </ol>
-<p>The scheme provides for:</p>
+<p><strong><u>Benefits:</u></strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Full waiver of school fees of $5.00 per month</p>
@@ -53,7 +54,7 @@ list</p>
 </li>
 <li>
 <p>Free school attire, on a need basis – 2 sets of uniforms, 2 sets of PE
-attire, 1 set of School Polo T-shirt (<u>For Secondary 1 students only</u>),
+attire, 1 piece of School Polo T-shirt (<u>For Secondary 1 students only</u>),
 2 pairs of socks and 1 pair of shoes</p>
 </li>
 <li>
@@ -68,8 +69,21 @@ assistance, please visit <a href="https://www.moe.gov.sg/financial-matters/finan
 </p>
 </li>
 </ul>
-<h4>SCHOOL ADVISORY COMMITTEE (SAC) FINANCIAL ASSISTANCE SCHEME</h4>
-<p><strong>Eligibility Criteria</strong>
+<p><strong><u>Application Process </u></strong>
+<br>Parents may apply for MOE FAS through either (1) <a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">hardcopy </a>or (2) online
+via <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">eFAS Application</a>.
+Application forms are also available from the General Office.</p>
+<p>Parents/ guardians with children in different schools need to submit only <u>one</u> application
+form for all their school-going children/ wards to one of their schools.
+The school which receives the application form will inform the parents/
+guardians of the outcome for all the children.</p>
+<p>Student who is a ComCare recipient <u>need not</u> submit the application
+for MOE FAS as it will be automatically granted to all ComCare recipients.</p>
+<p>Once the application is approved, the school will make arrangement for
+your child to collect the textbooks and uniform. <strong>Please do not buy school attire and textbooks if you are applying for financial assistance as there will be no refund for items purchased.</strong>
+</p>
+<h2>SCHOOL ADVISORY COMMITTEE (SAC) FINANCIAL ASSISTANCE SCHEME</h2>
+<p><strong><u>Eligibility Criteria</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -83,7 +97,8 @@ Income (PCI) is not more than $1,100 per month, and</p>
 <p>Good conduct and at least 80% attendance in school.</p>
 </li>
 </ol>
-<p>The scheme provides:</p>
+<p><strong><u>Benefits:</u></strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Full waiver of school fees of $5.00 per month</p>
@@ -97,8 +112,8 @@ list</p>
 </li>
 <li>
 <p>Free school attire, on a need basis - 2 sets of uniforms, 2 sets of PE
-attire, 1 set of School Polo T-shirt (For Secondary 1 students only), 2
-pairs of socks and 1 pair of shoes</p>
+attire, 1 piece of School Polo T-shirt (For Secondary 1 students only),
+2 pairs of socks and 1 pair of shoes</p>
 </li>
 <li>
 <p>Transport Subsidy of $10 per month for students taking public transport</p>
@@ -107,8 +122,14 @@ pairs of socks and 1 pair of shoes</p>
 <p>Meal Subsidy Programme of $15 per school week.</p>
 </li>
 </ul>
-<p><u>Summary of Benefits under both Financial Assistance Schemes - MOE FAS &amp; SAC FAS</u>
+<p><strong><u>Application Process </u></strong>
+<br>Parents may apply for SAC FAS through <a href="/files/SAC_FAS_Application_Form_2024.pdf" rel="noopener nofollow" target="_blank">hardcopy</a>. Application
+forms are also available from the General Office.</p>
+<p>Once the application is approved, the school will make arrangement for
+your child to collect the textbooks and uniform. <strong>Please do not buy school attire and textbooks if you are applying for financial assistance as there will be no refund for items purchased.</strong>
 </p>
+<p></p>
+<h4><strong><u>Summary of Benefits under both Financial Assistance Schemes - MOE FAS &amp; SAC FAS</u></strong></h4>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -216,78 +237,9 @@ pairs of socks and 1 pair of shoes</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Please do not buy school attire and textbooks if you are applying for financial assistance as there will be no refund for items purchased.</strong>
-</p>
-<p><strong><u>Application Process </u></strong>
-<br>Parents may apply for MOE FAS through either (1) hardcopy or (2) online
-via <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">eFAS Application</a>.</p>
-<p>Application forms are available from the General Office or you can download
-the application forms below.&nbsp;</p>
-<p>Application strictly via&nbsp;<u>hardcopy</u>&nbsp;form is required for:
-<br>a. Family with other dependents (Great grandparents, Aunties/Uncles, Cousins
-and others)
-<br>b. Family with more than 6 children in Government and Government-Aided
-schools
-<br>c. Family with more than 5 unmarried children not in Government and Government-Aided
-schools
-<br>d. Family with more than 3 grandparents in the household</p>
-<p>Parents/ guardians with children in different schools need to submit only <u>one</u> application
-form for all their school-going children/ wards to one of their schools.
-The school which receives the application form will inform the parents/
-guardians of the outcome for all the children.</p>
-<p>Primary 6 students can apply for MOE FAS at their primary school for Secondary
-1 next year.</p>
-<p>Student who is a ComCare recipient <u>need not</u> submit the application
-for MOE FAS as it will be automatically granted to all ComCare recipients.</p>
-<p>All hardcopy application forms must be submitted together with the required
-supporting documents to the General Office.
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>MOE FAS Application Form</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SAC FAS Application Form</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hardcopy:
-<br><a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form 2025</a>
-<br>
-<br>eFAS Application Link:
-<br><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hardcopy:
-<br><a href="/files/SAC_FAS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC-FAS Application Form</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Once the application is approved, the school will make arrangement for
-your child to collect the textbooks and uniform.
-<br>
-</p>
-<p><strong><u>Other Information</u></strong>
-<br>If you are interested to apply for subsidised broadband and/or laptop/tablet
+<h4><strong><u>Subsidised Broadband and/or Laptop/Tablet</u></strong></h4>
+<p>If you are interested to apply for subsidised broadband and/or laptop/tablet
 under IMDA DigitalAccess@Home<sup>#</sup>, you can apply via <a href="http://www.digitalaccess.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a> or
 contact 6377 3800 or e-mail: <a href="mailto:digitalaccess@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>.</p>
 <p><sup>#</sup>Subject to eligibility and availability.</p>
