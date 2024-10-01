@@ -276,6 +276,15 @@ supporting documents to the General Office.
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE FAS Website - Eligibility Calculator</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Once the application is approved, the school will make arrangement for
@@ -283,7 +292,7 @@ your child to collect the textbooks and uniform.
 <br>
 </p>
 <p><strong><u>Other Information</u></strong>
-<br>If you need help to get a digital device and/or broadband inernet access,
+<br>If you need help to get a digital device and/or broadband internet access,
 you can apply for IMDA;s DigitalAccess@Home scheme<sup>#</sup>. For details,
 please visit <a href="http://www.digitalaccess.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a>.</p>
 <p>For enquiries, please contact IMDA hotline 6377 3800 or email: <a href="mailto:digitalaccess@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>
