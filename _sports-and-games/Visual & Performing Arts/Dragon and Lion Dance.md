@@ -51,6 +51,8 @@ Yuan Ching Secondary School Dragon &amp; Lion Dance Troupe was established in 20
 ### Teachers in charge
 
 Mr Segar Muniandy (IC)<br>
+Mrs Goh-Cheong Wei Leng<br>
+Ms Lai Cheng Man
 
 ### Schedule
 
