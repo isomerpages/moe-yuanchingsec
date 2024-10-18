@@ -78,6 +78,7 @@ variant: markdown
 | Ms Chiew Meng Lin | Teacher|
 | Mdm Fang Chen Lan  | Teacher  |
 | Mr Jamal Mohinitheen Bin Ahamed Ghani | Teacher |
+| Ms Kelly Yeo Ee Ling | Teacher |
 | Mdm Komathy D/O Ramanathan | Teacher  |
 | Mr Lim Fang Kwan | Teacher |
 | Ms Nancy Lau Leng Leng | Teacher |

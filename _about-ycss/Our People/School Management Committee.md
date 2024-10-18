@@ -40,6 +40,7 @@ variant: markdown
 | Mr Chen Zhanjiang | Subject Head/ Innovation & Sustainability |
 | Mdm Koh Jie Ying | Assistant Year Head (Upper Sec) |
 | Mr Lai Weng Keong | Assistant Year Head (Lower Sec) |
+| Ms Liu Yunman | Subject Head/ Mathematics
 | Ms Tsering Choden | Subject Head/ Infocomm Technology |
 | Mr C. Ganesh | Subject Head/ CCA Internal |
 | | |
