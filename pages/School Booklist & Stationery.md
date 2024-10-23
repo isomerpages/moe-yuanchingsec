@@ -127,5 +127,3 @@ for your purchase.</p>
 <p>Do take note that the Pacific Bookstore website will only be available
 from<strong> 4 November 2024 to 14 December 2024.</strong>
 </p>
-<p>Please refer <a href="/files/user%20guide%20for%20online%20purchase%20of%20school%20textbooks%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the guided procedures for your purchases.</p>
