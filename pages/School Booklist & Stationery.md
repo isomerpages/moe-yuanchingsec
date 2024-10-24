@@ -53,7 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/S3_EXP.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Exp</a>
+<p><a href="/files/S3_EXP_updated.pdf" rel="noopener nofollow" target="_blank">Sec 3 Exp</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
