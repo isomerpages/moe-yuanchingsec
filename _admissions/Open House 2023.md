@@ -1,12 +1,11 @@
 ---
 title: Open House 2023
 permalink: /resource/announcements/openhouse2023/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/-HPBgtuHTlU?si=j8RLKD_DX2NXy1m3&amp;autoplay=1&amp;playlist=-HPBgtuHTlU&amp;loop=1" height="315" width="560"></iframe>
-
-
-![Open House 2023](/images/open%20house%20digital%20banner_updated071123_.png)
-
-Click [here](https://ycssopenhouse.wixsite.com/ycoh) to visit the infosite.
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/-HPBgtuHTlU?si=j8RLKD_DX2NXy1m3&amp;autoplay=1&amp;playlist=-HPBgtuHTlU&amp;loop=1"></iframe>
+</div>
+<p></p><a class="isomer-image-wrapper" href="https://ycssopenhouse.wixsite.com/ycoh"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/YCOPENHOUSE2024.jpg"></a>
+<p>Click the banner to visit the infosite.</p>
