@@ -24,11 +24,11 @@ sections:
       title: Announcements & Highlights
       id: resources
   - infopic:
-      title: Upcoming Events
+      title: Open House 2024
       id: infopic
-      button: Calendar
-      url: quick-links/for-students/school-calendar/
-      image: /images/Upcoming_Events__Oct24__1_.png
+      button: Infosite
+      url: https://ycssopenhouse.wixsite.com/ycoh
+      image: /images/YCOPENHOUSE2024.jpg
       alt: Image alt text
   - infopic:
       title: Stories of Alumni
