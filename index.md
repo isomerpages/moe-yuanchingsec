@@ -4,9 +4,9 @@ title: Yuan Ching Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Please take note that the school will be closed for a staff
-  training event on 15 Nov 2024. For any enqueries,  please email at
-  ycss@moe.edu.sg.
+notification: The school will be closed for a staff training event on 15 Nov.
+  For any matters, pls email to ycss@moe.edu.sg. We will respond to you on the
+  next working day.
 sections:
   - hero:
       key_highlights:
