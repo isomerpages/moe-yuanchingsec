@@ -113,9 +113,10 @@ variant: markdown
 | Mdm Lor Ah Tin | School Laboratory Technician |
 | Mr Donnavan Loh Siang Hwee | School Laboratory Technician |
 | Mr Kelvin Low Giau Ming | Education Workshop Instructor (EWI) |
-| MrJofri Bin Osman | Education Workshop Instructor (EWI) |
+| Mr Jofri Bin Osman | Education Workshop Instructor (EWI) |
 | Mdm Cheong Wai Cheng Connie | Corporate Support Officer |
 | Ms Evelyn Ang Poh Hoon | Corporate Support Officer |
+| Mr Shoh Kwan Hua Byron | Corporate Support Officer
 | Mr Viknesvaran Giovindasamy | Desktop Engineer |
 | Mr Charef Abderrahmane | Desktop Engineer |
 | Ms Bonny | Operation Support Officer
@@ -124,5 +125,5 @@ variant: markdown
 | Mdm Peter Durairaj Bharat Senthil Vijaya Ratna  | Operation Support Officer  |
 | Mdm Pospervali d/o Murukhan Vaiyapury  | Operation Support Officer  |
 | Mdm Toh Chooi Hoon  | Operation Support Officer  |
-| Mr Kok Khuan Han  | Library Assistant  |
+| Ms Lee Geok Tin  | Library Assistant  |
 | | |
