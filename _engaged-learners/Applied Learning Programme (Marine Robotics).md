@@ -28,15 +28,13 @@ designated water challenges.</p>
 <p><strong><em>Tier 1 – Construction of SeaPerch Through Design Thinking</em></strong>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBYAUQ0c8-Sud43eOIqSvcfWlvBHWsXYccjmi5P2JAkjLeQuPJ2uF-y-2WnASvoNRuUqWFWMP9XiIB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBYAUQ0c8-Sud43eOIqSvcfWlvBHWsXYccjmi5P2JAkjLeQuPJ2uF-y-2WnASvoNRuUqWFWMP9XiIB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p></p>
 <p><strong><em>Tier 1 – Learning Computational Thinking Through micro:bit and M5Go</em></strong>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcPTomW9_px1we1yGUKE37HuDnKHJKCMmCgVrruErE3we1H-XuQCUjMTqk3sMJKOCeFfBoY1EXBDl2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcPTomW9_px1we1yGUKE37HuDnKHJKCMmCgVrruErE3we1H-XuQCUjMTqk3sMJKOCeFfBoY1EXBDl2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p></p>
 <p>Students who are keen to stretch their potential in the field of Marine
 Robotics will embark on a Talent Development Programme in ALP, which deepens
 their understanding of advanced topics in the area of STEM while expanding
@@ -64,8 +62,7 @@ students to share their learning at school level.</p>
 <p></p>
 <p><strong><em>Tier 2 – Talent Development - Competitions and Exposure to Industry</em></strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT37WSQFisnHN4WSMXRkNZsBKEceB0_h0NEKVWCtWlMaiL45InaWwwNZQEwGmVOUUzIitaX0cmoQDhl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT37WSQFisnHN4WSMXRkNZsBKEceB0_h0NEKVWCtWlMaiL45InaWwwNZQEwGmVOUUzIitaX0cmoQDhl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
