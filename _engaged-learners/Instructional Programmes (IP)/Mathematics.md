@@ -165,70 +165,7 @@ and lectures:&nbsp;</p>
 </tbody>
 </table>
 <h3>Gallery</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:200px;" height="auto" width="100%" src="/images/Pic%201_Making%20Ribena.jpeg">
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSc-ZZ1EbDb6Efv__gAWhqeb_ZTBjIrs9v7m6EZ_qtGmqf5I458dTl0VeahhPCa3eRGPu9_Y73YjQsv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p>Making Ribena</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:200px;" height="auto" width="100%" src="/images/Pic%202_Measuring%20netball%20court.jpg">
-</div>
-<p>Measuring netball court</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:200px;" height="auto" width="100%" src="/images/Pic%203_Deciding%20which%20coke%20to%20buy.jpg">
-</div>
-<p>Deciding which coke to buy</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:200px;" height="auto" width="100%" src="/images/Pic%204_Getting%20excited%20over%20Time%20to%20Climb.jpg">
-</div>
-<p>Getting excited over Time to Climb</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:200px;" height="auto" width="100%" src="/images/Pic%205_Guiding%20students%20through%20the%20MM%20process.jpg">
-</div>
-<p>Guiding students through the MM process</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:200px;" height="auto" width="100%" src="/images/Pic%206_Explaining%20solution%20to%20classmates.jpeg">
-</div>
-<p>Explaining solution to classmates</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
