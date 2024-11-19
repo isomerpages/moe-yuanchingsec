@@ -25,7 +25,7 @@ showcase their talent in national competitions and school events, our CCA
 members also develop important 21st century competencies which are essential
 to prepare them for the future.</p>
 <h3>CCA Activities</h3>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>PA, Photography and Videography equipment trainings</p>
 </li>
@@ -38,12 +38,15 @@ Photoshop and Adobe After Effects</p>
 Software(OBS).</p>
 </li>
 <li>
-<p>Animation software training using Adobe Animate, Adobe Illustrator and
-Blender.</p>
+<p>Digital Marketing Strategies such as Search Engine Optimisation (SEO and
+social media marketing (SMM)</p>
 </li>
 <li>
 <p>Student-initiated Values-in-Action (VIA) community service projects –
-Project SPCA(2018), Project Positivity(2019-2020)</p>
+Project Positivity(2019-2020), Tech Saturday (2024)</p>
+</li>
+<li>
+<p>Workshops: IMDA LEAD Student Leadership Conference (2023-2024)</p>
 </li>
 <li>
 <p>Video productions for school events – Ethnic Celebrations, SAF day, Inspiring
@@ -51,6 +54,18 @@ Leader Investiture, National Day, Teachers’ Day and Class Leaders Affirmation<
 </li>
 </ul>
 <h3>Achievements</h3>
+<p><strong><u>2024:</u></strong><u><br></u>Better Internet Video Challenge
+by YIJC 2024
+<br>‘Our School, Our Stories’ Photo and Video Contest 2024
+<br>IMDA - National Youth Tech Championship 2024
+<br>Social Innovation Hackathon 2024 by Make The Change
+<br>Design for Good Youth Competition 2024 by Make The Change</p>
+<p><strong><u>2023</u></strong>
+<br>Singapore Young Photographer Convention
+<br>‘Our School, Our Stories’ Photo and Video Contest 2023
+<br>IMDA National Youth Tech Championship 2023
+<br>NEmation 2024 Competition (Oct)
+<br>IMDA Tech for Good - National Youth Tech championship</p>
 <p><strong><u>2021: </u></strong>
 <br>CSA-Cisco Youth Cyber Challenge 2021: A SG Cyber Youth initiative
 <br>Design a table organized by NEA
@@ -58,16 +73,6 @@ Leader Investiture, National Day, Teachers’ Day and Class Leaders Affirmation<
 <br>Youth Cyber Exploration Programme (YCEP) – A Cybersecurity Bootcamp
 <br>Zavier Lee, 4E1, won 1st Prize for outstanding achievement
 <br>Copyright School Challenge 2021</p>
-<p><strong><u>2020: </u></strong>
-<br>Safety First Poster and Video Competition
-<br>SYF Goes Online Competition
-<br>3D Tronics Competition
-<br>Liu Lin Xi, 2E2, won the Craftsperson Award for the Senior Category
-<br>Hack ‘N’ Flag Youth Cyber Exploration Programme organized by NullSec SIG
-of Ngee Ann Polytechnic
-<br>Zavier Lee, 3E1, won Champion</p>
-<p><strong><u>2019: </u></strong>
-<br>Finalists, National Infocomm Competition [i.code]</p>
 <h3>Teachers in charge</h3>
 <p>Ms Tsering Choden(IC)
 <br>Ms Irene Tay (2IC)
@@ -77,23 +82,7 @@ of Ngee Ann Polytechnic
 <h3>Venue</h3>
 <p>Computer Labs 1 &amp; 2, Blk B Level 2</p>
 <h3>CCA Photographs</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students%20doing%20stop%20motion%20animation%20during%20training.png">
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdoDTe2bpLr-CTYiQQoUJhkaU2uHOalJb4jLZ-9nrCTn0fwgp7IdFG3LMifSfxaz2F2TD0nlkCMgjN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p>Students doing stop motion animation during training</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Students%20learning%20about%20the%20setup%20of%20green%20screen%20in%20filming%20and%20photography.png">
-</div>
-<p>Students learning about the setup of green screen in filming and photography</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Behind%20the%20scene%20of%20backstage%20crew%20in%20National%20Day%20concert.png">
-</div>
-<p>Behind the scene of backstage crew in National Day concert</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Farewell%20party%20for%20the%20graduating%20students%20organised%20by%20the%20student%20leaders.jpg">
-</div>
-<p>Farewell party for the graduating students organised by the student leaders</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="images/Learning%20journey%20to%20Genetix%20S.jpg">
-</div>
-<p>Learning journey to Genetix S</p>
+<p></p>
