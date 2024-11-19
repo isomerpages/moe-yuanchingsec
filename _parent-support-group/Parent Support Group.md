@@ -32,7 +32,7 @@ Strengthening Family Bonds, Deepening Understanding, Enriching Partnerships
 
 The participation of the PSG resulted in providing moments where families can create memories and bond.
 
-### YCSS PSG EXCO 2023
+### YCSS PSG EXCO 2024
 
 **Chairperson:** Mdm Alice Yap
 
