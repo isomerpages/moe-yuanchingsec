@@ -6,8 +6,9 @@ third_nav_title: Instructional Programmes (IP)
 variant: tiptap
 ---
 <h3>Key Programmes</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mother%20tongue%20department_formal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_dept.jpg">
 </div>
 <p><strong>Department Overview</strong>
 <br>The vision of the department is to develop our students to be confident
