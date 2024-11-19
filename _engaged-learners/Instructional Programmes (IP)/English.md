@@ -6,8 +6,9 @@ third_nav_title: Instructional Programmes (IP)
 variant: tiptap
 ---
 <h3>Key Programmes</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/english%20department_formal%202023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_dept.jpg">
 </div>
 <p><strong>Department Overview<br></strong>Every Individual an Empathetic
 Communicator, a Discerning Reader and a Creative Inquirer.</p>
