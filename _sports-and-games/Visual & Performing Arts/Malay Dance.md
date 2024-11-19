@@ -7,6 +7,9 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_dance.jpg">
+</div>
 <h3>Introduction</h3>
 <p>In Yuan Ching Secondary, our Malay dancers will be introduced to the different
 dance genres both in dance movement as well as in theoretical aspects behind
