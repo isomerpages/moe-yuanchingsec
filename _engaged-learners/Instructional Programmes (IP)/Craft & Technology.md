@@ -190,8 +190,7 @@ app</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Shanti Armugam</p>
-<p>(Music Coordinator)</p>
+<p>Miss Shanti Armugam (Music Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tham Wai Keong</p>
