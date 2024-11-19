@@ -3,97 +3,169 @@ title: Mathematics
 permalink: /engaged-learners/instructional-programmes-ip/mathematics/
 description: ""
 third_nav_title: Instructional Programmes (IP)
+variant: tiptap
 ---
-### Key Programmes
-
-![](/images/mathematics%20department_formal%202023.jpg)
-
-**Department Overview** <br>
-The YCSS Mathematics Department is committed to create joyful and authentic learning experiences for our students. We aim to nurture our students into passionate learners and creative problem solvers of Mathematics.
-
-**Our Classroom Learning Experiences** <br>
-Our teachers creates hands-on experiences during lessons to help students in understanding the concepts better.
-
-<figure>
-<img src="/images/Pic%201_Making%20Ribena.jpeg">
-<figcaption> Making Ribena </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Pic%202_Measuring%20netball%20court.jpg">
-<figcaption> Measuring netball court </figcaption>
-</figure>
-
-**Enrichment and Talent Development Programmes**
-
-**(a) Sec 1 Math Trail (in-house)** <br>
-The Sec 1 Math Trail is an in-house programme in which students are engaged in fun and exciting Math games.
-
-<figure>
-<img src="/images/Pic%203_Deciding%20which%20coke%20to%20buy.jpg">
-<figcaption> Deciding which coke to buy </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Pic%204_Getting%20excited%20over%20Time%20to%20Climb.jpg">
-<figcaption> Getting excited over Time to Climb </figcaption>
-</figure>
-
-**(b) Sec 3 Mathematical Modelling** <br>
-In the Sec 3 Mathematical Modelling Programme, students are tasked to work on a real world problem and propose the possible solutions. AN example of the task is to estimate the total amount of food waste produced in Singapore over the next decade.
-
-<figure>
-<img src="/images/Pic%205_Guiding%20students%20through%20the%20MM%20process.jpg">
-<figcaption> Guiding students through the MM process </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Pic%206_Explaining%20solution%20to%20classmates.jpeg">
-<figcaption> Explaining solution to classmates </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Pic%207_Making%20own%20Math%20board%20game%20Learning%20through%20gamification.png">
-<figcaption> Making own Math board game Learning through gamification </figcaption>
-</figure>
-
-**(c) Sec 1 Data Collection and Research Project** <br>
-The Sec 1 Data Collection and Research Project provides the students an opportunity to learn data collection, analytic and research skills with different scenario tasks. An example of the task is to estimate the total number of hours spent by schoolmates on social media platforms in a week.
-
-<figure>
-<img src="/images/Pic%208_Interviewing%20students%20for%20data%20collection%20and%20research.png" style="width:40%">
-<figcaption> Interviewing students for data collection and research </figcaption>
-</figure>
-
-**(d) Talent Development Programme** <br>
-Our Talent Development Programme provides a range of activities such as trainings, competitions and lectures for our higher ability students.
-
-(i) Data Analytic and Python Trainings <br>
-(ii) Australian Math Competition <br>
-(iii) All SG Sec Math Competition for Normal Course <br> 
-(iv) Lectures by Science Centres.
-
-### Teachers
-
-**HOD Maths:** Ms Ong Wan Hui <br>
-**Subject Head Maths:** Ms Liu Yunman <br> 
-**Senior Teacher Maths:** Mr Liew Kok Keong
-
-|  |  | |
-|---|---|---|
-| Ms Mok Yuen Teng | Mr Foo Say Kin | Ms Shanthy Raja (AED) |
-| Ms Eunice Leong  | Ms Nadia Madzan | Mdm Wong Ling Ling |
-| Ms Azria Azman  | Mdm Komathy D/O Ramanathan |
-| Mr Chua Kok Yew | Mr Lee Siak Kheng | 
-| Mr Zachary Wong Jiann Tsong |  |  |
-| Ms Vilochana D/O Veloo | 
-| Ms Audrey Goh Xin Yun
-
-### Gallery
-
-|  |  | 
-| -------- | -------- | 
-|<img src="/images/Pic%201_Making%20Ribena.jpeg" style="width:200px;">  Making Ribena | <img src="/images/Pic%202_Measuring%20netball%20court.jpg" style="width:200px;"> Measuring netball court | 
-| <img src="/images/Pic%203_Deciding%20which%20coke%20to%20buy.jpg" style="width:200px;"> Deciding which coke to buy  | <img src="/images/Pic%204_Getting%20excited%20over%20Time%20to%20Climb.jpg" style="width:200px;"> Getting excited over Time to Climb |
-| <img src="/images/Pic%205_Guiding%20students%20through%20the%20MM%20process.jpg" style="width:200px;"> Guiding students through the MM process |  <img src="/images/Pic%206_Explaining%20solution%20to%20classmates.jpeg" style="width:200px;"> Explaining solution to classmates |
-| | |
+<h3>Key Programmes</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math__2_.png">
+</div>
+<p><strong>Department Overview &amp; Beliefs<br></strong>The YCSS Mathematics
+Department is dedicated to fostering an enriching learning environment
+where students experience the joy of learning through engaging, authentic
+experiences. Our curriculum is designed to inspire curiosity and cultivate
+a love for Mathematics learning that extends beyond the classroom. We aim
+to nurture our students into future-ready, passionate learners, critical
+thinkers and creative problem solvers of Mathematics.&nbsp;</p>
+<p><strong><u>Joy of Learning &amp; Authentic Learning</u><br></strong>We
+believe that learning Mathematics should be an exciting adventure. Our
+dedicated team of teachers create a supportive atmosphere that encourages
+exploration, creativity and critical thinking. Our approach prioritises
+real-world connections and through hands-on activities, interactive projects
+and collaborative learning opportunities, students discover the interconnection
+between knowledge and concepts learnt in class and its application in solving
+real-world problems, in turn, gaining valuable skills and insights, developing
+a lifelong enthusiasm for learning and preparing them for the future.</p>
+<p><strong><u>Problem Solvers and Critical Thinkers</u><br></strong>In our
+department, we nurture students’ abilities to think critically and solve
+problems effectively. We encourage inquiry-based learning, where students
+ask questions, investigate solutions and reflect on their learning. Through
+this process, they develop essential skills such as analytical thinking
+and reasoning, collaboration, and resilience - qualities that empower them
+to tackle complex challenges both in school and beyond.</p>
+<p><strong>Our Students’ Mathematics Learning Experiences</strong>
+</p>
+<p><strong>Enrichment Programmes</strong>
+</p>
+<p>The full potential of our students’ mathematical abilities is unlocked
+with our engaging and challenging enrichment programmes. Designed for students
+who are eager to explore mathematics beyond the standard curriculum, these
+programmes offer a dynamic environment that fosters critical thinking,
+problem-solving and creativity.</p>
+<p><strong><u>Mathematics Talent Development Programme</u></strong>
+</p>
+<p>Our Mathematics Talent Development Programme is designed to nurture and
+enhance the mathematical abilities of our students on interest-basis, providing
+them with unique opportunities to excel through competitions and insightful
+lectures/webinars. It is also committed to fostering a passion for mathematics
+and empowering students to become confident problem solvers and critical
+thinkers.</p>
+<p>We encourage our students to participate in a variety of local, national,
+and international mathematics competitions. These events not only challenge
+their problem-solving skills but also foster a spirit of healthy competition
+and teamwork. Students can showcase their talents and gain recognition
+for their achievements while developing resilience and confidence in their
+mathematical abilities. Our programme also offers targeted ad-hoc training
+sessions and lectures led by experienced educators and lecturers, where
+our students receive personalised guidance tailored to their skill levels
+and gain a deeper understanding of the relevance of mathematics in real-world
+applications, and across various disciplines and careers.</p>
+<p>The following are some of the competitions, specialised training sessions
+and lectures:&nbsp;</p>
+<ul>
+<li>
+<p>Python Training Sessions&nbsp;</p>
+</li>
+<li>
+<p>Australian Math Competition (AMC)</p>
+</li>
+<li>
+<p>All Singapore Secondary Mathematics Competition for Normal Course</p>
+</li>
+<li>
+<p>Computational and Algorithmic Thinking (CAT) Competition</p>
+</li>
+<li>
+<p>Singapore Math Kangaroo Contest (SMKC)</p>
+</li>
+<li>
+<p>Lecture and Enrichment by Singapore Mathematical Society</p>
+</li>
+<li>
+<p>Competition-cum-Outreach (Ngee Ann Math Challenge)
+<br>
+</p>
+<p><strong><u>Other Whole school and Level-based Programmes</u></strong>&nbsp;</p>
+<p>&nbsp;</p>
+<ul>
+<li>
+<p>Termly Thematic Math Whiz Challenge</p>
+</li>
+<li>
+<p>Sec 1 Math Trail</p>
+</li>
+<li>
+<p>Sec 3 Mathematical Modelling</p>
+</li>
+<li>
+<p>Sec 3 Math Game (Learning through Gamification)</p>
+</li>
+</ul>
+<p></p>
+</li>
+</ul>
+<h3>Teachers</h3>
+<p><strong>HOD Maths:</strong> Ms Ong Wan Hui
+<br><strong>Subject Head Maths:</strong> Ms Liu Yunman
+<br><strong>Senior Teacher Maths:</strong> Mr Ling Peng Yap</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Foo Say Kin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shanthy Raja (AED)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nadia Madzan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Ling Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Komathy D/O Ramanathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Wei Na</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Siak Kheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vilochana D/O Veloo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Audrey Goh Xin Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Mok Yuen Teng</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Gallery</h3>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSc-ZZ1EbDb6Efv__gAWhqeb_ZTBjIrs9v7m6EZ_qtGmqf5I458dTl0VeahhPCa3eRGPu9_Y73YjQsv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
