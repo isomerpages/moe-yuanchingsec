@@ -32,9 +32,9 @@ three phases:</p>
 </div>
 <h3>CCA Activities</h3>
 <p>School level</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Annual Unit Camp</p>
+<p>Annual Combined UG Camp</p>
 </li>
 <li>
 <p>Total Defence Bronze and Silver Training and Assessment</p>
@@ -44,9 +44,6 @@ three phases:</p>
 </li>
 <li>
 <p>First Aid Proficiency</p>
-</li>
-<li>
-<p>Campcraft Proficiency</p>
 </li>
 <li>
 <p>Rescue Methods Proficiency</p>
@@ -62,7 +59,7 @@ three phases:</p>
 </li>
 </ul>
 <p>HQ level</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>CPR-AED Training</p>
 </li>
@@ -87,58 +84,23 @@ and Rescue)</p>
 </li>
 </ul>
 <h3>Achievements</h3>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Obtained Silver in the 2017 Uniformed Group Overall Proficiency Assessment
+<p>Obtained Gold in the 2022 Uniformed Group Overall Proficiency Assessment
 (UOPA)</p>
 </li>
 <li>
-<p>Obtained Gold in the 2018 Uniformed Group Overall Proficiency Assessment
+<p>Obtained DISTINCTION in the 2023 Uniformed Group Overall Proficiency Assessment
 (UOPA)</p>
 </li>
 <li>
-<p>Obtained SCDC-NCDCC Pinnacle Award 2018</p>
+<p>Obtained SCDC-NCDCC Pinnacle Award 2022</p>
 </li>
 <li>
-<p>Graduation of 5 cadets from the Footdrill Gold Course in 2018</p>
+<p>Obtained SCDC-NCDCC Pinnacle Award 2023</p>
 </li>
 <li>
-<p>Graduation of 3 cadets from the Unit Drill Instructors’ Course in 2018</p>
-</li>
-<li>
-<p>Participation of 2 cadets in the NCDCC-NYP CPR/AED Assessment as Co-trainers
-in 2018</p>
-</li>
-<li>
-<p>Participation of 9 cadets at Emergency Preparedness Day in Taman Jurong
-(January) and Ghim Moh (August)</p>
-</li>
-<li>
-<p>Participation of 4 cadets in the Inaugural Psychological First Aid course
-at SCDF HQ in 2018</p>
-</li>
-<li>
-<p>Participation in the Annual First Aid Championships organised by Red Cross
-Youths in 2018</p>
-</li>
-<li>
-<p>Obtained Gold in the 2019 Uniformed Group Overall Proficiency Assessment
-(UOPA)</p>
-</li>
-<li>
-<p>Graduation of 3 cadets from the Unit Drill Instructors’ Course in 2019</p>
-</li>
-<li>
-<p>Participation of 5 cadets in the NCDCC-Skills Up project 2019</p>
-</li>
-<li>
-<p>Obtained SCDC-NCDCC Pinnacle Award 2019</p>
-</li>
-<li>
-<p>Obtained SCDC-NCDCC Pinnacle Award 2020</p>
-</li>
-<li>
-<p>Obtained SCDC-NCDCC Pinnacle Award 2021</p>
+<p>Obtained SCDC-NCDCC Pinnacle Award 2024</p>
 </li>
 </ul>
 <h3>Teachers in charge</h3>
