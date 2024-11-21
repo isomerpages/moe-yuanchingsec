@@ -14,7 +14,7 @@ students in exciting, hands-on learning through Marine Robotics, environmental
 science, and cutting-edge technology. With a focus on real-world applications,
 the ALP empowers students to explore, invent, and excel, building confidence
 and skills for the future.</p>
-<p><strong>Tier 1: ALP for All Students – A Foundation in Innovation and Teamwork</strong>
+<p><strong><u>Tier 1: ALP for All Students – A Foundation in Innovation and Teamwork</u></strong>
 </p>
 <p>Our Tier 1 ALP is designed for every Yuan Ching student, encouraging exploration
 and skill-building through hands-on projects and collaborative learning.</p>
@@ -48,7 +48,7 @@ methods of data collection, analysis, and hypothesis-making taught in science
 lessons. Through this hands-on approach, students become budding scientists,
 learning that science is not only about answers—it’s about asking the right
 questions.</p>
-<p><strong>Tier 2: Talent Development Programme – Fueling the Passionate and Driven</strong>
+<p><strong><u>Tier 2: Talent Development Programme – Fueling the Passionate and Driven</u></strong>
 </p>
 <p>For students with a deeper interest in STEM, Tier 2 offers a tailored
 Talent Development Programme where they <strong>Explore, Pursue, and Excel</strong> in
@@ -79,44 +79,3 @@ skills to create. Whether they pursue STEM as a career or simply gain a
 lifelong appreciation for science and technology, our students leave Yuan
 Ching empowered to shape the future.</p>
 <p>&nbsp;</p>
-<p><strong><em>Tier 1 – Construction of SeaPerch Through Design Thinking</em></strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBYAUQ0c8-Sud43eOIqSvcfWlvBHWsXYccjmi5P2JAkjLeQuPJ2uF-y-2WnASvoNRuUqWFWMP9XiIB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p><strong><em>Tier 1 – Learning Computational Thinking Through micro:bit and M5Go</em></strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcPTomW9_px1we1yGUKE37HuDnKHJKCMmCgVrruErE3we1H-XuQCUjMTqk3sMJKOCeFfBoY1EXBDl2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p>Students who are keen to stretch their potential in the field of Marine
-Robotics will embark on a Talent Development Programme in ALP, which deepens
-their understanding of advanced topics in the area of STEM while expanding
-their horizons through related learning journeys and collaborations with
-our industry partners such as Maritime and Port Authority of Singapore
-(MPA), Singapore Maritime Foundation (SMF) and Singapore Shipping Association
-(SSA). Through these activities, our students gain a better understanding
-of Singapore maritime history and better appreciate the current and future
-impact of the maritime industry on Singapore’s economy.</p>
-<p>Our ALP programme also empowers students to take ownership of their learning
-and provides autonomy for students to decide on their own specialised training
-programme. The school houses the Tech Alley, a tinkering space for students
-to carry out self-exploration of coding and other STEM-related projects.
-The Tech Alley is also equipped with 3D printers and other equipment to
-support the students in their tinkering journey. Students are further challenged
-to excel in the field of STEM by participating in various inter-school
-competitions such as the annual Shell Challenge organised by the Singapore
-Science Centre, Underwater Robotics Olympiad and Marine &amp; Offshore
-Challenge organised by Polytechnics. The school also works closely with
-National University of Singapore to deepen our students’ knowledge in autonomous
-underwater systems. To reinforce their learning through these experiences,
-the students will document their products, learning points and reflections
-in an online e-portfolio, where opportunities will also be provided for
-students to share their learning at school level.</p>
-<p></p>
-<p><strong><em>Tier 2 – Talent Development - Competitions and Exposure to Industry</em></strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT37WSQFisnHN4WSMXRkNZsBKEceB0_h0NEKVWCtWlMaiL45InaWwwNZQEwGmVOUUzIitaX0cmoQDhl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p></p>
