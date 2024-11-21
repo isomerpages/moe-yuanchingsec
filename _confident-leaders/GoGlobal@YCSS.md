@@ -80,9 +80,9 @@ eye-opening and educational adventure that left a lasting impression.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTk2mfrIg2W3suwBL5o2Ge1RzZbfJLd9ncVVGqL0zJeUiy9Mvgck5OwcJepQh6wwXPPSzuK2b2EDWah/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p><strong>Reflections:</strong> 
+<p><strong>Reflections:</strong>
 </p>
-<p><strong>By Lim Guan De Warren  (3-Compassion 2024)</strong>
+<p><strong>By Lim Guan De Warren (3-Compassion 2024)</strong>
 <br>Hanoi was the most memorable and fun experience I had this year. I will
 always remember Vietnamese culture as an eye opener and the memories I
 made along the way will last forever. If I had a chance, I would love to
@@ -104,7 +104,7 @@ Singapore.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTut2Z3YDj8dZxmlDVxit9VJZp4z56yulYLVhpnrQwTz7_ckSDWOlptWu8yfzGFQ_JNf7XSKrJaM_1o/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p><strong>By Ariel Kweh  (3-Excellence 2024)</strong>
+<p><strong>By Ariel Kweh (3-Excellence 2024)</strong>
 <br>This trip to Shandong, China has provided an immersive experience that
 broadened my understanding of Chinese culture and history. Visiting iconic
 sites like Mount Tai was unforgettable – although the weather was much
@@ -124,6 +124,22 @@ closer together. A personal experience of this is when I was extremely
 terrified of our “haunted” hotel our first night there and i had to ask
 Ms Jean to walk me back to the hotel room! Overall, it was a truly educational
 and enjoyable trip that i will always feel nostalgic thinking about!</p>
+<p><strong>By Venice Lee (3-Excellence 2024)</strong>
+<br>The trip to shandong was an immersive experience for me as it gave me
+the opportunity to better understand Shandong, China’s culture and architecture.
+Visiting shandong junior experimental high was a really amazing experience
+because of how i got to experience their school lessons and the heartwarming
+welcome by the students and teachers of the school. During our school cultural
+exchange, we also managed to share the culture and education of Singapore
+through presentations. I managed to try the famous Peking duck and the
+different Shandong local dish. I also enjoyed the visit to the Confusius
+temple as well as his home which made me learn more about the culture as
+well as confusius himself. Visiting Mount Tai and the different famous
+lakes were the best part of the trip because of how beautiful the places
+are and it shows how well-preserved it is ever since decades ago! The history
+behind these places are also intriguing since it was our first time learning
+about China history. All in all, this Shandong trip made me learn a lot
+about China’s history and culture which left a lasting impression.</p>
 <p></p>
 <p><strong><u>2023 - Trip to Hongkong</u></strong>
 </p>
@@ -172,12 +188,12 @@ that we can achieve.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/darwin%202.jpg">
 </div>
-<p><strong> Experiencing Fieldwork Investigation at CSIRO</strong>
+<p><strong>Experiencing Fieldwork Investigation at CSIRO</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/darwin%203.jpg">
 </div>
-<p><strong> Deep Space NASA Centre </strong>
+<p><strong>Deep Space NASA Centre </strong>
 <br>Deep space NASA Centre offers students the chance to learn about the role
 that Australia plays in the exploration of space.</p>
 <p><strong><u>2019 - YCSS-Shanghai Cultural and School Immersion Trip </u></strong>
@@ -216,12 +232,12 @@ that Australia plays in the exploration of space.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/24%20Kakadu%20National%20Park.jpg">
 </div>
-<p><strong> Kakadu National Park </strong>
+<p><strong>Kakadu National Park </strong>
 <br>Visiting the Yellow Water Cruise and Aboriginal Stone-Carvings</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Australia%203.jpg">
 </div>
-<p><strong> Museum &amp; Art Gallery (Northern Territory) </strong>
+<p><strong>Museum &amp; Art Gallery (Northern Territory) </strong>
 <br>Different Exhibitions:
 <br>The Natural Disasters Darwin experienced
 <br>The evolution of Animals in Darwin
@@ -232,7 +248,7 @@ that Australia plays in the exploration of space.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/28%20Darwin%20High%20School.png">
 </div>
-<p><strong> Darwin High School &amp; St John's Catholic College</strong>
+<p><strong>Darwin High School &amp; St John's Catholic College</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Australia%204.jpg">
