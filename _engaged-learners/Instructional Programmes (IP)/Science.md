@@ -75,7 +75,8 @@ and acquisition of Scientific knowledge outside the classrooms.</p>
 </li>
 </ul>
 <h3>Teachers</h3>
-<p><strong>HOD Science:</strong> Mdm Chin Yi Mei</p>
+<p><strong>HOD Mother Tongue Languages:</strong> Mdm Chin Yi Mei
+<br><strong>Senior Teacher (Chinese Language):</strong> Mr Wong Chin Seng</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
