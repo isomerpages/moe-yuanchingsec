@@ -45,6 +45,8 @@ health, character development, and enjoyment of the sport in a safe environment.
 </li>
 </ul>
 <h3>Achievements / Participations</h3>
+<p><strong>2024</strong>
+<br>NSG Basketball 'C' Boys : Silver (Tier 6)</p>
 <p><strong>2020</strong> 
 <br>West Zone Inter-School Basketball 'B' Division Championships 2020</p>
 <p><strong>2019</strong> 
@@ -70,31 +72,7 @@ Round</p>
 <p>Venue (1) : Basketball Court/Canal
 <br>Venue (2) : Basketball Court/ISH</p>
 <h3>CCA Photographs</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2022 Basketball B Division Boys.png">
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQQLjxJJ6XD39bCwn3jYNkUSPMn2MiE5wCFwK6ZzAkIhlrtE0yuqcLduA92rC4Cb0MKgmJWwRSCgUbB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p>2022 Basketball B Division Boys</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2022 Basketball B Division Boys in action.png">
-</div>
-<p>2022 Basketball B Division Boys</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Debrief session after training.png">
-</div>
-<p>Debrief session after training</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2022 Basketball C Division Boys in action.png">
-</div>
-<p>2022 Basketball C Division Boys in action</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2022 Basketball C Division Boys in action.png">
-</div>
-<p>2022 Basketball C Division Boys in action</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CCA Award.png">
-</div>
-<p>CCA Award</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Basketball-6.jpg">
-</div>
-<p>Our Sec 1 boys training during eCCA over Zoom</p>
+<p></p>
