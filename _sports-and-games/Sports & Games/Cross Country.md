@@ -21,8 +21,9 @@ Inter-school Track and Field and National Inter-school Cross Country medals
 since the 1990s.</p>
 <p>Besides the NSG Cross Country and Track &amp; Field Championships, the
 CCA also took part in events organised by external organisations, such
-as the Wings Athletics Cross Country, Taman Jurong Homerun &amp; Pocari
-Sweat Run.</p>
+as the Wings Athletics Cross Country, SA All-Comers Meet, Taman Jurong
+Homerun &amp; Pocari Sweat Run in recent years.</p>
+<p></p>
 <p><strong>Vision</strong> 
 <br>Every Cross Country Runner will cultivate a lifelong passion for running,
 and pursue athletic as well as academic excellence.</p>
@@ -54,11 +55,14 @@ strength of character and perseverance.</p>
 </li>
 </ul>
 <h3>Achievements</h3>
+<p><strong>2024</strong> 
+<br><u>Wings Athletics Cross Country Championships </u>
+<br>U18 Boys - 17th Subramaniam Anish</p>
 <p><strong>2022</strong> 
-<br><u> National Interschool Cross Country </u>
+<br><u>National Interschool Cross Country </u>
 <br>'C' Boys - 19th Mohandoss Magesh</p>
 <p><strong>2019</strong> 
-<br><u> National Interschool Cross Country </u>
+<br><u>National Interschool Cross Country </u>
 <br>‘B’ Boys – 19th Low Qi Yang Edwin
 <br>‘C’ Boys – 4th Namasivayam Siva Sanker</p>
 <p><u>National Interschool Track and Field </u>
@@ -80,36 +84,17 @@ strength of character and perseverance.</p>
 <p><u>Macritchie 6.4 Trail Run Championships </u>
 <br>Boys Senior 3.2 km – 3rd Loh Wei Long</p>
 <h3>Teachers in charge</h3>
-<p>Mr Lim Fang Kwan (IC)</p>
+<p>Mr Standley Daniel John Meltan (IC)</p>
+<p>Mr Lim Fang Kwan</p>
 <p>Ms Wong Wei Na</p>
 <h3>Schedule</h3>
 <p>Tuesday: 3.30pm to 6.00pm</p>
 <p>Thursday: 3.10pm to 6.00pm</p>
 <h3>Venue</h3>
 <p>Clementi Stadium
-<br>School gym and carpark</p>
+<br>School gym and carpark/driveway</p>
 <h3>CCA Photographs</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Cross%20Country-1.jpg">
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVIz9g6P6xhfb6W0sqxsqcLFR59Mw60WbxYEQwIcO__MRj_8ACV5aMmX-yf5uhYpK0aw0hBmcp1arE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p>2019 ‘B’ Boys 2000m Steeplechase</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Cross%20Country-2.jpg">
-</div>
-<p>2019 ‘B’ Boys 2000m Steeplechase Victory Ceremony - Loh Wei Long</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Cross%20Country-3.jpg">
-</div>
-<p>2019 ‘C’ Boys 3000m - Namasivayam Siva Sanker</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Cross%20Country-4.jpg">
-</div>
-<p>YCSS Cross Country Intra CCA Games 2021 - Shot Put</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YCSS_Cross_Country_Training_2023___Running_Drills.jpg">
-</div>
-<p>YCSS Cross Country Training 2023 - Running Drills</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YCSS_Cross_Country_Participating_in_Pocari_Sweat_Run_2023___2_4km_challenge.jpg">
-</div>
-<p>YCSS Cross Country Participating in Pocari Sweat Run 2023 – 2.4km challenge</p>
+<p></p>
