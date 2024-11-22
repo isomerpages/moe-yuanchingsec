@@ -78,4 +78,12 @@ offer them the thrill of discovery, the confidence to explore, and the
 skills to create. Whether they pursue STEM as a career or simply gain a
 lifelong appreciation for science and technology, our students leave Yuan
 Ching empowered to shape the future.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBYAUQ0c8-Sud43eOIqSvcfWlvBHWsXYccjmi5P2JAkjLeQuPJ2uF-y-2WnASvoNRuUqWFWMP9XiIB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>&nbsp;</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT37WSQFisnHN4WSMXRkNZsBKEceB0_h0NEKVWCtWlMaiL45InaWwwNZQEwGmVOUUzIitaX0cmoQDhl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
