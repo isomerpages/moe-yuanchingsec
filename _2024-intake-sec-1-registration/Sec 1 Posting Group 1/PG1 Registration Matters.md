@@ -13,7 +13,7 @@ third_nav_title: Sec 1 Posting Group 1
 <br>
 </p>
 <h5><strong>Step 1: Online Registration Form (Compulsory)</strong><br></h5>
-<p>Compulsory for ALL students (to be completed from <strong>19 Dec 2024, 9am to 20 Dec 2024, 12pm</strong>).
+<p>Compulsory for ALL students (to be completed from <strong>18 Dec 2024, 9am to 19 Dec 2024, 12pm</strong>).
 <br><a href="https://go.gov.sg/ycs-s1reg2025" rel="noopener noreferrer nofollow" target="_blank">Online Registration</a>
 </p>
 <h5><strong>Step 2: More Demanding Level Subjects (Compulsory)</strong><br></h5>
@@ -89,7 +89,7 @@ via eFAS below. Application forms are also available from the General Office.&nb
 <p>For students who are not eligible for MOE FAS, you may consider applying
 for SAC FAS. Please click on the application form below for the eligibility
 criteria.</p>
-<p>Please submit the completed form to the school or via eFAS from <strong><u>20 to 30 Dec 2024</u></strong> with
+<p>Please submit the completed form to the school or via eFAS from <strong><u>19 to 30 Dec 2024</u></strong> with
 all supporting documents.</p>
 <p>Please&nbsp;<strong><u>do not</u></strong>&nbsp;buy any books or uniform
 without the FAS Approval Letter as there will be NO refund if you do so.</p>
@@ -135,14 +135,14 @@ without the FAS Approval Letter as there will be NO refund if you do so.</p>
 <br><a href="https://www.yuanchingsec.moe.edu.sg/others/financial-assistance-scheme-fas/" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance Scheme</a>
 </p>
 <h5><strong>Step 4: Sale of Books and Uniform</strong><br></h5>
-<p>You may access the website from <strong><u>19 Dec – 24 Dec 2024</u></strong> to
+<p>You may access the website from <strong><u>18 Dec – 24 Dec 2024</u></strong> to
 purchase the books and uniform online to avoid queuing in the school. There
 will be 2 options of purchases – Home delivery (with a delivery charge)
 and Self-collection via the website at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a></strong>.</p>
 <p>Please refer&nbsp;the above website under <strong>FAQs</strong>&nbsp;for
 the guide on how to purchase your books and uniform online.</p>
 <p>You may still walk in to purchase the books and uniform at the school
-bookshop from <strong>20 Dec to 30 Dec 2024 (Weekday: 9am – 3pm, Sat: 9am – 12pm) </strong>but
+bookshop from <strong>19 Dec to 30 Dec 2024 (Weekday: 9am – 3pm, Sat: 9am – 12pm) </strong>but
 do expect to queue up for the purchases. <strong><a rel="noopener noreferrer nofollow" target="_blank">Note:</a></strong>
 <a rel="noopener noreferrer nofollow" target="_blank">The bookshop will be closed on <u>24 Dec and 28 Dec 2024.</u>
 </a>
@@ -155,7 +155,7 @@ purchase the books after school starts on 2 Jan 2025.</p>
 the FAS Approval Letter from the school. Please <strong><u>do not</u></strong> buy
 the books on your own as there will be<strong>&nbsp;NO refund</strong>&nbsp;if
 you do so.</p>
-<p><strong>2024 Booklist</strong>
+<p><strong>2025 Booklist</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
