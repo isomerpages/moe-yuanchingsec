@@ -106,7 +106,7 @@ purchase the books after school starts on 2 Jan 2025.</p>
 the FAS Approval Letter from the school. Please <strong><u>do not</u></strong> buy
 the books on your own as there will be<strong>&nbsp;NO refund</strong>&nbsp;if
 you do so.</p>
-<p><strong>2024 Booklist</strong>
+<p><strong>2025 Booklist</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
