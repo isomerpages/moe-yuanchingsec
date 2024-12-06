@@ -56,7 +56,7 @@ how do I proceed?
 </p>
 <p><strong><em>iv) All other requests to transfer OUT please go to the school website of your desired school and complete the appeal form and submit to that school.</em></strong>
 </p>
-<p><strong><em>v) Students who have appealed to transfer OUT - Please do not buy books and uniform pending the outcome of your application. </em></strong>
+<p><strong><em>v) Students who have appealed to transfer OUT - Please do not buy books and uniform pending the outcome of your application.</em></strong>
 </p>
 <ol start="3" data-tight="true" class="tight">
 <li>
