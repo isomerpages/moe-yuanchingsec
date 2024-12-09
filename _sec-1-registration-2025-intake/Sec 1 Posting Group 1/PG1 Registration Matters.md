@@ -65,10 +65,7 @@ access the FormSG below using the relevant link/QR code.</p>
 <p><strong>Please access the FormSG below to make your choice.</strong>
 </p>
 <h4>PG1 offered G2 subjects</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/g1yc2025mdl.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/g1yc2025mdl"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/g1yc2025mdl.png"></a>
 <p>For enquiries, please contact the school General Office at: 62612489.</p>
 <h5><strong>Step 3: MOE Financial Assistance Scheme (FAS)</strong><br></h5>
 <p>MOE provides financial assistance for students who need support. There
