@@ -13,7 +13,7 @@ Please report to school with all relevant medical documents by 12PM.</p>
 Please approach the relevant school to Appeal to transfer.
 <br><u>Appeals to </u><strong><u>Transfer IN</u></strong>: Please fill up
 appeal form on school website and submit by <strong>27 Dec 2024</strong>.</p>
-<h5><strong><u>18 – 24 Dec 2024 - Purchase of Books, Stationery, Uniform, Attire, Socks online at School Bookshop</u></strong></h5>
+<h5><strong><u>18 – 24 Dec 2024 - Purchase of Books, Stationery, Uniform, Attire, Socks online</u></strong></h5>
 <h5><strong><u>19 - 30 Dec 2024 - Purchase of Books, Stationery, Uniform, Attire, Socks at School Bookshop</u></strong></h5>
 <p></p>
 <p>Access the website from <strong><u>18 Dec – 24 Dec</u></strong> to purchase
