@@ -103,7 +103,7 @@ exciting new journey together with you! See you on 2 Jan 2025!</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<h4>Please proceed to <a href="/2024-intake-sec-1-registration/sec1registration/" rel="noopener nofollow" target="_blank">Sec 1 Registration</a></h4>
 <p></p>
 <p></p>
 <p></p>
