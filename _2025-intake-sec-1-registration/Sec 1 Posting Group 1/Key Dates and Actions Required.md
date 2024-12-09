@@ -5,14 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Sec 1 Posting Group 1
 ---
-<h5><strong><u>20 – 21 Dec 2024 - Sec 1 Registration Exercise</u></strong></h5>
+<h5><strong><u>18 – 19 Dec 2024 - Sec 1 Registration Exercise</u></strong></h5>
 <p>Online Registration to be done by 19 Dec 2024, 12PM.</p>
-<p><u>Request to </u><strong><u>Transfer OUT</u></strong><u> based on </u><strong><u>MEDICAL REASONS</u></strong><u> only:</u> Please
-report to school with all relevant medical documents by 12PM.</p>
-<p><u>Request for </u><strong><u>Transfer OUT</u></strong><u> for all other reasons:</u> Please
-approach the relevant school to Appeal to transfer.
-<br><u>Appeals to </u><strong><u>Transfer IN</u></strong><u>:</u> Please fill
-up appeal form on school website and submit by <strong>27 Dec 2024</strong>.</p>
+<p><u>Request to </u><strong><u>Transfer OUT</u></strong><u> based on </u><strong><u>MEDICAL REASONS</u></strong><u> only</u>:
+Please report to school with all relevant medical documents by 12PM.</p>
+<p><u>Request for </u><strong><u>Transfer OUT</u></strong><u> for all other reasons</u>:
+Please approach the relevant school to Appeal to transfer.
+<br><u>Appeals to </u><strong><u>Transfer IN</u></strong>: Please fill up
+appeal form on school website and submit by <strong>27 Dec 2024</strong>.</p>
 <h5><strong><u>18 – 24 Dec 2024 - Purchase of Books, Stationery, Uniform, Attire, Socks online at School Bookshop</u></strong></h5>
 <h5><strong><u>19 - 30 Dec 2024 - Purchase of Books, Stationery, Uniform, Attire, Socks at School Bookshop</u></strong></h5>
 <p></p>
