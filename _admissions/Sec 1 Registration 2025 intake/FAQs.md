@@ -24,7 +24,7 @@ purchase the books and uniform first?
 <li>
 <p>If I have applied for MOE FAS in my primary school, why am I not contacted
 by Yuan Ching Sec to collect my textbooks and uniform?
-<br><strong><em>The school will call the parents to arrange an appointment from 22 to 29 Dec 2023 for the collection of the textbooks and uniform. Please bring along the Letter of Approval from the Primary School for verification on the arranged date. However, if the school has not contacted you by 27 Dec 2023, please contact the school to enquire.</em></strong>
+<br><strong><em>The school will call the parents to arrange an appointment from 23 to 27 Dec 2024 for the collection of the textbooks and uniform. Please bring along the Letter of Approval from the Primary School for verification on the arranged date. However, if the school has not contacted you by 27 Dec 2024, please contact the school to enquire.</em></strong>
 </p>
 </li>
 </ol>
