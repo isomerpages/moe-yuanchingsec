@@ -175,5 +175,5 @@ function should work and support at least IEEE</p>
 <p>g. device should not be installed with additional Operating Systems, antivirus
 software, Device Management and Parental Control tools other than the MOE
 DMA.</p>
-<h4>Please proceed to <a href="/2024-intake-sec-1-registration/sec-1-posting-group-3/keydatesandactionsrequired/" rel="noopener noreferrer nofollow" target="_blank">Key Dates and Actions Required</a>.</h4>
+<h4>Please proceed to <a href="/2025-intake-sec-1-registration/sec-1-posting-group-3/keydatesandactionsrequired/" rel="noopener noreferrer nofollow" target="_blank">Key Dates and Actions Required</a>.</h4>
 <p></p>
