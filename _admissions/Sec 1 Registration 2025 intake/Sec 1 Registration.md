@@ -25,11 +25,11 @@ Students do not need to physically report to our school on&nbsp;20 Dec
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/2024-intake-sec-1-registration/sec-1-posting-group-1/pg1registrationmatters/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Posting Group 1</a>
+<p><a href="/sec-1-posting-group-1/pg1registrationmatters/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Posting Group 1</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/2024-intake-sec-1-registration/sec-1-posting-group-2/pg2registrationmatters/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Posting Group 2</a>
+<p><a href="/sec-1-posting-group-2/pg2registrationmatters/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Posting Group 2</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -49,11 +49,11 @@ Students do not need to physically report to our school on&nbsp;20 Dec
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/transferin2024/" rel="noopener noreferrer nofollow" target="_blank">Transfer INTO Yuan Ching Secondary School</a>
+<p><a href="/transferin2025/" rel="noopener noreferrer nofollow" target="_blank">Transfer INTO Yuan Ching Secondary School</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/transferout2024/" rel="noopener noreferrer nofollow" target="_blank">Transfer OUT of Yuan Ching Secondary School</a>
+<p><a href="/transferout2025/" rel="noopener noreferrer nofollow" target="_blank">Transfer OUT of Yuan Ching Secondary School</a>
 </p>
 </th>
 </tr>
