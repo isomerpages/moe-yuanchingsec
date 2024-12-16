@@ -34,8 +34,8 @@ if you do so.</p>
 <p></p>
 <h5><strong><u>26 Dec 2024 - 6 Jan 2025 - Purchase of Personal Learning Device (PLD)</u></strong></h5>
 <p>Please indicate if you would like to purchase a PLD under the school bulk
-purchase by 6th Jan 2025 (Fri) via Parents Gateway (PG) or submit the hardcopy
-form to the Form Teacher.
+purchase by <strong>6th Jan 2025 (Mon)</strong> via Parents Gateway (PG)
+or submit the hardcopy form to the Form Teacher.
 <br>If you are pending transfer or would like to use your personal computing
 device in school, please respond 'No' in PG and indicate the reason.</p>
 <h5><strong><u>2 Jan 2025 - First Day of School</u></strong></h5>
