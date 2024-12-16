@@ -133,18 +133,17 @@ every student. The school has chosen iPad as the school prescribed PLD
 for our Secondary One students.</p>
 <p>Please read this <a href="https://go.gov.sg/ycs-ip4-2025" rel="noopener noreferrer nofollow" target="_blank">letter</a> on the purchase of Personal
 Learning Device (PLD) before submitting your option below.</p>
-<p>• Click <a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-indicate if you would like to purchase a PLD with the school bulk purchase
-by <strong>10 Jan 2025. (Fri).</strong>
+<p>• A Parents Gateway (PG) notification will be sent out by 26 Dec 2024
+for you to indicate your interest to purchase a PLD under the school bulk
+purchase. Please respond to the PG by <strong>6 Jan 2025 (Mon).</strong>
 </p>
-<p>• If you are unable to submit the form online, you may download the form
-<a href="https://go.gov.sg/ycs-ip4hardcopy-2025" rel="noopener noreferrer nofollow" target="_blank">here<u> </u>
-</a>and submit it to the Form Teacher on the 1st day of school. You may also
-obtain the hardcopy form from the Form Teacher on the 1st day of school.</p>
+<p>• If you are unable to indicate your interest to purchase via PG, you
+may download the form <a href="https://go.gov.sg/ycs-ip4hardcopy-2025" rel="noopener noreferrer nofollow" target="_blank">here<u> </u></a>and submit
+it to the Form Teacher on the 1st day of school. You may also obtain the
+hardcopy form from the Form Teacher on the 1st day of school.</p>
 <p>• If you are <u>pending transfer</u> or would like to use your <u>personal computing device</u> in
-school, please submit this <a href="https://go.gov.sg/ycs-pld-optout2025" rel="noopener noreferrer nofollow" target="_blank">opt out form</a>. To ensure
-that your personal learning device is suitable, please refer to the specifications
-below.</p>
+school, please indicate in the PG notification. To ensure that your personal
+learning device is suitable, please refer to the specifications below.</p>
 <p><strong>Suitability of Student-Owned Device to Function as Personal Learning Device</strong> 
 <br>
 </p>
