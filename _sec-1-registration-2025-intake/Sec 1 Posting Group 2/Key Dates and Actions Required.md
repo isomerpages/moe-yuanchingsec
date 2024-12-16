@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sec 1 Posting Group 2
 ---
-<h5><strong><u>20 – 21 Dec 2024 - Sec 1 Registration Exercise</u></strong></h5>
+<h5><strong><u>18 – 19 Dec 2024 - Sec 1 Registration Exercise</u></strong></h5>
 <p>Online Registration to be done by 19 Dec 2024, 12PM.</p>
 <p><u>Request to </u><strong><u>Transfer OUT</u></strong><u> based on </u><strong><u>MEDICAL REASONS</u></strong><u> only</u>:
 Please report to school with all relevant medical documents by 12PM.</p>
