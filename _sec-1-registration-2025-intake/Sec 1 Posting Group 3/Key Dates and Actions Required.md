@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sec 1 Posting Group 3
 ---
-<h5><strong><u>20 – 21 Dec 2024 - Sec 1 Registration Exercise</u></strong></h5>
+<h5><strong><u>18 – 19 Dec 2024 - Sec 1 Registration Exercise</u></strong></h5>
 <p>Online Registration to be done by 19 Dec 2024, 12PM.</p>
 <p><u>Request to </u><strong><u>Transfer OUT</u></strong><u> based on </u><strong><u>MEDICAL REASONS</u></strong><u> only:</u> Please
 report to school with all relevant medical documents by 12PM.</p>
@@ -71,5 +71,5 @@ More details will be given at a later date.</p>
 <h5><strong><u>16 Jan and 18 Jan 2025 - CCA Trials</u></strong><br></h5>
 <p>More information on the timing of the trials will be given at a later
 date.</p>
-<h4>Please proceed to <a href="/2024-intake-sec-1-registration/sec-1-posting-group-3/importantinformation/" rel="noopener noreferrer nofollow" target="_blank">Important Information</a>.</h4>
+<h4>Please proceed to <a href="/2025-intake-sec-1-registration/sec-1-posting-group-3/importantinformation/" rel="noopener noreferrer nofollow" target="_blank">Important Information</a>.</h4>
 <p></p>
