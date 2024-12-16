@@ -70,5 +70,5 @@ More details will be given at a later date.</p>
 <h5><strong><u>16 Jan and 18 Jan 2025 - CCA Trials</u></strong></h5>
 <p>More information on the timing of the trials will be given at a later
 date.</p>
-<h4>Please proceed to <a href="/2024-intake-sec-1-registration/sec-1-posting-group-1/importantinformation/" rel="noopener noreferrer nofollow" target="_blank">Important Information</a>.</h4>
+<h4>Please proceed to <a href="/2025-intake-sec-1-registration/sec-1-posting-group-1/importantinformation/" rel="noopener noreferrer nofollow" target="_blank">Important Information</a>.</h4>
 <p></p>
