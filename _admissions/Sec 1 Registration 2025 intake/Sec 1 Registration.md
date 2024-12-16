@@ -49,7 +49,7 @@ Students do not need to physically report to our school on&nbsp;20 Dec
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/transferin2025/" rel="noopener noreferrer nofollow" target="_blank">Transfer INTO Yuan Ching Secondary School</a>
+<p><a href="/transferinsec12025/" rel="noopener noreferrer nofollow" target="_blank">Transfer INTO Yuan Ching Secondary School</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
