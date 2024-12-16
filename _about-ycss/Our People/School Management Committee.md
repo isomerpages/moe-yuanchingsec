@@ -9,7 +9,7 @@ variant: markdown
 
 | Name | Designation |
 | --- | --- |
-| Ms Ng Sook Kit | Principal |
+| Mr Shawal Bin Hussin | Principal |
 | Mr Tang Hsin Wei | Vice Principal (Curriculum) |
 | Ms Tang Shien Yin | Vice Principal (Curriculum) |
 | Mr Julius Teo Hui Yao | Vice Principal (Administration) |
