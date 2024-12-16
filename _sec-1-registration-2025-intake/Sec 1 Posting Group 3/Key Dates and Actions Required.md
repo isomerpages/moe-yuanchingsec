@@ -32,13 +32,12 @@ Please do not buy books or uniform pending the outcome of your application.</p>
 or uniform until your application has been approved. There will be NO refund
 if you do so.</p>
 <p></p>
-<h5><strong><u>20 Dec 2024 - 10 Jan 2025 - Purchase of Personal Learning Device (PLD)</u></strong></h5>
-<p>Please indicate if you would like to purchase a PLD with the school bulk
-purchase by 10th Jan 2025 (Fri) via the&nbsp;<a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">online form</a>&nbsp;or submit the hardcopy
-form to the Form Teacher.
+<h5><strong><u>26 Dec 2024 - 6 Jan 2025 - Purchase of Personal Learning Device (PLD)</u></strong></h5>
+<p>Please indicate if you would like to purchase a PLD under the school bulk
+purchase by <strong>6th Jan 2025 (Mon)</strong> via Parents Gateway (PG)
+or submit the hardcopy form to the Form Teacher.
 <br>If you are pending transfer or would like to use your personal computing
-device in school, please submit this online&nbsp;<a href="https://go.gov.sg/ycs-pld-optout2025" rel="noopener noreferrer nofollow" target="_blank">opt-out form</a>.</p>
-<p></p>
+device in school, please respond 'No' in PG and indicate the reason.</p>
 <h5><strong><u>2 Jan 2025 - First Day of School</u></strong><br></h5>
 <p><strong><u>Results for Request for Transfer (under MOE Medical Appeal Exercise):</u></strong>
 </p>
