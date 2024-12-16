@@ -85,8 +85,8 @@ these features and receive regular updates of school events.</p>
 <p>CCA and enrichment programmes are conducted after school hours.
 <br>The school hours are subjected to changes.</p>
 <p>CCA and enrichment programmes are conducted after school hours.</p>
-<p>On the first day of school, Tuesday, 2 Jan 2025, Sec 1 students will report
-in school uniform by 8:20AM.</p>
+<p>On the first day of school, Thursday, 2 Jan 2025, Sec 1 students will
+report in school uniform by 8:20AM.</p>
 <h3><strong>4. School / Miscellaneous Fees</strong></h3>
 <table style="minWidth: 150px">
 <colgroup>
