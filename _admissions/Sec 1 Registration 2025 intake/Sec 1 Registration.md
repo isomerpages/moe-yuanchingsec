@@ -25,15 +25,15 @@ Students do not need to physically report to our school on&nbsp;20 Dec
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/sec-1-posting-group-1/pg1registrationmatters/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Posting Group 1</a>
+<p><a href="/2025-intake-sec-1-registration/sec-1-posting-group-1/pg1registrationmatters/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Posting Group 1</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/sec-1-posting-group-2/pg2registrationmatters/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Posting Group 2</a>
+<p><a href="/2025-intake-sec-1-registration/sec-1-posting-group-2/pg2registrationmatters/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Posting Group 2</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/sec-1-posting-group-3/pg3registrationmatters/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Posting Group 3</a>
+<p><a href="/2025-intake-sec-1-registration/sec-1-posting-group-3/pg3registrationmatters/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Posting Group 3</a>
 </p>
 </th>
 </tr>
