@@ -140,9 +140,8 @@ and Self-collection via the website at&nbsp;<strong><a rel="noopener noreferrer 
 the guide on how to purchase your books and uniform online.</p>
 <p>You may still walk in to purchase the books and uniform at the school
 bookshop from <strong>19 Dec to 30 Dec 2024 (Weekday: 9am – 3pm, Sat: 9am – 12pm) </strong>but
-do expect to queue up for the purchases. <strong><a rel="noopener noreferrer nofollow" target="_blank">Note:</a></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">The bookshop will be closed on <u>24 Dec and 28 Dec 2024.</u>
-</a>
+do expect to queue up for the purchases. <strong>Note:</strong> The bookshop
+will be closed on <u>24 Dec and 28 Dec 2024.</u>
 </p>
 <p>For students offered More Demanding Level subjects under&nbsp;<strong>Full Subject-Based Banding (FSBB)&nbsp;</strong>or&nbsp;<strong>Higher Mother Tongue Language (HMTL)</strong>,
 you would need to confirm the subjects that you will be taking before purchasing
