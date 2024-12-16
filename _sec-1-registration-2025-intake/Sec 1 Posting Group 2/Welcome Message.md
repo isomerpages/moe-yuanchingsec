@@ -69,5 +69,5 @@ exciting new journey together with you! See you on 2 Jan 2025!</p>
 </tbody>
 </table>
 <p></p>
-<h4>Please proceed to <a href="/2024-intake-sec-1-registration/sec-1-posting-group-2/pg2registrationmatters/" rel="noopener noreferrer nofollow" target="_blank">PG2 Registration Matters</a> to start the registration process.</h4>
+<h4>Please proceed to <a href="/2025-intake-sec-1-registration/sec-1-posting-group-2/pg2registrationmatters/" rel="noopener noreferrer nofollow" target="_blank">PG2 Registration Matters</a> to start the registration process.</h4>
 <p></p>
