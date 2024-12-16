@@ -72,5 +72,5 @@ More details will be given at a later date.</p>
 date.
 <br>
 </p>
-<h4>Please proceed to <a href="/2024-intake-sec-1-registration/sec-1-posting-group-2/importantinformation/" rel="noopener noreferrer nofollow" target="_blank">Important Information</a>.</h4>
+<h4>Please proceed to <a href="/2025-intake-sec-1-registration/sec-1-posting-group-2/importantinformation/" rel="noopener noreferrer nofollow" target="_blank">Important Information</a>.</h4>
 <p></p>
