@@ -135,7 +135,7 @@ for our Secondary One students.</p>
 Learning Device (PLD) before submitting your option below.</p>
 <p>• A Parents Gateway (PG) notification will be sent out by 26 Dec 2024
 for you to indicate your interest to purchase a PLD under the school bulk
-purchase. Please respond to the PG by <strong>6 Jan 2025 (Mon).</strong>
+purchase. Please respond to the PG notification by <strong>6 Jan 2025 (Mon).</strong>
 </p>
 <p>• If you are unable to indicate your interest to purchase via PG, you
 may download the form <a href="https://go.gov.sg/ycs-ip4hardcopy-2025" rel="noopener noreferrer nofollow" target="_blank">here<u> </u></a>and submit
