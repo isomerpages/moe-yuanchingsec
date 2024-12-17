@@ -54,9 +54,8 @@ by 8:20AM. All Sec 1 students to gather at foyer, you will be directed
 to your respective classes. All students are expected to be properly attired
 with proper haircut (refer to Section Important Information: General Rules
 for School).</p>
-<p></p>
-<p>The Student Handbook will be issued to all students except those awaiting
-the results of their transfer requests.</p>
+<p>Please refer to the <a href="https://go.gov.sg/yc2025-studenthandbook" rel="noopener nofollow" target="_blank">2025 Student e-Handbook.</a>
+</p>
 <h5><strong><u>2-7 Jan 2025 - Sec 1 Orientation Programme</u></strong></h5>
 <p>Please refer to the <a href="/files/Sec_1_Orientation_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Orientation Programme</a> for more
 information.</p>
