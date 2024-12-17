@@ -91,7 +91,7 @@ without the FAS Approval Letter as there will be NO refund if you do so.</p>
 <p>You may access the website from <strong><u>18 Dec – 24 Dec 2024</u></strong> to
 purchase the books and uniform online to avoid queuing in the school. There
 will be 2 options of purchases – Home delivery (with a delivery charge)
-and Self-collection via the website at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a></strong>.</p>
+and Self-collection via the website at&nbsp;<strong><a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a></strong>.</p>
 <p>Please refer&nbsp;the above website under <strong>FAQs</strong>&nbsp;for
 the guide on how to purchase your books and uniform online.</p>
 <p>You may still walk in to purchase the books and uniform at the school
