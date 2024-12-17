@@ -7,7 +7,7 @@ third_nav_title: Sec 1 Registration 2025 intake
 ---
 <p>Appeals to transfer&nbsp;<strong>IN</strong>&nbsp;to Yuan Ching Sec School
 need to be made by 27 Dec 2024 (Friday).</p>
-<p>You can either submit the application online via <strong><em><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ycs-s1transfer2025</a></em></strong><em> </em>or
+<p>You can either submit the application online via <strong><em><a href="https://go.gov.sg/ycs-s1transfer2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ycs-s1transfer2025</a></em></strong><em> </em>or
 you can download the Application for Transfer form&nbsp;<strong><a href="https://go.gov.sg/ycs-s1transfer2025-hardcopy" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> and
 submit the completed form and the relevant supporting documents via the
 school email (<a rel="noopener noreferrer nofollow" target="_blank">ycss@moe.edu.sg</a>)
