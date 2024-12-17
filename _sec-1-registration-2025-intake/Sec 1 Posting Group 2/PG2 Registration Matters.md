@@ -177,7 +177,7 @@ Learning Device (PLD) before submitting your option below.</p>
 <li>
 <p>A Parents Gateway (PG) notification will be sent out by 26 Dec 2024 for
 you to indicate your interest to purchase a PLD under the school bulk purchase.
-Please respond to the PG by <strong>6 Jan 2025 (Mon).</strong>
+Please respond to the PG notification by <strong>6 Jan 2025 (Mon).</strong>
 </p>
 </li>
 <li>
