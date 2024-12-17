@@ -13,7 +13,7 @@ third_nav_title: Sec 1 Posting Group 1
 <br>
 </p>
 <h5><strong>Step 1: Online Registration Form (Compulsory)</strong><br></h5>
-<p>Compulsory for ALL students (to be completed from <strong>18 Dec 2024, 9am to 19 Dec 2024, 12pm</strong>.
+<p>Compulsory for ALL students to be completed from <strong>18 Dec 2024, 9am to 19 Dec 2024, 12pm</strong>.
 <br><a href="https://go.gov.sg/ycs-s1reg2025" rel="noopener noreferrer nofollow" target="_blank">Online Registration</a>
 </p>
 <h5><strong>Step 2: More Demanding Level Subjects (Compulsory)</strong><br></h5>
