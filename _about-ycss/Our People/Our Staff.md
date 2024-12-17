@@ -58,10 +58,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Wong Chin Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior Teacher/ Chemistry</p>
 </td>
 </tr>
 </tbody>
@@ -766,14 +766,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Wong Ling Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Wong Soo Hsin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
