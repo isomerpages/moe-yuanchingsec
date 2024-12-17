@@ -58,8 +58,8 @@ for School).</p>
 <p>The Student Handbook will be issued to all students except those awaiting
 the results of their transfer requests.</p>
 <h5><strong><u>2-7 Jan 2025 - Sec 1 Orientation Programme</u></strong></h5>
-<p>Please refer to the Orientation Programme for more information / which
-will be sent to you via Parent's Gateway.</p>
+<p>Please refer to the <a href="/files/Sec_1_Orientation_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Orientation Programme</a> for more
+information / which will be sent to you via Parent's Gateway.</p>
 <h5><strong><u>9 Jan 2025 - Individual Photo Taking</u></strong></h5>
 <p>Students are to wear full school uniform for the phototaking session.</p>
 <h5><strong><u>11 Jan 2025 - CCA Showcase and Parents Engagement Session</u></strong></h5>
