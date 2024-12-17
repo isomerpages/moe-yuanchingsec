@@ -89,7 +89,7 @@ day. How do I proceed to register my child?
 buy them another day?
 <br><strong><em>Yes, there is no need to buy the books and uniform on registration day. The bookshop and the uniform shop will be opened on 19 Dec – 30 Dec 2024 for the purchase of books and uniform.</em></strong>
 </p>
-<p><strong><em>You may access the website from <u>18 Dec – 24 Dec 2024</u> to purchase the books and uniform online to avoid queuing in the school. There will be 2 options of purchases – Home delivery (with a delivery charge) and Self-collection via the website at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>.</em></strong>
+<p><strong><em>You may access the website from <u>18 Dec – 24 Dec 2024</u> to purchase the books and uniform online to avoid queuing in the school. There will be 2 options of purchases – Home delivery (with a delivery charge) and Self-collection via the website at&nbsp;<a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>.</em></strong>
 </p>
 <p><strong><em>You may still walk in to purchase the books and uniform at the school bookshop from 19 Dec to 30 Dec 2024 (Weekday: 9am – 3pm, Sat: 9am – 12pm) but do expect to queue up for the purchases. Note: The bookshop will be closed on <u>24 Dec and 28 Dec 2024.</u></em></strong>
 </p>
