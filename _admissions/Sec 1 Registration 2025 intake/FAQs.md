@@ -32,7 +32,11 @@ by Yuan Ching Sec to collect my textbooks and uniform?
 <ol data-tight="true" class="tight">
 <li>
 <p>What is the cut-off points for your school?
-<br><strong><em>TBC</em></strong>
+<br><strong><em>Posting Group 1 - 28 </em></strong>
+</p>
+<p><strong><em>Posting Group 2 - 24</em></strong>
+</p>
+<p><strong><em>Posting Group 3 - 18</em></strong>
 </p>
 </li>
 </ol>
