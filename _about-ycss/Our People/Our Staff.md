@@ -61,7 +61,7 @@ variant: tiptap
 <p>Mr Wong Chin Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Senior Teacher/ Chemistry</p>
 </td>
 </tr>
 </tbody>
