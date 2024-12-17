@@ -21,7 +21,6 @@ third_nav_title: Sec 1 Posting Group 2
 Yuan Ching offers students who qualify a chance to study English Language,
 Mother Tongue Languages, Mathematics and/or Science at a more demanding
 level. This means that PG2 students may take G3 subjects.</p>
-<p>&nbsp;</p>
 <p>Please read the information below and exercise your option to either accept
 or reject the offer. If your child achieve the following grades, please
 access the FormSG below using the relevant link/QR code.</p>
