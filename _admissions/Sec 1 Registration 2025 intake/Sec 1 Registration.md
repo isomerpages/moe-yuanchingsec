@@ -10,8 +10,8 @@ third_nav_title: Sec 1 Registration 2025 intake
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Banner.png">
 </div>
-<p>Our Sec 1 Registration process will start on&nbsp;19 Dec 2024&nbsp;from&nbsp;9am&nbsp;onwards.
-Students do not need to physically report to our school on&nbsp;20 Dec
+<p>Our Sec 1 Registration process will start on&nbsp;18 Dec 2024&nbsp;from&nbsp;9am&nbsp;onwards.
+Students do not need to physically report to our school on&nbsp;19 Dec
 2024. Registration, buying of books and uniform can be done online.</p>
 <p>Please use the links below to start the process.</p>
 <p><strong>Student posted to:</strong>
