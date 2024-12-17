@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.yuanchingsec.moe.edu.sg/2025-intake-sec-1-registration/welcomemessage/
+external: https://www.yuanchingsec.moe.edu.sg/2025-intake-sec-1-registration/welcomemessage/
 ---
