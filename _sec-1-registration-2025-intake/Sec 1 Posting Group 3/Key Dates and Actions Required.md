@@ -19,7 +19,7 @@ up appeal form on school website and submit by <strong>27 Dec 2024</strong>.</p>
 <p>Access the website from <strong><u>18 Dec – 24 Dec</u></strong> to purchase
 the books and uniform online to avoid queuing in the school. There will
 be 2 options for the purchases – Home delivery (with a delivery charge)
-and Self-collection via the website at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a></strong>.</p>
+and Self-collection via the website at&nbsp;<strong><a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a></strong>.</p>
 <p>You may also walk in to purchase the books and uniform at the school bookshop
 from <strong>19 Dec to 30 Dec 2024 (Weekday: 9am – 3pm, Sat: 9am – 12pm) </strong>but
 do expect to queue up for the purchases. <strong>Note:</strong> The bookshop
