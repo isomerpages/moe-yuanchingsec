@@ -227,7 +227,7 @@ variant: tiptap
 <p>Mr Lee Canguang Amos</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ CE (Internal)</p>
+<p>Subject Head/ Character Education (Internal)</p>
 </td>
 </tr>
 <tr>
