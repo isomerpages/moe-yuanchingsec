@@ -16,8 +16,6 @@ more information on the programme.</p>
 <p>Click <a href="https://go.gov.sg/ycs-ip4hardcopy-2025" rel="noopener nofollow" target="_blank">here</a> to
 download the application form for subsidy for purchase of Personal Learning
 Device.</p>
-<p><a href="/files/3__National_Digital_Literacy_Programme__NDLP_.pdf" rel="noopener noreferrer nofollow" target="_blank">NDLP sharing by HOD ICT for Sec 1 PES 2024</a>
-</p>
 <h4><strong>Parents' Resources</strong></h4>
 <p>Parents/Guardians play an important role in keeping their children safe
 online, and are encouraged to read the following resources to learn more
