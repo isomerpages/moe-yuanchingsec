@@ -58,6 +58,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ling Peng Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Wong Chin Seng</p>
 </td>
 <td rowspan="1" colspan="1">
