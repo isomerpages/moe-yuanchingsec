@@ -94,10 +94,10 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Standley Daniel</p>
+<p>Mdm Musniffa Bte Mustaffa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Neo Wen Xin</p>
+<p>Mr Sonny Liang Lai Hup</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -108,10 +108,10 @@ variant: tiptap
 <p>1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mok Yuen Teng</p>
+<p>Ms Jasmine Sujatha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Wei Na</p>
+<p>Ms Siti Sahara Bte Osman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -122,10 +122,10 @@ variant: tiptap
 <p>1 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lai Weng Keong</p>
+<p>Mr Lee Siak Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Widodo</p>
+<p>Ms Angela Chua Li Xia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -136,10 +136,10 @@ variant: tiptap
 <p>1 Enterprise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sivaperakas R Muthiah</p>
+<p>Mr Keith Koh Choon Hean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Zhiqing</p>
+<p>Ms Siti Nurshila Bte Roslan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -150,10 +150,10 @@ variant: tiptap
 <p>1 Loyalty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Fadzel</p>
+<p>Ms Nan Zhonghua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Ong Jia Yi</p>
+<p>Mr Sivaperakas R Muthiah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -164,10 +164,10 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tsering Choden</p>
+<p>Ms Lim Yi Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shanti Armugam</p>
+<p>Ms Fazila Banu Mohd Rabiullah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -178,13 +178,13 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Wei Leng</p>
+<p>Mr Mohd Fahmy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Woon Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gina Teo Shun Ying</p>
 </td>
 </tr>
 <tr>
@@ -231,10 +231,10 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Siak Kheng</p>
+<p>Mr Standley Daniel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dimas Nurr Aidilin Mas'od</p>
+<p>Ms Neo Wen Xin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -245,13 +245,13 @@ variant: tiptap
 <p>2 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zubaidah Ariffin</p>
+<p>Ms Wong Wei Na</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wu Ting</p>
+<p>Ms Mok Yuen Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Zheng Xiumin</p>
 </td>
 </tr>
 <tr>
@@ -259,10 +259,10 @@ variant: tiptap
 <p>2 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jean Leong Jun Xi</p>
+<p>Mr Lai Weng Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nan Zhonghua</p>
+<p>Ms Jasmine Widodo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -273,10 +273,10 @@ variant: tiptap
 <p>2 Enterprise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Senduran Vasudevan</p>
+<p>Ms Ong Zhiqing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Irene Tay Pei Woon</p>
+<p>Ms Nadia Bte Madzan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -287,10 +287,10 @@ variant: tiptap
 <p>2 Loyalty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chee Wai Lun</p>
+<p>Mr Mohd Fadzel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shanthy Raja Nayagam</p>
+<p>Ms Amanda Ong Jia Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -301,10 +301,24 @@ variant: tiptap
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr C. Ganesh</p>
+<p>Ms Tsering Choden</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ai Lin</p>
+<p>Ms Shanti Armugam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheong Wei Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Segar Muniandy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -354,10 +368,10 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Keith Koh Choon Hean</p>
+<p>Mr Chong Xiang Yang, Isaac</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kelvin Poh Xiao Zhang</p>
+<p>Ms Dimas Nurr Aidilin Mas'od</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -368,13 +382,13 @@ variant: tiptap
 <p>3 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Ching Seng</p>
+<p>Ms Irene Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Azhar</p>
+<p>Mr Senduran Vasudevan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Liu Yunman</p>
 </td>
 </tr>
 <tr>
@@ -382,10 +396,10 @@ variant: tiptap
 <p>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Kwee Theng</p>
+<p>Mdm Koh Jie Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vilochana D/O Veloo</p>
+<p>Mr Huang Zhijie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -396,10 +410,10 @@ variant: tiptap
 <p>3 Enterprise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Azria Binte Azman</p>
+<p>Mr Chua Kok Yew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Amos Lee Canguang</p>
+<p>Ms Yee Jie Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -410,38 +424,10 @@ variant: tiptap
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Paul Lim Chow Chiat</p>
+<p>Mr C. Ganesh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Lee Mui Huang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chen Zhanjiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lai Cheng Man</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Loyalty</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Normalah Bte Baharin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Foo Say Kin</p>
+<p>Ms Tan Ai Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
