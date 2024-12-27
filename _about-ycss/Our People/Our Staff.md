@@ -181,7 +181,7 @@ variant: tiptap
 <p>Mr Mohd Fahmy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Woon Xian</p>
+<p>Ms Audrey Goh Xin Yun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Gina Teo Shun Ying</p>
@@ -251,7 +251,7 @@ variant: tiptap
 <p>Ms Mok Yuen Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zheng Xiumin</p>
+<p>Ms Zheng Xiumin</p>
 </td>
 </tr>
 <tr>
@@ -547,10 +547,10 @@ variant: tiptap
 <p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Musniffa Bte Mustaffa</p>
+<p>Mr Chen Zhanjiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Isaac Chong Xiang Yang</p>
+<p>Ms Lai Cheng Man</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -561,7 +561,18 @@ variant: tiptap
 <p>4 Loyalty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Segar Muniandy</p>
+<p>Ms Normalah Bte Baharin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Foo Say Kin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jeffrey Chen Weixiong</p>
@@ -569,41 +580,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Harmony</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohd Fahmy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Koh Shao Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Liu Yunman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Harmony</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Huang Zhijie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Goh Woon Xian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
