@@ -22,13 +22,6 @@ sections:
       title: Announcements & Highlights
       id: resources
   - infopic:
-      title: Open House 2024
-      id: infopic
-      button: Infosite
-      url: https://ycssopenhouse.wixsite.com/ycoh
-      image: /images/YCOPENHOUSE2024.jpg
-      alt: Image alt text
-  - infopic:
       title: Stories of Alumni
       button: Read more
       url: /resource/stories-of-alumni/
