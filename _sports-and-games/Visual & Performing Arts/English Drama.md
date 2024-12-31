@@ -77,6 +77,8 @@ Certificate of Commendation</p>
 </ul>
 <h3>Teachers in charge</h3>
 <p>Mr Lee Canguang Amos (IC)</p>
+<p>Ms Ong Zhiqing</p>
+<p>Ms Normalah</p>
 <h3>Schedule</h3>
 <p>Thursdays: 3:00pm to 6:00pm
 <br>
