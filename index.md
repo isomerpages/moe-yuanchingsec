@@ -22,17 +22,10 @@ sections:
       title: Announcements & Highlights
       id: resources
   - infopic:
-      title: Open House 2024
-      id: infopic
-      button: Infosite
-      url: https://ycssopenhouse.wixsite.com/ycoh
-      image: /images/YCOPENHOUSE2024.jpg
-      alt: Image alt text
-  - infopic:
       title: Stories of Alumni
       button: Read more
       url: /resource/stories-of-alumni/
-      image: /images/Screenshot_2024_09_30_113357.png
+      image: /images/RESIZED_stories_of_alumni.png
       subtitle: Yuan Ching Secondary School
       alt: Image alt text
   - infopic:
@@ -41,7 +34,7 @@ sections:
       description: Scan QR code to join Yuan Ching PSG!
       button: Find out more about Yuan Ching Secondary PSG
       url: /about-ycss/our-people/parent-support-group/
-      image: /images/PSG register.png
+      image: /images/RESIZED40https___go_gov_sg_ycss_psg_register.png
       alt: Image alt text
   - infobar:
       title: Data Privacy
