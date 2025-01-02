@@ -2,6 +2,7 @@ collections:
   about-ycss:
     output: true
     order:
+      - Principal's Message.md
       - YCSS at a Glance.md
       - YCSS Philosophy.md
       - Student Conduct Code.md
