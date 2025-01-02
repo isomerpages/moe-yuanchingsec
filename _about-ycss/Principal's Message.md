@@ -4,9 +4,8 @@ permalink: /principal-s-message/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/P_Shawal_photo.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/P_Shawal_photo_V2.jpg">
 </div>
 <p>Dear Parents, Teachers, and Students of Yuan Ching Secondary,</p>
 <p>First, joining the Yuan Ching Secondary family is truly an honour and
@@ -55,7 +54,6 @@ and direction. Together, we can bring YCSS to even greater heights.</p>
 <p>Wishing all of you a wonderful school year.</p>
 <p>Mr. Shawal Bin Hussin
 <br>Principal
-<br>Yuan Ching Secondary School
 <br>"Efforts Today, Rewards Tomorrow"
 <br>
 </p>
