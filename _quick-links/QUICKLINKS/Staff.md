@@ -141,19 +141,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway (PG)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pg-announcements-forms" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway (PG):Announcement / Forms Template</a>
+<p><a href="https://go.gov.sg/pg-announcements-forms" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway (PG) FormSG</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
