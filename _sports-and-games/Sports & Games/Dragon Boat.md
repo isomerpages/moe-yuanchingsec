@@ -142,10 +142,10 @@ during their training sessions.</p>
 <h3>Teachers in charge</h3>
 <p>Mr Keith Koh (IC)</p>
 <p>Ms Tan Ai Lin (2IC)</p>
-<p>Ms Normalah</p>
+<p>Ms Yee Jie Ying</p>
 <p>Mr Koh Shao Wei</p>
 <h3>Schedule</h3>
-<p>Tuesdays &amp; Thursdays: 3.00pm - 6.00pm
+<p>Tuesdays &amp; Thursdays: 3.15pm - 6.15pm
 <br>Fridays: 3.00pm to 5.00pm</p>
 <h3>Venues</h3>
 <p>Venue(1) : PassionWave @Jurong Lake
