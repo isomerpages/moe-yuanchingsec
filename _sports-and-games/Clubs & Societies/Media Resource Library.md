@@ -88,10 +88,11 @@ on Museum Careers</p>
 </li>
 </ul>
 <h3>Teachers in charge</h3>
-<p>Ms Jean Leong (IC)
-<br>Mr Paul Lim Chow Chiat</p>
+<p>Mr Paul Lim Chow Chiat (IC)
+<br>Ms Jean Leong (2IC)
+<br>Mdm Jane Lee (School Librarian)</p>
 <h3>Schedule</h3>
-<p>Tuesdays: 3:00pm to 6.00pm</p>
+<p>Tuesdays: 3:15pm to 5.30pm</p>
 <h3>Venue</h3>
 <p>School Library</p>
 <h3>CCA Photographs</h3>
