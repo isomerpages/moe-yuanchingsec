@@ -79,7 +79,7 @@ is inculcated to develop our cadets into Caring and Responsible Citizens.</p>
 <br>Ms Mok Yuen Teng (2IC)
 <br>Mr Mohammad Azhar</p>
 <h3>Schedule</h3>
-<p>Even Thursdays (Blended Learning weeks) : 3.00pm to 6.00pm</p>
+<p>Even Thursdays (Blended Learning weeks) : 3.15pm to 6.15pm</p>
 <p>Odd Fridays: 2.30pm to 5.30pm
 <br>
 </p>
