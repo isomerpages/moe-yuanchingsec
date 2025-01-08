@@ -42,11 +42,12 @@ Theatre</p>
 <br>2023: SYF Arts Presentation – Certificate of Distinction</p>
 <h3>Teachers in charge</h3>
 <p>Ms Amanda Ong (IC)
-<br>Ms Nan Zhonghua</p>
+<br>Ms Nan Zhonghua
+<br>Mdm Yak Guat Eng</p>
 <h3>CCA Schedule</h3>
-<p>Tuesday and Thursday: 3.00pm to 6.00pm</p>
+<p>Tuesday and Thursday: 3.15pm to 6.15pm</p>
 <h3>Venue</h3>
-<p>Venue (1) : School Hall
+<p>Venue (1) : Enno Lab
 <br>Venue (2) : Dance Studio, Level 1</p>
 <h3>CCA Photographs</h3>
 <div class="isomer-image-wrapper">
