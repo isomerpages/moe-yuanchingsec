@@ -79,12 +79,12 @@ nationwide)</p>
 <br>B Div Nationals – 3rd place in SPL 2</p>
 <h3>Teachers in charge</h3>
 <p>Mr Fahmy (IC)
-<br>Mr Standley Daniel (2IC)
-<br>Mr Chua Kok Yew
+<br>Mr Chua Kok Yew (2IC)
+<br>Ms Angela Chua Li Xia
 <br>
 </p>
 <h3>CCA Schedule</h3>
-<p>Tuesdays &amp; Thursdays : 3:00pm to 6:00pm
+<p>Tuesdays &amp; Thursdays : 3:15pm to 6:15pm
 <br>Mondays and Wednesdays are NSG days</p>
 <h3>Venues</h3>
 <p>Venue (1) : School Field / Canal</p>
