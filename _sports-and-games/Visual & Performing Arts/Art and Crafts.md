@@ -42,10 +42,10 @@ Shihui, 4E1)</p>
 </li>
 </ul>
 <h3>Teachers in charge</h3>
-<p>Mr Mohamad Fadzel (IC)
-<br>Mdm Musnifffa (2IC)</p>
+<p>Mr Mohd Fadzel (IC)
+<br>Mdm Musnifffa Bte Mustaffa (2IC)</p>
 <h3>Schedule</h3>
-<p>Thursdays: 3.00pm to 6.00pm</p>
+<p>Thursdays: 3.15pm to 6.15pm</p>
 <h3>Venue</h3>
 <p>Art Room 1 &amp; 2, Blk F Level 2</p>
 <h3>CCA Photographs</h3>
