@@ -65,7 +65,7 @@ Round</p>
 <br>
 </p>
 <h3>Schedule</h3>
-<p>Tuesdays &amp; Thursdays : 3.00pm -6.00pm
+<p>Tuesdays &amp; Thursdays : 3.15pm -6.15pm
 <br>
 </p>
 <h3>Venue</h3>
