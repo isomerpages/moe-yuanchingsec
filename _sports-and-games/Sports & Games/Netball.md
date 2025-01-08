@@ -169,7 +169,7 @@ team and personal excellence.</p>
 <p>Mr Isaac Chong (IC)
 <br>Ms Neo Wen Xin</p>
 <h3>Schedule</h3>
-<p>Tuesday and Thursday: 3:00pm to 6:00pm</p>
+<p>Tuesday and Thursday: 3:15pm to 6:15pm</p>
 <h3>Venue</h3>
 <p>Venue(Tues) : ISH
 <br>Venue(Thurs) : Parade Square / ISH</p>
