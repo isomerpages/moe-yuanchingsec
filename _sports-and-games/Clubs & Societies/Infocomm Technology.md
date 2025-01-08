@@ -74,11 +74,13 @@ by YIJC 2024
 <br>Zavier Lee, 4E1, won 1st Prize for outstanding achievement
 <br>Copyright School Challenge 2021</p>
 <h3>Teachers in charge</h3>
-<p>Ms Tsering Choden(IC)
-<br>Ms Irene Tay (2IC)
-<br>Ms Audrey Goh</p>
+<p>Ms Irene Tay (IC)
+<br>Ms Audrey Goh (2IC)
+<br>Mr Ling Peng Yap
+<br>Ms Fazila Banu Mohd Rabiullah
+<br>Mr Jamal Mohinitheen Bin Ahamed Ghani</p>
 <h3>Schedule</h3>
-<p>Tuesdays &amp; Thursdays: 3.00pm to 5.30pm</p>
+<p>Tuesdays &amp; Thursdays: 3.15pm to 5.45pm</p>
 <h3>Venue</h3>
 <p>Computer Labs 1 &amp; 2, Blk B Level 2</p>
 <h3>CCA Photographs</h3>
