@@ -190,14 +190,14 @@ in Sentosa.</p>
 </ul>
 <h3>Teachers in charge</h3>
 <p>Ms Vilochana D/O Veloo (IC)
-<br>Mdm Shanthy (2IC)</p>
+<br>Ms Shanthy</p>
 <h3>Schedule</h3>
-<p>Tuesdays: 3.00pm to 6.00pm
+<p>Tuesdays: 3.15pm to 6.15pm
 <br>
 </p>
 <h3>Venue</h3>
 <p>Venue (1) : Dance Studio Level 4
-<br>Venue (2) : Dance Studio Level 1/ School Hall</p>
+<br>Venue (2) : School Hall</p>
 <h3>CCA Photographs</h3>
 <p></p>
 <div class="iframe-wrapper">
