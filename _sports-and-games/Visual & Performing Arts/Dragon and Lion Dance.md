@@ -95,10 +95,10 @@ Award</p>
 </ul>
 <h3>Teachers in charge</h3>
 <p>Mr Segar Muniandy (IC)
-<br>Mrs Goh-Cheong Wei Leng
-<br>Ms Lai Cheng Man</p>
+<br>Ms Lai Cheng Man
+<br>Mrs Goh-Cheong Wei Leng</p>
 <h3>Schedule</h3>
-<p>Thursdays: 3:00 pm to 6:00 pm</p>
+<p>Thursdays: 3:15pm to 6:15 pm</p>
 <h3>Venue</h3>
 <p>Venue (1) : Forum
 <br>Venue (2) : School Hall</p>
