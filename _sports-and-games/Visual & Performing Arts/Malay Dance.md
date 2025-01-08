@@ -47,16 +47,15 @@ context of different dance genres.</p>
 <h3>Teachers in charge</h3>
 </li>
 </ul>
-<p>Ms Siti Nurshila Roslan (IC)
-<br>Mdm Zubaidah (2IC)</p>
+<p>Ms Siti Nurshila (IC)
+<br>Mdm Angela Lee (2IC)</p>
 <h3>Schedule</h3>
-<p>Thursdays: 3.00pm to 6.00pm
+<p>Tuesdays &amp; Thursdays: 3.15pm to 6.15pm
 <br>
 </p>
 <h3>Venue</h3>
-<p>Venue (1) : Dance Studio Level 1
-<br>Venue (2) : <code>Enno Lab</code>
-</p>
+<p>Venue (1) : Enno lab
+<br>Venue (2) : Dance Studio, Level 1</p>
 <h3>CCA Photographs</h3>
 <p></p>
 <div class="iframe-wrapper">

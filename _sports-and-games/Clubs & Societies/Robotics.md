@@ -117,7 +117,7 @@ Design</p>
 <p>Mr Huang Zhijie (IC)
 <br>Mr Jeffery Chen (2IC)</p>
 <h3>Schedule</h3>
-<p>Tuesdays &amp; Thursdays: 3.00pm to 6.00pm</p>
+<p>Tuesdays &amp; Thursdays: 3.15pm to 6.15pm</p>
 <h3>Venue</h3>
 <p>Venue (1): Robotics Room
 <br>Venue (2): Computer Lab 3</p>
