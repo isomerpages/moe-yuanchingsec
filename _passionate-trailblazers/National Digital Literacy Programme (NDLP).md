@@ -14,8 +14,7 @@ information about the PLD for your child/ward</p>
 <p>Visit <a href="https://go.gov.sg/ycss-ict" rel="noopener noreferrer nofollow" target="_blank">ICT @Yuan Ching</a>&nbsp;for
 more information on the programme.</p>
 <p>Click <a href="https://go.gov.sg/ycs-ip4hardcopy-2025" rel="noopener nofollow" target="_blank">here</a> to
-download the application form for subsidy for purchase of Personal Learning
-Device.</p>
+download the application form for the purchase of Personal Learning Device.</p>
 <h4><strong>Parents' Resources</strong></h4>
 <p>Parents/Guardians play an important role in keeping their children safe
 online, and are encouraged to read the following resources to learn more
@@ -23,6 +22,10 @@ about how to keep their children safe online:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://sites.google.com/view/hblyuanching/ndlp/parent-handbook#h.yhhymbzhf6zu" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook on Learning with PLD</a> 
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/view/hblyuanching/ndlp/2025-sec-1-briefing-slides" rel="noopener nofollow" target="_blank">Briefing slides from Sec 1 Parents Engagement Session (11 Jan 2025)</a>
 <br>
 </p>
 </li>

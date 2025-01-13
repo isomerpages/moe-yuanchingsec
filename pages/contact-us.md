@@ -10,16 +10,16 @@ locations:
       - ""
     operating_hours:
       - days: Monday
-        time: 7.30am - 2.30pm
+        time: 7.30am - 2.35pm
         description: ""
       - days: Tuesday
-        time: 7.30am - 2.30pm
+        time: 7.30am - 2.35pm
         description: ""
       - days: Wednesday
-        time: 8.30am - 3.15pm
+        time: 8.30am - 2.35pm
         description: ""
       - days: Thursday
-        time: 7.30am - 2.30pm
+        time: 7.30am - 2.35pm
         description: ""
       - days: Friday
         time: 7.30am - 12.30pm
@@ -37,4 +37,5 @@ contacts:
       - email: ""
       - other: ""
     title: Fax
+feedback: https://for.edu.sg/ycss-feedbackform
 ---
