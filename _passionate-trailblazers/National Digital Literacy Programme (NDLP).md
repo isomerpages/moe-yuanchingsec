@@ -22,6 +22,10 @@ about how to keep their children safe online:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://sites.google.com/view/hblyuanching/ndlp/parent-handbook#h.yhhymbzhf6zu" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook on Learning with PLD</a> 
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/view/hblyuanching/ndlp/2025-sec-1-briefing-slides" rel="noopener nofollow" target="_blank">Briefing slides from Sec 1 Parents Engagement Session (11 Jan 2025)</a>
 <br>
 </p>
 </li>
