@@ -139,7 +139,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/2025-sec-1-parent-engagement-session-11-jan-2025/" rel="noopener nofollow" target="_blank">2025 Sec 1 Parent Engagement (slides)</a>
+<p><a href="https://yuanchingsec.moe.edu.sg/2025-sec-1-parent-engagement-session-11-jan-2025/" rel="noopener nofollow" target="_blank">2025 Sec 1 Parent Engagement (slides)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
