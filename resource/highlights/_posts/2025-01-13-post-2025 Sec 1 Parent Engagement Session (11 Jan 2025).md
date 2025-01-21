@@ -16,7 +16,7 @@ Engagement Session on 11 Jan 2025.</p>
 </p>
 <p><a href="/files/2025_Sec_1_PES___Parents_Support_Group_Slides.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 PES - Parents Support Group (slides)</a>
 </p>
-<p><a href="/files/2025_Sec_1_PES_CCA___Mr_Ganesh_V2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 PES CCA - Mr Ganesh</a>
+<p><a href="/files/Sec_1_PES_CCA_Jan_2025_Parents_Final_edited_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 PES CCA - Mr Ganesh</a>
 </p>
 <p></p>
 </li>
