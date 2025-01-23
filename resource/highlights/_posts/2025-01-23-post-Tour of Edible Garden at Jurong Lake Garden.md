@@ -12,7 +12,7 @@ leading a morning tour of the Kitchen Garden. The activity focused on introducin
 and sharing information about unique edible plants and their uses in garden-to-table
 experiences.</p>
 <p>Actual Day on 18 Jan:</p>
-<p>Experiential Learning in Action: Yuan Chine Secondary School Students
+<p>Experiential Learning in Action: Yuan Ching Secondary School Students
 Lead Tours at Jurong Lake Ediable Garden</p>
 <p>After two comprehensive training sessions, Yuan Ching Secondary School's
 Sec 4 Higher Chinese students successfully conducted public tours at Jurong
