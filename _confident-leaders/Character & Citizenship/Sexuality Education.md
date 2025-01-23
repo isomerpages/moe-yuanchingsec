@@ -516,9 +516,10 @@ and femininity vary over time and space, and are shaped by societal expectations
 one’s experiences, cause harm to the self-esteem of oneself and others
 and should be avoided</p>
 <p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -540,7 +541,6 @@ one can get out of such a relationship safely. Students will learn when,
 where and how to seek help from trusted adults (e.g. family, teachers,
 school counsellors) in the supportive environment that they have if they
 or their friends are involved in an unhealthy relationship.</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• know there are healthy ways of coping with broken relationships, and
@@ -557,9 +557,10 @@ in a relationship</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -591,9 +592,10 @@ love, trust, commitment, and requires mutual effort</p>
 marriage, and the way in which a couple handles conflict is critical to
 the success of their marriage</p>
 <p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 1 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -619,7 +621,7 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -677,7 +679,7 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 7</p>
 </td>
 </tr>
 </tbody>
@@ -693,9 +695,9 @@ are empowered to make wise, informed and sensible decisions.</p>
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
-Abstinence and upholding family values are the key messages.</p>
+Abstinence and upholding family values are the key messages</p>
 <p></p>
-<p><strong>At Yuan Ching Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+<p><strong>At Yuan Ching Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -719,7 +721,7 @@ Abstinence and upholding family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Raise awareness and provide knowledge on:</p>
@@ -730,7 +732,7 @@ and consistent condom use).</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -742,7 +744,7 @@ and consistent condom use).</p>
 of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 </tbody>
@@ -752,13 +754,12 @@ of assertiveness and responsible decision-making</p>
 the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the <strong>Sexuality Education lessons</strong> need to complete
-an opt-out form on the Parents’ Gateway App. The completed form is to be
-submitted by 31/01/2024.</p>
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the <strong><em>eTeens</em> programme</strong> need to complete an
-opt-out form on the Parents’ Gateway App. The completed form is to be submitted
-by 31/01/2024.</p>
+out of the Sexuality Education lessons need to complete an opt-out form.
+This form will be communicated to parents at the start of the year and
+is also downloadable <u>here</u>.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to opt their children
+out of the eTeens programme need to complete an opt-out form. This form
+will be communicated to parents at the start of the year and is also downloadable <u>here</u>.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6261
 2489 or <a rel="noopener noreferrer nofollow" target="_blank">ycss@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
