@@ -418,6 +418,7 @@ is normal and one can recover from the experience</p>
 <p>• know there are healthy ways of coping with broken relationships, and
 family and friends are important pillars of support</p>
 <p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 6</p>
@@ -451,9 +452,10 @@ our own moral standpoints as we form our perspectives about them</p>
 values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 <p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
