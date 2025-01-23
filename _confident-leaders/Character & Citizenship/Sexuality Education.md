@@ -754,12 +754,14 @@ of assertiveness and responsible decision-making</p>
 the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the Sexuality Education lessons need to complete an opt-out form.
+out of the Sexuality Education lessons need to complete an online opt-out
+form <a href="https://go.gov.sg/ycs-moesexualityedu-optout2025" rel="noopener nofollow" target="_blank">here</a>.
 This form will be communicated to parents at the start of the year and
 is also downloadable <u>here</u>.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to opt their children
-out of the eTeens programme need to complete an opt-out form. This form
-will be communicated to parents at the start of the year and is also downloadable <u>here</u>.</p>
+out of the eTeens programme need to complete an online opt-out form <a href="https://go.gov.sg/ycs-eteens-optout2025" rel="noopener nofollow" target="_blank">here</a>.
+This form will be communicated to parents at the start of the year and
+is also downloadable <u>here</u>.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6261
 2489 or <a rel="noopener noreferrer nofollow" target="_blank">ycss@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
