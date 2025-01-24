@@ -443,13 +443,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 Loyalty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ling Peng Yap</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Shanthy Raja Nayagam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
