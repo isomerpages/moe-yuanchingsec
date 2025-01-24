@@ -4,4 +4,22 @@ permalink: /quick-links/for-parents/sec1pes2024/
 variant: tiptap
 description: ""
 ---
-<p>Dear Parents/ Guardians,</p><p>Please click the files below for more information that was shared during Sec 1 Parents' Engagement Session (PES) on 13 Jan 2024.</p><ol data-tight="true" class="tight"><li><p><a href="/files/1__Sec_1_PES_P_s_Address_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Parent’ Engagement session_ Principal's Address</a></p></li><li><p><a href="/files/2__2024_Sec_1_PES_FSBB_TALK.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 PES Full Subject Based Banding sharing session</a></p></li><li><p><a href="/files/3__National_Digital_Literacy_Programme__NDLP_.pdf" rel="noopener noreferrer nofollow" target="_blank">National Digital Literacy Programme (NDLP)</a></p></li><li><p><a href="/files/4__Sec_1_PES_CCA_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 PES_CCA sharing</a></p></li><li><p><a href="/files/5__Parent_Support_Group__PSG_.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Support Group (PSG) Sharing</a></p></li><li><p><a href="/files/6__Parent_Kit_Easing_Into_Secondary_School_Life.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit Easing Into Secondary School Life</a></p><p></p></li></ol><p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please access the slides below that were shared during the Sec 1 Parent
+Engagement Session on 11 Jan 2025.</p>
+<p></p>
+<p><a href="/files/2025_Sec_1_PES_Full_Subject_Based_Banding___Mr_Tang.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 PES Full Subject Based Banding (FSBB)</a>
+</p>
+<p><a href="/files/2025_Sec_1_PES___Parents_Support_Group_Slides.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 PES - Parents Support Group (slides)</a>
+</p>
+<p><a href="/files/Sec_1_PES_CCA_Jan_2025_Parents_Final_edited_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 PES CCA - Mr Ganesh</a>
+</p>
+<p></p>
+</li>
+<li>
+<p><a href="https://yuanchingsec.padlet.org/lai_weng_keong/sec-1-parents-engagement-session-11th-jan-2025-gkrpjjnyowjossa6" rel="noopener nofollow" target="_blank">Padlet link for Q&amp;A</a>
+</p>
+</li>
+</ul>
+<p></p>
