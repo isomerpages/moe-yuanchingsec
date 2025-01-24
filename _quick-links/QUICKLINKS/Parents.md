@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/yc2024-estudent-handbook-v2" rel="noopener noreferrer nofollow" target="_blank">2024 eStudent Handbook</a>
+<p><a href="/files/YCSS_Digital_Handbook_2025_updated_23_Jan_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 eStudent Handbook</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,7 +69,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/quick-links/for-parents/sec1pes2024/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Parents' Engagement Session 2024</a>
+<p><a href="/quick-links/for-parents/sec1pes2024/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Parents' Engagement Session 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,18 +128,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/quick-links/for-parents/parents-gateway/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://yuanchingsec.moe.edu.sg/2025-sec-1-parent-engagement-session-11-jan-2025/" rel="noopener nofollow" target="_blank">2025 Sec 1 Parent Engagement (slides)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
