@@ -164,7 +164,7 @@ variant: tiptap
 <p>Mr Sivaperakas R Muthiah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Jeffrey Chen Weixiong</p>
 </td>
 </tr>
 <tr>
@@ -443,13 +443,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 Loyalty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ling Peng Yap</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Shanthy Raja Nayagam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -580,21 +580,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jeffrey Chen Weixiong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Resilience</p>
+<p>5 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Woon Xian</p>
