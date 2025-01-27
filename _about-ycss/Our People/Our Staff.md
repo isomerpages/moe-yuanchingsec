@@ -127,7 +127,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Compassion</p>
+<p>1Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Siak Kheng</p>
@@ -264,7 +264,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Compassion</p>
+<p>2Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lai Weng Keong</p>
@@ -401,7 +401,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Compassion</p>
+<p>3Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Koh Jie Ying</p>
