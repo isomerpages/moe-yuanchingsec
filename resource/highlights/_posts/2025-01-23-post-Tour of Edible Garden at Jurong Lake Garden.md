@@ -13,7 +13,7 @@ and sharing information about unique edible plants and their uses in garden-to-t
 experiences.</p>
 <p>Actual Day on 18 Jan:</p>
 <p>Experiential Learning in Action: Yuan Ching Secondary School Students
-Lead Tours at Jurong Lake Ediable Garden</p>
+Lead Tours at Jurong Lake Edible Garden</p>
 <p>After two comprehensive training sessions, Yuan Ching Secondary School's
 Sec 4 Higher Chinese students successfully conducted public tours at Jurong
 Lake Edible Garden. The students meticulously prepared by consolidating
@@ -22,7 +22,7 @@ visitor experience.</p>
 <p>This hands-on activity provided students with valuable real-world communication
 practice. They not only shared their knowledge but also gained new insights
 through interactions with the public. The positive feedback from visitors
-greatly encouraged our young guides.This experiential learning opportunity
+greatly encouraged our young guides. This experiential learning opportunity
 allowed our students to apply their language skills in a practical setting
 while contributing to community engagement and environmental education.</p>
 <div class="iframe-wrapper">
