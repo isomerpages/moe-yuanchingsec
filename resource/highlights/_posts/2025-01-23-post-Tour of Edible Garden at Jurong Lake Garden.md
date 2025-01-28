@@ -25,3 +25,7 @@ through interactions with the public. The positive feedback from visitors
 greatly encouraged our young guides.This experiential learning opportunity
 allowed our students to apply their language skills in a practical setting
 while contributing to community engagement and environmental education.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSD-1VavVYCf4W0VBI-i72P1UCSi-sHXc4_Dg3eqtfz00IE0GN2jDNVPoQFAMGKmvoMseSjokQY7TFU/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
