@@ -121,7 +121,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://sites.google.com/moe.edu.sg/strong-yuan-ching/home" rel="noopener nofollow" target="_blank">STRONG YC Student</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
