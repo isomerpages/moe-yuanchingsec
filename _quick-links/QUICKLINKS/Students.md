@@ -142,7 +142,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://ycsreads.blogspot.com/" rel="noopener noreferrer nofollow" target="_blank">YCS Reads!</a>
+<p><a href="http://go.gov.sg/ycreads" rel="noopener noreferrer nofollow" target="_blank">YCS Reads!</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
