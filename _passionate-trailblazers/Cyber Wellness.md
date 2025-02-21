@@ -2,77 +2,122 @@
 title: Cyber Wellness
 permalink: /passionate-trailblazers/cyber-wellness/
 description: ""
+variant: tiptap
 ---
-The MOE Cyber Wellness Framework guides the school in planning for our cyber wellness programme.
-
-The Framework focuses on developing the child’s instinct to protect himself and empower him to take responsibility for his own well-being in cyberspace. Thus, this framework highlights three principles to guide students in their actions, describes a 3-step process to explore cyber wellness issues and encourages schools to partner parents in promoting cyber wellness among students.
-
-![](/images/Cyberwellness.png)
-
-**Our cyber wellness (CW) curriculum focuses on three main principles:**
-*   Respect for self and others.
-*   Safe and responsible use of internet.
-*   Positive peer influence online.
-
-**Our CW education:**
-*   CW topics and lessons are delivered as part of the CCE curriculum.
-*   Special assembly programs by various external companies where they gain insightful knowledge with regards to CW.
-
-**Our Cyber Wellness Ambassadors (CWAs):** <br>
-Cyber Wellness Ambassadors (CWAs), as part of the class leaders,
-*   Undergo in-house 2-day training workshop conducted yearly to learn useful tips on how to influence their peers positively online.
-*   Go through specialty trainings by external industrial companies to reinforce the awareness on cyber wellness in real-world context.
-*   Are given opportunities to organise the Annual Cyber Wellness Week for the school to engage fellow schoolmates on positive CW habits to develop their leadership skills.
-*   Are given opportunities to represent the school in National CW events such as:
-	*   Minecraft: Education Edition Cyber Wellness Challenge sponsored by Microsoft Singapore,
-	*   West Zone Cyber Wellness Ambassadors Workshop.
-
-**Cyber Wellness @ Home**
-
-*   To help your child stay safe and have positive experiences online, you can:
-
-√    Organise more outdoor activities together. <br>
-√    Activate parental controls on your home devices. <br>
-√    Model good digital habits for your child. <br>
-√    Set ground rules for internet use. <br>
-√    Navigate the internet together to understand their usage.
-
-*   **Resources from MOE:** <br>
-√    [Parents, the guardians of internet](https://www.schoolbag.edu.sg/story/parents-the-guardians-of-internet-safety) <br>
-√    [Guide for parents on setting parental controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls) <br>
-√    [Understanding cyber wellness](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness) <br>
-√    [Navigating the cyber world safely](https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely) <br>
-√    [ICT in schools: To use or not to use?](https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use) <br>
-√    [Play safe – avoid online gaming addiction](https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction) <br>
-√    [Safeguarding your child online](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online) <br>
-√    [Exploring online, safely and confidently](https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently)
-
-<figure>  
-<img src="/images/Cyberwellness-1.jpg">  
-<figcaption> Our CWAs attending Apple workshop </figcaption>  
-</figure>
-
-<figure>  
-<img src="/images/Cyberwellness-2.jpg">  
-<figcaption> Our CWAs learning how to create animations on iPad </figcaption>  
-</figure>
-
-<figure>  
-<img src="/images/Cyberwellness-3.jpg">  
-<figcaption> Our CWAs exploring new features on iPad </figcaption>  
-</figure>
-
-<figure>  
-<img src="/images/Cyberwellness-4.jpg">  
-<figcaption> Our CWAs exploring new features on iPad </figcaption>  
-</figure>
-
-<figure>  
-<img src="/images/Cyberwellness-5.png">  
-<figcaption> Selected CWAs representing the school in West Zone Cyber Wellness Ambassadors Workshop </figcaption> 
-</figure>
-
-<figure>  
-<img src="/images/Cyberwellness-6.png">  
-<figcaption> Our CWA represented the school in the Finals of Minecraft Challenge 2021 </figcaption> 
-</figure>
+<p>The MOE Cyber Wellness Framework guides the school in planning for our
+cyber wellness programme.</p>
+<p>The Framework focuses on developing the child’s instinct to protect himself
+and empower him to take responsibility for his own well-being in cyberspace.
+Thus, this framework highlights three principles to guide students in their
+actions, describes a 3-step process to explore cyber wellness issues and
+encourages schools to partner parents in promoting cyber wellness among
+students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyberwellness.png">
+</div>
+<p><strong>Our cyber wellness (CW) curriculum focuses on three main principles:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Respect for self and others.</p>
+</li>
+<li>
+<p>Safe and responsible use of internet.</p>
+</li>
+<li>
+<p>Positive peer influence online.</p>
+</li>
+</ul>
+<p><strong>Our CW education:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CW topics and lessons are delivered as part of the CCE curriculum.</p>
+</li>
+<li>
+<p>Special assembly programs by various external companies where they gain
+insightful knowledge with regards to CW.</p>
+</li>
+</ul>
+<p><strong>Our Cyber Wellness Ambassadors (CWAs):</strong> 
+<br>Cyber Wellness Ambassadors (CWAs), as part of the class leaders,</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Undergo in-house 2-day training workshop conducted yearly to learn useful
+tips on how to influence their peers positively online.</p>
+</li>
+<li>
+<p>Go through specialty trainings by external industrial companies to reinforce
+the awareness on cyber wellness in real-world context.</p>
+</li>
+<li>
+<p>Are given opportunities to organise the Annual Cyber Wellness Week for
+the school to engage fellow schoolmates on positive CW habits to develop
+their leadership skills.</p>
+</li>
+<li>
+<p>Are given opportunities to represent the school in National CW events
+such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Minecraft: Education Edition Cyber Wellness Challenge sponsored by Microsoft
+Singapore,</p>
+</li>
+<li>
+<p>West Zone Cyber Wellness Ambassadors Workshop.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Cyber Wellness @ Home</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To help your child stay safe and have positive experiences online, you
+can:</p>
+</li>
+</ul>
+<p>√&nbsp;&nbsp; &nbsp;Organise more outdoor activities together.
+<br>√&nbsp;&nbsp; &nbsp;Activate parental controls on your home devices.
+<br>√&nbsp;&nbsp; &nbsp;Model good digital habits for your child.
+<br>√&nbsp;&nbsp; &nbsp;Set ground rules for internet use.
+<br>√&nbsp;&nbsp; &nbsp;Navigate the internet together to understand their
+usage.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Resources from MOE:</strong> 
+<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/parents-the-guardians-of-internet-safety" rel="noopener noreferrer nofollow" target="_blank">Parents, the guardians of internet</a> 
+<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls" rel="noopener noreferrer nofollow" target="_blank">Guide for parents on setting parental controls</a> 
+<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/understanding-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Understanding cyber wellness</a> 
+<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely" rel="noopener noreferrer nofollow" target="_blank">Navigating the cyber world safely</a> 
+<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" rel="noopener noreferrer nofollow" target="_blank">ICT in schools: To use or not to use?</a> 
+<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction" rel="noopener noreferrer nofollow" target="_blank">Play safe – avoid online gaming addiction</a> 
+<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/safeguarding-your-child-online" rel="noopener noreferrer nofollow" target="_blank">Safeguarding your child online</a> 
+</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Cyberwellness-1.jpg">
+</div>
+<p>Our CWAs attending Apple workshop</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Cyberwellness-2.jpg">
+</div>
+<p>Our CWAs learning how to create animations on iPad</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Cyberwellness-3.jpg">
+</div>
+<p>Our CWAs exploring new features on iPad</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Cyberwellness-4.jpg">
+</div>
+<p>Our CWAs exploring new features on iPad</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Cyberwellness-5.png">
+</div>
+<p>Selected CWAs representing the school in West Zone Cyber Wellness Ambassadors
+Workshop</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Cyberwellness-6.png">
+</div>
+<p>Our CWA represented the school in the Finals of Minecraft Challenge 2021</p>
