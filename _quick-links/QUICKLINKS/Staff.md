@@ -5,9 +5,8 @@ description: ""
 third_nav_title: QUICKLINKS
 variant: tiptap
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -19,9 +18,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Intranet-Based</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -31,9 +27,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://outlook.office.com" rel="noopener noreferrer nofollow" target="_blank">CES Outlook email</a>  <em>(via web browser)</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -45,9 +38,6 @@ variant: tiptap
 <p><a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">HR Online</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -57,9 +47,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://iexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">iExams2</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -71,9 +58,6 @@ variant: tiptap
 <p><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -83,9 +67,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">My Skills Future Student Portal</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -97,9 +78,6 @@ variant: tiptap
 <p><a href="http://w3223sadmw01554.schools.moe.edu.sg/ras" rel="noopener noreferrer nofollow" target="_blank">Resource Allocation System (for staff)</a>  <em>(Booking of ICT Equipment)</em>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -110,9 +88,6 @@ variant: tiptap
 <p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SchoolCockpit- https://schoolcockpit.moe.gov.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -121,6 +96,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mims.moe.gov.sg" rel="noopener nofollow" target="_blank">MIMS Portal</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -134,17 +115,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/pg-announcements-forms" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway (PG) FormSG</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -158,17 +133,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag - The Education News Site</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -182,17 +151,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/admin_login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -206,17 +169,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://sites.google.com/moe.edu.sg/yctech/" rel="noopener noreferrer nofollow" target="_blank">YCTech (Teachers)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
