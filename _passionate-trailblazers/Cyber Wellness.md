@@ -86,14 +86,10 @@ usage.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Resources from MOE:</strong> 
-<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/parents-the-guardians-of-internet-safety" rel="noopener noreferrer nofollow" target="_blank">Parents, the guardians of internet</a> 
-<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls" rel="noopener noreferrer nofollow" target="_blank">Guide for parents on setting parental controls</a> 
-<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/understanding-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Understanding cyber wellness</a> 
-<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely" rel="noopener noreferrer nofollow" target="_blank">Navigating the cyber world safely</a> 
-<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" rel="noopener noreferrer nofollow" target="_blank">ICT in schools: To use or not to use?</a> 
-<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction" rel="noopener noreferrer nofollow" target="_blank">Play safe – avoid online gaming addiction</a> 
-<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/safeguarding-your-child-online" rel="noopener noreferrer nofollow" target="_blank">Safeguarding your child online</a>
-</p>
+<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/why-are-my-students-so-captivated-by-social-media/" rel="noopener nofollow" target="_blank">Why are my students so captivated by social media?</a>
+<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/kids-can-embrace-ai-to-excel-in-their-future-careers/" rel="noopener nofollow" target="_blank">Kids can embrace AI to excel in their future careers</a>
+<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/my-secret-to-curbing-my-kids-screen-time-go-low/" rel="noopener nofollow" target="_blank">My secret to curbing my kids’ screen time: Go low</a>
+<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/children-and-their-devices-how-to-strike-the-right-balance/" rel="noopener nofollow" target="_blank">Children and their devices: How to strike the right balance</a>&nbsp;</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
