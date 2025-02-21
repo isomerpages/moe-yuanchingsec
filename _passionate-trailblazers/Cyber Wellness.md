@@ -92,7 +92,7 @@ usage.</p>
 <br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely" rel="noopener noreferrer nofollow" target="_blank">Navigating the cyber world safely</a> 
 <br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" rel="noopener noreferrer nofollow" target="_blank">ICT in schools: To use or not to use?</a> 
 <br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction" rel="noopener noreferrer nofollow" target="_blank">Play safe – avoid online gaming addiction</a> 
-<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/safeguarding-your-child-online" rel="noopener noreferrer nofollow" target="_blank">Safeguarding your child online</a> 
+<br>√&nbsp;&nbsp; &nbsp;<a href="https://www.schoolbag.edu.sg/story/safeguarding-your-child-online" rel="noopener noreferrer nofollow" target="_blank">Safeguarding your child online</a>
 </p>
 </li>
 </ul>
