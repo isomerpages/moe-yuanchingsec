@@ -77,7 +77,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://yuanchingsec.edupage.org/timetable/" rel="noopener noreferrer nofollow" target="_blank">Class Timetable</a>
+<p><a href="/class-timetable/" rel="noopener noreferrer nofollow" target="_blank">Class Timetable</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
