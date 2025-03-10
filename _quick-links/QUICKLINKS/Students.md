@@ -94,8 +94,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/ycss-student-declaretravels" rel="noopener noreferrer nofollow" target="_blank">Student Online Travel Declaration (</a><em><a href="https://go.gov.sg/ycss-student-declaretravels" rel="noopener noreferrer nofollow" target="_blank">only for those not onboard PG</a></em>
-<a href="https://go.gov.sg/ycss-student-declaretravels" rel="noopener noreferrer nofollow" target="_blank">)</a>
+<p><a href="https://go.gov.sg/ycss-student-traveldeclaration" rel="noopener noreferrer nofollow" target="_blank">Student Online Travel Declaration (</a><em><a href="https://go.gov.sg/ycss-student-traveldeclaration" rel="noopener noreferrer nofollow" target="_blank">only for those not onboard PG</a></em>
+<a href="https://go.gov.sg/ycss-student-traveldeclaration" rel="noopener noreferrer nofollow" target="_blank">)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
