@@ -13,7 +13,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumni_Shree_Nethy_Durai.jpg">
 </div>
 <p></p>
-<p></p>
 <p>Shree Nethy, an alumna of Yuan Ching Secondary School’s Class of 2020,
 was a dedicated member of the Indian Dance team. During her years at Yuan
 Ching, Shree consistently demonstrated academic excellence and outstanding
