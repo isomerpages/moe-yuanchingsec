@@ -14,19 +14,18 @@ variant: tiptap
 </div>
 <p></p>
 <p>Shree Nethy, an alumna of Yuan Ching Secondary School’s Class of 2020,
-was a dedicated member of the Indian Dance team. During her years at Yuan
-Ching, Shree consistently demonstrated academic excellence and outstanding
-leadership qualities. As a leader in the Indian Dance CCA, Shree led by
-example in fostering a positive and collaborative environment within the
-team. Her dedication to the arts and ability to balance her CCA commitments
-with academic excellence showcased her strong time management skills. Her
-meticulous approach to learning, willingness to embrace challenges, and
-dedication to personal growth made her stand out among her peers.</p>
-<p>We celebrate Shree’s achievements at Singapore Polytechnic where she earned
-the SP Undergraduate Scholarship Award 2025 to pursue Bachelor of Business
-at NTU.</p>
-<p>Congratulations Shree! We are incredibly proud of your achievements. As
-you embark on your new chapter at NTU Business, may you continue to excel
-and inspire those around you. Your dedication and perseverance are truly
-commendable, embodying Yuan Ching’s vision of “A Thinker, An Achiever,
-and a Concerned Citizen.”</p>
+was a dedicated member of the Indian Dance team. Throughout her years at
+Yuan Ching, apart from excelling academically, she also led with passion
+and commitment. As a leader in the Indian Dance CCA, Shree fostered a collaborative
+and uplifting environment, inspiring her peers through her dedication to
+the arts. Her ability to balance rigorous academic demands with her CCA
+commitments showcased her strong time management and perseverance.</p>
+<p>Her pursuit of excellence continued at Singapore Polytechnic, where her
+dedication and hard work earned her the prestigious SP Undergraduate Scholarship
+Award 2025. She will pursue a Bachelor of Business at NTU, marking yet
+another milestone in her journey to success.</p>
+<p>Congratulations, Shree! We are incredibly proud of you. As you embark
+on this exciting new chapter at NTU, may you continue to thrive and inspire
+those around you. Your resilience, passion, and commitment to growth embody
+Yuan Ching’s vision of “A Thinker, An Achiever, and a Concerned Citizen".</p>
+<p></p>
