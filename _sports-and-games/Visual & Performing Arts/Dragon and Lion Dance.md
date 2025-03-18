@@ -98,7 +98,7 @@ Award</p>
 <br>Ms Lai Cheng Man
 <br>Mrs Goh-Cheong Wei Leng</p>
 <h3>Schedule</h3>
-<p>Thursdays: 3:15pm to 6:15 pm</p>
+<p>Thursdays: 3:00pm to 6:00pm</p>
 <h3>Venue</h3>
 <p>Venue (1) : Forum
 <br>Venue (2) : School Hall</p>

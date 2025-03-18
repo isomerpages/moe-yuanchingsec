@@ -72,7 +72,7 @@ will go through warm-ups, tunings, sectionals and whole band practices.</p>
 <br>Ms Azria Azman (2IC)
 <br>Ms Tan Kwee Theng</p>
 <h3>Schedule</h3>
-<p>Tuesdays &amp; Thursdays: 3:15pm to 6:15pm</p>
+<p>Tuesdays &amp; Thursdays: 3:00pm to 6:00pm</p>
 <h3>Venue</h3>
 <p>Band Room and Music Room</p>
 <h3>CCA Photographs</h3>
