@@ -45,7 +45,7 @@ Theatre</p>
 <br>Ms Nan Zhonghua
 <br>Mdm Yak Guat Eng</p>
 <h3>CCA Schedule</h3>
-<p>Tuesday and Thursday: 3.15pm to 6.15pm</p>
+<p>Tuesday and Thursday: 3.00pm to 6.00pm</p>
 <h3>Venue</h3>
 <p>Venue (1) : Enno Lab
 <br>Venue (2) : Dance Studio, Level 1</p>
