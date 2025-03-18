@@ -91,7 +91,7 @@ Award</p>
 <p>Miss Goh Woon Xian (IC)
 <br>Mr Lee Siak Kheng (2IC)</p>
 <h3>Schedule</h3>
-<p>Tuesdays &amp; Thursdays: 3:15pm to 6:15pm</p>
+<p>Tuesdays &amp; Thursdays: 3:00pm to 6:00pm</p>
 <h3>Venue</h3>
 <p>Guzheng Room and AVT</p>
 <h3>CCA Photographs</h3>
