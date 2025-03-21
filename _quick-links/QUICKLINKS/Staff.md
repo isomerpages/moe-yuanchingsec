@@ -75,7 +75,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://w3223sadmw01554.schools.moe.edu.sg/ras" rel="noopener noreferrer nofollow" target="_blank">Resource Allocation System (for staff)</a>  <em>(Booking of ICT Equipment)</em>
+<p><a href="https://sites.google.com/moe.edu.sg/yctech/admin-matters/bookingloaning-form" rel="noopener noreferrer nofollow" target="_blank">Resource Allocation System (for staff)</a>  <em>(Booking of ICT Equipment)</em>
 </p>
 </td>
 </tr>
