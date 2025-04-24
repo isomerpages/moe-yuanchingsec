@@ -7,7 +7,7 @@ variant: tiptap
 <p>Please refer to the link below for the 2025 Weighted Assessment schedule.</p>
 <p><em>For PDLP devices, you may also tap and hold the link and select Download Linked File .</em>
 </p>
-<p><strong>Weighted Assessment 1</strong> 
+<p><strong>Weighted Assessment 2</strong>
 </p>
-<p><a href="/files/2025_WA1_Schedule.pdf" rel="noopener nofollow" target="_blank">WA1 Schedule</a>
+<p><a href="/files/2025_WA2_Schedule_24_Apr.pdf" rel="noopener nofollow" target="_blank">WA2 Schedule (24 Apr)</a>
 </p>
