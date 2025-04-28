@@ -9,5 +9,5 @@ variant: tiptap
 </p>
 <p><strong>Weighted Assessment 2</strong>
 </p>
-<p><a href="/files/2025_WA2_Schedule_24_Apr.pdf" rel="noopener nofollow" target="_blank">WA2 Schedule (24 Apr)</a>
+<p><a href="/files/2025_WA2_Schedule_28_Apr.pdf" rel="noopener nofollow" target="_blank">WA2 Schedule (28 Apr 2025)</a>
 </p>
