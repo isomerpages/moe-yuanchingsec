@@ -33,9 +33,8 @@ and skills for the future.</p>
 <p></p>
 <p><strong><u>Tier 1: ALP for All Students – A Foundation in Innovation and Teamwork</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture2.png">
 </div>
 <p>Our Tier 1 ALP is designed for every Yuan Ching student, encouraging exploration
 and skill-building through hands-on projects and collaborative learning.</p>
@@ -49,7 +48,7 @@ like transportation. Through hands-on experiences with drone technology,
 how technology shapes the world.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture3.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture3.png">
 </div>
 <p></p>
 <p><u>Land Robotics<br></u>Get ready to build and drive your own land crawler!
@@ -73,7 +72,7 @@ their robotic creations.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture4.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture4.png">
 </div>
 <p></p>
 <p>Take your engineering skills to new heights! In Aerial Robotics, students
@@ -90,7 +89,7 @@ health. This outdoor learning experience brings classroom theories to life,
 helping students gain a deeper appreciation of environmental stewardship.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture5.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture5.png">
 </div>
 <p></p>
 <p><u>Environmental Science and Data Analysis<br></u>Launched in 2024, our
@@ -116,32 +115,22 @@ the high-tech world of marine, aviation, and technology industries.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture6.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>
-<br>
-</p>
-<p><strong>Pursue</strong>
-</p>
-<p></p>
+<p><strong>Pursue<br></strong>Students then advance their skills through
+enrichment courses in Python programming, drones, app development and 3D
+printing. With Applied Learning Modules (ApLM), they dig deeper into STEM,
+honing practical skills that mirror industry needs and expanding their
+knowledge with each new discovery.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture7.png">
 </div>
-<p><strong><br></strong>Students then advance their skills through enrichment
-courses in Python programming, drones, app development and 3D printing.
-With Applied Learning Modules (ApLM), they dig deeper into STEM, honing
-practical skills that mirror industry needs and expanding their knowledge
-with each new discovery.</p>
+<p></p>
 <p>In Land Robotics, students engage in Advanced Land Robotics, focusing
 on the design and construction of sophisticated remote-controlled crawlers.
 The program explores complex engineering systems, including suspension
 and precision control mechanisms. Students will refine and optimize vehicle
 performance through iterative design processes.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture8.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture8.png">
 </div>
 <p>In Marine Robotics, students will engage in the design and construction
 of remote-controlled boats in Advanced Marine Robotics. This program emphasizes
@@ -156,24 +145,21 @@ into specialized skills. This program empowers them to navigate the skies,
 combining technical expertise with creative expression.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture9.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture9.png">
 </div>
 <p></p>
-<p><strong>Excel</strong>
+<p></p>
+<p><strong>Excel </strong>
 </p>
-<p></p>
+<p>At the pinnacle of their ALP journey, students participate in competitions
+such as the NP Offshore and Sustainable Engineering Challenge and the Science
+Centre Drone Odyssey. Termly meetups allow these young innovators to share
+their work, inspire each other, and embark on new learning adventures together.
+By the end, they walk away with an impressive portfolio showcasing the
+projects, skills, and insights they’ve gained over the years.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
 </div>
-<p><strong><br></strong>At the pinnacle of their ALP journey, students participate
-in competitions such as the NP Offshore and Sustainable Engineering Challenge
-and the Science Centre Drone Odyssey. Termly meetups allow these young
-innovators to share their work, inspire each other, and embark on new learning
-adventures together. By the end, they walk away with an impressive portfolio
-showcasing the projects, skills, and insights they’ve gained over the years.</p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p><strong>Empowering a New Generation of Innovators</strong>
 </p>
