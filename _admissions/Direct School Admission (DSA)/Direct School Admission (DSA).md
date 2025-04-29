@@ -20,7 +20,8 @@ offer the following areas:</p>
 <p>STEM: Engineering Innovation and Solutions</p>
 </li>
 <li>
-<p>Leadership: Community Youth Leadership</p>
+<p><a href="/ycss-dsa-community-and-youth-leadership/" rel="noopener nofollow" target="_blank">Leadership: Community Youth Leadership</a>
+</p>
 </li>
 </ul>
 <p></p>
