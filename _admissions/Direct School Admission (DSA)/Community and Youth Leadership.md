@@ -6,15 +6,12 @@ description: ""
 third_nav_title: Direct School Admission (DSA)
 ---
 <h3><strong>Future Leaders Wanted: Heart Over Experience!</strong></h3>
-<p><strong>“At YCSS, we are looking for future leaders who care deeply, act courageously, and inspire others through service.</strong>
-</p>
-<p><strong>All you need is a heart for making a difference, not a long resume.</strong>
-</p>
-<p><strong>We believe that real leadership begins with empathy, vision, and the courage to act.”</strong>
-</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Quote_DSA.jpg">
+</div>
 <p>[any video/ picture etc]</p>
-<p></p>
 <p>Students passionate about leadership and community service are welcome
 to apply for admission to Yuan Ching Secondary School through the DSA-CYL
 track. Applicants will be assessed based on their potential, passion, and
