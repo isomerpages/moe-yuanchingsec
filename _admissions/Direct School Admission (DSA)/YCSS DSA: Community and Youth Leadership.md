@@ -30,6 +30,10 @@ them.</p>
 <p></p>
 <p><strong>CYL Leadership Tiers</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/LLP_Tier.png">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
