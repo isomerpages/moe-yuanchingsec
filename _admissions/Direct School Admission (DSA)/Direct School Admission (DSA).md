@@ -17,7 +17,8 @@ Examination (PSLE).</p>
 offer the following areas:</p>
 <ul>
 <li>
-<p>STEM: Engineering Innovation and Solutions</p>
+<p><a href="/stem-engineering-innovation-and-solutions/" rel="noopener nofollow" target="_blank">STEM: Engineering Innovation and Solutions</a>
+</p>
 </li>
 <li>
 <p><a href="/ycss-dsa-community-and-youth-leadership/" rel="noopener nofollow" target="_blank">Leadership: Community Youth Leadership</a>
