@@ -14,7 +14,7 @@ in engineering and technology to apply for Direct School Admission.&nbsp;</p>
 </p>
 <p></p>
 <p>Successful applicants would be enrolled directly into our R.E.A.P Club
-that builds on the school’s <a href="https://www.yuanchingsec.moe.edu.sg/engaged-learners/applied-learning-programme-marine-robotics/" rel="noopener nofollow" target="_blank">Applied Learning Programme</a> in
+that builds on the school’s <a href="/engaged-learners/applied-learning-programme-marine-robotics/" rel="noopener nofollow" target="_blank">Applied Learning Programme</a> in
 Science, Technology, Engineering and Mathematics . As members of the R.E.A.P
 Club, students are provided with&nbsp; enriched learning experiences, mentorship,
 and hands-on opportunities to nurture their passion for engineering and
@@ -81,11 +81,21 @@ space for students to experiment, take risks, and grow.</p>
 <p><strong><u>Criteria</u></strong>
 </p>
 <p>We are looking for students who exhibit the following:</p>
-<p>- Very Good conduct&nbsp;</p>
-<p>- Demonstrates keen interest in STEM/ Robotics</p>
-<p>- Demonstrates aptitude of analytical and logical thinking</p>
-<p>-&nbsp; (Optional) Represented school in Science/ Mathematics/ Robotics/
-Computing-related competitions</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Very Good conduct&nbsp;</p>
+</li>
+<li>
+<p>Demonstrates keen interest in STEM/ Robotics</p>
+</li>
+<li>
+<p>Demonstrates aptitude of analytical and logical thinking</p>
+</li>
+<li>
+<p>(Optional) Represented school in Science/ Mathematics/ Robotics/ Computing-related
+competitions</p>
+</li>
+</ul>
 <p></p>
 <p>Please also take note that meeting all the criteria does not guarantee
 the student will be shortlisted/given an offer.</p>
