@@ -8,10 +8,9 @@ third_nav_title: Direct School Admission (DSA)
 <h3><strong>Future Leaders Wanted: Heart Over Experience!</strong></h3>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Quote_DSA.jpg">
-</div>
-<p>[any video/ picture etc]</p>
+<p></p>
+<p><em>[any video/ picture etc]</em>
+</p>
 <p>Students passionate about leadership and community service are welcome
 to apply for admission to Yuan Ching Secondary School through the DSA-CYL
 track. Applicants will be assessed based on their potential, passion, and
@@ -148,10 +147,8 @@ leadership bodies, VIA projects, or community service), awards (EAGLES
 and ECHA) and personal experiences are encouraged to present them. However,
 the absence of a portfolio will not disadvantage applicants, as the selection
 process focuses on potential, attitude, and alignment with CYL values.</p>
-<p></p>
 <p>Please also take note that meeting all the criteria does not guarantee
 the student will be shortlisted/given an offer.</p>
-<p></p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
