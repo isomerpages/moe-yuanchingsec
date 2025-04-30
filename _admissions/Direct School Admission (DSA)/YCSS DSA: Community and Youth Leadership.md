@@ -7,6 +7,9 @@ third_nav_title: Direct School Admission (DSA)
 ---
 <h3><strong>Future Leaders Wanted: Heart Over Experience!</strong></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Quote_DSA.jpg">
+</div>
 <p></p>
 <p></p>
 <p><em>[any video/ picture etc]</em>
