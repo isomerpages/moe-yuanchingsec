@@ -15,7 +15,7 @@ in engineering and technology to apply for Direct School Admission.&nbsp;</p>
 </p>
 <p></p>
 <p>Successful applicants would be enrolled directly into our R.E.A.P Club
-that builds on the school’s <a href="/engaged-learners/applied-learning-programme-marine-robotics/" rel="noopener nofollow" target="_blank">Applied Learning Programme</a> in
+that builds on the school’s <a href="/engaged-learners/applied-learning-programme" rel="noopener nofollow" target="_blank">Applied Learning Programme</a> in
 Science, Technology, Engineering and Mathematics . As members of the R.E.A.P
 Club, students are provided with&nbsp; enriched learning experiences, mentorship,
 and hands-on opportunities to nurture their passion for engineering and
