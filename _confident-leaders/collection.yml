@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Student Leadership.md
-      - Learning for Life Programme.md
+      - "Learning for Life Programme: Community Youth Leadership (CYL).md"
       - Values in Action (VIA).md
       - GoGlobal@YCSS.md
       - Character & Citizenship/.keep
