@@ -10,10 +10,9 @@ third_nav_title: Direct School Admission (DSA)
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Quote_DSA.jpg">
 </div>
-<p></p>
-<p></p>
-<p><em>[any video/ picture etc]</em>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wJ6ONG52dvI?si=Af9ieM4rbVCM-Vqf&amp;controls=0"></iframe>
+</div>
 <p>Students passionate about leadership and community service are welcome
 to apply for admission to Yuan Ching Secondary School through the DSA-CYL
 track. Applicants will be assessed based on their potential, passion, and
