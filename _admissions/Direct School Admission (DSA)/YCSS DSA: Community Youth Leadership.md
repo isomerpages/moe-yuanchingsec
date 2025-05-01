@@ -35,9 +35,8 @@ with. We believe that it is something you choose, nurture, and grow. If
 you are ready to serve, to lead, and to make a difference, you already
 have what it takes.</p>
 <p>Join us, and let’s shape the future together.</p>
-<p><strong> </strong>
-</p>
-<p><strong>Overview of the CYL Programme </strong>
+<p></p>
+<p><strong>Overview of the CYL Programme</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/LLP_Tier.png">
