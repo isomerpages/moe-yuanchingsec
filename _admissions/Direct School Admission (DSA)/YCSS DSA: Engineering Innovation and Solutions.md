@@ -10,9 +10,7 @@ third_nav_title: Direct School Admission (DSA)
 <p>Yuan Ching Secondary offers the Direct School Admission area of ‘Engineering
 Innovations and Solutions. We welcome Primary 6 students with interest
 in engineering and technology to apply for Direct School Admission.&nbsp;</p>
-<p></p>
-<p><strong><a href="https://youtu.be/F0FQEIsFBCU?si=SJ7JnWcm_VTNm2J5" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/F0FQEIsFBCU?si=SJ7JnWcm_VTNm2J5</a></strong>
-</p>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/F0FQEIsFBCU?si=SJ7JnWcm_VTNm2J5"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_02_fina_.png"></a>
 <p></p>
 <p>Successful applicants would be enrolled directly into our R.E.A.P Club
 that builds on the school’s <a href="/engaged-learners/applied-learning-programme" rel="noopener nofollow" target="_blank">Applied Learning Programme</a> in
