@@ -4,7 +4,7 @@ permalink: /confident-leaders/learning-for-life-programme/
 description: ""
 variant: tiptap
 ---
-<h1>Yuan Ching LLP - Empowering Youths to Lead with Empathy, Vision, and Purpose</h1>
+<h1><strong>Yuan Ching LLP - Empowering Youths to Lead with Empathy, Vision, and Purpose</strong></h1>
 <p></p>
 <p><strong>Yuan Ching Secondary's Life-long Learning Programme in Leadership - Community Youth Leadership</strong>
 </p>
