@@ -4,11 +4,10 @@ permalink: /engaged-learners/applied-learning-programme/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Yuan Ching ALP - Charting New Horizons</strong></h1>
+<h1><strong>Yuan Ching ALP - R.E.A.P</strong></h1>
 <p></p>
-<p><strong>Yuan Ching Secondary’s Applied Learning Programme in STEM - Engineering Innovations and Solutions</strong>
+<p><strong>Yuan Ching Secondary’s Applied Learning Programme in STEM - Robotics, Engineering, Artificial intelligence, Programming (R.E.A.P)</strong>
 </p>
-<p></p>
 <p>At Yuan Ching Secondary, we believe in igniting curiosity, sparking innovation,
 and preparing every student to thrive in a tech-driven world. Our Applied
 Learning Programme (ALP) offers a unique, tiered approach that immerses
@@ -22,7 +21,7 @@ Experiment, Analyse and Pursue” (REAP).&nbsp;</p>
 </p>
 <p>Our Applied Learning Programme (ALP) aims to ignite curiosity, build confidence,
 and nurture real-world problem solvers through the theme of&nbsp;</p>
-<p><strong><em>Engineering Innovations and Solutions.</em></strong>
+<p><strong><em>Robotics, Engineering, Artificial intelligence, Programming</em></strong>
 </p>
 <p>We believe every student should be empowered to explore the world of science,
 technology, and engineering — not just in theory, but through hands-on,
