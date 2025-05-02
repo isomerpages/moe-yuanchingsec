@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>Yuan Ching LLP - Empowering Youths to Lead with Empathy, Vision, and Purpose</strong></h1>
 <p></p>
-<p><strong>Yuan Ching Secondary's Life-long Learning Programme in Leadership - Community Youth Leadership</strong>
+<p><strong>Yuan Ching Secondary's Learning for Life Programme in Leadership - Community Youth Leadership</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
