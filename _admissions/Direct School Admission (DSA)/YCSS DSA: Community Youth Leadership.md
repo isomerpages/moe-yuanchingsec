@@ -18,8 +18,8 @@ third_nav_title: Direct School Admission (DSA)
 to apply for admission to Yuan Ching Secondary School through the DSA-CYL
 track. Applicants will be assessed based on their potential, passion, and
 alignment with CYL values, rather than prior experience alone. Successful
-applicants will experience Tiers 2 and 3 of the school's <a href="/confident-leaders/learning-for-life-programme/" rel="noopener nofollow" target="_blank">Life-Long Learning Programme.</a> 
-</p>
+applicants will experience Tiers 2 and 3 of the school's <a href="/confident-leaders/learning-for-life-programme/" rel="noopener nofollow" target="_blank">Life-Long Learning Programme </a>in
+Community Youth Leadership.</p>
 <p>DSA students are expected to actively take on leadership roles during
 their time at YCSS and contribute meaningfully to the school and wider
 community through the CYL programme.</p>
