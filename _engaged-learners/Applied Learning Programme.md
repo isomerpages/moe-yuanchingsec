@@ -15,7 +15,7 @@ students in exciting, hands-on learning, embracing the spirit of “Risk,
 Experiment, Analyse and Pursue” (REAP).&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture_1.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ALP_sch_website_01.png">
 </div>
 <p><em>“This is your playground, future engineers. Risk, Experiment, Analyse, Pursue."</em>
 </p>
@@ -33,7 +33,7 @@ and skills for the future.</p>
 <p><strong><u>Tier 1: ALP for All Students – A Foundation in Innovation and Teamwork</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture2.png">
 </div>
 <p>Our Tier 1 ALP is designed for every Yuan Ching student, encouraging exploration
 and skill-building through hands-on projects and collaborative learning.</p>
@@ -47,7 +47,7 @@ like transportation. Through hands-on experiences with drone technology,
 how technology shapes the world.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_sch_website_03.png">
 </div>
 <p></p>
 <p><u>Land Robotics<br></u>Get ready to build and drive your own land crawler!
@@ -88,9 +88,8 @@ health. This outdoor learning experience brings classroom theories to life,
 helping students gain a deeper appreciation of environmental stewardship.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_sch_website_05.png">
 </div>
-<p></p>
 <p><u>Environmental Science and Data Analysis<br></u>Launched in 2024, our
 newest interdisciplinary program combines environmental science with data
 analysis. Students use temperature and humidity sensors to monitor their
@@ -111,7 +110,7 @@ Trade Show and the Singapore Airshow, students gain valuable exposure to
 the high-tech world of marine, aviation, and technology industries.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_sch_website_06.png">
 </div>
 <p></p>
 <p><strong>Pursue<br></strong>Students then advance their skills through
@@ -119,6 +118,7 @@ enrichment courses in Python programming, drones, app development and 3D
 printing. With Applied Learning Modules (ApLM), they dig deeper into STEM,
 honing practical skills that mirror industry needs and expanding their
 knowledge with each new discovery.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture7.png">
 </div>
@@ -128,9 +128,11 @@ on the design and construction of sophisticated remote-controlled crawlers.
 The program explores complex engineering systems, including suspension
 and precision control mechanisms. Students will refine and optimize vehicle
 performance through iterative design processes.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture8.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_sch_website_08.png">
 </div>
+<p></p>
 <p>In Marine Robotics, students will engage in the design and construction
 of remote-controlled boats in Advanced Marine Robotics. This program emphasizes
 the practical application of scientific principles to create a functional
@@ -144,7 +146,7 @@ into specialized skills. This program empowers them to navigate the skies,
 combining technical expertise with creative expression.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture9.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_sch_website_09.png">
 </div>
 <p></p>
 <p></p>
@@ -156,9 +158,11 @@ Centre Drone Odyssey. Termly meetups allow these young innovators to share
 their work, inspire each other, and embark on new learning adventures together.
 By the end, they walk away with an impressive portfolio showcasing the
 projects, skills, and insights they’ve gained over the years.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_sch_website_10.png">
 </div>
+<p></p>
 <p></p>
 <p><strong>Empowering a New Generation of Innovators</strong>
 </p>
