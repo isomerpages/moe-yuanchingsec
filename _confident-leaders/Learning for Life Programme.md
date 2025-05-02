@@ -4,59 +4,87 @@ permalink: /confident-leaders/learning-for-life-programme/
 description: ""
 variant: tiptap
 ---
-<p>To provide a greater breadth of experiences and learning opportunities,
-the scope of our Learning for Life Programme (LLP) has been broadened to
-that of ‘Sports and Outdoor Education’ with elements of Dragon Boat in
-2018. Hence the name and theme of the LLP is ‘gRowing Values through Sports
-and Outdoor Experiences’. In 2020, we enhanced our LLP with an addition
-of our signature Talent Development Programme to leverage character and
-life skills development for all students.</p>
-<p>In the development of students’ Talents and Aspirations, the school adopted
-a two-tiered approach in LLP to engage both the general student population
-and student segments with aptitude and interests for talent development
-(Refer to Figure 1).</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/LLP%20Framework.png">
-</div>
-<p><strong> Figure 1: LLP Framework</strong>
+<h1><strong>Yuan Ching LLP - Empowering Youths to Lead with Empathy, Vision, and Purpose</strong></h1>
+<p></p>
+<p><strong>Yuan Ching Secondary's Learning for Life Programme in Leadership - Community Youth Leadership</strong>
 </p>
-<p>The outer ring of our LLP framework is a safety float, symbolising the
-notion of safety and risk assessment. On the ring, the desired student
-outcomes are encapsulated in the acronym ‘GRIT21’ (G – Growth Mindset,
-R – Resilience, I – IExCEL (School Values), T – Thrive, 21 – 21st Century
-Competencies). To achieve these student outcomes, students undergo the
-Kolb's Experiential Learning Cycle through the following processes - Experimentation,
-Experience, Reflection and Conceptualisation (Refer to Figure 1).</p>
-<p>All students will have the opportunity to demonstrate and develop GRIT21
-through Customised Swimming Programme at Secondary 1, Kayaking Orientation
-at Secondary 2 and Dragon Boat Quest at Secondary 3. To enhance cohort
-level for deeper experiences, the school provides integrated outdoor and
-experiential programmes that engage the students’ sense of adventure through
-the exploration of both natural and urban environments. Students also develop
-appropriate outdoor skills through physical activities while cultivating
-an attitude of care and appreciation for the environment, and thoughtful
-consideration of the risks and safety of self and others. These authentic
-experiences are supplemented with other enrichment programmes such as the
-Customised Sports Education Programme, Sports Modules and CCE learning
-packages.</p>
-<p>To deepen students’ 21st&nbsp;Century Competencies, those with good aptitude
-and interest in Sports and Games will have the option to participate in
-the Tier-2 Talent Development Programme. They will then have the opportunity
-to engage in dialogues with practitioners from the sports industry, go
-for LLP related learning journeys and experience a multi-sport exposure.</p>
-<p>Despite all the adversities COVID-19 situation has presented to us, the
-learning of our students is not hampered as different possibilities presented
-itself in alternative ways. For instance, our students had the opportunity
-to engage in virtual dialogue and physical activity sessions with athletes
-of various sports, sports scientist, practitioners, active volunteers in
-the sporting scene and even students from our partnering schools.</p>
-<p>With the removal of Safe Management Measures (SMMs) in 2022, the school
-would be focusing more on outdoor authentic experiences and exposure to
-support our students’ development. For instance, the school will be expanding
-our ‘gRowing’ activities to include Stand Up Paddling for selected students
-in 2023. Through a variety of different athletic sporting pursuits, we
-hope to leverage character and life skills development for more students.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZxN0ACuVgH0TMGxa0dDwT9_T6rWig2ZUWf5CEgUctTw1WxgAID5NU55OMR1Gp46hnCT1b4TcI008Q/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP.png">
 </div>
+<p>We believe that leadership begins with the courage to serve, the ability
+to influence others for the better, and the strength of character to do
+what is right, even when no one is watching.</p>
+<p>Our Community Youth Leadership (CYL) Learning for Life Programme nurtures
+students to become self-aware individuals, compassionate changemakers,
+and visionary leaders who make a meaningful difference within and beyond
+their communities.</p>
+<p>Rooted in our school values of Integrity, Excellence, Compassion, Enterprise,
+and Loyalty (IExCEL), the CYL programme is designed to progressively develop
+students’ leadership capacity through authentic, purposeful experiences.
+It fosters empathy, cultivates resilience, and builds a strong sense of
+social responsibility in every student.</p>
+<p><strong>Programme Overview</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP__3.jpg">
+</div>
+<p></p>
+<p>The CYL programme follows a three-tiered developmental framework:</p>
+<p><strong>Tier 1 (Rise): Basic Leadership for All Students</strong>
+<br>All Secondary 1 to 3 students develop foundational leadership skills grounded
+in Servant Leadership principles. They participate in Values-in-Action
+(VIA) projects through their CCAs, undergo Design Thinking training, and
+work towards the Silver National Youth Achievement Award (NYAA). Students
+cultivate empathy, personal responsibility, and a commitment to community
+care.</p>
+<p><strong>Tier 2 (Lead): Intermediate Leadership for Identified Student Leaders</strong>
+<br>Formal student leaders — such as Student Councillors, Class Chairpersons,
+Peer Support Leaders, CCE Leaders, and top-tier CCA Leaders — are guided
+through The Leadership Challenge model by Kouzes and Posner. They undergo
+role-specific leadership training, plan school-wide initiatives, and collaborate
+with grassroots organisations to deepen community engagement.</p>
+<p><strong>Tier 3 (Elevate): Strategic Leadership for Selected Student Leaders</strong>
+<br>Exceptional leaders who have excelled in Tier 2 are selected to lead student-initiated
+VIA projects, participate in national leadership platforms, and mentor
+younger leaders. They craft a personal leadership legacy rooted in vision,
+empathy, and service, and may represent the school in national or overseas
+service-learning initiatives.</p>
+<p></p>
+<p><strong>Distinctive Features of Yuan Ching’s CYL Programme</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Dual Leadership Models</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Servant Leadership</em> (Greenleaf) develops a service-oriented mindset
+at the foundational level.</p>
+</li>
+<li>
+<p><em>The Leadership Challenge</em> (Kouzes and Posner) refines leadership
+practice at higher levels.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Tiered Leadership Progression</strong>:
+<br>Structured pathways allow every student to grow at their own pace, from
+basic leadership in everyday interactions to leading complex initiatives
+for the broader community.</p>
+</li>
+<li>
+<p><strong>Community-Rooted VIA</strong>:
+<br>VIA projects are integrated into CCAs and student leadership roles, leveraging
+Design Thinking to ensure that initiatives are student-led, purpose-driven,
+and community-focused.</p>
+</li>
+<li>
+<p><strong>Post-YCSS Opportunities</strong>:
+<br>Students with strong leadership portfolios are well-positioned for leadership
+development programmes at post-secondary institutions and may pursue pathways
+in social leadership, community development, and civic engagement.</p>
+</li>
+</ul>
 <p></p>
