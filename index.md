@@ -42,4 +42,14 @@ sections:
       id: infobar
       button: Read more
       url: /privacy/
+  - infopic:
+      title: Applied Learning Programme (ALP)
+      subtitle: School distinctive programme
+      id: infopic
+      description: Yuan Ching Secondary’s Applied Learning Programme in STEM -
+        Robotics, Engineering, Artificial intelligence, Programming (R.E.A.P)
+      button: Button Text
+      url: /engaged-learners/applied-learning-programme/
+      image: /images/1.png
+      alt: Image alt text
 ---
