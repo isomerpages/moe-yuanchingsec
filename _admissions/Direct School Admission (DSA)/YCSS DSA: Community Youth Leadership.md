@@ -38,9 +38,7 @@ have what it takes.</p>
 <p></p>
 <p><strong>Overview of the CYL Programme</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/LLP_Tier.png">
-</div>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -65,64 +63,29 @@ have what it takes.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>All students undergo leadership experiences based on the principles of
-Servant Leadership by Greenleaf.</p>
+Servant Leadership.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students actively work towards one of the leadership positions:&nbsp;</p>
-<p>
-<br>
-</p>
-<ul>
-<li>
-<p>Councillors</p>
-</li>
-<li>
-<p>Class Leaders</p>
-</li>
-<li>
-<p>CCE Leaders&nbsp;</p>
-</li>
-<li>
-<p>Peer Support Leaders</p>
-</li>
-<li>
-<p>CCA Leaders</p>
-</li>
-</ul>
-<p>
-<br>
-</p>
-<p>Students engage in the Leadership Challenge programme by Kouzes and Posner</p>
+<p>Students actively work towards one of the leadership positions available
+in the school.</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students get the opportunity to&nbsp;</p>
-<p>
-<br>
-</p>
-<ul>
-<li>
-<p>Collaborate with external organisations like PAYM, Lions Befrienders,
-or Rotary Club</p>
-</li>
-</ul>
-<p>
-<br>
-</p>
-<ul>
-<li>
-<p>Participate in Community Innovation Challenges or Leadership Summits
-<br>
-<br>
-</p>
-</li>
-<li>
-<p>Represent the School in Leadership Conferences.</p>
-</li>
-</ul>
+<p>Students get the opportunity to collaborate with external organisations,
+participate in Community Innovation Challenges and represent the school
+in leadership conferences.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/LLP_Tier.png">
+</div>
+<p></p>
+<p></p>
 <p><strong><u>Criteria</u></strong>
 </p>
 <p>We are looking for students who exhibit the following:</p>
