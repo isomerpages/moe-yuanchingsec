@@ -6,6 +6,10 @@ variant: tiptap
 ---
 <p><strong>Empowering Youths to Lead with Empathy, Vision, and Purpose</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP.png">
+</div>
 <p>We believe that leadership begins with the courage to serve, the ability
 to influence others for the better, and the strength of character to do
 what is right, even when no one is watching.</p>
