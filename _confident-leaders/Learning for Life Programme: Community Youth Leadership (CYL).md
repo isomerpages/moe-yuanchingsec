@@ -22,7 +22,7 @@ social responsibility in every student.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1746102986946_49219d79_abf7_4f7b_9069_539e8023e062_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP__3.jpg">
 </div>
 <p></p>
 <p>The CYL programme follows a three-tiered developmental framework:</p>
