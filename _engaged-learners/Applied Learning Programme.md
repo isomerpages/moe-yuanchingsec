@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>Yuan Ching ALP - Charting New Horizons</strong></h1>
 <p></p>
-<p><strong>Yuan Ching Secondary’s Applied Learning Programme in STEM - Engineering Innovations and Solutions.&nbsp;</strong>
+<p><strong>Yuan Ching Secondary’s Applied Learning Programme in STEM - Engineering Innovations and Solutions</strong>
 </p>
 <p></p>
 <p>At Yuan Ching Secondary, we believe in igniting curiosity, sparking innovation,
@@ -149,7 +149,7 @@ combining technical expertise with creative expression.</p>
 </div>
 <p></p>
 <p></p>
-<p><strong>Excel </strong>
+<p><strong>Excel</strong>
 </p>
 <p>At the pinnacle of their ALP journey, students participate in competitions
 such as the NP Offshore and Sustainable Engineering Challenge and the Science
