@@ -21,7 +21,7 @@ offer the following areas:</p>
 </p>
 </li>
 <li>
-<p><a href="/ycss-dsa-community-and-youth-leadership/" rel="noopener nofollow" target="_blank">Leadership: Community Youth Leadership</a>
+<p><a href="/ycss-dsa-community-youth-leadership/" rel="noopener nofollow" target="_blank">Leadership: Community Youth Leadership</a>
 </p>
 </li>
 </ul>
