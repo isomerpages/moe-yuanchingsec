@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.yuanchingsec.moe.edu.sg/direct-school-admission-dsa/
+external: https://yuanchingsec.moe.edu.sg/admissions/direct-school-admission-dsa/
 ---
