@@ -27,7 +27,7 @@ sections:
       id: infopic
       description: Yuan Ching Secondary’s Applied Learning Programme in STEM -
         Robotics, Engineering, Artificial intelligence, Programming (R.E.A.P)
-      button: Read mode
+      button: Read more
       url: /engaged-learners/applied-learning-programme/
       image: /images/Untitled_design.png
       alt: Image alt text
