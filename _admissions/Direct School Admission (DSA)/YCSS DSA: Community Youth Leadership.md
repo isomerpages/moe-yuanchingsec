@@ -189,7 +189,7 @@ to honour their commitment to the school, and actively work towards taking
 on a Tier 2 leadership role by the end of Secondary 1. These roles will
 provide a strong foundation for their leadership development towards the
 Tier 3 programme as they continue their journey through the CYL programme
-at YCSS</p>
+at YCSS.</p>
 <p></p>
 <p>You will receive notification from the school by 11 July 2025, if your
 child has been shortlisted to undergo Direct School Admission (DSA) selection.
