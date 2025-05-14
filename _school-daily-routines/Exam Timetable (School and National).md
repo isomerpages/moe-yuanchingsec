@@ -6,32 +6,11 @@ variant: tiptap
 ---
 <p><em>For PDLP devices, you may also tap and hold the link and select Download Linked File .</em>
 </p>
-<p><strong><u>2024 Sec 1-3 End of Year Examination</u></strong>
+<p><strong>2025 PRELIMINARY N-LEVEL EXAMINATION</strong>
 </p>
-<p><a href="/files/Sec_1_2024.pdf" rel="noopener nofollow" target="_blank">Sec 1 End of Year Exam Timetable</a>
+<p><a href="/files/2025__N_Prelim_Timetable__4NA_Final_28_Apr.pdf" rel="noopener nofollow" target="_blank">2025 Preliminary Examination Timetable for 4NA</a>
 </p>
-<p><a href="/files/2E_2024.pdf" rel="noopener nofollow" target="_blank">Sec 2E End of Year Exam Timetable</a>
-</p>
-<p><a href="/files/2NA_2024.pdf" rel="noopener nofollow" target="_blank">Sec 2NA End of Year Exam Timetable</a>
-</p>
-<p><a href="/files/2NT_2024.pdf" rel="noopener nofollow" target="_blank">Sec 2NT End of Year Exam Timetable</a>
-</p>
-<p><a href="/files/3E_2024.pdf" rel="noopener nofollow" target="_blank">Sec 3E End of Year Exam Timetable</a>
-</p>
-<p><a href="/files/3N_2024.pdf" rel="noopener nofollow" target="_blank">Sec 3NA End of Year Exam Timetable</a>
-</p>
-<p><a href="/files/3T_2024.pdf" rel="noopener nofollow" target="_blank">Sec 3NT End of Year Exam Timetable</a>
-</p>
-<p></p>
-<p><strong>2024 PRELIMINARY O-LEVEL EXAMINATION</strong>
-</p>
-<p><a href="/files/2024_O_Level_Prelim_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Preliminary Examination Timetable for 4E/5N</a>
-</p>
-<p><strong>2024 PRELIMINARY N-LEVEL EXAMINATION</strong>
-</p>
-<p><a href="/files/2024_N_Prelim_Timetable_4NA_Final__amended_28_May.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Preliminary Examination Timetable for 4NA (Updated)</a>
-</p>
-<p><a href="/files/2024_N_Prelim_Timetable_4NT_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Preliminary Examination Timetable for 4NT</a>
+<p><a href="/files/2025_N_Prelim_Timetable_4NT_Final_28_Apr.pdf" rel="noopener nofollow" target="_blank">2025 Preliminary Examination Timetable for 4NT</a>
 </p>
 <p><strong>2024 GCE O &amp; N LEVEL REGISTRATION INFORMATION FOR SCHOOL CANDIDATES</strong>
 </p>
