@@ -10,7 +10,11 @@ variant: tiptap
 </p>
 <p><a href="/files/2025__N_Prelim_Timetable__4NA_Final_28_Apr.pdf" rel="noopener nofollow" target="_blank">2025 Preliminary Examination Timetable for 4NA</a>
 </p>
-<p><a href="/files/2025_N_Prelim_Timetable_4NT_Final_28_Apr.pdf" rel="noopener nofollow" target="_blank">2025 Preliminary Examination Timetable for 4NT</a>
+<p><a href="/files/2025_N_Prelim_Timetable_4NT_Final_14_May.pdf" rel="noopener nofollow" target="_blank">2025 Preliminary Examination Timetable for 4NT</a>
+</p>
+<p><a href="/files/GENERAL_INSTRUCTIONS_FOR_SCHOOL_INTERNAL_EXAMINATIONS.pdf" rel="noopener nofollow" target="_blank">General Instructions for School Internal Examinations</a>
+</p>
+<p><a href="/files/Stationery_to_be_brought_for_examinations.pdf" rel="noopener nofollow" target="_blank">Stationery to be brought for examinations</a>
 </p>
 <p><strong>2024 GCE O &amp; N LEVEL REGISTRATION INFORMATION FOR SCHOOL CANDIDATES</strong>
 </p>
