@@ -2,10 +2,12 @@
 title: School Holiday Programme
 permalink: /quick-links/for-students/school-daily-routines/school-holiday-programme/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-_For PDLP devices, you may also tap and hold the link and select Download Linked File ._  
-
-**2025 March Holiday Programme**
-    
-*   [Sec 4 and 5 March Holiday Remedial Schedule](/files/2025_Mar_Hol_Remedial_Schedule__For_Sec_4__5_only_.pdf)
+<p><em>For PDLP devices, you may also tap and hold the link and select Download Linked File .</em>
+</p>
+<p><strong>2025 June Holiday Programme</strong>
+</p>
+<p><a href="/files/PG_2025_June_Strcutured_Remedial_for_Sec_4_5_only.pdf" rel="noopener nofollow" target="_blank">June Remedial Structured Programme for Sec 4/5 only</a>
+</p>
+<p></p>
