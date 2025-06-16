@@ -27,7 +27,7 @@ sections:
       id: infopic
       description: Yuan Ching Secondary’s Applied Learning Programme in STEM -
         Robotics, Engineering, Artificial intelligence, Programming (R.E.A.P)
-      button: Read more
+      button: Discover ALP
       url: /engaged-learners/applied-learning-programme/
       image: /images/Untitled_design.png
       alt: Image alt text
@@ -37,13 +37,13 @@ sections:
       id: infopic
       description: Yuan Ching Secondary's Learning for Life Programme in Leadership -
         Community Youth Leadership
-      button: Read More
+      button: Discover LLP
       url: /confident-leaders/learning-for-life-programme/
       image: /images/LLP.png
       alt: Image alt text
   - infopic:
       title: Stories of Alumni
-      button: Read more
+      button: View Alumni Stories
       url: /resource/stories-of-alumni/
       image: /images/RESIZED_stories_of_alumni.png
       subtitle: Yuan Ching Secondary School
@@ -60,6 +60,6 @@ sections:
       title: Data Privacy
       subtitle: Yuan Ching Secondary School
       id: infobar
-      button: Read more
+      button: View Privacy Policy
       url: /privacy/
 ---
