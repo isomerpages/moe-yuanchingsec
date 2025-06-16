@@ -161,10 +161,10 @@ variant: tiptap
 <p>Ms Nan Zhonghua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sivaperakas R Muthiah</p>
+<p>Mr Jeffrey Chen Weixiong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeffrey Chen Weixiong</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -189,10 +189,10 @@ variant: tiptap
 <p>Mr Mohd Fahmy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Audrey Goh Xin Yun</p>
+<p>Ms Gina Teo Shun Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gina Teo Shun Ying</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -256,10 +256,10 @@ variant: tiptap
 <p>Ms Wong Wei Na</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mok Yuen Teng</p>
+<p>Mdm Zheng Xiumin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zheng Xiumin</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -972,7 +972,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Geok Tin</p>
+<p>Ms Nur Azliana Bte Mohd Fahrazi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Library Assistant</p>
