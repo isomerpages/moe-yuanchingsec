@@ -99,7 +99,7 @@ and pique the interest of our students.</p>
 <p>Ms Goh Woon Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zubaidah Ariffin</p>
+<p>Mdm Musniffa Mustaffa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Segar Muniandy</p>
@@ -110,7 +110,7 @@ and pique the interest of our students.</p>
 <p>Mdm Lim Yi Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nurshila</p>
+<p>Miss Normalah Bahrain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Senduran Vasudevan</p>
@@ -118,10 +118,10 @@ and pique the interest of our students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fang Chen Lan</p>
+<p>Ms Lai Cheng Man</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Musniffa Mustaffa</p>
+<p>Ms Siti Nurshila</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jamal Mohinitheen</p>
@@ -132,7 +132,18 @@ and pique the interest of our students.</p>
 <p>Ms Ong Fui Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Normalah Bahrain</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zheng Xiumin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -152,17 +163,6 @@ and pique the interest of our students.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Lai Cheng Man</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
