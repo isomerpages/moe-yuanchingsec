@@ -71,7 +71,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/ycss-ictrequest" rel="noopener noreferrer nofollow" target="_blank">ICT Service Request Form</a>
+<p><a href="https://go.gov.sg/ycss-ict-av-request" rel="noopener noreferrer nofollow" target="_blank">ICT Service Request Form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

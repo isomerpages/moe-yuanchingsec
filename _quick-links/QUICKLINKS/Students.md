@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/yuanching-ict-helpdesk" rel="noopener noreferrer nofollow" target="_blank">Yuan Ching ICT Helpdesk</a>
+<p><a href="https://go.gov.sg/ycss-ict-helpdesk" rel="noopener noreferrer nofollow" target="_blank">Yuan Ching ICT Helpdesk</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
