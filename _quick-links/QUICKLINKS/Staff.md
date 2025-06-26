@@ -100,7 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mims.moe.gov.sg" rel="noopener nofollow" target="_blank">MIMS Portal</a>
+<p><a href="https://mims.moe.gov.sg" rel="noopener nofollow" target="_blank">MIMS Portal</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
