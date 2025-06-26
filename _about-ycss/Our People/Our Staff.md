@@ -1011,15 +1011,15 @@ variant: tiptap
 <p>Ms Nur Azliana Bte Mohd Fahrazi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Library Assistant</p>
+<p>Librarian</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nuraishah Bte Sulaiman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Front Desk Receptionist</p>
 </td>
 </tr>
 </tbody>
