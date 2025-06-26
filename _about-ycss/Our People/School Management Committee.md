@@ -79,18 +79,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Patsy Chua</p>
+<p>Ms Chua Patsy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Joy Tay Huijuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/ Craft &amp; Technology</p>
 </td>
 </tr>
 <tr>
