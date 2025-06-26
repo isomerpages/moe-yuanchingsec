@@ -72,6 +72,14 @@ variant: tiptap
 <p>Senior Teacher/ Chemistry</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>SEC 1 FORM TEACHERS</h3>
@@ -455,6 +463,20 @@ variant: tiptap
 <p>Mr Tan Hanwei, Bennett</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>SEC 4 &amp; 5 FORM TEACHERS</h3>
@@ -584,6 +606,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Woon Xian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
