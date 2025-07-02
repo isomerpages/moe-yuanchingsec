@@ -72,6 +72,14 @@ variant: tiptap
 <p>Senior Teacher/ Chemistry</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>SEC 1 FORM TEACHERS</h3>
@@ -150,7 +158,7 @@ variant: tiptap
 <p>Ms Siti Nurshila Bte Roslan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Zheng Xiumin</p>
 </td>
 </tr>
 <tr>
@@ -256,7 +264,7 @@ variant: tiptap
 <p>Ms Wong Wei Na</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zheng Xiumin</p>
+<p>Ms Liu Yunman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -273,7 +281,7 @@ variant: tiptap
 <p>Ms Jasmine Widodo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Sivaperakas R Muthiah</p>
 </td>
 </tr>
 <tr>
@@ -396,7 +404,7 @@ variant: tiptap
 <p>Mr Senduran Vasudevan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liu Yunman</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -429,6 +437,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 Loyalty</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ling Peng Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shanthy Raja Nayagam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -438,18 +460,18 @@ variant: tiptap
 <p>Ms Tan Ai Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Hanwei, Bennett</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Loyalty</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ling Peng Yap</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shanthy Raja Nayagam</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -584,6 +606,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Woon Xian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -975,15 +1011,15 @@ variant: tiptap
 <p>Ms Nur Azliana Bte Mohd Fahrazi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Library Assistant</p>
+<p>Librarian</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nuraishah Bte Sulaiman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Front Desk Receptionist</p>
 </td>
 </tr>
 </tbody>

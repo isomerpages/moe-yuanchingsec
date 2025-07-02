@@ -162,7 +162,7 @@ and pique the interest of our students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lai Cheng Man</p>
+<p>Mdm Fang Chen Lan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

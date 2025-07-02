@@ -20,7 +20,7 @@ a holistic curriculum firmly anchored in character education, values inculcation
 and inclusivity.</p>
 <p>I am glad these qualities remain as vibrant in 2025 as they were back
 then. In fact, they have strengthened over the years under the leadership
-of exemplary principals such as Mrs. Saraspathy Menon, Mrs. Chua-Koh Eng
+of exemplary principals such as Mrs. Saraspathy Menon, Mrs. Chuah-Koh Eng
 Ngoh, and my predecessor, Ms. Ng Sook Kit.</p>
 <p>Similarly, as in the past, the community continues to view YCSS as an
 achieving school and a caring and disciplined one. From members of the
