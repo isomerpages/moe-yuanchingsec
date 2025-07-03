@@ -42,7 +42,7 @@ sections:
         Community Youth Leadership
       button: Discover LLP
       url: /confident-leaders/learning-for-life-programme/
-      image: /images/LLP.png
+      image: /images/Learning_for_Life_Programme.png
       alt: Image alt text
   - infopic:
       title: Stories of Alumni
