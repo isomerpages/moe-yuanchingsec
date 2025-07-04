@@ -87,6 +87,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Lai Weng Keong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Craft &amp; Technology (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Buganeish Squires</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,18 +216,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lai Weng Keong</p>
+<p>Ms Dimas Nurr Aidilin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Sec)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Canguang Amos</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/ Character Education (Internal)</p>
+<p>Assistant Year Head (Lower Sec)(Internal)</p>
 </td>
 </tr>
 <tr>

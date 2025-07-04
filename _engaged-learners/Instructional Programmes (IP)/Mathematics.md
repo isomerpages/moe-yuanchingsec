@@ -156,10 +156,10 @@ and lectures:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Audrey Goh Xin Yun</p>
+<p>Mr Muhammad Hazwan Bin Sapari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mok Yuen Teng</p>
+<p></p>
 </td>
 </tr>
 </tbody>
