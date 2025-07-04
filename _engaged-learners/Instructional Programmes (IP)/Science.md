@@ -141,7 +141,7 @@ and acquisition of Scientific knowledge outside the classrooms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mok Yuen Teng</p>
+<p>Mr Tan HanWei Bennett</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
