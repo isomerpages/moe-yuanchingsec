@@ -17,9 +17,7 @@ sections:
         - title: Schoool Daily Routines
           description: Remedial/CCA/WA/Exam Schedules
           url: /quick-links/for-students/school-daily-routines/remedials-and-cca-schedule/
-      title: Yuan Ching Secondary School
-      subtitle: Efforts Today Rewards Tomorrow
-      background: /images/hero mvv v6.gif
+      background: /images/Website_banner.gif
       variant: center
   - resources:
       title: Announcements & Highlights
