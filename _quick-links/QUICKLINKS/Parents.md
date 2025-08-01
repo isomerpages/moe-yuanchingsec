@@ -134,6 +134,30 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="/files/2026_Sec_3_Subject_Combination_1AugStudent.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 3 Subject Combination Briefing to Parents</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/For_Students_1Aug__Secondary_2_FSBB_Academic_Requirements_and_Progression.pdf" rel="noopener nofollow" target="_blank">[Updated 1 Aug] Sec 2 FSBB Academic Requirement and Progression</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
