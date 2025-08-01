@@ -95,7 +95,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/information-on-subject-combination/" rel="noopener nofollow" target="_blank">Information on Subject Combinatiom</a>
+<p><a href="/information-on-subject-combination/" rel="noopener nofollow" target="_blank">Information on Subject Combination</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
