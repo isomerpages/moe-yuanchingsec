@@ -95,7 +95,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sec2MTP_Sec_3_Subject_Combination_Briefing_for_2026.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 MTP - Sec 3 Subject Combination Briefing for 2026</a>
+<p><a href="/information-on-subject-combination/" rel="noopener nofollow" target="_blank">Information on Subject Combinatiom</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,8 +108,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sec2MTP_FSBB_Post_Sec_Pathway_Briefing.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 MTP - FSBB Post-Sec Pathway Briefing</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -121,8 +120,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sec2MTP_Passion_Profession_Preparation.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 MTP - Passion.Profession.Preparation</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -134,20 +132,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026_Sec_3_Subject_Combination_1AugStudent.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 3 Subject Combination Briefing to Parents</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/For_Students_1Aug__Secondary_2_FSBB_Academic_Requirements_and_Progression.pdf" rel="noopener nofollow" target="_blank">[Updated 1 Aug] Sec 2 FSBB Academic Requirement and Progression</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
