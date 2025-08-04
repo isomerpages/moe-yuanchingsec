@@ -1,5 +1,5 @@
 ---
-title: Information on Subject Combination
+title: Information on 2026 Sec 3 Subject Combination
 permalink: /information-on-subject-combination/
 variant: tiptap
 description: ""
