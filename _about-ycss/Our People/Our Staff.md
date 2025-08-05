@@ -879,7 +879,7 @@ variant: tiptap
 <p>Ms Nur Suhailah Bte Abdul Halim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Executive</p>
+<p>Administrative Executive</p>
 </td>
 </tr>
 <tr>
@@ -887,7 +887,15 @@ variant: tiptap
 <p>Mdm Kek Boon Hui Yvonne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Executive</p>
+<p>Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zaliha Esahak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjunct Administrative Executive</p>
 </td>
 </tr>
 <tr>
@@ -940,10 +948,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Shoh Kwan Hua Byron</p>
+<p>Mdm Sarah Abdul Ghani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
+<p>Adjunct Corporate Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -1024,6 +1032,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Front Desk Receptionist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
