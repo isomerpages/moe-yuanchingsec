@@ -4,8 +4,10 @@ permalink: /principal-s-message/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/P_Shawal_photo_V2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_message.png">
 </div>
 <p>Dear Parents, Teachers, and Students of Yuan Ching Secondary,</p>
 <p>First, joining the Yuan Ching Secondary family is truly an honour and
