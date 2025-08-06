@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/group-personal-accident-gpa-insurance/" rel="noopener nofollow" target="_blank">Group Personal Accident (GPA) Insurance</a>
+<p><a href="/group-personal-accident-gpa-insurance/" rel="noopener nofollow" target="_blank">Group Personal Accident (GPA) Insurance for Students</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
