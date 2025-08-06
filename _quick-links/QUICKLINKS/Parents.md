@@ -39,8 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GCE ‘N’ &amp; ‘O’ Level Syllabuses</a>
-</p>
+<p>Group</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://sites.google.com/view/hblyuanching/home" rel="noopener noreferrer nofollow" target="_blank">ICT @Yuan Ching</a>
@@ -52,7 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" rel="noopener noreferrer nofollow" target="_blank">Leaps 2.0</a>
+<p><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GCE ‘N’ &amp; ‘O’ Level Syllabuses</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener noreferrer nofollow" target="_blank">MOE Instagram</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" rel="noopener noreferrer nofollow" target="_blank">Leaps 2.0</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +77,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/secondary" rel="noopener noreferrer nofollow" target="_blank">MOE (Secondary) Information</a>
+<p><a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener noreferrer nofollow" target="_blank">MOE Instagram</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,12 +90,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/passionate-trailblazers/national-digital-literacy-programme-ndlp/" rel="noopener noreferrer nofollow" target="_blank">National Digital Literacy Programme (NDLP)</a>
+<p><a href="https://www.moe.gov.sg/secondary" rel="noopener noreferrer nofollow" target="_blank">MOE (Secondary) Information</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/information-on-subject-combination/" rel="noopener nofollow" target="_blank">Information on 2026 Sec 3 Subject Combination</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/passionate-trailblazers/national-digital-literacy-programme-ndlp/" rel="noopener noreferrer nofollow" target="_blank">National Digital Literacy Programme (NDLP)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
