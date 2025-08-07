@@ -1,5 +1,5 @@
 ---
-title: Group Personal Accident (GPA) Insurance
+title: Group Personal Accident (GPA) Insurance for Students
 permalink: /group-personal-accident-gpa-insurance/
 variant: tiptap
 description: ""
