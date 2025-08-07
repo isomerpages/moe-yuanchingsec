@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 <p><a href="/files/2025_O_level_Prelim_Timetable_4E_Final.pdf" rel="noopener nofollow" target="_blank">2025 Preliminary Examination Timetable for 4E</a>
 </p>
-<p><a href="/files/2025_O_level_Prelim_Timetable_4N_OOS.pdf" rel="noopener nofollow" target="_blank">2025 Preliminary Examination Timetable for 4N OOS</a>
+<p><a href="/files/2025_O_level_Prelim_Timetable_4N_OOS_updated.pdf" rel="noopener nofollow" target="_blank">2025 Preliminary Examination Timetable for 4N OOS (updated schedule)</a>
 </p>
 <p><strong>2025 PRELIMINARY N-LEVEL EXAMINATION</strong>
 </p>
