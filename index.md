@@ -4,10 +4,7 @@ title: Yuan Ching Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: On 8 Aug 2025, the school is having National Day celebrations and
-  students will be dismissed from 10.30am onwards. The General Office operating
-  hours will be from 7am to 12pm. 11 Aug 2025 is a school holiday and the
-  General Office will be closed. School will resume on 12 Aug 2025 onwards.
+notification: ""
 sections:
   - hero:
       key_highlights:
