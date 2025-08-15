@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage.png">
 </div>
 <p>We believe that leadership begins with the courage to serve, the ability
 to influence others for the better, and the strength of character to do
