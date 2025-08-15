@@ -715,14 +715,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Shazana Binte Saini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ong Sheo Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -888,14 +880,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zaliha Esahak</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adjunct Administrative Executive</p>
 </td>
 </tr>
 <tr>
