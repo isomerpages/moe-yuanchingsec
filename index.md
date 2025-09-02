@@ -6,6 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: Due to Teachers’ Day Celebration on 4 September 2025, students
   will be dismissed at 10.30am. YC Alumni visitation is from 10.15am to 11am.
+  School will close at 12pm.
 sections:
   - hero:
       key_highlights:
