@@ -6,6 +6,19 @@ variant: tiptap
 ---
 <p><em>For PDLP devices, you may also tap and hold the link and select Download Linked File .</em>
 </p>
+<p><strong>2025 Sec 1-3 End Of Year Examination</strong> 
+</p>
+<p><a href="/files/2025_Sec_1_EYE_caa_1_Sep__1_.pdf" rel="noopener nofollow" target="_blank">Sec 1 End of Year Examination Timetable </a>
+</p>
+<p><a href="/files/2025_Sec_2_EYE_caa_1_Sep.pdf" rel="noopener nofollow" target="_blank">Sec 2 End Of Year Examination Timetable</a>
+</p>
+<p><a href="/files/2025_3E_EYE_final.pdf" rel="noopener nofollow" target="_blank">Sec 3E End of Year Examination Timetable</a>
+</p>
+<p><a href="/files/2025_3NA_EYE_final.pdf" rel="noopener nofollow" target="_blank">Sec 3NA End Of Year Examination Timetable</a>
+</p>
+<p><a href="/files/2025_3NT_EYE_final.pdf" rel="noopener nofollow" target="_blank">Sec 3NT End Of Year Examination Timetable </a>
+</p>
+<p></p>
 <p><strong>2025 PRELIMINARY O-LEVEL EXAMINATION</strong>
 </p>
 <p><a href="/files/2025_O_level_Prelim_Timetable_4E_Final.pdf" rel="noopener nofollow" target="_blank">2025 Preliminary Examination Timetable for 4E</a>
