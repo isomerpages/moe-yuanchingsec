@@ -94,13 +94,13 @@ and Rescue)</p>
 (UOPA)</p>
 </li>
 <li>
-<p>Obtained SCDC-NCDCC Pinnacle Award 2022</p>
+<p>Obtained SCDF-NCDCC Pinnacle Award 2022</p>
 </li>
 <li>
-<p>Obtained SCDC-NCDCC Pinnacle Award 2023</p>
+<p>Obtained SCDF-NCDCC Pinnacle Award 2023</p>
 </li>
 <li>
-<p>Obtained SCDC-NCDCC Pinnacle Award 2024</p>
+<p>Obtained SCDF-NCDCC Pinnacle Award 2024</p>
 </li>
 </ul>
 <h3>Teachers in charge</h3>
