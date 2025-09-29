@@ -2,12 +2,12 @@ collections:
   admissions:
     output: true
     order:
-      - Local Transfer.md
       - Direct School Admission (DSA)/.keep
       - Direct School Admission (DSA)/Direct School Admission (DSA).md
       - "Direct School Admission (DSA)/YCSS DSA: Engineering Innovation and
         Solutions.md"
       - "Direct School Admission (DSA)/YCSS DSA: Community Youth Leadership.md"
+      - Local Transfer.md
       - International Students.md
       - Returning Singaporean.md
       - Sec 1 Registration 2025 intake/.keep
