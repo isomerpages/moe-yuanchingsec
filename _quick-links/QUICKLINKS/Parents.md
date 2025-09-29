@@ -108,7 +108,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/ycss-transferform" rel="noopener nofollow" target="_blank">Application for Transfer to Yuan Ching Secondary School</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
