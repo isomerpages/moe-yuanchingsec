@@ -4,9 +4,7 @@ title: Yuan Ching Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Please take note that students do not need to report to school on
-  6 October 2025 (Marking Day) except for Sec 2 students involved in OBS
-  pre-course medical examination.
+notification: ""
 sections:
   - hero:
       key_highlights:
