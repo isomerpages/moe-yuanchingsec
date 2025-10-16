@@ -23,6 +23,16 @@ sections:
       title: Announcements & Highlights
       id: resources
   - infopic:
+      title: Echoes of our Year 2025
+      id: infopic
+      button: Read more
+      url: https://online.fliphtml5.com/obrr/tren/#p=1
+      image: /images/Echoes_of_our_Year_coverpage.png
+      alt: Image alt text
+      description: Discover our e-magazine — a vibrant showcase of our school’s most
+        memorable moments. Come celebrate the joy and spirit that make us who we
+        are!
+  - infopic:
       title: Applied Learning Programme (ALP)
       subtitle: School distinctive programme
       id: infopic
