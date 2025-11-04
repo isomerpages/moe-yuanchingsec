@@ -85,7 +85,7 @@ variant: tiptap
 </table>
 <p></p>
 <p>You are encouraged to make your purchases via Pacific Bookstores online
-platform (<a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>).</p>
+platform (<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>).</p>
 <p>a) Home Delivery: Purchase online via&nbsp;<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">Pacific Bookstores</a>&nbsp;where
 a delivery charge of $14.90 applies.</p>
 <p>b) Self Collection: Order online via&nbsp;<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">Pacific Bookstores</a>&nbsp;and
