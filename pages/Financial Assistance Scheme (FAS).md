@@ -241,8 +241,7 @@ the school for eligibility under the SAC FAS.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
 <p><strong><u>Subsidised Broadband and/or Laptop/Tablet</u></strong>
 </p>
 <p>If you are interested to apply for subsidised broadband and/or laptop/tablet
