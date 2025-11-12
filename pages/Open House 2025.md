@@ -1,6 +1,6 @@
 ---
-title: Open House 2024
-permalink: /resource/announcements/openhouse2024/
+title: Open House 2025
+permalink: /resource/announcements/openhouse2025/
 variant: tiptap
 description: ""
 ---
