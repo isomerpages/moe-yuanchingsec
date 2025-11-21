@@ -50,13 +50,13 @@ can create memories and bond.</p>
 <p><strong>Chairperson:</strong> Joselyn Lin</p>
 <p><strong>Vice-Chairperson:</strong> Djohan Ng</p>
 <p><strong>Secretary:</strong> Bellfyn Soong</p>
-<p><strong>Treasurer:</strong> Rachel</p>
+<p><strong>Treasurer:</strong> Rachel Loh</p>
 <p><strong>Committee Members:</strong> 
-<br>Margaret Chua</p>
-<p>Kathy Quek</p>
-<p>Karuna Gladys Gupta
-<br>
-</p>
+<br>Kathy Quek</p>
+<p>Margaret Lim</p>
+<p>Juliana Tan</p>
+<p>Lim Beng Chye</p>
+<p>Kay Dhillon</p>
 <h3>PSG Chaperones during CCA days</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01__PSG_Chaperone_During_Art_CCA__2023_.jpg">
