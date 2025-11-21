@@ -4,6 +4,7 @@ permalink: /sec-1-registration-2026-intake/
 variant: tiptap
 description: ""
 ---
+<h2><strong><em>--TO BE UPDATED--</em></strong></h2>
 <h2>Welcome Message for Students</h2>
 <p>Dear Students,&nbsp;</p>
 <p>A very warm welcome to the Yuan Ching Family! We congratulate you on your
