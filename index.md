@@ -24,7 +24,7 @@ sections:
       title: Announcements & Highlights
       id: resources
   - infopic:
-      title: Echoes of our Year 2025
+      title: "Read our E-Magazine: Echoes of our Year 2025!"
       id: infopic
       button: Read more
       url: https://online.fliphtml5.com/obrr/tren/#p=1
