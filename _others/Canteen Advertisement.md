@@ -73,7 +73,7 @@ email OR to the School’s General Office.</p>
 </p>
 </li>
 <li>
-<p>Contact Person: Mr See Thou Yew Cheong (Administration Manager)</p>
+<p>Contact Person: Mdm Bay (Operations Manager)</p>
 <p></p>
 </li>
 </ul>
