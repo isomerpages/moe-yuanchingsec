@@ -17,7 +17,7 @@ sections:
         - title: School Daily Routines
           description: Remedial/CCA/WA/Exam Schedules
           url: /quick-links/for-students/school-daily-routines/remedials-and-cca-schedule/
-      background: /images/V2_Website_banner.gif
+      background: /images/Website_banner.gif
       variant: image
   - resources:
       title: Announcements & Highlights
