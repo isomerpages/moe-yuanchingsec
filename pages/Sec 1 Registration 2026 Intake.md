@@ -1028,7 +1028,8 @@ and insurance coverage?</p>
 <summary>Appeal for Transfer In</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Appeals to transfer<strong> IN </strong>to Yuan Ching Sec School need
-to be made by 27 Dec 2024 (Friday).</p>
+to be made by 26 Dec 2025 (Friday).</p>
+<p></p>
 <p>You can either submit the application online via <em><a href="https://go.gov.sg/ycs-s1transfer2025" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/ycs-s1transfer2025</u></a> </em>or
 you can download the Application for Transfer form <a href="https://go.gov.sg/ycs-s1transfer2025-hardcopy" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and
 submit the completed form and the relevant supporting documents via the
@@ -1036,8 +1037,9 @@ school email (<a href="https://go.gov.sg/ycs-s1transfer2025" rel="noopener noref
 or to the school’s General Office.&nbsp;</p>
 <p>Please note that unsuccessful applicants will not be informed of the outcome
 of the application and applicants who do not hear from the school by 31
-Dec 2024 are advised to report to the school that they are originally posted
-to on 2 Jan 2025.</p>
+Dec 2025 are advised to report to the school that they are originally posted
+to on 2 Jan 2026.</p>
+<p></p>
 <p><strong>Do note that the school will adhere strictly to MOE’s policy on Appeal for transfer IN cases.</strong>
 </p>
 </div>
@@ -1045,11 +1047,11 @@ to on 2 Jan 2025.</p>
 <details class="isomer-details">
 <summary>Appeal for Transfer Out</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Please note that you will still need to complete your <a href="https://go.gov.sg/ycs-s1reg2025" rel="noopener noreferrer nofollow" target="_blank"><u>Online Registration</u></a><u> </u>first
+<p>Please note that you will still need to complete your <u>Online Registration</u> first
 before making your transfer request.</p>
 <p>For requests to transfer <strong>OUT </strong>based on <strong>MEDICAL REASONS</strong>,
 please report to school with all relevant medical documents by 12.00PM
-on 19 Dec 2024 (Thursday).</p>
+on 19 Dec 2025 (Friday).</p>
 <p>For all other requests to transfer <strong>OUT</strong>, please go to the
 school website of your choice and complete the appeal form for submission
 to that school.</p>
