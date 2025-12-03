@@ -56,7 +56,7 @@ sections:
       title: Stories of Alumni
       button: View Alumni Stories
       url: /resource/stories-of-alumni/
-      image: /images/RESIZED_stories_of_alumni.png
+      image: /images/Coverpage_alumni.png
       subtitle: Yuan Ching Secondary School
       alt: Image alt text
   - infopic:
