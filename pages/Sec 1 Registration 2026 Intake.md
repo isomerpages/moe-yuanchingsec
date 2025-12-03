@@ -58,9 +58,6 @@ cares for others and makes a positive impact.</p>
 Let's make this year count!</p>
 <p>&nbsp;</p>
 <p>Best regards,</p>
-<p>
-<br>
-</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1029,7 +1026,7 @@ and insurance coverage?</p>
 <p>Appeals to transfer<strong> IN </strong>to Yuan Ching Sec School need
 to be made by 26 Dec 2025 (Friday).</p>
 <p></p>
-<p>You can either submit the application online via <em><a href="https://go.gov.sg/ycs-s1transfer2025" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/ycs-s1transfer2025</u></a> </em>or
+<p>You can either submit the application online via <em><a href="https://go.gov.sg/ycs-s1transfer2026" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/ycs-s1transfer2025</u></a> </em>or
 you can download the Application for Transfer form <a href="https://go.gov.sg/ycs-s1transfer2025-hardcopy" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and
 submit the completed form and the relevant supporting documents via the
 school email (<a href="https://go.gov.sg/ycs-s1transfer2025" rel="noopener noreferrer nofollow" target="_blank"><u>ycss@moe.edu.sg</u></a>)
