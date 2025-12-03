@@ -40,7 +40,7 @@ sections:
         Robotics, Engineering, Artificial intelligence, Programming (R.E.A.P)
       button: Discover ALP
       url: /engaged-learners/applied-learning-programme/
-      image: /images/Coverpage_ALP8.png
+      image: /images/Coverpage_ALP9.png
       alt: Image alt text
   - infopic:
       title: Learning for Life Programme (LLP)
