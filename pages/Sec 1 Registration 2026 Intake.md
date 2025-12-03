@@ -5,35 +5,64 @@ variant: tiptap
 description: ""
 ---
 <h2><strong><em>--TO BE UPDATED--</em></strong></h2>
-<h2>Welcome Message for Students</h2>
-<p>Dear Students,&nbsp;</p>
-<p>A very warm welcome to the Yuan Ching Family! We congratulate you on your
-successful completion of the Primary School Leaving Examination, as well
-as your admission to Yuan Ching Secondary School (YCSS)! As you embark
-on your secondary education, you may look forward to an exciting journey
-and enjoyable holistic learning experiences in our school.</p>
-<p>The first week of school will be an exciting one. Our Student Council
-has planned a 4-day orientation programme on&nbsp;2, 3, 6 and 7 Jan 2025&nbsp;&nbsp;especially
-for you. You will familiarise yourself with the school environment and
-get to make new friends. There will also be a CCA showcase on&nbsp;11 Jan
-2025&nbsp;to help you make an informed decision on your choice of CCA!</p>
-<p>As you embark on the Full Subject Based Banding (FSBB) journey in secondary
-school, there will be numerous opportunities for you to interact with peers
-from diverse backgrounds. You will also be empowered with a personalized
-and tailored learning experience that will allow you to explore and excel
-in subjects that align with your strengths and interests. In addition,
-you will have more flexibility to practise self-directedness in planning
-and managing your learning, especially on Blended Learning days. Through
-the Personalised Digital Learning&nbsp;Programme&nbsp;(PDLP), you will
-also own an iPad and use it for learning! With regards to your academic
-curriculum, you will take on new subjects such as History, Geography, English
-Literature, Food &amp; Consumer Education as well as Design &amp; Technology.</p>
-<p>Don't worry, when you transit from Primary to Secondary School, we will
-be there to support you! As our school motto goes, 'Efforts Today, Rewards
-Tomorrow'. We believe so long as you have a good attitude and positive
-mindset, you will be able to do it!</p>
-<p>We are thrilled that you are joining us and cannot wait to start this
-exciting new journey together with you! See you on 2 Jan 2025!</p>
+<h2><strong>Welcome Message from our Student Development Team for Students</strong></h2>
+<p>Dear Students,</p>
+<p>Congratulations! You have made it through PSLE and earned your spot at
+Yuan Ching Secondary School. We are genuinely thrilled to have you joining
+our school community!</p>
+<p>Right now, you are probably wondering what secondary school will be like.
+Maybe you are excited about the new adventure, or perhaps a bit worried
+about fitting in and keeping up. Both feelings are totally understandable,
+and honestly, most students feel the same way.</p>
+<p><strong>Getting Started</strong>
+</p>
+<p>Your seniors on the Student Council have been busy planning something
+special for you. From 2nd to 7th January 2026, they will be running orientation
+activities to help you settle in. Think of it as your crash course in becoming
+a Yuan Ching student. You will figure out how to navigate the school (trust
+us, you won't get lost forever), meet your classmates, and start building
+friendships that could last through secondary school and beyond.</p>
+<p>Then, on 10<sup>th</sup> January 2026 (Saturday), come check out our CCA
+showcase! This is where you will discover the activities that spark your
+interest. Whether you are into sports and games, visual and performing
+arts, clubs and societies, or uniformed groups, there is something here
+for you!</p>
+<p><strong>The Secondary School Experience</strong>
+</p>
+<p>With Full Subject Based Banding (FSBB), you will be learning in classes
+that match your strengths and learning style. You will also get to take
+charge of your own learning on Blended Learning days.</p>
+<p>You will receive your very own iPad through the Personalised Digital Learning
+Programme (PDLP), a tool for learning, research, teamwork and maybe a quick
+game during your breaks (we won’t tell).</p>
+<p>Get ready for some new subjects too: History, Geography, English Literature,
+Food &amp; Consumer Education, and Design &amp; Technology. This is not
+extra work. They are chances to explore different ways of thinking and
+maybe discover a passion you never knew you had.</p>
+<p><strong>What We Hope for You</strong>
+</p>
+<p>We have one main hope for your Secondary 1 year: ‘<strong>Try Everything!</strong>’
+Don't hold back because you think you might not be good at something. This
+is your time to experiment, make mistakes, learn from them, and grow.</p>
+<p>Secondary school can feel like a big leap from primary school, and some
+days might be tougher than others. That's when you remember you are part
+of the Yuan Ching family now. We've got your back. Our school motto, ‘<strong>Efforts Today, Rewards Tomorrow</strong>,’
+isn't just words on a wall. It's a reminder that the work you put in now
+will pay off in ways you might not even imagine yet.</p>
+<p>As you begin your journey with us, we also hope you will grow into our
+school’s vision of becoming ‘<strong>A Thinker, an Achiever, and Concerned Citizen’</strong>.
+Through your experiences here, we want to nurture in you the qualities
+of a <strong>Critical Thinker</strong> who asks good questions, a <strong>Resilient Learner</strong> who
+does not give up when challenges come your way, and a <strong>Compassionate Contributor</strong> who
+cares for others and makes a positive impact.</p>
+<p>Looking forward to meeting each of you on 2<sup>nd</sup> January 2026.
+Let's make this year count!</p>
+<p>&nbsp;</p>
+<p>Best regards,</p>
+<p>
+<br>
+</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -42,35 +71,40 @@ exciting new journey together with you! See you on 2 Jan 2025!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 212.865px;" height="auto" width="100%" alt="" src="https://www.yuanchingsec.moe.edu.sg/images/Fui_Ping.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Jie_Ying2.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 246.688px;" height="auto" width="100%" alt="" src="https://www.yuanchingsec.moe.edu.sg/images/Mr_Lai.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Dimas2.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sincerely,
-<br>Ms Ong Fui Ping
-<br>Year Head/ Lower Sec</p>
+<p></p>
+<p>Mdm Koh Jie Ying</p>
+<p></p>
+<p>Year Head/ Lower Secondary (Covering)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sincerely,
-<br>Mr Lai Weng Keong
-<br>Assistant Year Head/ Lower Sec</p>
+<p>Ms. Dimas Nurr Aidilin Mas’od</p>
+<p></p>
+<p>Assistant Year Head/ Lower Secondary (Covering)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
 <h2>Sec 1 Registration</h2>
-<p>Our Sec 1 Registration process will start on&nbsp;18 Dec 2024&nbsp;from&nbsp;9am&nbsp;onwards.
-Students do not need to physically report to our school on&nbsp;19 Dec
-2024. Registration, buying of books and uniform can be done online.</p>
+<p>Our Sec 1 Registration process will start on&nbsp;19 Dec 2025&nbsp;from&nbsp;9am&nbsp;onwards
+to 22 Dec 2025 . Students do not need to physically report to our school
+on&nbsp;19 Dec 2024. Registration, buying of books and uniform can be done
+online.</p>
 <p>Expand each section below to start the process.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -78,17 +112,18 @@ Students do not need to physically report to our school on&nbsp;19 Dec
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Online Registration Form (Compulsory)</h4>
-<p>Compulsory for ALL students to be completed from 18 Dec 2024, 9am to 19
-Dec 2024, 12pm.</p>
+<p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 22
+Dec 2025, 12pm.</p>
+<p><u>Online Registration</u>
+</p>
 <h4>More Demanding Level Subjects (Compulsory)</h4>
-<p>Please wait for the PG message from the school before exercising your
-option via the link below.</p>
+<h4><em><u>Please wait for the PG message from the school before exercising your option via the link below.</u></em></h4>
 <p>To allow students more flexibility and better develop their strengths,
 Yuan Ching offers students who qualify a chance to study English Language,
 Mother Tongue Languages, Mathematics and/or Science at a more demanding
 level. This means that PG1 students may take G2 subjects.</p>
 <p>Please read the information below and exercise your option to either accept
-or reject the offer. If your child achieve the following grades, please
+or reject the offer. If your child achieves the following grades, please
 access the FormSG below using the relevant link/QR code.</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -134,6 +169,16 @@ access the FormSG below using the relevant link/QR code.</p>
 </table>
 <p>Please access the FormSG below to make your choice.</p>
 <p>For enquiries, please contact the school General Office at: 62612489.</p>
+<p></p>
+<p><strong><em>PG1 offered G2 subjects</em></strong>
+</p><a class="isomer-image-wrapper" href="https://for.edu.sg/yc26pg1mdl"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PG1_offer_G2.png"></a>
+<p></p>
+<h4>Higher Mother Tongue Language (HMTL)</h4>
+<p>The school will inform parents of students who are eligible to offer Higher
+Mother Tongue (HMT) Language by 22 Dec 2025 through Parents Gateway or
+the phone numbers registered with their primary school. Parents are to
+respond if their child wishes to offer HMT Language by 24 Dec 2025.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -141,17 +186,18 @@ access the FormSG below using the relevant link/QR code.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Online Registration Form (Compulsory)</h4>
-<p>Compulsory for ALL students to be completed from 18 Dec 2024, 9am to 19
-Dec 2024, 12pm.</p>
+<p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 22
+Dec 2025, 12pm.</p>
+<p><u>Online Registration</u>
+</p>
 <h4>More Demanding Level Subjects (Compulsory)</h4>
-<p>Please wait for the PG message from the school before exercising your
-option via the link below.</p>
+<h4><em><u>Please wait for the PG message from the school before exercising your option via the link below.</u></em></h4>
 <p>To allow students more flexibility and better develop their strengths,
 Yuan Ching offers students who qualify a chance to study English Language,
 Mother Tongue Languages, Mathematics and/or Science at a more demanding
 level. This means that PG2 students may take G3 subjects.</p>
 <p>Please read the information below and exercise your option to either accept
-or reject the offer. If your child achieve the following grades, please
+or reject the offer. If your child achieves the following grades, please
 access the FormSG below using the relevant link/QR code.</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -187,7 +233,17 @@ access the FormSG below using the relevant link/QR code.</p>
 </tr>
 </tbody>
 </table>
+<p>Please access the FormSG below to make your choice.</p>
 <p>For enquiries, please contact the school General Office at: 62612489.</p>
+<p></p>
+<p><strong><em>PG2 offered G3 subjects</em></strong>
+</p><a class="isomer-image-wrapper" href="https://for.edu.sg/yc26pg2mdl"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PG2_offer_G3.png"></a>
+<h4>Higher Mother Tongue Language (HMTL)</h4>
+<p>The school will inform parents of students who are eligible to offer Higher
+Mother Tongue (HMT) Language by 22 Dec 2025 through Parents Gateway or
+the phone numbers registered with their primary school. Parents are to
+respond if their child wishes to offer HMT Language by 24 Dec 2025.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -195,12 +251,15 @@ access the FormSG below using the relevant link/QR code.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Online Registration Form (Compulsory)</h4>
-<p>Compulsory for ALL students to be completed from 18 Dec 2024, 9am to 19
-Dec 2024, 12pm.</p>
+<p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 22
+Dec 2025, 12pm.</p>
+<p><u>Online Registration</u>
+</p>
 <h4>Higher Mother Tongue Language (HMTL)</h4>
-<p>The school will contact the students who have been offered Higher Mother
-Tongue Language (HMTL) by 23 Dec 2024, 12pm via the phone numbers registered
-in the primary school.</p>
+<p>The school will inform parents of students who are eligible to offer Higher
+Mother Tongue (HMT) Language by 22 Dec 2025 through Parents Gateway or
+the phone numbers registered with their primary school. Parents are to
+respond if their child wishes to offer HMT Language by 24 Dec 2025.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -210,103 +269,64 @@ in the primary school.</p>
 <p>MOE provides financial assistance for students who need support. There
 are <u>two</u> ways of FAS application:</p>
 <p>
-<br><u>A) Already Approved MOE FAS for 2024 with Approval Letter from Primary School</u>
+<br><u>A) Already Approved MOE FAS for 2026 with Approval Letter from Primary School</u>
 </p>
-<p>The school will call the parents to arrange an appointment from <u>23 to 27 Dec 2024 </u>for
-the collection of the textbooks and uniform. You are not required to come
-to the school on 20 Dec 2024. Please bring along the Letter of Approval
-from the Primary School for verification on the arranged date. However,
-if the school has not contacted you by 27 Dec 2024, please contact the
-school to enquire.</p>
+<p>The school will call the parents to arrange an appointment from <u>23 to 26 Dec 2025 </u>for
+the collection of the textbooks and uniform. Please bring along the Letter
+of Approval from the Primary School for verification on the arranged date.
+However, if the school has not contacted you by 29 Dec 2025, please contact
+the school to enquire.</p>
 <p><u>B) New applications for FAS</u>
 </p>
-<p>Parents may apply for MOE FAS through either (1) hardcopy or (2) online
-via eFAS below. Application forms are also available from the General Office.&nbsp;</p>
-<p>For students who are not eligible for MOE FAS, you may consider applying
-for SAC FAS. Please click on the application form below for the eligibility
-criteria.</p>
-<p>Please submit the completed form to the school or via eFAS from <u>19 to 30 Dec 2024</u> with
-all supporting documents.</p>
-<p>Please <u>do not</u> buy any books or uniform without the FAS Approval Letter
-as there will be NO refund if you do so.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MOE FAS Application Form</strong>
+<p>Parents may apply for MOE FAS through</p>
+<p>(1) Parents Gateway under Service tab &gt; Financial Assistance</p>
+<p>(2) Online via eFAS link <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SAC FAS Application Form</strong>
+<p>Applicants who are unsuccessful in the application of MOE FAS will be
+assessed by the school for eligibility under the SAC FAS.</p>
+<p>Please do not buy any books or uniform without the school’s FAS Approval
+Letter as there will be NO refund if you do so.</p>
+<p>For details on MOE FAS &amp; SAC FAS, you may click on the link below.</p>
+<p><a href="https://www.yuanchingsec.moe.edu.sg/others/financial-assistance-scheme-fas/" rel="noopener nofollow" target="_blank">Financial Assistance Scheme</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hardcopy:</p>
-<p><a href="https://www.yuanchingsec.moe.edu.sg/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>MOE-FAS Application Form</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hardcopy:</p>
-<p><a href="https://www.yuanchingsec.moe.edu.sg/files/SAC_FAS_Application_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>SAC-FAS Application Form</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>eFAS Application:
-<br><a href="https://www.yuanchingsec.moe.edu.sg/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efas</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>For details on MOE FAS &amp; SAC FAS, you may click on the link below.<br><a href="https://www.yuanchingsec.moe.edu.sg/others/financial-assistance-scheme-fas/" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Assistance Scheme</u></a></h4>
+<h4></h4>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Sale of Books and Uniforms</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Sale of Books and Uniform</h4>
-<p>You may access the website from <u>18 Dec – 24 Dec 2024</u> to purchase
+<p>You may access the website from <u>19 Dec – 24 Dec 2025</u> to purchase
 the books and uniform online to avoid queuing in the school. There will
 be 2 options of purchases – Home delivery (with a delivery charge) and
-Self-collection via the website at <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pacificbookstores.com</u></a>.</p>
+Self-collection via the website at <a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>.</p>
 <p>Please refer the above website under FAQs for the guide on how to purchase
 your books and uniform online.</p>
 <p>You may still walk in to purchase the books and uniform at the school
-bookshop from 19 Dec to 30 Dec 2024 (Weekday: 9am – 3pm, Sat: 9am – 12pm)
+bookshop from 19 Dec to 30 Dec 2025 (Weekday: 9am – 3pm, Sat: 9am – 12pm)
 but do expect to queue up for the purchases. Note: The bookshop will be
-closed on <u>24 Dec and 28 Dec 2024.</u>
-</p>
+closed on <u>24 Dec</u>.</p>
 <p>For students offered More Demanding Level subjects under Full Subject-Based
 Banding (FSBB) or Higher Mother Tongue Language (HMTL), you would need
 to confirm the subjects that you will be taking before purchasing the books.
 If you are not sure, do not purchase the books. You can still purchase
-the books after school starts on 2 Jan 2025.</p>
-<p>For FAS students, you can only collect the books and uniform after receiving
-the FAS Approval Letter from the school. Please <u>do not</u> buy the books
-on your own as there will be NO refund if you do so.</p>
-<p>2025 Booklist</p>
+the books after school starts on 2 Jan 2026.</p>
+<p>For <strong>FAS </strong>students, you can only collect the books and uniform
+after receiving the FAS Approval Letter from the school. Please <u>do not</u> buy
+the books on your own as there will be NO refund if you do so.</p>
+<p></p>
+<p>2026 Booklist</p>
 <ul>
 <li>
-<p><a href="https://www.yuanchingsec.moe.edu.sg/files/S1_G3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 1 G3</u></a>
+<p><a href="https://go.gov.sg/ycs-s1g3-2026" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 1 G3</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.yuanchingsec.moe.edu.sg/files/S1_G2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 1 G2</u></a>
+<p><a href="https://go.gov.sg/ycs-s1g2-2026" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 1 G2</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.yuanchingsec.moe.edu.sg/files/S1_G1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 1 G1</u></a>
+<p><a href="https://go.gov.sg/ycs-s1g1-2026" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 1 G1</u></a>
 </p>
 </li>
 </ul>
@@ -315,41 +335,96 @@ on your own as there will be NO refund if you do so.</p>
 <details class="isomer-details">
 <summary>Purchase of Personal Learning Device (PLD)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purchase of Personal Learning Device</p>
 <p>In alignment with the vision of the MOE EdTech Masterplan 2030 – Technology-transformed
 Learning, to prepare students for a Technology-transformed World, our Yuan
 Ching National Digital Literacy Programme (NDLP) aims to create opportunities
 and curate experiences for all our students to develop their digital literacy
-competencies to create, curate and connect information in digital environment.&nbsp;</p>
+competencies to create, curate and connect information in digital environment.</p>
 <p>This is enabled by the provision of a Personal Learning Device (PLD) for
 every student. The school has chosen iPad as the school prescribed PLD
 for our Secondary One students.</p>
-<p>Please read this <a href="https://go.gov.sg/ycs-ip4-2025" rel="noopener noreferrer nofollow" target="_blank"><u>letter</u></a> on the purchase
-of Personal Learning Device (PLD) before submitting your option below.</p>
-<p>A Parents Gateway (PG) notification will be sent out by 26 Dec 2024 for
-you to indicate your interest to purchase a PLD under the school bulk purchase.
-Please respond to the PG notification by 6 Jan 2025 (Mon).</p>
 <p></p>
-<ul>
-<li>
-<p>If you are unable to indicate your interest to purchase via PG, you may
-download the form <a href="https://go.gov.sg/ycs-ip4hardcopy-2025" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and submit
-it to the Form Teacher on the 1st day of school. You may also obtain the
-hardcopy form from the Form Teacher on the 1st day of school.</p>
-</li>
-<li>
-<p>If you are <u>pending transfer</u> or would like to use your <u>personal computing device</u> in
-school, please indicate in the PG notification. To ensure that your personal
-learning device is suitable, please refer to the specifications below.</p>
-<p></p>
-</li>
-</ul>
-<p><u>Suitability of Student-Owned Device to Function as Personal Learning Device</u>
+<p><strong><u>For Parents</u></strong>
 </p>
+<p><a href="https://go.gov.sg/ycs-ip4-2026" rel="noopener noreferrer nofollow" target="_blank"><u>Letter to Parents </u></a>&nbsp;-
+Information on the school bulk purchase of Personal Learning Device (PLD)&nbsp;</p>
+<p><a href="https://sites.google.com/view/hblyuanching/ndlp/parent-handbook" rel="noopener noreferrer nofollow" target="_blank"><u>Parents Handbook</u></a>&nbsp;</p>
+<p></p>
+<p><strong><u>PLD Purchase Instructions</u></strong>
+</p>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents <u>with PG Access</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A Parents Gateway (PG) notification will be sent out by 31 Dec 2025. The
+deadline for intent to purchase a PLD under the school bulk purchase is <strong><u>7 Jan 2026 (Wed).</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents <u>without PG access</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Download hardcopy consent form here and return the signed consent form
+to your child’s Form Teacher by <strong><u>7 Jan 2026 (Wed).</u></strong>
+</p>
+<p><a href="https://go.gov.sg/ycs-ip4hardcopy-2026" rel="noopener noreferrer nofollow" target="_blank"><u>Hardcopy consent form to purchase PLD (parents without PG)</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Online Edusave Standing Order (SO)</p>
+<p>
+<br>
+</p>
+<p><strong>Compulsory for parents of Singapore Citizen students who are using Edusave to pay for the PLD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/ycs-ip4hardcopy-2026" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/edusaveformsgso</u></a>
+</p>
+<p>
+<br>
+</p>
+<p>Parents who want to use Edusave funds for the PLD (for Singapore citizens</p>
+<p>students only), please submit the online Standing Order (SO) form by 7<strong><u> Jan 2026 (Wed)</u></strong> if
+you have not done so previously.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students who are <u>pending transfer out </u>OR <u>would like to use personal computing device in school</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please indicate in the PG notification.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><u>Suitability of Student-Owned Device to Function as Personal Learning Device</u></strong>
+</p>
+<p></p>
 <p>Your personal learning device should meet the following specifications
 in order for it to be managed by the Device Management Application (DMA).
 The DMA is crucial as it allows the teacher to control the student’s use
 of computing device during class time.</p>
+<p></p>
 <p>a. it should be an iOS device</p>
 <p>b. device should not be older than 4 years from manufacturing date;</p>
 <p>c. battery should hold charge for at least 4 hours;</p>
@@ -497,8 +572,8 @@ these features and receive regular updates of school events.</p>
 <p>CCA and enrichment programmes are conducted after school hours.
 <br>The school hours are subjected to changes.</p>
 <p>CCA and enrichment programmes are conducted after school hours.</p>
-<p>On the first day of school, Thursday, 2 Jan 2025, Sec 1 students will
-report in school uniform by 8:20AM.</p>
+<p>On the first day of school, Friday, 2 Jan 2026, Sec 1 students will report
+in school uniform by 8:15AM.</p>
 <h3>4. School / Miscellaneous Fees</h3>
 <table style="minWidth: 150px">
 <colgroup>
@@ -546,13 +621,13 @@ report in school uniform by 8:20AM.</p>
 <p>$0</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$620</p>
+<p>$680</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1030</p>
+<p>$1090</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2050</p>
+<p>$2190</p>
 </td>
 </tr>
 <tr>
@@ -586,13 +661,13 @@ report in school uniform by 8:20AM.</p>
 <p>$20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$640</p>
+<p>$700</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1051.80</p>
+<p>$1111.80</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2071.80</p>
+<p>$2211.80</p>
 </td>
 </tr>
 </tbody>
@@ -604,12 +679,12 @@ by using their Edusave Account.
 <h3>5. General Rules for School</h3>
 <p>i. Attire
 <br>• Students are to wear the prescribed school uniform and modification
-to the uniform is strictly not allowed.
-<br>• School uniform and socks must be made by the appointed school tailor.
+to the uniform is strictly not allowed.</p>
+<p>• School uniform and socks must be made by the appointed school tailor.
 Pants and skirts must not be too tight-fitting. Skirts must not be more
 than 2-finger spacing above the knees. Socks must cover the ankle when
-worn and the letters ‘YCSS’ must be visible.
-<br>• Shoes must be plain white with white shoe laces.</p>
+worn and the letters ‘YCSS’ must be visible.</p>
+<p>• Shoes must be plain white with white shoe laces.</p>
 <p>ii. Appearance
 <br>• Hairstyle must be conservative and not outlandish.
 <br>• Hair colour must be natural. Any shade of colouring of hair (highlighting/dyes)
@@ -630,16 +705,14 @@ to be worn with the school uniform.
 view.</p>
 <p>iii. Policy on the use of Mobile Phone in school
 <br>• Mobile phones are to be switched off and kept out of sight during curriculum
-time/ remedial/CCAs.
-<br>• Mobile phones are allowed to be used only in the canteen after school/remedial/CCAs.
-<br>• Students are to refrain from using the camera function, playing music
-from the speaker and charging their mobile phone in school.
-<br>• Consequences of non-adherence include:
-<br>-Mobile phone will be confiscated (including SIM card) for one week.
-<br>• Abuse of technology will be dealt with seriously.</p>
-<p>
-<br>
-</p>
+time/ remedial/CCAs.</p>
+<p>• Mobile phones are allowed to be used only in the canteen after school/remedial/CCAs.</p>
+<p>• Students are to refrain from using the camera function, playing music
+from the speaker and charging their mobile phone in school.</p>
+<p>• Consequences of non-adherence include:</p>
+<p>-Mobile phone will be confiscated (including SIM card) for one week.</p>
+<p>• Abuse of technology will be dealt with seriously.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -664,7 +737,7 @@ purchase the books and uniform first?
 <li>
 <p>If I have applied for MOE FAS in my primary school, why am I not contacted
 by Yuan Ching Sec to collect my textbooks and uniform?
-<br><strong><em>The school will call the parents to arrange an appointment from 23 to 27 Dec 2024 for the collection of the textbooks and uniform. Please bring along the Letter of Approval from the Primary School for verification on the arranged date. However, if the school has not contacted you by 27 Dec 2024, please contact the school to enquire.</em></strong>
+<br><strong><em>The school will call the parents to arrange an appointment from 23 to 26 Dec 2025 for the collection of the textbooks and uniform. Please bring along the Letter of Approval from the Primary School for verification on the arranged date. However, if the school has not contacted you by 26 Dec 2025, please contact the school to enquire.</em></strong>
 </p>
 </li>
 </ol>
@@ -672,7 +745,7 @@ by Yuan Ching Sec to collect my textbooks and uniform?
 <ol>
 <li>
 <p>What is the cut-off points for your school?
-<br><strong><em>Posting Group 1 - 28<br>Posting Group 2 - 24<br>Posting Group 3 - 18</em></strong>
+<br><strong><em>Posting Group 1 - TBC<br>Posting Group 2 - TBC<br>Posting Group 3 - TBC</em></strong>
 </p>
 </li>
 </ol>
@@ -775,6 +848,180 @@ starts?
 </p>
 </li>
 </ol>
+<p></p>
+<h4>Personal Learning Device (PLD)</h4>
+<ol>
+<li>
+<p>What is the cost and type of PLD that the school use and what is the warranty
+and insurance coverage?</p>
+</li>
+</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tablet, iPad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Model</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apple A16 Bionic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Memory</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6GB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Storage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>128GB SSD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Screen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11”, Touchscreen (2360 x 1640)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Weight</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0.477kg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Battery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28.93Wh (est. 559min)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stylus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apple Pencil USB-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Accessories</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logitech Rugged Combo 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Camera</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Front: 12MP Centre Stage Camera</p>
+<p>Rear: 12 MP Wide Camera</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ports</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1x USB-C 2.0</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WiFi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WiFi 6; 802.11ax</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bluetooth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bluetooth 5.3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Warranty</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upgrade to 4Y AppleCare Warranty &amp; Insurance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cost of bundle (including GST)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$829.30</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>How do we purchase the device through the school?
+<br><strong><em>Purchase of the device can be made through the school through the PG letter sent by 31 Dec 2025. Students to respond by 7 Jan 2026 (Wed).</em></strong>
+</p>
+</li>
+<li>
+<p>How do we check the amount of Edusave fund available in our child’s/ward’s
+(for Singapore Citizens) account?
+<br><strong><em>You can call 6260 0777 (24 hour automated hotline) to check your child’s/ward’s Edusave balance.</em></strong>
+</p>
+</li>
+<li>
+<p>Can we use Edusave to purchase other iPad model on our own?
+<br><strong><em>No, Edusave funds can only be used for purchases facilitated by the school through MOE’s bulk tender.</em></strong>
+</p>
+</li>
+<li>
+<p>What if we do not have enough Edusave fund to purchase from school?<strong><em><br>If there is insufficient funds in the Edusave account to purchase the PLD, there is a need to top up with cash.</em></strong>
+</p>
+</li>
+<li>
+<p>If we already have our own iPad, can we use it in school?<strong><em><br>Once you have indicated in PG consent form, to be sent out by 31 Dec, that you intend to use your own iPad, the school will access the suitability of the device, and if it is compatible with the DMA before approving it as an alternative to the school-prescribed PLD. Parents will be required to consent to the installation of the DMA, and the DMA must be installed in the non-prescribed device, before it can be used in school in lieu of the school-prescribed PLD. This is to ensure uniformity of systems and software to ensure a smooth learning experience for the students</em></strong>
+</p>
+</li>
+<li>
+<p>Can my child not purchase the device?<strong><em><br>Every student is required to have a device for lessons and is encouraged to purchase through the school bulk tender as it will come with the necessary warranty and insurance. If you wish not to purchase a device, the school may loan the device on a daily basis based on the school’s discretion.</em></strong>
+</p>
+</li>
+<li>
+<p>How will my child get the new PLD?
+<br><strong><em>A briefing will be conducted for all students on the Sec 1 PLD deployment.</em></strong>
+</p>
+</li>
+</ol>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
