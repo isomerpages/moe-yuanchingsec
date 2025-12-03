@@ -1,9 +1,4 @@
 collections:
   sec-1-registration-2026-intake:
     output: true
-    order:
-      - Sec 1 Posting Group 3/.keep
-      - Sec 1 Posting Group 3/Welcome Message.md
-      - Sec 1 Posting Group 3/PG3 Registration Matters.md
-      - Sec 1 Posting Group 3/Key Dates and Actions Required.md
-      - Sec 1 Posting Group 3/Important Information.md
+    order: []
