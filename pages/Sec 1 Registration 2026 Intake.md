@@ -4,7 +4,6 @@ permalink: /sec-1-registration-2026-intake/
 variant: tiptap
 description: ""
 ---
-<h2><strong><em>--TO BE UPDATED--</em></strong></h2>
 <h2><strong>Welcome Message from our Student Development Team for Students</strong></h2>
 <p>Dear Students,</p>
 <p>Congratulations! You have made it through PSLE and earned your spot at
