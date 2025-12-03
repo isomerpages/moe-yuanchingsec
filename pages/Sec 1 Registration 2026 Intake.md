@@ -97,9 +97,8 @@ Let's make this year count!</p>
 <hr>
 <h2>Sec 1 Registration</h2>
 <p>Our Sec 1 Registration process will start on&nbsp;19 Dec 2025&nbsp;from&nbsp;9am&nbsp;onwards
-to 22 Dec 2025 . Students do not need to physically report to our school
-on&nbsp;19 Dec 2024. Registration, buying of books and uniform can be done
-online.</p>
+to 21 Dec 2025 . Students do not need to physically report to our school.
+Registration, buying of books and uniform can be done online.</p>
 <p>Expand each section below to start the process.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -107,8 +106,8 @@ online.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Online Registration Form (Compulsory)</h4>
-<p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 22
-Dec 2025, 12pm.</p>
+<p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 21
+Dec 2025.</p>
 <p><u>Online Registration</u>
 </p>
 <h4>More Demanding Level Subjects (Compulsory)</h4>
@@ -181,8 +180,8 @@ respond if their child wishes to offer HMT Language by 24 Dec 2025.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Online Registration Form (Compulsory)</h4>
-<p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 22
-Dec 2025, 12pm.</p>
+<p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 21
+Dec 2025.</p>
 <p><u>Online Registration</u>
 </p>
 <h4>More Demanding Level Subjects (Compulsory)</h4>
@@ -246,8 +245,8 @@ respond if their child wishes to offer HMT Language by 24 Dec 2025.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Online Registration Form (Compulsory)</h4>
-<p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 22
-Dec 2025, 12pm.</p>
+<p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 21
+Dec 2025.</p>
 <p><u>Online Registration</u>
 </p>
 <h4>Higher Mother Tongue Language (HMTL)</h4>
@@ -449,39 +448,36 @@ DMA.</p>
 <details class="isomer-details">
 <summary>First Day of School</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4><u>2 Jan 2025 - First Day of School</u></h4>
+<h4><u>2 Jan 2026 - First Day of School</u></h4>
 <p><u>Results for Request for Transfer (under MOE Medical Appeal Exercise):</u>
 </p>
 <p>Applicants should continue to attend lessons in Yuan Ching Sec while waiting
 for the results of the appeal.</p>
 <p>New <u>School Posting Letters</u> will be given out to successful applicants
-on 2 Jan 2025. Applicants may call the school at 62612489 and check the
-outcome of their application with the school on 2 Jan 2025.</p>
+on 2 Jan 2026. Applicants may call the school at 62612489 and check the
+outcome of their application with the school on 2 Jan 2026.</p>
 <p><u>Day 1 Reporting Time &amp; Student e-Handbook:</u>
 </p>
-<p>On Thursday, 2 Jan 2025, Sec 1 students will report in school uniform
-by 8:20AM. All Sec 1 students to gather at foyer, you will be directed
+<p>On Thursday, 2 Jan 2026, Sec 1 students will report in school uniform
+by 8:15AM. All Sec 1 students to gather at foyer, you will be directed
 to your respective classes. All students are expected to be properly attired
 with proper haircut (refer to Section Important Information: General Rules
 for School).</p>
 <p>Please refer to the <a href="https://go.gov.sg/yc2025-studenthandbook" rel="noopener noreferrer nofollow" target="_blank"><u>2025 Student e-Handbook.</u></a>
 </p>
-<h5><u>2-7 Jan 2025 - Sec 1 Orientation Programme</u></h5>
-<p>Please refer to the <a href="https://www.yuanchingsec.moe.edu.sg/files/Sec_1_Orientation_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Orientation Programme</u></a> for
+<h5><u>2-7 Jan 2026 - Sec 1 Orientation Programme</u></h5>
+<p>Please refer to the <a href="https://go.gov.sg/ycs-s1op2026" rel="noopener noreferrer nofollow" target="_blank"><u>Orientation Programme</u></a> for
 more information.</p>
-<h5><u>9 Jan 2025 - Individual Photo Taking</u></h5>
+<h5><u>9 Jan 2026 - Individual Photo Taking</u></h5>
 <p>Students are to wear full school uniform for the phototaking session.</p>
-<h5><u>11 Jan 2025 - CCA Showcase and Parents Engagement Session</u></h5>
-<p>The CCA showcase and Parents Engagement session will be held on 11 Jan
-2025 (Sat) from 8.00am to 12.30pm. Students will be brought to different
+<h5><u>10 Jan 2026 - CCA Showcase and Parents Engagement Session</u></h5>
+<p>The CCA showcase and Parents Engagement session will be held on 10 Jan
+2026 (Sat) from 8.00am to 12.30pm. Students will be brought to different
 CCA booths for some experience on the different CCAs offered by the school.
 More details will be given at a later date.</p>
-<h5><u>16 Jan and 18 Jan 2025 - CCA Trials</u></h5>
+<h5><u>20 Jan and 22 Jan 2026 - CCA Trials</u></h5>
 <p>More information on the timing of the trials will be given at a later
 date.</p>
-<p>
-<br>
-</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -493,8 +489,7 @@ date.</p>
 Support Group. If you are keen, please click on the following link or scan
 the QR code to complete the registration form.</p>
 <p>Link to <a href="https://go.gov.sg/ycss-psg-register" rel="noopener noreferrer nofollow" target="_blank"><u>Parent Support Group (PSG) Registration Form</u></a>
-</p>
-<p></p>
+</p><a class="isomer-image-wrapper" href="https://go.gov.sg/ycss-psg-register"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG_form.png"></a>
 <h3>2. Parents Gateway (PG) App</h3>
 <p>The Parents Gateway (PG) is one of the main modes of communication the
 school uses to update parents on information about upcoming school activities,
@@ -1045,11 +1040,10 @@ to on 2 Jan 2026.</p>
 <p>Please note that you will still need to complete your <u>Online Registration</u> first
 before making your transfer request.</p>
 <p>For requests to transfer <strong>OUT </strong>based on <strong>MEDICAL REASONS</strong>,
-please report to school with all relevant medical documents by 12.00PM
-on 19 Dec 2025 (Friday).</p>
-<p>For all other requests to transfer <strong>OUT</strong>, please go to the
-school website of your choice and complete the appeal form for submission
-to that school.</p>
+please report to school with all relevant medical documents by 22 Dec 2025
+(Monday), 12PM.</p>
+<p>For <strong>all other requests</strong> to transfer <strong>OUT</strong>,
+please approach the relevant school to Appeal to transfer.</p>
 <p>Students who have appealed to transfer <strong>OUT </strong>- Please <strong>do not buy</strong> books
 and uniform pending the outcome of your application.</p>
 </div>
