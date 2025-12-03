@@ -27,7 +27,7 @@ Other administrative income that are taxable (e.g rental income, dividends
 and taxable investment income) must also be included when calculating a
 family’s GHI.</p>
 <p><sup>+</sup>Household members include all individuals related to the student
-by blood, marriage or legap adoption (e.g uncles, aunts, cousins, grandparents
+by blood, marriage or legal adoption (e.g uncles, aunts, cousins, grandparents
 etc) staying at the same address as the student.</p>
 <p><strong><u>Benefits:</u></strong>
 </p>
