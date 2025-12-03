@@ -40,7 +40,7 @@ sections:
         Robotics, Engineering, Artificial intelligence, Programming (R.E.A.P)
       button: Discover ALP
       url: /engaged-learners/applied-learning-programme/
-      image: /images/Coverpage_ALP2.png
+      image: /images/Coverpage_APL6.png
       alt: Image alt text
   - infopic:
       title: Learning for Life Programme (LLP)
@@ -56,7 +56,7 @@ sections:
       title: Stories of Alumni
       button: View Alumni Stories
       url: /resource/stories-of-alumni/
-      image: /images/Coverpage_alumni.png
+      image: /images/Coverpage_alumni5.png
       subtitle: Yuan Ching Secondary School
       alt: Image alt text
   - infopic:
