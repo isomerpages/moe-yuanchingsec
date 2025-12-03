@@ -81,7 +81,6 @@ Let's make this year count!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Mdm Koh Jie Ying</p>
 <p></p>
 <p>Year Head/ Lower Secondary (Covering)</p>
