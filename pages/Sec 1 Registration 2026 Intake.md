@@ -803,13 +803,11 @@ how do I proceed?
 </ol>
 <p><strong><em>i) First complete the registration form for YCS.</em></strong>
 </p>
-<p><strong><em>ii) Please refer to our school website under Sec 1 Registration page – Transfer out of Yuan Ching Secondary School</em></strong>
+<p><strong><em>ii) For Requests to transfer OUT based on MEDICAL REASONS, please report to school with all relevant medical documents by 12.00PM on 22 Dec 2025 (Monday).</em></strong>
 </p>
-<p><strong><em>iii) For Requests to transfer OUT based on MEDICAL REASONS, please report to school with all relevant medical documents by 12.00PM on 22 Dec 2025 (Monday).</em></strong>
+<p><strong><em>iii) All other requests to transfer OUT please go to the school website of your desired school and complete the appeal form and submit to that school.</em></strong>
 </p>
-<p><strong><em>iv) All other requests to transfer OUT please go to the school website of your desired school and complete the appeal form and submit to that school.</em></strong>
-</p>
-<p><strong><em>v) Students who have appealed to transfer OUT - Please do not buy books and uniform pending the outcome of your application.</em></strong>
+<p><strong><em>iv) Students who have appealed to transfer OUT - Please do not buy books and uniform pending the outcome of your application.</em></strong>
 </p>
 <ol start="3">
 <li>
