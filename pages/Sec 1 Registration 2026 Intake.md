@@ -95,9 +95,9 @@ Let's make this year count!</p>
 </tbody>
 </table>
 <hr>
-<h2><strong>Sec 1 Registration</strong></h2>
+<h3><strong>Sec 1 Registration</strong></h3>
 <p>Our Sec 1 Registration process will start on&nbsp;19 Dec 2025&nbsp;from&nbsp;9am&nbsp;onwards
-to 21 Dec 2025 . Students do not need to physically report to our school.
+to 21 Dec 2025. Students do not need to physically report to our school.
 Registration, buying of books and uniform can be done online.</p>
 <p>Expand each section below to start the process.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
