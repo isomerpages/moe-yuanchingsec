@@ -671,42 +671,84 @@ in school uniform by 8:15AM.</p>
 <p>*Singaporean students can pay the miscellaneous fees ($20.00 per month)
 by using their Edusave Account.
 <br>#Current rates subject to changes by MOE.</p>
-<h3>5. General Rules for School</h3>
-<p>i. Attire
-<br>• Students are to wear the prescribed school uniform and modification
-to the uniform is strictly not allowed.</p>
-<p>• School uniform and socks must be made by the appointed school tailor.
+<h4><strong>5. General Rules for School</strong></h4>
+<p>i. Attire</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are to wear the prescribed school uniform and modification to
+the uniform is strictly not allowed.</p>
+</li>
+<li>
+<p>School uniform and socks must be made by the appointed school tailor.
 Pants and skirts must not be too tight-fitting. Skirts must not be more
 than 2-finger spacing above the knees. Socks must cover the ankle when
 worn and the letters ‘YCSS’ must be visible.</p>
-<p>• Shoes must be plain white with white shoe laces.</p>
-<p>ii. Appearance
-<br>• Hairstyle must be conservative and not outlandish.
-<br>• Hair colour must be natural. Any shade of colouring of hair (highlighting/dyes)
-is strictly not allowed.
-<br>• Hair for boys must be short, simple, neat and natural (no perming).
-<br>• Girls with long hair that falls below collar must tie their hair neatly
+</li>
+<li>
+<p>Shoes must be plain white with white shoe laces.</p>
+</li>
+</ul>
+<p></p>
+<p>ii. Appearance</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hairstyle must be conservative and not outlandish.</p>
+</li>
+<li>
+<p>Hair colour must be natural. Any shade of colouring of hair (highlighting/dyes)
+is strictly not allowed.</p>
+</li>
+<li>
+<p>Hair for boys must be short, simple, neat and natural (no perming).</p>
+</li>
+<li>
+<p>Girls with long hair that falls below collar must tie their hair neatly
 and firmly with plain hair band/ribbons/clips. The fringe must not fall
-below the eyebrows.
-<br>• Fingernails must be kept short and neat. Nail polish is not allowed.
-<br>• Only girls are allowed to wear one pair of identical ear studs on the
+below the eyebrows.</p>
+</li>
+<li>
+<p>Fingernails must be kept short and neat. Nail polish is not allowed.</p>
+</li>
+<li>
+<p>Only girls are allowed to wear one pair of identical ear studs on the
 ear lobes. Ear studs must be small, plain, metallic and without precious
-stones. Multiple piercings or earrings are not allowed.
-<br>• Spectacles must be plain, non-tinted and not flashy. Contact lenses
-must not be coloured.
-<br>• Accessories of any kind (e.g. ring, chain, bracelet) are not allowed
-to be worn with the school uniform.
-<br>• Religious items (e.g. religious amulets) if worn, must be hidden from
+stones. Multiple piercings or earrings are not allowed.</p>
+</li>
+<li>
+<p>Spectacles must be plain, non-tinted and not flashy. Contact lenses must
+not be coloured.</p>
+</li>
+<li>
+<p>Accessories of any kind (e.g. ring, chain, bracelet) are not allowed to
+be worn with the school uniform.</p>
+</li>
+<li>
+<p>Religious items (e.g. religious amulets) if worn, must be hidden from
 view.</p>
-<p>iii. Policy on the use of Mobile Phone in school
-<br>• Mobile phones are to be switched off and kept out of sight during curriculum
+</li>
+</ul>
+<p></p>
+<p>iii. Policy on the use of Mobile Phone in school</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mobile phones are to be switched off and kept out of sight during curriculum
 time/ remedial/CCAs.</p>
-<p>• Mobile phones are allowed to be used only in the canteen after school/remedial/CCAs.</p>
-<p>• Students are to refrain from using the camera function, playing music
+</li>
+<li>
+<p>Mobile phones are allowed to be used only in the canteen after school/remedial/CCAs.</p>
+</li>
+<li>
+<p>Students are to refrain from using the camera function, playing music
 from the speaker and charging their mobile phone in school.</p>
-<p>• Consequences of non-adherence include:</p>
-<p>-Mobile phone will be confiscated (including SIM card) for one week.</p>
-<p>• Abuse of technology will be dealt with seriously.</p>
+</li>
+<li>
+<p>Consequence of non-adherence : Mobile phone will be confiscated (including
+SIM card) for one week.</p>
+</li>
+<li>
+<p>Abuse of technology will be dealt with seriously.</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
