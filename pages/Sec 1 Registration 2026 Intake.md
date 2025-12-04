@@ -805,7 +805,7 @@ how do I proceed?
 </p>
 <p><strong><em>ii) Please refer to our school website under Sec 1 Registration page – Transfer out of Yuan Ching Secondary School</em></strong>
 </p>
-<p><strong><em>iii) For Requests to transfer OUT based on MEDICAL REASONS, please report to school with all relevant medical documents by 12.00PM on 19 Dec 2024 (Thursday).</em></strong>
+<p><strong><em>iii) For Requests to transfer OUT based on MEDICAL REASONS, please report to school with all relevant medical documents by 12.00PM on 22 Dec 2025 (Monday).</em></strong>
 </p>
 <p><strong><em>iv) All other requests to transfer OUT please go to the school website of your desired school and complete the appeal form and submit to that school.</em></strong>
 </p>
