@@ -758,7 +758,7 @@ SIM card) for one week.</p>
 <details class="isomer-details">
 <summary>Frequently Asked Questions (FAQ)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3><u>FAS</u></h3>
+<h4><strong><u>FAS</u></strong></h4>
 <ol>
 <li>
 <p>I would like to apply for Financial Assistant Scheme (FAS) now, how should
@@ -781,7 +781,7 @@ by Yuan Ching Sec to collect my textbooks and uniform?
 </p>
 </li>
 </ol>
-<h3><u>Cut-off points</u></h3>
+<h4><strong><u>Cut-off points</u></strong></h4>
 <ol>
 <li>
 <p>What is the cut-off points for your school?
@@ -789,12 +789,12 @@ by Yuan Ching Sec to collect my textbooks and uniform?
 </p>
 </li>
 </ol>
-<h3><u>Transfer in and out of Yuan Ching Secondary School</u></h3>
+<h4><strong><u>Transfer in and out of Yuan Ching Secondary School</u></strong></h4>
 <ol>
 <li>
 <p>I would like to appeal for a transfer in to your school for my child,
 how do I proceed?
-<br><strong><em>You can either submit the application online via </em><a href="https://go.gov.sg/ycs-s1transfer2025" rel="noopener noreferrer nofollow" target="_blank"><u>Application for Transfer Into Yuan Ching Secondary School for Sec 1 2025</u></a><em> or you can download the Application for Transfer form <a href="https://go.gov.sg/ycs-s1transfer2025-hardcopy" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u> </u>and submit the completed form and the relevant supporting documents via the school email (<a href="https://www.yuanchingsec.moe.edu.sg/others/financial-assistance-scheme-fas/" rel="noopener noreferrer nofollow" target="_blank"><u>ycss@moe.edu.sg</u></a>) or to the school’s General Office. Appeals to transfer IN to Yuan Ching Sec School need to be made by 27 Dec 2024 (Friday).</em></strong>
+<br><strong><em>You can either submit the application online via </em><a href="https://go.gov.sg/ycs-s1transfer2026" rel="noopener noreferrer nofollow" target="_blank"><u>Application for Transfer Into Yuan Ching Secondary School for Sec 1 2026</u></a><em> or you can download the Application for Transfer form <a href="https://go.gov.sg/ycs-s1transfer2026-hardcopy" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u> </u>and submit the completed form and the relevant supporting documents via the school email (<a href="https://www.yuanchingsec.moe.edu.sg/others/financial-assistance-scheme-fas/" rel="noopener noreferrer nofollow" target="_blank"><u>ycss@moe.edu.sg</u></a>) or to the school’s General Office. Appeals to transfer IN to Yuan Ching Sec School need to be made by 27 Dec 2024 (Friday).</em></strong>
 </p>
 </li>
 <li>
