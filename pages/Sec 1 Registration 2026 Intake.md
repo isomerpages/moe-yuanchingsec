@@ -4,7 +4,7 @@ permalink: /sec-1-registration-2026-intake/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Welcome Message from our Student Development Team for Students</strong></h2>
+<h3><strong>Welcome Message from our Student Development Team for Students</strong></h3>
 <p>Dear Students,</p>
 <p>Congratulations! You have made it through PSLE and earned your spot at
 Yuan Ching Secondary School. We are genuinely thrilled to have you joining
@@ -95,7 +95,7 @@ Let's make this year count!</p>
 </tbody>
 </table>
 <hr>
-<h2>Sec 1 Registration</h2>
+<h2><strong>Sec 1 Registration</strong></h2>
 <p>Our Sec 1 Registration process will start on&nbsp;19 Dec 2025&nbsp;from&nbsp;9am&nbsp;onwards
 to 21 Dec 2025 . Students do not need to physically report to our school.
 Registration, buying of books and uniform can be done online.</p>
