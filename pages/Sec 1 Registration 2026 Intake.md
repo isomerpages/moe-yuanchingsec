@@ -105,14 +105,13 @@ Registration, buying of books and uniform can be done online.</p>
 <summary><strong>Sec 1 Posting Group 1</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Online Registration Form (Compulsory)</h4>
+<h4><strong>Online Registration Form (Compulsory)</strong></h4>
 <p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 21
 Dec 2025.</p>
 <p><u>Online Registration</u>
 </p>
-<h4>More Demanding Level Subjects (Compulsory)</h4>
-<p><em><u>Please wait for the PG message from the school before exercising your option via the link below.</u></em>
-</p>
+<h4><strong>More Demanding Level Subjects (Compulsory) </strong></h4>
+<h4><em><u>Please wait for the PG message from the school before exercising your option via the link below.</u></em></h4>
 <p>To allow students more flexibility and better develop their strengths,
 Yuan Ching offers students who qualify a chance to study English Language,
 Mother Tongue Languages, Mathematics and/or Science at a more demanding
@@ -168,7 +167,7 @@ access the FormSG below using the relevant link/QR code.</p>
 <p><strong><em>PG1 offered G2 subjects</em></strong>
 </p><a class="isomer-image-wrapper" href="https://for.edu.sg/yc26pg1mdl"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PG1_offer_G2.png"></a>
 <p></p>
-<h4>Higher Mother Tongue Language (HMTL)</h4>
+<h4><strong>Higher Mother Tongue Language (HMTL)</strong></h4>
 <p>The school will inform parents of students who are eligible to offer Higher
 Mother Tongue (HMT) Language by 22 Dec 2025 through Parents Gateway or
 the phone numbers registered with their primary school. Parents are to
@@ -180,12 +179,12 @@ respond if their child wishes to offer HMT Language by 24 Dec 2025.</p>
 <summary><strong>Sec 1 Posting Group 2</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Online Registration Form (Compulsory)</h4>
+<h4><strong>Online Registration Form (Compulsory)</strong></h4>
 <p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 21
 Dec 2025.</p>
 <p><u>Online Registration</u>
 </p>
-<h4>More Demanding Level Subjects (Compulsory)</h4>
+<h4><strong>More Demanding Level Subjects (Compulsory)</strong></h4>
 <h4><em><u>Please wait for the PG message from the school before exercising your option via the link below.</u></em></h4>
 <p>To allow students more flexibility and better develop their strengths,
 Yuan Ching offers students who qualify a chance to study English Language,
@@ -233,7 +232,7 @@ access the FormSG below using the relevant link/QR code.</p>
 <p></p>
 <p><strong><em>PG2 offered G3 subjects</em></strong>
 </p><a class="isomer-image-wrapper" href="https://for.edu.sg/yc26pg2mdl"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PG2_offer_G3.png"></a>
-<h4>Higher Mother Tongue Language (HMTL)</h4>
+<h4><strong>Higher Mother Tongue Language (HMTL)</strong></h4>
 <p>The school will inform parents of students who are eligible to offer Higher
 Mother Tongue (HMT) Language by 22 Dec 2025 through Parents Gateway or
 the phone numbers registered with their primary school. Parents are to
@@ -245,12 +244,12 @@ respond if their child wishes to offer HMT Language by 24 Dec 2025.</p>
 <summary><strong>Sec 1 Posting Group 3</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Online Registration Form (Compulsory)</h4>
+<h4><strong>Online Registration Form (Compulsory)</strong></h4>
 <p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 21
 Dec 2025.</p>
 <p><u>Online Registration</u>
 </p>
-<h4>Higher Mother Tongue Language (HMTL)</h4>
+<h4><strong>Higher Mother Tongue Language (HMTL)</strong></h4>
 <p>The school will inform parents of students who are eligible to offer Higher
 Mother Tongue (HMT) Language by 22 Dec 2025 through Parents Gateway or
 the phone numbers registered with their primary school. Parents are to
