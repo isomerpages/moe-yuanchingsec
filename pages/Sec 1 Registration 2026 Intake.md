@@ -1063,7 +1063,8 @@ and insurance coverage?</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Appeal for Transfer In</summary>
+<summary><strong>Appeal for Transfer In</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Appeals to transfer<strong> IN </strong>to Yuan Ching Sec School need
 to be made by 26 Dec 2025 (Friday).</p>
@@ -1083,7 +1084,8 @@ to on 2 Jan 2026.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Appeal for Transfer Out</summary>
+<summary><strong>Appeal for Transfer Out</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Please note that you will still need to complete your <u>Online Registration</u> first
 before making your transfer request.</p>
