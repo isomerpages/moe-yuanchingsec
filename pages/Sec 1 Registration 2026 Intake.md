@@ -111,8 +111,8 @@ Dec 2025.</p>
 <p><u>Online Registration</u>
 </p>
 <h4>More Demanding Level Subjects (Compulsory)</h4>
-<p>Please wait for the PG message from the school before exercising your
-option via the link below.</p>
+<p><em><u>Please wait for the PG message from the school before exercising your option via the link below.</u></em>
+</p>
 <p>To allow students more flexibility and better develop their strengths,
 Yuan Ching offers students who qualify a chance to study English Language,
 Mother Tongue Languages, Mathematics and/or Science at a more demanding
