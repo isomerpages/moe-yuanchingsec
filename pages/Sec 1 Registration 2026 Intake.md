@@ -813,38 +813,38 @@ how do I proceed?
 <li>
 <p>How long do I have to wait to know if there are vacancies available in
 your school?
-<br><strong><em>The wait is approximately a week. We will call you if there is a vacancy. Please note that <u>unsuccessful applicants</u> will NOT be informed of the outcome of the application and applicants who do not hear from the school by <u>31 Dec 2024</u> are advised to report to the school that they are originally posted to on <u>2 Jan 2025</u>.</em></strong>
+<br><strong><em>The wait is approximately a week. We will call you if there is a vacancy. Please note that <u>unsuccessful applicants</u> will NOT be informed of the outcome of the application and applicants who do not hear from the school by <u>31 Dec 2025</u> are advised to report to the school that they are originally posted to on <u>2 Jan 2026</u>.</em></strong>
 </p>
 </li>
 </ol>
-<h3><u>Sec 1 Registration</u></h3>
+<h4><strong><u>Sec 1 Registration</u></strong></h4>
 <ol>
 <li>
 <p>I am the aunt/uncle of a student and the parents are not available to
 register the child in school. Can I personally register the child on the
 parent’s behalf? What documents do I need to bring?
-<br><strong><em>Registration is online, you can ask the parents to register online by 12.00pm 19 Dec 2024.</em></strong>
+<br><strong><em>Registration is online, you can ask the parents to register online by 21 Dec 2025.</em></strong>
 </p>
 </li>
 <li>
 <p>I would like to register my child but I am unable to make it for the registration
 day. How do I proceed to register my child?
-<br><strong><em>There is no need for the students to physically report to the school. You should register online by 12.00pm 19 Dec 2024.</em></strong>
+<br><strong><em>There is no need for the students to physically report to the school. You should register online by 21 Dec 2025.</em></strong>
 </p>
 </li>
 </ol>
-<h3><u>Purchasing of Books and Uniform</u></h3>
+<h4><strong><u>Purchasing of Books and Uniform</u></strong></h4>
 <ol>
 <li>
 <p>Do I need to buy the uniform and textbooks by registration day? Can I
 buy them another day?
-<br><strong><em>Yes, there is no need to buy the books and uniform on registration day. The bookshop and the uniform shop will be opened on 19 Dec – 30 Dec 2024 for the purchase of books and uniform.</em></strong>
+<br><strong><em>Yes, there is no need to buy the books and uniform on registration day. The bookshop and the uniform shop will be opened on 19 Dec – 30 Dec 2025 for the purchase of books and uniform.</em></strong>
 </p>
 </li>
 </ol>
-<p><strong><em>You may access the website from <u>18 Dec – 24 Dec 2024</u> to purchase the books and uniform online to avoid queuing in the school. There will be 2 options of purchases – Home delivery (with a delivery charge) and Self-collection via the website at <a href="https://www.yuanchingsec.moe.edu.sg/others/financial-assistance-scheme-fas/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pacificbookstores.com</u></a>.</em></strong>
+<p><strong><em>You may access the website from <u>19 Dec – 24 Dec 2025</u> to purchase the books and uniform online to avoid queuing in the school. There will be 2 options of purchases – Home delivery (with a delivery charge) and Self-collection via the website at <a href="https://www.yuanchingsec.moe.edu.sg/others/financial-assistance-scheme-fas/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pacificbookstores.com</u></a>.</em></strong>
 </p>
-<p><strong><em>You may still walk in to purchase the books and uniform at the school bookshop from 19 Dec to 30 Dec 2024 (Weekday: 9am – 3pm, Sat: 9am – 12pm) but do expect to queue up for the purchases. Note: The bookshop will be closed on <u>24 Dec and 28 Dec 2024.</u></em></strong>
+<p><strong><em>You may still walk in to purchase the books and uniform at the school bookshop from 19 Dec to 30 Dec 2025 (Weekday: 9am – 3pm, Sat: 9am – 12pm) but do expect to queue up for the purchases. Note: The bookshop will be closed on <u>24 Dec 2025.</u></em></strong>
 </p>
 <ol start="2">
 <li>
@@ -855,7 +855,7 @@ school reopen?
 </p>
 </li>
 </ol>
-<h3><u>More Demanding Level (MDL) Subjects</u></h3>
+<h4><strong><u>More Demanding Level (MDL) Subjects</u></strong></h4>
 <ol>
 <li>
 <p>The child’s name is not available in the drop-down list in the MDL registration
