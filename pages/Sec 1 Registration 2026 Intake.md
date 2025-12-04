@@ -466,17 +466,21 @@ with proper haircut (refer to Section Important Information: General Rules
 for School).</p>
 <p>Please refer to the <a href="https://go.gov.sg/yc2025-studenthandbook" rel="noopener noreferrer nofollow" target="_blank"><u>2025 Student e-Handbook.</u></a>
 </p>
-<h5><u>2-7 Jan 2026 - Sec 1 Orientation Programme</u></h5>
+<p></p>
+<h4><u>2-7 Jan 2026 - Sec 1 Orientation Programme</u></h4>
 <p>Please refer to the <a href="https://go.gov.sg/ycs-s1op2026" rel="noopener noreferrer nofollow" target="_blank"><u>Orientation Programme</u></a> for
 more information.</p>
-<h5><u>9 Jan 2026 - Individual Photo Taking</u></h5>
+<p></p>
+<h4><u>9 Jan 2026 - Individual Photo Taking</u></h4>
 <p>Students are to wear full school uniform for the phototaking session.</p>
-<h5><u>10 Jan 2026 - CCA Showcase and Parents Engagement Session</u></h5>
+<p></p>
+<h4><u>10 Jan 2026 - CCA Showcase and Parents Engagement Session</u></h4>
 <p>The CCA showcase and Parents Engagement session will be held on 10 Jan
 2026 (Sat) from 8.00am to 12.30pm. Students will be brought to different
 CCA booths for some experience on the different CCAs offered by the school.
 More details will be given at a later date.</p>
-<h5><u>20 Jan and 22 Jan 2026 - CCA Trials</u></h5>
+<p></p>
+<h4><u>20 Jan and 22 Jan 2026 - CCA Trials</u></h4>
 <p>More information on the timing of the trials will be given at a later
 date.</p>
 </div>
@@ -484,14 +488,14 @@ date.</p>
 <details class="isomer-details">
 <summary>Important Information</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3>1. Joining Parent Support Group</h3>
+<h4><strong>1. Joining Parent Support Group</strong></h4>
 <p>A warm welcome to the Yuan Ching Family!</p>
 <p>We would like to invite you to join our Yuan Ching Secondary School Parents
 Support Group. If you are keen, please click on the following link or scan
 the QR code to complete the registration form.</p>
 <p>Link to <a href="https://go.gov.sg/ycss-psg-register" rel="noopener noreferrer nofollow" target="_blank"><u>Parent Support Group (PSG) Registration Form</u></a>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/ycss-psg-register"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG_form.png"></a>
-<h3>2. Parents Gateway (PG) App</h3>
+<h4><strong>2. Parents Gateway (PG) App</strong></h4>
 <p>The Parents Gateway (PG) is one of the main modes of communication the
 school uses to update parents on information about upcoming school activities,
 including seeking of consent for their child’s participation in organized
@@ -501,7 +505,7 @@ these features and receive regular updates of school events.</p>
 <p>For more information on using Parents Gateway Mobile Application:
 <br><a href="https://www.yuanchingsec.moe.edu.sg/quick-links/for-parents/parents-gateway/" rel="noopener noreferrer nofollow" target="_blank"><u>Parents Gateway</u></a>
 </p>
-<h3>3. School Hours (For Sec 1)</h3>
+<h4><strong>3. School Hours (For Sec 1)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -562,10 +566,10 @@ these features and receive regular updates of school events.</p>
 </table>
 <p>CCA and enrichment programmes are conducted after school hours.
 <br>The school hours are subjected to changes.</p>
-<p>CCA and enrichment programmes are conducted after school hours.</p>
+<p></p>
 <p>On the first day of school, Friday, 2 Jan 2026, Sec 1 students will report
 in school uniform by 8:15AM.</p>
-<h3>4. School / Miscellaneous Fees</h3>
+<h4><strong>4. School / Miscellaneous Fees</strong></h4>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
