@@ -259,7 +259,7 @@ respond if their child wishes to offer HMT Language by 24 Dec 2025.</p>
 <details class="isomer-details">
 <summary>Financial Assistance (FAS)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>MOE Financial Assistance Scheme (FAS)</h4>
+<h4><strong>MOE Financial Assistance Scheme (FAS)</strong></h4>
 <p>MOE provides financial assistance for students who need support. There
 are <u>two</u> ways of FAS application:</p>
 <p>
@@ -289,7 +289,7 @@ Letter as there will be NO refund if you do so.</p>
 <details class="isomer-details">
 <summary>Sale of Books and Uniforms</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Sale of Books and Uniform</h4>
+<h4><strong>Sale of Books and Uniform</strong></h4>
 <p>You may access the website from <u>19 Dec – 24 Dec 2025</u> to purchase
 the books and uniform online to avoid queuing in the school. There will
 be 2 options of purchases – Home delivery (with a delivery charge) and
@@ -329,6 +329,7 @@ the books on your own as there will be NO refund if you do so.</p>
 <details class="isomer-details">
 <summary>Purchase of Personal Learning Device (PLD)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>Purchase of Personal Learning Device (PLD)</strong></h4>
 <p>In alignment with the vision of the MOE EdTech Masterplan 2030 – Technology-transformed
 Learning, to prepare students for a Technology-transformed World, our Yuan
 Ching National Digital Literacy Programme (NDLP) aims to create opportunities
