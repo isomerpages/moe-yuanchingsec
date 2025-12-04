@@ -15,15 +15,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/ycs-s1g1-2026" rel="noopener nofollow" target="_blank">Sec 1 G1</a>
+<p><a href="/files/S1_G1_updated.pdf" rel="noopener nofollow" target="_blank">Sec 1 G1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/ycs-s1g2-2026" rel="noopener nofollow" target="_blank">Sec 1 G2</a>
+<p><a href="/files/S1_G2_updated.pdf" rel="noopener nofollow" target="_blank">Sec 1 G2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/ycs-s1g3-2026" rel="noopener nofollow" target="_blank">Sec 1 G3</a>
+<p><a href="/files/S1_G3_updated.pdf" rel="noopener nofollow" target="_blank">Sec 1 G3</a>
 </p>
 </td>
 </tr>

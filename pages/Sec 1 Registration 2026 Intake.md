@@ -4,7 +4,7 @@ permalink: /sec-1-registration-2026-intake/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Welcome Message from our Student Development Team for Students</strong></h2>
+<h3><strong>Welcome Message from our Student Development Team for Students</strong></h3>
 <p>Dear Students,</p>
 <p>Congratulations! You have made it through PSLE and earned your spot at
 Yuan Ching Secondary School. We are genuinely thrilled to have you joining
@@ -95,9 +95,9 @@ Let's make this year count!</p>
 </tbody>
 </table>
 <hr>
-<h2>Sec 1 Registration</h2>
+<h3><strong>Sec 1 Registration</strong></h3>
 <p>Our Sec 1 Registration process will start on&nbsp;19 Dec 2025&nbsp;from&nbsp;9am&nbsp;onwards
-to 21 Dec 2025 . Students do not need to physically report to our school.
+to 21 Dec 2025. Students do not need to physically report to our school.
 Registration, buying of books and uniform can be done online.</p>
 <p>Expand each section below to start the process.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -105,12 +105,12 @@ Registration, buying of books and uniform can be done online.</p>
 <summary><strong>Sec 1 Posting Group 1</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Online Registration Form (Compulsory)</h4>
+<h4><strong>Online Registration Form (Compulsory)</strong></h4>
 <p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 21
 Dec 2025.</p>
 <p><u>Online Registration</u>
 </p>
-<h4>More Demanding Level Subjects (Compulsory)</h4>
+<h4><strong>More Demanding Level Subjects (Compulsory)</strong></h4>
 <h4><em><u>Please wait for the PG message from the school before exercising your option via the link below.</u></em></h4>
 <p>To allow students more flexibility and better develop their strengths,
 Yuan Ching offers students who qualify a chance to study English Language,
@@ -167,7 +167,7 @@ access the FormSG below using the relevant link/QR code.</p>
 <p><strong><em>PG1 offered G2 subjects</em></strong>
 </p><a class="isomer-image-wrapper" href="https://for.edu.sg/yc26pg1mdl"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PG1_offer_G2.png"></a>
 <p></p>
-<h4>Higher Mother Tongue Language (HMTL)</h4>
+<h4><strong>Higher Mother Tongue Language (HMTL)</strong></h4>
 <p>The school will inform parents of students who are eligible to offer Higher
 Mother Tongue (HMT) Language by 22 Dec 2025 through Parents Gateway or
 the phone numbers registered with their primary school. Parents are to
@@ -179,12 +179,12 @@ respond if their child wishes to offer HMT Language by 24 Dec 2025.</p>
 <summary><strong>Sec 1 Posting Group 2</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Online Registration Form (Compulsory)</h4>
+<h4><strong>Online Registration Form (Compulsory)</strong></h4>
 <p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 21
 Dec 2025.</p>
 <p><u>Online Registration</u>
 </p>
-<h4>More Demanding Level Subjects (Compulsory)</h4>
+<h4><strong>More Demanding Level Subjects (Compulsory)</strong></h4>
 <h4><em><u>Please wait for the PG message from the school before exercising your option via the link below.</u></em></h4>
 <p>To allow students more flexibility and better develop their strengths,
 Yuan Ching offers students who qualify a chance to study English Language,
@@ -232,7 +232,7 @@ access the FormSG below using the relevant link/QR code.</p>
 <p></p>
 <p><strong><em>PG2 offered G3 subjects</em></strong>
 </p><a class="isomer-image-wrapper" href="https://for.edu.sg/yc26pg2mdl"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PG2_offer_G3.png"></a>
-<h4>Higher Mother Tongue Language (HMTL)</h4>
+<h4><strong>Higher Mother Tongue Language (HMTL)</strong></h4>
 <p>The school will inform parents of students who are eligible to offer Higher
 Mother Tongue (HMT) Language by 22 Dec 2025 through Parents Gateway or
 the phone numbers registered with their primary school. Parents are to
@@ -244,12 +244,12 @@ respond if their child wishes to offer HMT Language by 24 Dec 2025.</p>
 <summary><strong>Sec 1 Posting Group 3</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Online Registration Form (Compulsory)</h4>
+<h4><strong>Online Registration Form (Compulsory)</strong></h4>
 <p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 21
 Dec 2025.</p>
 <p><u>Online Registration</u>
 </p>
-<h4>Higher Mother Tongue Language (HMTL)</h4>
+<h4><strong>Higher Mother Tongue Language (HMTL)</strong></h4>
 <p>The school will inform parents of students who are eligible to offer Higher
 Mother Tongue (HMT) Language by 22 Dec 2025 through Parents Gateway or
 the phone numbers registered with their primary school. Parents are to
@@ -259,7 +259,7 @@ respond if their child wishes to offer HMT Language by 24 Dec 2025.</p>
 <details class="isomer-details">
 <summary>Financial Assistance (FAS)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>MOE Financial Assistance Scheme (FAS)</h4>
+<h4><strong>MOE Financial Assistance Scheme (FAS)</strong></h4>
 <p>MOE provides financial assistance for students who need support. There
 are <u>two</u> ways of FAS application:</p>
 <p>
@@ -289,7 +289,7 @@ Letter as there will be NO refund if you do so.</p>
 <details class="isomer-details">
 <summary>Sale of Books and Uniforms</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Sale of Books and Uniform</h4>
+<h4><strong>Sale of Books and Uniform</strong></h4>
 <p>You may access the website from <u>19 Dec – 24 Dec 2025</u> to purchase
 the books and uniform online to avoid queuing in the school. There will
 be 2 options of purchases – Home delivery (with a delivery charge) and
@@ -329,6 +329,7 @@ the books on your own as there will be NO refund if you do so.</p>
 <details class="isomer-details">
 <summary>Purchase of Personal Learning Device (PLD)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>Purchase of Personal Learning Device (PLD)</strong></h4>
 <p>In alignment with the vision of the MOE EdTech Masterplan 2030 – Technology-transformed
 Learning, to prepare students for a Technology-transformed World, our Yuan
 Ching National Digital Literacy Programme (NDLP) aims to create opportunities
@@ -465,17 +466,21 @@ with proper haircut (refer to Section Important Information: General Rules
 for School).</p>
 <p>Please refer to the <a href="https://go.gov.sg/yc2025-studenthandbook" rel="noopener noreferrer nofollow" target="_blank"><u>2025 Student e-Handbook.</u></a>
 </p>
-<h5><u>2-7 Jan 2026 - Sec 1 Orientation Programme</u></h5>
+<p></p>
+<h4><u>2-7 Jan 2026 - Sec 1 Orientation Programme</u></h4>
 <p>Please refer to the <a href="https://go.gov.sg/ycs-s1op2026" rel="noopener noreferrer nofollow" target="_blank"><u>Orientation Programme</u></a> for
 more information.</p>
-<h5><u>9 Jan 2026 - Individual Photo Taking</u></h5>
+<p></p>
+<h4><u>9 Jan 2026 - Individual Photo Taking</u></h4>
 <p>Students are to wear full school uniform for the phototaking session.</p>
-<h5><u>10 Jan 2026 - CCA Showcase and Parents Engagement Session</u></h5>
+<p></p>
+<h4><u>10 Jan 2026 - CCA Showcase and Parents Engagement Session</u></h4>
 <p>The CCA showcase and Parents Engagement session will be held on 10 Jan
 2026 (Sat) from 8.00am to 12.30pm. Students will be brought to different
 CCA booths for some experience on the different CCAs offered by the school.
 More details will be given at a later date.</p>
-<h5><u>20 Jan and 22 Jan 2026 - CCA Trials</u></h5>
+<p></p>
+<h4><u>20 Jan and 22 Jan 2026 - CCA Trials</u></h4>
 <p>More information on the timing of the trials will be given at a later
 date.</p>
 </div>
@@ -483,14 +488,14 @@ date.</p>
 <details class="isomer-details">
 <summary>Important Information</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3>1. Joining Parent Support Group</h3>
+<h4><strong>1. Joining Parent Support Group</strong></h4>
 <p>A warm welcome to the Yuan Ching Family!</p>
 <p>We would like to invite you to join our Yuan Ching Secondary School Parents
 Support Group. If you are keen, please click on the following link or scan
 the QR code to complete the registration form.</p>
 <p>Link to <a href="https://go.gov.sg/ycss-psg-register" rel="noopener noreferrer nofollow" target="_blank"><u>Parent Support Group (PSG) Registration Form</u></a>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/ycss-psg-register"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG_form.png"></a>
-<h3>2. Parents Gateway (PG) App</h3>
+<h4><strong>2. Parents Gateway (PG) App</strong></h4>
 <p>The Parents Gateway (PG) is one of the main modes of communication the
 school uses to update parents on information about upcoming school activities,
 including seeking of consent for their child’s participation in organized
@@ -500,7 +505,7 @@ these features and receive regular updates of school events.</p>
 <p>For more information on using Parents Gateway Mobile Application:
 <br><a href="https://www.yuanchingsec.moe.edu.sg/quick-links/for-parents/parents-gateway/" rel="noopener noreferrer nofollow" target="_blank"><u>Parents Gateway</u></a>
 </p>
-<h3>3. School Hours (For Sec 1)</h3>
+<h4><strong>3. School Hours (For Sec 1)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -561,10 +566,10 @@ these features and receive regular updates of school events.</p>
 </table>
 <p>CCA and enrichment programmes are conducted after school hours.
 <br>The school hours are subjected to changes.</p>
-<p>CCA and enrichment programmes are conducted after school hours.</p>
+<p></p>
 <p>On the first day of school, Friday, 2 Jan 2026, Sec 1 students will report
 in school uniform by 8:15AM.</p>
-<h3>4. School / Miscellaneous Fees</h3>
+<h4><strong>4. School / Miscellaneous Fees</strong></h4>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -666,49 +671,94 @@ in school uniform by 8:15AM.</p>
 <p>*Singaporean students can pay the miscellaneous fees ($20.00 per month)
 by using their Edusave Account.
 <br>#Current rates subject to changes by MOE.</p>
-<h3>5. General Rules for School</h3>
-<p>i. Attire
-<br>• Students are to wear the prescribed school uniform and modification
-to the uniform is strictly not allowed.</p>
-<p>• School uniform and socks must be made by the appointed school tailor.
+<h4><strong>5. General Rules for School</strong></h4>
+<p><strong>i. Attire</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are to wear the prescribed school uniform and modification to
+the uniform is strictly not allowed.</p>
+</li>
+<li>
+<p>School uniform and socks must be made by the appointed school tailor.
 Pants and skirts must not be too tight-fitting. Skirts must not be more
 than 2-finger spacing above the knees. Socks must cover the ankle when
 worn and the letters ‘YCSS’ must be visible.</p>
-<p>• Shoes must be plain white with white shoe laces.</p>
-<p>ii. Appearance
-<br>• Hairstyle must be conservative and not outlandish.
-<br>• Hair colour must be natural. Any shade of colouring of hair (highlighting/dyes)
-is strictly not allowed.
-<br>• Hair for boys must be short, simple, neat and natural (no perming).
-<br>• Girls with long hair that falls below collar must tie their hair neatly
+</li>
+<li>
+<p>Shoes must be plain white with white shoe laces.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>ii. Appearance</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hairstyle must be conservative and not outlandish.</p>
+</li>
+<li>
+<p>Hair colour must be natural. Any shade of colouring of hair (highlighting/dyes)
+is strictly not allowed.</p>
+</li>
+<li>
+<p>Hair for boys must be short, simple, neat and natural (no perming).</p>
+</li>
+<li>
+<p>Girls with long hair that falls below collar must tie their hair neatly
 and firmly with plain hair band/ribbons/clips. The fringe must not fall
-below the eyebrows.
-<br>• Fingernails must be kept short and neat. Nail polish is not allowed.
-<br>• Only girls are allowed to wear one pair of identical ear studs on the
+below the eyebrows.</p>
+</li>
+<li>
+<p>Fingernails must be kept short and neat. Nail polish is not allowed.</p>
+</li>
+<li>
+<p>Only girls are allowed to wear one pair of identical ear studs on the
 ear lobes. Ear studs must be small, plain, metallic and without precious
-stones. Multiple piercings or earrings are not allowed.
-<br>• Spectacles must be plain, non-tinted and not flashy. Contact lenses
-must not be coloured.
-<br>• Accessories of any kind (e.g. ring, chain, bracelet) are not allowed
-to be worn with the school uniform.
-<br>• Religious items (e.g. religious amulets) if worn, must be hidden from
+stones. Multiple piercings or earrings are not allowed.</p>
+</li>
+<li>
+<p>Spectacles must be plain, non-tinted and not flashy. Contact lenses must
+not be coloured.</p>
+</li>
+<li>
+<p>Accessories of any kind (e.g. ring, chain, bracelet) are not allowed to
+be worn with the school uniform.</p>
+</li>
+<li>
+<p>Religious items (e.g. religious amulets) if worn, must be hidden from
 view.</p>
-<p>iii. Policy on the use of Mobile Phone in school
-<br>• Mobile phones are to be switched off and kept out of sight during curriculum
+</li>
+</ul>
+<p></p>
+<p><strong>iii. Policy on the use of Mobile Phone in school</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mobile phones are to be switched off and kept out of sight during curriculum
 time/ remedial/CCAs.</p>
-<p>• Mobile phones are allowed to be used only in the canteen after school/remedial/CCAs.</p>
-<p>• Students are to refrain from using the camera function, playing music
+</li>
+<li>
+<p>Mobile phones are allowed to be used only in the canteen after school/remedial/CCAs.</p>
+</li>
+<li>
+<p>Students are to refrain from using the camera function, playing music
 from the speaker and charging their mobile phone in school.</p>
-<p>• Consequences of non-adherence include:</p>
-<p>-Mobile phone will be confiscated (including SIM card) for one week.</p>
-<p>• Abuse of technology will be dealt with seriously.</p>
+</li>
+<li>
+<p>Consequence of non-adherence : Mobile phone will be confiscated (including
+SIM card) for one week.</p>
+</li>
+<li>
+<p>Abuse of technology will be dealt with seriously.</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Frequently Asked Questions (FAQ)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3><u>FAS</u></h3>
+<h4><strong><u>FAS</u></strong></h4>
 <ol>
 <li>
 <p>I would like to apply for Financial Assistant Scheme (FAS) now, how should
@@ -731,7 +781,7 @@ by Yuan Ching Sec to collect my textbooks and uniform?
 </p>
 </li>
 </ol>
-<h3><u>Cut-off points</u></h3>
+<h4><strong><u>Cut-off points</u></strong></h4>
 <ol>
 <li>
 <p>What is the cut-off points for your school?
@@ -739,12 +789,12 @@ by Yuan Ching Sec to collect my textbooks and uniform?
 </p>
 </li>
 </ol>
-<h3><u>Transfer in and out of Yuan Ching Secondary School</u></h3>
+<h4><strong><u>Transfer in and out of Yuan Ching Secondary School</u></strong></h4>
 <ol>
 <li>
 <p>I would like to appeal for a transfer in to your school for my child,
 how do I proceed?
-<br><strong><em>You can either submit the application online via </em><a href="https://go.gov.sg/ycs-s1transfer2025" rel="noopener noreferrer nofollow" target="_blank"><u>Application for Transfer Into Yuan Ching Secondary School for Sec 1 2025</u></a><em> or you can download the Application for Transfer form <a href="https://go.gov.sg/ycs-s1transfer2025-hardcopy" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u> </u>and submit the completed form and the relevant supporting documents via the school email (<a href="https://www.yuanchingsec.moe.edu.sg/others/financial-assistance-scheme-fas/" rel="noopener noreferrer nofollow" target="_blank"><u>ycss@moe.edu.sg</u></a>) or to the school’s General Office. Appeals to transfer IN to Yuan Ching Sec School need to be made by 27 Dec 2024 (Friday).</em></strong>
+<br><strong><em>You can either submit the application online via </em><a href="https://go.gov.sg/ycs-s1transfer2026" rel="noopener noreferrer nofollow" target="_blank"><u>Application for Transfer Into Yuan Ching Secondary School for Sec 1 2026</u></a><em> or you can download the Application for Transfer form <a href="https://go.gov.sg/ycs-s1transfer2026-hardcopy" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u> </u>and submit the completed form and the relevant supporting documents via the school email (<a href="https://www.yuanchingsec.moe.edu.sg/others/financial-assistance-scheme-fas/" rel="noopener noreferrer nofollow" target="_blank"><u>ycss@moe.edu.sg</u></a>) or to the school’s General Office. Appeals to transfer IN to Yuan Ching Sec School need to be made by 26 Dec 2025 (Friday).</em></strong>
 </p>
 </li>
 <li>
@@ -753,50 +803,48 @@ how do I proceed?
 </ol>
 <p><strong><em>i) First complete the registration form for YCS.</em></strong>
 </p>
-<p><strong><em>ii) Please refer to our school website under Sec 1 Registration page – Transfer out of Yuan Ching Secondary School</em></strong>
+<p><strong><em>ii) For Requests to transfer OUT based on MEDICAL REASONS, please report to school with all relevant medical documents by 12.00PM on 22 Dec 2025 (Monday).</em></strong>
 </p>
-<p><strong><em>iii) For Requests to transfer OUT based on MEDICAL REASONS, please report to school with all relevant medical documents by 12.00PM on 19 Dec 2024 (Thursday).</em></strong>
+<p><strong><em>iii) All other requests to transfer OUT please go to the school website of your desired school and complete the appeal form and submit to that school.</em></strong>
 </p>
-<p><strong><em>iv) All other requests to transfer OUT please go to the school website of your desired school and complete the appeal form and submit to that school.</em></strong>
-</p>
-<p><strong><em>v) Students who have appealed to transfer OUT - Please do not buy books and uniform pending the outcome of your application.</em></strong>
+<p><strong><em>iv) Students who have appealed to transfer OUT - Please do not buy books and uniform pending the outcome of your application.</em></strong>
 </p>
 <ol start="3">
 <li>
 <p>How long do I have to wait to know if there are vacancies available in
 your school?
-<br><strong><em>The wait is approximately a week. We will call you if there is a vacancy. Please note that <u>unsuccessful applicants</u> will NOT be informed of the outcome of the application and applicants who do not hear from the school by <u>31 Dec 2024</u> are advised to report to the school that they are originally posted to on <u>2 Jan 2025</u>.</em></strong>
+<br><strong><em>The wait is approximately a week. We will call you if there is a vacancy. Please note that <u>unsuccessful applicants</u> will NOT be informed of the outcome of the application and applicants who do not hear from the school by <u>31 Dec 2025</u> are advised to report to the school that they are originally posted to on <u>2 Jan 2026</u>.</em></strong>
 </p>
 </li>
 </ol>
-<h3><u>Sec 1 Registration</u></h3>
+<h4><strong><u>Sec 1 Registration</u></strong></h4>
 <ol>
 <li>
 <p>I am the aunt/uncle of a student and the parents are not available to
 register the child in school. Can I personally register the child on the
 parent’s behalf? What documents do I need to bring?
-<br><strong><em>Registration is online, you can ask the parents to register online by 12.00pm 19 Dec 2024.</em></strong>
+<br><strong><em>Registration is online, you can ask the parents to register online by 21 Dec 2025.</em></strong>
 </p>
 </li>
 <li>
 <p>I would like to register my child but I am unable to make it for the registration
 day. How do I proceed to register my child?
-<br><strong><em>There is no need for the students to physically report to the school. You should register online by 12.00pm 19 Dec 2024.</em></strong>
+<br><strong><em>There is no need for the students to physically report to the school. You should register online by 21 Dec 2025.</em></strong>
 </p>
 </li>
 </ol>
-<h3><u>Purchasing of Books and Uniform</u></h3>
+<h4><strong><u>Purchasing of Books and Uniform</u></strong></h4>
 <ol>
 <li>
 <p>Do I need to buy the uniform and textbooks by registration day? Can I
 buy them another day?
-<br><strong><em>Yes, there is no need to buy the books and uniform on registration day. The bookshop and the uniform shop will be opened on 19 Dec – 30 Dec 2024 for the purchase of books and uniform.</em></strong>
+<br><strong><em>Yes, there is no need to buy the books and uniform on registration day. The bookshop and the uniform shop will be opened on 19 Dec – 30 Dec 2025 for the purchase of books and uniform.</em></strong>
 </p>
 </li>
 </ol>
-<p><strong><em>You may access the website from <u>18 Dec – 24 Dec 2024</u> to purchase the books and uniform online to avoid queuing in the school. There will be 2 options of purchases – Home delivery (with a delivery charge) and Self-collection via the website at <a href="https://www.yuanchingsec.moe.edu.sg/others/financial-assistance-scheme-fas/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pacificbookstores.com</u></a>.</em></strong>
+<p><strong><em>You may access the website from <u>19 Dec – 24 Dec 2025</u> to purchase the books and uniform online to avoid queuing in the school. There will be 2 options of purchases – Home delivery (with a delivery charge) and Self-collection via the website at <a href="https://www.yuanchingsec.moe.edu.sg/others/financial-assistance-scheme-fas/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pacificbookstores.com</u></a>.</em></strong>
 </p>
-<p><strong><em>You may still walk in to purchase the books and uniform at the school bookshop from 19 Dec to 30 Dec 2024 (Weekday: 9am – 3pm, Sat: 9am – 12pm) but do expect to queue up for the purchases. Note: The bookshop will be closed on <u>24 Dec and 28 Dec 2024.</u></em></strong>
+<p><strong><em>You may still walk in to purchase the books and uniform at the school bookshop from 19 Dec to 30 Dec 2025 (Weekday: 9am – 3pm, Sat: 9am – 12pm) but do expect to queue up for the purchases. Note: The bookshop will be closed on <u>24 Dec 2025.</u></em></strong>
 </p>
 <ol start="2">
 <li>
@@ -807,7 +855,7 @@ school reopen?
 </p>
 </li>
 </ol>
-<h3><u>More Demanding Level (MDL) Subjects</u></h3>
+<h4><strong><u>More Demanding Level (MDL) Subjects</u></strong></h4>
 <ol>
 <li>
 <p>The child’s name is not available in the drop-down list in the MDL registration
@@ -1015,7 +1063,8 @@ and insurance coverage?</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Appeal for Transfer In</summary>
+<summary><strong>Appeal for Transfer In</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Appeals to transfer<strong> IN </strong>to Yuan Ching Sec School need
 to be made by 26 Dec 2025 (Friday).</p>
@@ -1035,7 +1084,8 @@ to on 2 Jan 2026.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Appeal for Transfer Out</summary>
+<summary><strong>Appeal for Transfer Out</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Please note that you will still need to complete your <u>Online Registration</u> first
 before making your transfer request.</p>
