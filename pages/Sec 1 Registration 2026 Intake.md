@@ -672,7 +672,8 @@ in school uniform by 8:15AM.</p>
 by using their Edusave Account.
 <br>#Current rates subject to changes by MOE.</p>
 <h4><strong>5. General Rules for School</strong></h4>
-<p>i. Attire</p>
+<p><strong>i. Attire</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are to wear the prescribed school uniform and modification to
@@ -689,7 +690,8 @@ worn and the letters ‘YCSS’ must be visible.</p>
 </li>
 </ul>
 <p></p>
-<p>ii. Appearance</p>
+<p><strong>ii. Appearance</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Hairstyle must be conservative and not outlandish.</p>
@@ -728,7 +730,8 @@ view.</p>
 </li>
 </ul>
 <p></p>
-<p>iii. Policy on the use of Mobile Phone in school</p>
+<p><strong>iii. Policy on the use of Mobile Phone in school</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mobile phones are to be switched off and kept out of sight during curriculum
