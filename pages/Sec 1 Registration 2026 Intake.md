@@ -110,7 +110,7 @@ Registration, buying of books and uniform can be done online.</p>
 Dec 2025.</p>
 <p><u>Online Registration</u>
 </p>
-<h4><strong>More Demanding Level Subjects (Compulsory) </strong></h4>
+<h4><strong>More Demanding Level Subjects (Compulsory)</strong></h4>
 <h4><em><u>Please wait for the PG message from the school before exercising your option via the link below.</u></em></h4>
 <p>To allow students more flexibility and better develop their strengths,
 Yuan Ching offers students who qualify a chance to study English Language,
