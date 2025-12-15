@@ -387,7 +387,7 @@ to your child’s Form Teacher by <strong><u>7 Jan 2026 (Wed).</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/ycs-ip4hardcopy-2026" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/edusaveformsgso</u></a>
+<p><a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/edusaveformsgso</u></a>
 </p>
 <p>Parents who want to use Edusave funds for the PLD (for Singapore citizens
 students only), please submit the online Standing Order (SO) form by 7<strong><u> Jan 2026 (Wed)</u></strong> if
