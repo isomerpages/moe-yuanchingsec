@@ -1016,7 +1016,7 @@ and insurance coverage?</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>How do we purchase the device through the school?
-<br><strong><em>Purchase of the device can be made through the school through the PG letter sent by 31 Dec 2025. Students to respond by 7 Jan 2026 (Wed).</em></strong>
+<br><strong><em>Purchase of the device can be made through the school through the PG letter sent on 22 Dec 2025. Students to respond by 7 Jan 2026 (Wed).</em></strong>
 </p>
 </li>
 <li>
@@ -1035,7 +1035,7 @@ and insurance coverage?</p>
 </p>
 </li>
 <li>
-<p>If we already have our own iPad, can we use it in school?<strong><em><br>Once you have indicated in PG consent form, to be sent out by 31 Dec, that you intend to use your own iPad, the school will access the suitability of the device, and if it is compatible with the DMA before approving it as an alternative to the school-prescribed PLD. Parents will be required to consent to the installation of the DMA, and the DMA must be installed in the non-prescribed device, before it can be used in school in lieu of the school-prescribed PLD. This is to ensure uniformity of systems and software to ensure a smooth learning experience for the students</em></strong>
+<p>If we already have our own iPad, can we use it in school?<strong><em><br>Once you have indicated in PG consent form, to be sent out on 22 Dec, that you intend to use your own iPad, the school will access the suitability of the device, and if it is compatible with the DMA before approving it as an alternative to the school-prescribed PLD. Parents will be required to consent to the installation of the DMA, and the DMA must be installed in the non-prescribed device, before it can be used in school in lieu of the school-prescribed PLD. This is to ensure uniformity of systems and software to ensure a smooth learning experience for the students</em></strong>
 </p>
 </li>
 <li>
