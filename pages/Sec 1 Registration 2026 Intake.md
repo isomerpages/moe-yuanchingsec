@@ -108,7 +108,7 @@ Registration, buying of books and uniform can be done online.</p>
 <h4><strong>Online Registration Form (Compulsory)</strong></h4>
 <p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 21
 Dec 2025.</p>
-<p><u>Online Registration</u>
+<p><a href="https://go.gov.sg/ycs-sec1reg2026" rel="noopener nofollow" target="_blank">Online Registration</a>
 </p>
 <h4><strong>More Demanding Level Subjects (Compulsory)</strong></h4>
 <h4><em><u>Please wait for the PG message from the school before exercising your option via the link below.</u></em></h4>
@@ -182,7 +182,7 @@ respond if their child wishes to offer HMT Language by 24 Dec 2025.</p>
 <h4><strong>Online Registration Form (Compulsory)</strong></h4>
 <p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 21
 Dec 2025.</p>
-<p><u>Online Registration</u>
+<p><a href="https://go.gov.sg/ycs-sec1reg2026" rel="noopener nofollow" target="_blank">Online Registration</a>
 </p>
 <h4><strong>More Demanding Level Subjects (Compulsory)</strong></h4>
 <h4><em><u>Please wait for the PG message from the school before exercising your option via the link below.</u></em></h4>
@@ -247,7 +247,7 @@ respond if their child wishes to offer HMT Language by 24 Dec 2025.</p>
 <h4><strong>Online Registration Form (Compulsory)</strong></h4>
 <p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 21
 Dec 2025.</p>
-<p><u>Online Registration</u>
+<p><a href="https://go.gov.sg/ycs-sec1reg2026" rel="noopener nofollow" target="_blank">Online Registration</a>
 </p>
 <h4><strong>Higher Mother Tongue Language (HMTL)</strong></h4>
 <p>The school will inform parents of students who are eligible to offer Higher
