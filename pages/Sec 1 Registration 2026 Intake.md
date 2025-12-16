@@ -362,7 +362,7 @@ Information on the school bulk purchase of Personal Learning Device (PLD)&nbsp;<
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A Parents Gateway (PG) notification will be sent out by 31 Dec 2025. The
+<p>A Parents Gateway (PG) notification will be sent out on 22 Dec 2025. The
 deadline for intent to purchase a PLD under the school bulk purchase is <strong><u>7 Jan 2026 (Wed).</u></strong>
 </p>
 </td>
