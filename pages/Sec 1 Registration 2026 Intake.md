@@ -421,15 +421,15 @@ of computing device during class time.</p>
 physical keyboard, Apple Pencil);</p>
 <p>e. comparable features to school-prescribed PLD (e.g. inking);</p>
 <p>f. comparable performance to school-prescribed PLD</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i. Processor: A14 Fusion or
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i. Processor: A14 Bionic or
 better</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii. Capacity: 64GB or higher</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii. OS Version: iPadOS 18/26
 or higher</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv. Screen Size: 10.0 to 11.9
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv. Screen Size: 10.0 to 12.9
 inch (diagonal)</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; v. Resolution: 2048 x 1536
-or higher resolution</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; v. Resolution: 2160×1620 or
+higher resolution</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vi. WiFi function should work
 and support at least IEEE</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
