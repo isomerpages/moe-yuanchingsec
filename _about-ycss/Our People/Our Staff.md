@@ -862,7 +862,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Anniah Shofina</p>
+<p>Mdm Anniah Shofina Bte Zaimuddin Anwar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
@@ -913,7 +913,15 @@ variant: tiptap
 <p>Mdm Sarah Abdul Ghani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct Corporate Support Officer</p>
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shanthy D/O Raja Nayagam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AED (Admin Support)</p>
 </td>
 </tr>
 <tr>
@@ -982,10 +990,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Azliana Bte Mohd Fahrazi</p>
+<p>Ms Aisha Shameema Binte Khalidh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Librarian</p>
+<p>Library Assistant</p>
 </td>
 </tr>
 <tr>
