@@ -453,7 +453,7 @@ by 8:15AM. All Sec 1 students to gather at foyer, you will be directed
 to your respective classes. All students are expected to be properly attired
 with proper haircut (refer to Section Important Information: General Rules
 for School).</p>
-<p>Please refer to the <a href="https://go.gov.sg/yc2026-hb" rel="noopener noreferrer nofollow" target="_blank"><u>2025 Student e-Handbook.</u></a>
+<p>Please refer to the <a href="https://go.gov.sg/yc2026-hb" rel="noopener noreferrer nofollow" target="_blank"><u>2026 Student e-Handbook.</u></a>
 </p>
 <p></p>
 <h4><u>2-7 Jan 2026 - Sec 1 Orientation Programme</u></h4>
