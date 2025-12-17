@@ -70,10 +70,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Mardhiah Bte Mohamed Said</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior Teacher/ Malay Language</p>
 </td>
 </tr>
 </tbody>
@@ -106,10 +106,10 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Musniffa Bte Mustaffa</p>
+<p>Mr Sonny Liang Lai Hup</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sonny Liang Lai Hup</p>
+<p>Ms Zheng Xiumin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -120,10 +120,10 @@ variant: tiptap
 <p>1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Sujatha</p>
+<p>Ms Angela Chua Li Xia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Sahara Bte Osman</p>
+<p>Mdm Fang Chen Lan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -131,13 +131,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1Compassion</p>
+<p>1 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Siak Kheng</p>
+<p>Ms Wong Wei Na</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Chua Li Xia</p>
+<p>Ms Lai Cheng Man</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -148,13 +148,13 @@ variant: tiptap
 <p>1 Enterprise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Keith Koh Choon Hean</p>
+<p>Ms Leong Jun Xi, Jean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nurshila Bte Roslan</p>
+<p>Mr Senduran Vasudevan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zheng Xiumin</p>
+<p>Ms Normalah Baharin</p>
 </td>
 </tr>
 <tr>
@@ -162,10 +162,10 @@ variant: tiptap
 <p>1 Loyalty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nan Zhonghua</p>
+<p>Ms Normalah Baharin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeffrey Chen Weixiong</p>
+<p>Mr Wong Kwok Choon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -176,10 +176,10 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Yi Hui</p>
+<p>Ms Jasmine Widodo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fazila Banu Mohd Rabiullah</p>
+<p>r Segar Muniandy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -190,10 +190,10 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Fahmy</p>
+<p>Mr Koh Shao Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gina Teo Shun Ying</p>
+<p>Ms Shanti Armugam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -243,10 +243,10 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Standley Daniel</p>
+<p>Mdm Musniffa Binti Mustaffa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Neo Wen Xin</p>
+<p>Mr Sivaperakas R Muthiah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -277,7 +277,7 @@ variant: tiptap
 <p>Ms Jasmine Widodo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sivaperakas R Muthiah</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -659,14 +659,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fang Chen Lan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Jamal Mohinitheen Bin Ahamed Ghani</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -683,15 +675,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Komathy D/O Ramanathan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Fang Kwan</p>
+<p>Mr Mohammad Azhar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -700,14 +684,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Hazwan Bin Sapari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nancy Lau Leng Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -791,6 +767,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Sivasubramaniam Shakthi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cheng Zhixin Pearly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer (SEN)</p>
 </td>
 </tr>
 <tr>
