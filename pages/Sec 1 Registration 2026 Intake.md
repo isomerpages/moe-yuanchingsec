@@ -108,7 +108,7 @@ Registration, buying of books and uniform can be done online.</p>
 <h4><strong>Online Registration Form (Compulsory)</strong></h4>
 <p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 21
 Dec 2025.</p>
-<p><u>Online Registration</u>
+<p><a href="https://go.gov.sg/ycs-sec1reg2026" rel="noopener nofollow" target="_blank">Online Registration</a>
 </p>
 <h4><strong>More Demanding Level Subjects (Compulsory)</strong></h4>
 <h4><em><u>Please wait for the PG message from the school before exercising your option via the link below.</u></em></h4>
@@ -182,7 +182,7 @@ respond if their child wishes to offer HMT Language by 24 Dec 2025.</p>
 <h4><strong>Online Registration Form (Compulsory)</strong></h4>
 <p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 21
 Dec 2025.</p>
-<p><u>Online Registration</u>
+<p><a href="https://go.gov.sg/ycs-sec1reg2026" rel="noopener nofollow" target="_blank">Online Registration</a>
 </p>
 <h4><strong>More Demanding Level Subjects (Compulsory)</strong></h4>
 <h4><em><u>Please wait for the PG message from the school before exercising your option via the link below.</u></em></h4>
@@ -247,7 +247,7 @@ respond if their child wishes to offer HMT Language by 24 Dec 2025.</p>
 <h4><strong>Online Registration Form (Compulsory)</strong></h4>
 <p>Compulsory for ALL students to be completed from 19 Dec 2025, 9am to 21
 Dec 2025.</p>
-<p><u>Online Registration</u>
+<p><a href="https://go.gov.sg/ycs-sec1reg2026" rel="noopener nofollow" target="_blank">Online Registration</a>
 </p>
 <h4><strong>Higher Mother Tongue Language (HMTL)</strong></h4>
 <p>The school will inform parents of students who are eligible to offer Higher
@@ -347,9 +347,7 @@ Information on the school bulk purchase of Personal Learning Device (PLD)&nbsp;<
 <p></p>
 <p><strong><u>PLD Purchase Instructions</u></strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -362,7 +360,7 @@ Information on the school bulk purchase of Personal Learning Device (PLD)&nbsp;<
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A Parents Gateway (PG) notification will be sent out by 31 Dec 2025. The
+<p>A Parents Gateway (PG) notification will be sent out on 22 Dec 2025. The
 deadline for intent to purchase a PLD under the school bulk purchase is <strong><u>7 Jan 2026 (Wed).</u></strong>
 </p>
 </td>
@@ -382,21 +380,15 @@ to your child’s Form Teacher by <strong><u>7 Jan 2026 (Wed).</u></strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Online Edusave Standing Order (SO)</p>
-<p>
-<br>
-</p>
-<p><strong>Compulsory for parents of Singapore Citizen students who are using Edusave to pay for the PLD</strong>
+<p>Online Edusave Standing Order (SO)
+<br><strong>Compulsory for parents of Singapore Citizen students who are using Edusave to pay for the PLD</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/ycs-ip4hardcopy-2026" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/edusaveformsgso</u></a>
+<p><a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/edusaveformsgso</u></a>
 </p>
-<p>
-<br>
-</p>
-<p>Parents who want to use Edusave funds for the PLD (for Singapore citizens</p>
-<p>students only), please submit the online Standing Order (SO) form by 7<strong><u> Jan 2026 (Wed)</u></strong> if
+<p>Parents who want to use Edusave funds for the PLD (for Singapore citizens
+students only), please submit the online Standing Order (SO) form by 7<strong><u> Jan 2026 (Wed)</u></strong> if
 you have not done so previously.</p>
 </td>
 </tr>
@@ -427,23 +419,20 @@ of computing device during class time.</p>
 physical keyboard, Apple Pencil);</p>
 <p>e. comparable features to school-prescribed PLD (e.g. inking);</p>
 <p>f. comparable performance to school-prescribed PLD</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i. Processor: A14 Bionic chip
-or better</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii. Capacity: 64GB or higher</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii. OS Version: iPadOS 16
-or higher</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv. Screen Size: 10.0 to 11.9
-inch (diagonal)</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; v. Resolution: 2360 x 1640
-or higher resolution</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vi. WiFi function should work
-and support at least IEEE</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-802.11a/b/g/n/ac/ax standard that uses 5GHz</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i. Model: iPad 10 or higher</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii. Processor: A14 or better</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii. Capacity: 64GB or higher</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv. OS version: iPadOS 26</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; v. Screen Size: 10.0 inch or
+higher (diagonal)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vi. Resolution<sup>1</sup>:
+1366 x 768 or higher resolution</p>
 <p>g. device should not be installed with additional Operating Systems, antivirus
 software, Device Management and Parental Control tools other than the MOE
 DMA.</p>
 <p></p>
+<p><sup>1</sup>Resolution is the number of pixels a screen can show both
+horizontally and vertically.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -464,7 +453,7 @@ by 8:15AM. All Sec 1 students to gather at foyer, you will be directed
 to your respective classes. All students are expected to be properly attired
 with proper haircut (refer to Section Important Information: General Rules
 for School).</p>
-<p>Please refer to the <a href="https://go.gov.sg/yc2025-studenthandbook" rel="noopener noreferrer nofollow" target="_blank"><u>2025 Student e-Handbook.</u></a>
+<p>Please refer to the <a href="https://go.gov.sg/yc2026-hb" rel="noopener noreferrer nofollow" target="_blank"><u>2026 Student e-Handbook.</u></a>
 </p>
 <p></p>
 <h4><u>2-7 Jan 2026 - Sec 1 Orientation Programme</u></h4>
@@ -1027,7 +1016,7 @@ and insurance coverage?</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>How do we purchase the device through the school?
-<br><strong><em>Purchase of the device can be made through the school through the PG letter sent by 31 Dec 2025. Students to respond by 7 Jan 2026 (Wed).</em></strong>
+<br><strong><em>Purchase of the device can be made through the school through the PG letter sent on 22 Dec 2025. Students to respond by 7 Jan 2026 (Wed).</em></strong>
 </p>
 </li>
 <li>
@@ -1046,7 +1035,7 @@ and insurance coverage?</p>
 </p>
 </li>
 <li>
-<p>If we already have our own iPad, can we use it in school?<strong><em><br>Once you have indicated in PG consent form, to be sent out by 31 Dec, that you intend to use your own iPad, the school will access the suitability of the device, and if it is compatible with the DMA before approving it as an alternative to the school-prescribed PLD. Parents will be required to consent to the installation of the DMA, and the DMA must be installed in the non-prescribed device, before it can be used in school in lieu of the school-prescribed PLD. This is to ensure uniformity of systems and software to ensure a smooth learning experience for the students</em></strong>
+<p>If we already have our own iPad, can we use it in school?<strong><em><br>Once you have indicated in PG consent form, to be sent out on 22 Dec, that you intend to use your own iPad, the school will access the suitability of the device, and if it is compatible with the DMA before approving it as an alternative to the school-prescribed PLD. Parents will be required to consent to the installation of the DMA, and the DMA must be installed in the non-prescribed device, before it can be used in school in lieu of the school-prescribed PLD. This is to ensure uniformity of systems and software to ensure a smooth learning experience for the students</em></strong>
 </p>
 </li>
 <li>
