@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Hsin Wei</p>
+<p>Ms Tang Shien Yin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal (Curriculum)</p>
@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tang Shien Yin</p>
+<p>Mrs Buganeish Squires</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal (Curriculum)</p>
@@ -95,15 +95,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Buganeish Squires</p>
+<p>Mr Subramaniam Mohanamoothy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ English Language &amp; Literature</p>
+<p>HOD/ Humanities</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Subramaniam Mohanamoothy</p>
+<p>Mrs Lee Xin Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Humanities</p>
@@ -119,6 +119,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Alexander Chia Foh Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ Infocomm Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ong Wan Hui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,7 +135,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Raymond Yeo Tong Wei</p>
+<p>Ms Ong Fui Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Mother Tongue Languages</p>
@@ -135,18 +143,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chin Yi Mei</p>
+<p>Mr Muhammad Irfan Hussein</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Janageeraman s/o Senivasan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/ Student Management</p>
+<p>HOD/ PE &amp; CCA</p>
 </td>
 </tr>
 <tr>
@@ -167,10 +167,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Fui Ping</p>
+<p>Ms Koh Jie Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
+<p>Year Head (Lower Sec) (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -208,14 +208,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Jie Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Sec)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Dimas Nurr Aidilin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -228,14 +220,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/ Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tsering Choden</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/ Infocomm Technology</p>
 </td>
 </tr>
 <tr>
