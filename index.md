@@ -19,6 +19,11 @@ sections:
           url: /quick-links/for-students/school-daily-routines/remedials-and-cca-schedule/
       background: /images/Website_banner.gif
       variant: image
+  - infobar:
+      title: Secondary 1 Registration for 2026 Cohort
+      id: infobar
+      button: Register here
+      url: /sec-1-registration-2026/
   - resources:
       title: Announcements & Highlights
       id: resources

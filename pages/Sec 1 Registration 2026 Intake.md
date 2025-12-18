@@ -448,9 +448,9 @@ on 2 Jan 2026. Applicants may call the school at 62612489 and check the
 outcome of their application with the school on 2 Jan 2026.</p>
 <p><u>Day 1 Reporting Time &amp; Student e-Handbook:</u>
 </p>
-<p>On Thursday, 2 Jan 2026, Sec 1 students will report in school uniform
-by 8:15AM. All Sec 1 students to gather at foyer, you will be directed
-to your respective classes. All students are expected to be properly attired
+<p>On Friday, 2 Jan 2026, Sec 1 students will report in school uniform by
+8:15AM. All Sec 1 students to gather at foyer, you will be directed to
+your respective classes. All students are expected to be properly attired
 with proper haircut (refer to Section Important Information: General Rules
 for School).</p>
 <p>Please refer to the <a href="https://go.gov.sg/yc2026-hb" rel="noopener noreferrer nofollow" target="_blank"><u>2026 Student e-Handbook.</u></a>
@@ -770,14 +770,6 @@ by Yuan Ching Sec to collect my textbooks and uniform?
 </p>
 </li>
 </ol>
-<h4><strong><u>Cut-off points</u></strong></h4>
-<ol>
-<li>
-<p>What is the cut-off points for your school?
-<br><strong><em>Posting Group 1 - TBC<br>Posting Group 2 - TBC<br>Posting Group 3 - TBC</em></strong>
-</p>
-</li>
-</ol>
 <h4><strong><u>Transfer in and out of Yuan Ching Secondary School</u></strong></h4>
 <ol>
 <li>
@@ -1052,11 +1044,22 @@ and insurance coverage?</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>Cut-off Points</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Posting Group 1 - TBC</p>
+<p>Posting Group 2 - TBC</p>
+<p>Posting Group 3 - TBC</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>Appeal for Transfer In</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Appeals to transfer<strong> IN </strong>to Yuan Ching Sec School need
-to be made by 26 Dec 2025 (Friday).</p>
+to be made by 26 Dec 2025 (Friday). Applicants who do <strong>not </strong>meet
+the COP for their respective Posting Group <strong>need not</strong> apply
+for Transfer In.</p>
 <p></p>
 <p>You can either submit the application <a href="https://go.gov.sg/ycs-s1transfer2026" rel="noopener nofollow" target="_blank">online</a><em> </em>or you
 can download the Application for Transfer form <a href="https://go.gov.sg/ycs-s1transfer2026-hardcopy" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and
@@ -1088,4 +1091,6 @@ and uniform pending the outcome of your application.</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
 <p></p>
