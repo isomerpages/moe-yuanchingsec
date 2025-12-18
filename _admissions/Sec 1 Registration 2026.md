@@ -448,9 +448,9 @@ on 2 Jan 2026. Applicants may call the school at 62612489 and check the
 outcome of their application with the school on 2 Jan 2026.</p>
 <p><u>Day 1 Reporting Time &amp; Student e-Handbook:</u>
 </p>
-<p>On Thursday, 2 Jan 2026, Sec 1 students will report in school uniform
-by 8:15AM. All Sec 1 students to gather at foyer, you will be directed
-to your respective classes. All students are expected to be properly attired
+<p>On Friday, 2 Jan 2026, Sec 1 students will report in school uniform by
+8:15AM. All Sec 1 students to gather at foyer, you will be directed to
+your respective classes. All students are expected to be properly attired
 with proper haircut (refer to Section Important Information: General Rules
 for School).</p>
 <p>Please refer to the <a href="https://go.gov.sg/yc2026-hb" rel="noopener noreferrer nofollow" target="_blank"><u>2026 Student e-Handbook.</u></a>
