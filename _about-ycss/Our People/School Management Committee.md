@@ -103,7 +103,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Xin Ying</p>
+<p>Mrs Shui-Lee Xin Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Humanities</p>
