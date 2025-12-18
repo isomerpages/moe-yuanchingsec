@@ -90,7 +90,7 @@ variant: tiptap
 <p>Mr Lai Weng Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Craft &amp; Technology (Internal)</p>
+<p>HOD/Craft &amp; Technology (Covering)</p>
 </td>
 </tr>
 <tr>
