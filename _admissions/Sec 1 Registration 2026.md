@@ -738,7 +738,6 @@ after school/remedial/CCAs.</p>
 <p>Abuse of technology will be dealt with seriously.</p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
