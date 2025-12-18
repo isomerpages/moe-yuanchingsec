@@ -770,14 +770,6 @@ by Yuan Ching Sec to collect my textbooks and uniform?
 </p>
 </li>
 </ol>
-<h4><strong><u>Cut-off points</u></strong></h4>
-<ol>
-<li>
-<p>What is the cut-off points for your school?
-<br><strong><em>Posting Group 1 - TBC<br>Posting Group 2 - TBC<br>Posting Group 3 - TBC</em></strong>
-</p>
-</li>
-</ol>
 <h4><strong><u>Transfer in and out of Yuan Ching Secondary School</u></strong></h4>
 <ol>
 <li>
