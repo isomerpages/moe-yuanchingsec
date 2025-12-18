@@ -419,14 +419,14 @@ of computing device during class time.</p>
 physical keyboard, Apple Pencil);</p>
 <p>e. comparable features to school-prescribed PLD (e.g. inking);</p>
 <p>f. comparable performance to school-prescribed PLD</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i. Model: iPad 10 or higher</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii. Processor: A14 or better</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii. Capacity: 64GB or higher</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv. OS version: iPadOS 26</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; v. Screen Size: 10.0 inch or
-higher (diagonal)</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vi. Resolution<sup>1</sup>:
-1366 x 768 or higher resolution</p>
+<p>&nbsp;&nbsp;&nbsp;i. Model: iPad 10 or higher</p>
+<p>&nbsp;&nbsp; ii. Processor: A14 or better</p>
+<p>&nbsp;&nbsp;iii. Capacity: 64GB or higher</p>
+<p>&nbsp;&nbsp;iv. OS version: iPadOS 26</p>
+<p>&nbsp;&nbsp;&nbsp;v. Screen Size: 10.0 inch or higher (diagonal)</p>
+<p>&nbsp;&nbsp;vi. Resolution<sup>1</sup>: 1366 x 768 or higher resolution</p>
+<p>vii. Wi-Fi function should work and support at least IEEE 802.11 a/n/ac
+standard that uses 5GHz band.</p>
 <p>g. device should not be installed with additional Operating Systems, antivirus
 software, Device Management and Parental Control tools other than the MOE
 DMA.</p>
