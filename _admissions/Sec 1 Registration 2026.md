@@ -1052,11 +1052,22 @@ and insurance coverage?</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>Cut-off Points</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Posting Group 1 - TBC</p>
+<p>Posting Group 2 - TBC</p>
+<p>Posting Group 3 - TBC</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>Appeal for Transfer In</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Appeals to transfer<strong> IN </strong>to Yuan Ching Sec School need
-to be made by 26 Dec 2025 (Friday).</p>
+to be made by 26 Dec 2025 (Friday). Applicants who do <strong>not </strong>meet
+the COP for their respective Posting Group <strong>need not</strong> apply
+for Transfer In.</p>
 <p></p>
 <p>You can either submit the application <a href="https://go.gov.sg/ycs-s1transfer2026" rel="noopener nofollow" target="_blank">online</a><em> </em>or you
 can download the Application for Transfer form <a href="https://go.gov.sg/ycs-s1transfer2026-hardcopy" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and
