@@ -770,14 +770,7 @@ by Yuan Ching Sec to collect my textbooks and uniform?
 </p>
 </li>
 </ol>
-<h4><strong><u>Cut-off points</u></strong></h4>
-<ol>
-<li>
-<p>What is the cut-off points for your school?
-<br><strong><em>Posting Group 1 - TBC<br>Posting Group 2 - TBC<br>Posting Group 3 - TBC</em></strong>
-</p>
-</li>
-</ol>
+<h4></h4>
 <h4><strong><u>Transfer in and out of Yuan Ching Secondary School</u></strong></h4>
 <ol>
 <li>
@@ -1052,11 +1045,22 @@ and insurance coverage?</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>Cut-off points</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Posting Group 1 - TBC</p>
+<p>Posting Group 2 - TBC</p>
+<p>Posting Group 3 - TBC</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>Appeal for Transfer In</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Appeals to transfer<strong> IN </strong>to Yuan Ching Sec School need
-to be made by 26 Dec 2025 (Friday).</p>
+to be made by 26 Dec 2025 (Friday). Applicants who do not meet the Cut-off
+Points for their respective Posting Group <strong>need not</strong> apply
+for Transfer In.</p>
 <p></p>
 <p>You can either submit the application <a href="https://go.gov.sg/ycs-s1transfer2026" rel="noopener nofollow" target="_blank">online</a><em> </em>or you
 can download the Application for Transfer form <a href="https://go.gov.sg/ycs-s1transfer2026-hardcopy" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and
@@ -1068,7 +1072,7 @@ of the application and applicants who do not hear from the school by 31
 Dec 2025 are advised to report to the school that they are originally posted
 to on 2 Jan 2026.</p>
 <p></p>
-<p><strong>Do note that the school will adhere strictly to MOE’s policy on Appeal for transfer IN cases.</strong>
+<p><strong>Do note that the school will adhere strictly to MOE’s policy on Appeal Appeal for transfer IN cases.</strong>
 </p>
 </div>
 </details>
@@ -1085,6 +1089,12 @@ please report to school with all relevant medical documents by 22 Dec 2025
 please approach the relevant school to Appeal to transfer.</p>
 <p>Students who have appealed to transfer <strong>OUT </strong>- Please <strong>do not buy</strong> books
 and uniform pending the outcome of your application.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
