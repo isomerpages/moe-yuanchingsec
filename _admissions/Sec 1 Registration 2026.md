@@ -719,29 +719,25 @@ view.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>iii. Policy on the use of Mobile Phone in school</strong>
+<p><strong>iii. Policy on the use of Mobile Phone and Smartwatches in school</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mobile phones are to be switched off and kept out of sight during curriculum
-time/ remedial/CCAs.</p>
+<p>Mobile phones and smartwatches are to be switched off and kept out of
+sight during curriculum time/ remedial/CCAs.</p>
 </li>
 <li>
-<p>Mobile phones are allowed to be used only in the canteen after school/remedial/CCAs.</p>
+<p>Mobile phones and smartwatches are allowed to be used only in the canteen
+after school/remedial/CCAs.</p>
 </li>
 <li>
-<p>Students are to refrain from using the camera function, playing music
-from the speaker and charging their mobile phone in school.</p>
-</li>
-<li>
-<p>Consequence of non-adherence : Mobile phone will be confiscated (including
-SIM card) for one week.</p>
+<p>Consequence of non-adherence : Mobile phone and smartwatches will be confiscated
+(including SIM card) for one week.</p>
 </li>
 <li>
 <p>Abuse of technology will be dealt with seriously.</p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
