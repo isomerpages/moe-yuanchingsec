@@ -1043,9 +1043,9 @@ and insurance coverage?</p>
 <summary><strong>Cut-off Points</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Posting Group 1 - TBC</p>
-<p>Posting Group 2 - TBC</p>
-<p>Posting Group 3 - TBC</p>
+<p>Posting Group 1 - 28</p>
+<p>Posting Group 2 - 24</p>
+<p>Posting Group 3 - 18</p>
 </div>
 </details>
 <details class="isomer-details">
