@@ -151,6 +151,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chen Zhanjiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ Science (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Tan Kok Chiew</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,14 +208,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Zhanjiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/ Innovation &amp; Sustainability</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Dimas Nurr Aidilin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -232,10 +232,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Mardhiah Bte Mohamed Said</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Subject Head/ Malay</p>
 </td>
 </tr>
 </tbody>
