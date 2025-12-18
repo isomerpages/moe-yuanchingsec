@@ -211,7 +211,7 @@ variant: tiptap
 <p>Ms Dimas Nurr Aidilin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Sec)(Internal)</p>
+<p>Assistant Year Head (Lower Sec)(Covering)</p>
 </td>
 </tr>
 <tr>
