@@ -179,7 +179,7 @@ variant: tiptap
 <p>Ms Jasmine Widodo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>r Segar Muniandy</p>
+<p>Mr Segar Muniandy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
