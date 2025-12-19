@@ -771,7 +771,7 @@ by Yuan Ching Sec to collect my textbooks and uniform?
 <li>
 <p>I would like to appeal for a transfer in to your school for my child,
 how do I proceed?
-<br><strong><em>You can either submit the application online via </em><a href="https://go.gov.sg/ycs-s1transfer2026" rel="noopener noreferrer nofollow" target="_blank"><u>Application for Transfer Into Yuan Ching Secondary School for Sec 1 2026</u></a><em> or you can download the Application for Transfer form <a href="https://go.gov.sg/ycs-s1transfer2026-hardcopy" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u> </u>and submit the completed form and the relevant supporting documents via the school email (<a href="https://www.yuanchingsec.moe.edu.sg/others/financial-assistance-scheme-fas/" rel="noopener noreferrer nofollow" target="_blank"><u>ycss@moe.edu.sg</u></a>) or to the school’s General Office. Appeals to transfer IN to Yuan Ching Sec School need to be made by 26 Dec 2025 (Friday).</em></strong>
+<br><strong><em>You can either submit the application online via </em><a href="https://go.gov.sg/ycs-s1transfer2026" rel="noopener noreferrer nofollow" target="_blank"><u>Application for Transfer Into Yuan Ching Secondary School for Sec 1 2026</u></a><em> or you can download the Application for Transfer form <a href="https://go.gov.sg/ycs-s1transfer2026-hardcopy" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u> </u>and submit the completed form and the relevant supporting documents via the school email (ycss@moe.edu.sg) or to the school’s General Office. Appeals to transfer IN to Yuan Ching Sec School need to be made by 26 Dec 2025 (Friday).</em></strong>
 </p>
 </li>
 <li>
@@ -819,7 +819,7 @@ buy them another day?
 </p>
 </li>
 </ol>
-<p><strong><em>You may access the website from <u>19 Dec – 24 Dec 2025</u> to purchase the books and uniform online to avoid queuing in the school. There will be 2 options of purchases – Home delivery (with a delivery charge) and Self-collection via the website at <a href="https://www.yuanchingsec.moe.edu.sg/others/financial-assistance-scheme-fas/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pacificbookstores.com</u></a>.</em></strong>
+<p><strong><em>You may access the website from <u>19 Dec – 24 Dec 2025</u> to purchase the books and uniform online to avoid queuing in the school. There will be 2 options of purchases – Home delivery (with a delivery charge) and Self-collection via the website at <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pacificbookstores.com</u></a>.</em></strong>
 </p>
 <p><strong><em>You may still walk in to purchase the books and uniform at the school bookshop from 19 Dec to 30 Dec 2025 (Weekday: 9am – 3pm, Sat: 9am – 12pm) but do expect to queue up for the purchases. Note: The bookshop will be closed on <u>24 Dec 2025.</u></em></strong>
 </p>
@@ -1043,9 +1043,9 @@ and insurance coverage?</p>
 <summary><strong>Cut-off Points</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Posting Group 1 - TBC</p>
-<p>Posting Group 2 - TBC</p>
-<p>Posting Group 3 - TBC</p>
+<p>Posting Group 1 - 28</p>
+<p>Posting Group 2 - 24</p>
+<p>Posting Group 3 - 18</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -1060,8 +1060,7 @@ for Transfer In.</p>
 <p>You can either submit the application <a href="https://go.gov.sg/ycs-s1transfer2026" rel="noopener nofollow" target="_blank">online</a><em> </em>or you
 can download the Application for Transfer form <a href="https://go.gov.sg/ycs-s1transfer2026-hardcopy" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and
 submit the completed form and the relevant supporting documents via the
-school email (<a href="https://go.gov.sg/ycs-s1transfer2025" rel="noopener noreferrer nofollow" target="_blank"><u>ycss@moe.edu.sg</u></a>)
-or to the school’s General Office.&nbsp;</p>
+school email (ycss@moe.edu.sg) or to the school’s General Office.&nbsp;</p>
 <p>Please note that unsuccessful applicants will not be informed of the outcome
 of the application and applicants who do not hear from the school by 31
 Dec 2025 are advised to report to the school that they are originally posted
