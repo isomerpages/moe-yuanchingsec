@@ -819,7 +819,7 @@ buy them another day?
 </p>
 </li>
 </ol>
-<p><strong><em>You may access the website from <u>19 Dec – 24 Dec 2025</u> to purchase the books and uniform online to avoid queuing in the school. There will be 2 options of purchases – Home delivery (with a delivery charge) and Self-collection via the website at <a href="https://www.yuanchingsec.moe.edu.sg/others/financial-assistance-scheme-fas/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pacificbookstores.com</u></a>.</em></strong>
+<p><strong><em>You may access the website from <u>19 Dec – 24 Dec 2025</u> to purchase the books and uniform online to avoid queuing in the school. There will be 2 options of purchases – Home delivery (with a delivery charge) and Self-collection via the website at <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pacificbookstores.com</u></a>.</em></strong>
 </p>
 <p><strong><em>You may still walk in to purchase the books and uniform at the school bookshop from 19 Dec to 30 Dec 2025 (Weekday: 9am – 3pm, Sat: 9am – 12pm) but do expect to queue up for the purchases. Note: The bookshop will be closed on <u>24 Dec 2025.</u></em></strong>
 </p>
