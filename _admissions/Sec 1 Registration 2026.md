@@ -1060,8 +1060,7 @@ for Transfer In.</p>
 <p>You can either submit the application <a href="https://go.gov.sg/ycs-s1transfer2026" rel="noopener nofollow" target="_blank">online</a><em> </em>or you
 can download the Application for Transfer form <a href="https://go.gov.sg/ycs-s1transfer2026-hardcopy" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and
 submit the completed form and the relevant supporting documents via the
-school email (<a href="https://go.gov.sg/ycs-s1transfer2025" rel="noopener noreferrer nofollow" target="_blank"><u>ycss@moe.edu.sg</u></a>)
-or to the school’s General Office.&nbsp;</p>
+school email (ycss@moe.edu.sg) or to the school’s General Office.&nbsp;</p>
 <p>Please note that unsuccessful applicants will not be informed of the outcome
 of the application and applicants who do not hear from the school by 31
 Dec 2025 are advised to report to the school that they are originally posted
