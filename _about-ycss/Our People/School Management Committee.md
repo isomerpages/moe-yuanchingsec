@@ -95,14 +95,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Subramaniam Mohanamoothy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/ Humanities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Shui-Lee Xin Ying</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -236,6 +228,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/ Malay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Subramaniam Mohanamoothy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/ History</p>
 </td>
 </tr>
 </tbody>
