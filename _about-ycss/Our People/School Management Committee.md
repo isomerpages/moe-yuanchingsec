@@ -87,6 +87,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr C. Ganesh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ Student Management (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lai Weng Keong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,7 +114,7 @@ variant: tiptap
 <p>Mrs Erh-Ong Ka Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Infocomm Technology</p>
+<p>HOD/ Infocomm Technology 1</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +122,7 @@ variant: tiptap
 <p>Mr Alexander Chia Foh Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Infocomm Technology</p>
+<p>HOD/ Infocomm Technology 2</p>
 </td>
 </tr>
 <tr>
@@ -208,18 +216,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Liu Yunman</p>
+<p>Ms Angela Chua Li Xia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ Mathematics</p>
+<p>Subject Head/ Student Management (Covering)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr C. Ganesh</p>
+<p>Ms Liu Yunman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ PE/CCA</p>
+<p>Subject Head/ Mathematics</p>
 </td>
 </tr>
 <tr>
