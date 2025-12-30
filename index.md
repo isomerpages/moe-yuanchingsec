@@ -4,7 +4,7 @@ title: Yuan Ching Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Attention to all P5 & P6 students, do join our CCA Showcase on 10
+notification: Attention to all P5 & P6 students! Do join our CCA Showcase on 10
   Jan, 10.45 am–12 pm and experience student life at YCSS!
 sections:
   - hero:
@@ -20,11 +20,6 @@ sections:
           url: /quick-links/for-students/school-daily-routines/remedials-and-cca-schedule/
       background: /images/Website_banner.gif
       variant: image
-  - infobar:
-      title: Secondary 1 Registration for 2026 Cohort
-      id: infobar
-      button: Register here
-      url: /sec-1-registration-2026/
   - resources:
       title: Announcements & Highlights
       id: resources
