@@ -108,7 +108,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/YCSS_Digital_Handbook_2025_updated_27_MAY_2025.pdf" rel="noopener nofollow" target="_blank">2025 eStudent Handbook</a>
+<p><a href="https://go.gov.sg/yc2026-hb" rel="noopener nofollow" target="_blank">2026 eStudent Handbook</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
