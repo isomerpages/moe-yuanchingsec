@@ -4,9 +4,9 @@ title: Yuan Ching Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Join us at Yuan Ching Secondary School’s CCA Showcase on 10
-  January (9am-12pm). Open to the public, Primary 5 and Primary 6 students are
-  invited to explore our diverse CCAs and experience student life at YCSS.
+notification: Join us at our CCA Showcase on 10 January (9am-12pm). Open to the
+  public, Primary 5 and Primary 6 students are invited to explore our diverse
+  CCAs and experience student life at YCSS.
 sections:
   - hero:
       key_highlights:
