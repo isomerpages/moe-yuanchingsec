@@ -7,13 +7,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>All <strong>Secondary 1 (2026)</strong>  <strong>students </strong>and their <strong>parents </strong>are
-invited to attend the Sec 1 Meet-the-Parents Engagement Session and CCA
-Showcase 2026.</p>
-<p><strong>Primary 5 and Primary 6 students</strong>  <strong>and their families</strong> are
-also warmly welcome to join our <strong>CCA Showcase</strong>! Discover
-our diverse CCAs and interact with members from the various CCAs to gain
-a firsthand experience of student life at Yuan Ching Secondary School.</p>
-<p>📍 Open to the public</p>
-<p>📅 10 January (Saturday), 9.00am – 12.00pm</p>
-<p>We look forward to welcoming you to YCSS!</p>
+<p>🎉 <strong>Join Us at YCSS!</strong>
+</p>
+<p>All Secondary 1 (2026) students and parents are invited to the <strong>Sec 1 Meet-the-Parents Engagement Session &amp; CCA Showcase 2026</strong>.</p>
+<p>📅 <strong>10 Jan (Sat) | 9.00 am – 12.00 pm</strong>
+</p>
+<p>👨‍🎓 Primary 5 &amp; 6 students and families are also welcome to the <strong>CCA Showcase</strong> from <strong><u>10.45 am – 12.00 pm</u></strong><u>.</u> Explore
+our diverse CCAs and interact with student members to experience life at
+Yuan Ching Secondary School!</p>
+<p>We can’t wait to see you there! 🎓</p>
