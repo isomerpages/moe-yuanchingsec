@@ -7,6 +7,13 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9563.png">
+</div>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/pes-cca-primary-parent-signup"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_12_31_at_10_34_47.jpg"></a>
 <p>🎉 <strong>Join Us at YCSS!</strong>
 </p>
 <p>All <strong>Secondary 1 (2026) students </strong>and <strong>parents </strong>are
