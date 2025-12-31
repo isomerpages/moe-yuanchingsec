@@ -20,6 +20,13 @@ sections:
           url: /quick-links/for-students/school-daily-routines/remedials-and-cca-schedule/
       background: /images/Website_banner.gif
       variant: image
+  - infopic:
+      title: Sec 1 Parents Engagement session and CCA Showcase 2026
+      id: infopic
+      button: Click to Register
+      url: /cca-showcase-2026/
+      image: /images/IMG_9563.png
+      alt: Image alt text
   - resources:
       title: Announcements & Highlights
       id: resources
