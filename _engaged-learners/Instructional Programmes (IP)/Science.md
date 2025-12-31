@@ -75,8 +75,8 @@ and acquisition of Scientific knowledge outside the classrooms.</p>
 </li>
 </ul>
 <h3>Teachers</h3>
-<p><strong>HOD Mother Tongue Languages:</strong> Mdm Chin Yi Mei
-<br><strong>Senior Teacher (Chinese Language):</strong> Mr Wong Chin Seng</p>
+<p><strong>HOD Science (Covering):</strong> Mr Chen Zhanjiang</p>
+<p><strong>Senior Teacher (Chemistry)</strong>: Mr Wong Ching Seng</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -108,7 +108,7 @@ and acquisition of Scientific knowledge outside the classrooms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Zhanjiang</p>
+<p>Mr Chua Kok Yew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nadia Madzan</p>
@@ -119,21 +119,10 @@ and acquisition of Scientific knowledge outside the classrooms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Kok Yew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Siak Kheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr C. Ganesh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Huang Zhi Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Chin Seng</p>
+<p>Mr Lee Siak Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jasmine Widodo</p>
@@ -144,7 +133,7 @@ and acquisition of Scientific knowledge outside the classrooms.</p>
 <p>Mr Tan HanWei Bennett</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Wong Chin Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

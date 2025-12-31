@@ -115,24 +115,16 @@ and lectures:&nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mr Foo Say Kin</p>
+<p>Mr Chen Weixiong Jeffrey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shanthy Raja (AED)</p>
+<p>Ms Gina Teo Shun Ying</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nadia Madzan</p>
+<p>Mr Koh Shao Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wong Ling Ling</p>
@@ -148,15 +140,15 @@ and lectures:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Siak Kheng</p>
+<p>Mr Muhammad Hazwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vilochana D/O Veloo</p>
+<p>Mdm Soh Kim Choo</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Hazwan Bin Sapari</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

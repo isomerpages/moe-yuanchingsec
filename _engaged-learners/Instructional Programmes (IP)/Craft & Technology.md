@@ -136,7 +136,7 @@ also learn to improvise with voice and instruments and eventually engage
 in composing or arranging a short music of a few parts using GarageBand
 app</p>
 <h3>Teachers</h3>
-<p><strong>HOD Craft &amp; Technology:</strong> Ms Joy Tay Huijuan</p>
+<p><strong>HOD Craft &amp; Technology (Internal):</strong> Mr Lai Weng Keong</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -171,7 +171,7 @@ app</p>
 <p>Mr Sivaperakas R Muthiah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lai Weng Keong (AYH Lower Sec)</p>
+<p>Mdm Norita Binte Samsi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Ai Lin</p>
@@ -179,7 +179,7 @@ app</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tsering Choden</p>
+<p>Ms Shanti Armugam (Music Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Sheo Yuan</p>
@@ -190,13 +190,24 @@ app</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Shanti Armugam (Music Coordinator)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tham Wai Keong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Vijaya (Food Lab Assistant)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Kwok Choon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

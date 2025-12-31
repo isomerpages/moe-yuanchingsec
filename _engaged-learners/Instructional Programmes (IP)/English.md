@@ -26,9 +26,7 @@ and Imagination Week and morning reading cultivate a love for literature,
 while technology-infused lessons bring literary concepts to life, enriching
 their overall learning experience.</p>
 <h3>Teachers</h3>
-<p><strong>HOD English Language and Literature:</strong> Mrs Buganeish Squires
-<br>
-</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -49,13 +47,13 @@ their overall learning experience.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Janageeraman Senivasan</p>
+<p>Mrs Buganeish Squires</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Paul Lim Chow Chiat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Amos Lee Canguang</p>
+<p>Ms Amanda Ong Jia Yi</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +75,7 @@ their overall learning experience.</p>
 <p>Mrs Siva Thavaranee D/O Rasiah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Ong Jia Yi</p>
+<p>Ms Neo Wen Xin</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +86,7 @@ their overall learning experience.</p>
 <p>Ms Leong Jun Xi Jean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Neo Wen Xin</p>
+<p>Ms Fazila Banu D/O Mohamed Rabiullah</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +97,7 @@ their overall learning experience.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Siti Sahara Bte Osman</p>
 </td>
 </tr>
 <tr>
