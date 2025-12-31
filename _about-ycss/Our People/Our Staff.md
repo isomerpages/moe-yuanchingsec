@@ -154,7 +154,7 @@ variant: tiptap
 <p>Mr Senduran Vasudevan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Normalah Baharin</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -411,7 +411,7 @@ variant: tiptap
 <p>Ms Azria Bte Azman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Teo Hui Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -439,7 +439,7 @@ variant: tiptap
 <p>Ms Ong Zhiqing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Priya Sivashanmuga</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -576,7 +576,7 @@ variant: tiptap
 <p>Ms Nadia Bte Madzan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Foo Say Kin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -653,6 +653,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Lilian Foo Chen Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Kelly Yeo Ee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -670,6 +678,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Hazwan Bin Sapari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nancy Lau</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -710,6 +726,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Sumita Sathi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Swee Siow Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -797,10 +821,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Shanti Letchimi D/O Mariappan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Flexi Adjunct School Counsellor</p>
 </td>
 </tr>
 </tbody>
