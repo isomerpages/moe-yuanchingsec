@@ -99,7 +99,9 @@ below:</p>
 <br>Unstructured Play
 <br>Sports Education Programme</p>
 <h3>Teachers</h3>
-<p> <strong>SH / Physical Education and Co-Curricular Activities:</strong> Mr
+<p><strong>HOD / Physical Education and Co-Curricular Activities: </strong>Mr
+Muhammad Irfan Bin Hussein</p>
+<p><strong>SH / Physical Education and Co-Curricular Activities:</strong> Mr
 C.Ganesh</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -114,14 +116,6 @@ C.Ganesh</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Fang Kwan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Keith Koh Choon Jean</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
