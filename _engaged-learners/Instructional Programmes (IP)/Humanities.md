@@ -125,7 +125,7 @@ proposal to manage Hawker Business.</p>
 <h3>Teachers</h3>
 <p><strong>HOD Humanities:</strong> Ms Shui-Lee Xin Ying</p>
 <p><strong>SH/ Humanities:</strong> Mr Subramaniam Mohanamoothy
-<br><strong>Senior Teacher (Humanities):</strong> Ms Tan Kwee Theng (History)
+<br><strong>Senior Teachers (Humanities):</strong> Ms Tan Kwee Theng (History)
 &amp; Mrs Goh-Cheong Wei Leng (Geography)</p>
 <table style="minWidth: 100px">
 <colgroup>
