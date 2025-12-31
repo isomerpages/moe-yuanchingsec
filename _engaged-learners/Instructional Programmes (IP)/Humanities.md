@@ -123,7 +123,8 @@ and Financial Literacy for Youth (FLY) Challenge organised by the Republic
 Polytechnic and have done well in garnering accolades that include the
 proposal to manage Hawker Business.</p>
 <h3>Teachers</h3>
-<p><strong>HOD Humanities:</strong> Ms Shui-Lee Xin Ying
+<p><strong>HOD Humanities:</strong> Ms Shui-Lee Xin Ying</p>
+<p><strong>SH/ Humanities:</strong> Mr Subramaniam Mohanamoothy
 <br><strong>Senior Teacher (Humanities):</strong> Ms Tan Kwee Theng (History)
 &amp; Mrs Goh-Cheong Wei Leng (Geography)</p>
 <table style="minWidth: 100px">
@@ -181,7 +182,7 @@ proposal to manage Hawker Business.</p>
 <p>Ms Chua Patsy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Subramaniam Mohanamoothy</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kelly Yeo Ee Ling</p>
