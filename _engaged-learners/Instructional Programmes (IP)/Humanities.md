@@ -123,7 +123,7 @@ and Financial Literacy for Youth (FLY) Challenge organised by the Republic
 Polytechnic and have done well in garnering accolades that include the
 proposal to manage Hawker Business.</p>
 <h3>Teachers</h3>
-<p><strong>HOD Humanities:</strong> Mr Subramaniam Mohanamoothy
+<p><strong>HOD Humanities:</strong> Ms Shui-Lee Xin Ying
 <br><strong>Senior Teacher (Humanities):</strong> Ms Tan Kwee Theng (History)
 &amp; Mrs Goh-Cheong Wei Leng (Geography)</p>
 <table style="minWidth: 100px">
@@ -164,7 +164,7 @@ proposal to manage Hawker Business.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Arulushamaheswary</p>
+<p>Mr Alexander Stanley Chia Foh Soon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Fahmy</p>
@@ -178,13 +178,13 @@ proposal to manage Hawker Business.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Amos Lee</p>
+<p>Ms Chua Patsy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Standley Daniel</p>
+<p>Mr Subramaniam Mohanamoothy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Kelly Yeo Ee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -192,7 +192,7 @@ proposal to manage Hawker Business.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Yee Jie Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
