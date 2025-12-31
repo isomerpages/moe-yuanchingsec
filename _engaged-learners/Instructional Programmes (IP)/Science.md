@@ -76,6 +76,7 @@ and acquisition of Scientific knowledge outside the classrooms.</p>
 </ul>
 <h3>Teachers</h3>
 <p><strong>HOD Science (Covering):</strong> Mr Chen Zhanjiang</p>
+<p><strong>Senior Teacher (Chemistry)</strong>: Mr Wong Ching Seng</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -124,7 +125,7 @@ and acquisition of Scientific knowledge outside the classrooms.</p>
 <p>Mr Lee Siak Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr C. Ganesh</p>
+<p>Ms Jasmine Widodo</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +136,7 @@ and acquisition of Scientific knowledge outside the classrooms.</p>
 <p>Mr Wong Chin Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Widodo</p>
+<p></p>
 </td>
 </tr>
 <tr>
