@@ -74,8 +74,11 @@ as well as zonal Tamil language competitions. The school also hosted our
 internal competitions such as Singing Competition to unleash the potential
 and pique the interest of our students.</p>
 <h3>Teachers</h3>
-<p><strong>HOD Mother Tongue Languages:</strong> Mr Raymond Yeo
-<br><strong>Senior Teacher (Chinese Language):</strong> Ms Nan Zhonghua</p>
+<p><strong>HOD Mother Tongue Languages:</strong> Ms Ong Fui Ping</p>
+<p><strong>Senior Teacher (Chinese Language):</strong> Ms Nan Zhonghua
+<br><strong>Senior Teacher (Malay Language):</strong> Ms Mardhiah Binti Mohamed
+Said</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
