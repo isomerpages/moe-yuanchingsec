@@ -6,8 +6,9 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DB.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dragon_boat_i1.jpg">
 </div>
 <h3>Introduction</h3>
 <p>Dragon Boat is a Physical Sports CCA which aims to develop students to
