@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/football_i1.jpg">
 </div>
 <h3>Introduction</h3>
 <p>Football CCA is one of the Physical Sports CCAs in Yuan Ching Secondary.
