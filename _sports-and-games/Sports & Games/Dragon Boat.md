@@ -140,8 +140,7 @@ during their training sessions.</p>
 <p><u>Singapore National Games (SNG) Dragon Boat </u>
 <br>DB12 SNG 200m Youth Girls – 3RD</p>
 <h3>Teachers in charge</h3>
-<p>Mr Keith Koh (IC)</p>
-<p>Ms Tan Ai Lin (2IC)</p>
+<p>Ms Tan Ai Lin (IC)</p>
 <p>Ms Yee Jie Ying</p>
 <p>Mr Koh Shao Wei</p>
 <h3>Schedule</h3>
