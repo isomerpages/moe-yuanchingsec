@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
-<p></p>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/el_drama.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/english_drama_i1.jpg">
 </div>
 <h3>Introduction</h3>
 <p>Our aim is to expose students to theatrical art and ignite their passion
