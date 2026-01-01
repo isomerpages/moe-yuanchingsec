@@ -6,8 +6,9 @@ third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <h3></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mrl.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/media_resource_library_i1.jpg">
 </div>
 <h3>Introduction</h3>
 <p>The Media Resource Library Club is a welcoming community where every voice
