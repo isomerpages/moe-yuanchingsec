@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cross_country.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cross_country_i1.jpg">
 </div>
 <h3>Introduction</h3>
 <p>Yuan Ching Cross Country has a long history dating back from the 1980s.
