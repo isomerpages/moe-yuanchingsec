@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art_n_craft.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art_and_crafts_i1.jpg">
 </div>
+<p></p>
 <h3>Introduction</h3>
 <p>The Art &amp; Crafts CCA allows students with a shared interest to come
 together and create art as well as sharing knowledge and skills. Through
