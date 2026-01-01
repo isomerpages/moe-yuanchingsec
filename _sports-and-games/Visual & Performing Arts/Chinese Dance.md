@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chinese_dance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chinese_dance_i1.jpg">
 </div>
 <h3>Introduction</h3>
 <p>We are delighted to introduce the vibrant world of Chinese Dance in Yuan
