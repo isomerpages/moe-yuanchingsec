@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert_band.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/concert_band_i1.jpg">
 </div>
 <h3>Introduction</h3>
 <p>Our Concert Band was established in 1978. No matter their backgrounds,

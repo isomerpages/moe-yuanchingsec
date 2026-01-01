@@ -76,7 +76,6 @@ is inculcated to develop our cadets into Caring and Responsible Citizens.</p>
 </ul>
 <h3>Teachers in charge</h3>
 <p>Mr Tham Wai Keong (IC)
-<br>Ms Mok Yuen Teng (2IC)
 <br>Mr Mohammad Azhar</p>
 <h3>Schedule</h3>
 <p>Even Thursdays (Blended Learning weeks) : 3.15pm to 6.15pm</p>

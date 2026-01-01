@@ -6,8 +6,9 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/basketball.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/basketball_i1.jpg">
 </div>
 <h3>Introduction</h3>
 <p>“Scholar Sportsmen” is the motto of Yuan Ching Secondary School Basketball

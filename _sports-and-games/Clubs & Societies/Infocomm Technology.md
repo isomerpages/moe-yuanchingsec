@@ -6,10 +6,10 @@ third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/infocomm.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/infocomm_technology_i1.jpg">
+</div>
 <h3>Introduction</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="mascot" src="/images/Infocomm%20mascot.png">
@@ -75,7 +75,6 @@ by YIJC 2024
 <br>Copyright School Challenge 2021</p>
 <h3>Teachers in charge</h3>
 <p>Ms Irene Tay (IC)
-<br>Ms Audrey Goh (2IC)
 <br>Mr Ling Peng Yap
 <br>Ms Fazila Banu Mohd Rabiullah
 <br>Mr Jamal Mohinitheen Bin Ahamed Ghani</p>

@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dragon_lion_dance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dragon_and_lion_dance_i1.jpg">
 </div>
 <h3>Introduction</h3>
 <p>Yuan Ching Secondary School Dragon &amp; Lion Dance Troupe was established

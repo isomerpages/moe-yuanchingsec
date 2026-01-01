@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cross_country.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cross_country_i1.jpg">
 </div>
 <h3>Introduction</h3>
 <p>Yuan Ching Cross Country has a long history dating back from the 1980s.
@@ -86,7 +86,6 @@ strength of character and perseverance.</p>
 <h3>Teachers in charge</h3>
 <p>Mr Standley Daniel (IC)</p>
 <p>Ms Wong Wei Na (2IC)</p>
-<p>Mr Lim Fang Kwan</p>
 <h3>Schedule</h3>
 <p>Tuesday: 3.30pm to 6.00pm</p>
 <p>Thursday: 3.15pm to 6.00pm</p>

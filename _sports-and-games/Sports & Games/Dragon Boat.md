@@ -6,8 +6,9 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DB.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dragon_boat_i1.jpg">
 </div>
 <h3>Introduction</h3>
 <p>Dragon Boat is a Physical Sports CCA which aims to develop students to
@@ -140,8 +141,7 @@ during their training sessions.</p>
 <p><u>Singapore National Games (SNG) Dragon Boat </u>
 <br>DB12 SNG 200m Youth Girls – 3RD</p>
 <h3>Teachers in charge</h3>
-<p>Mr Keith Koh (IC)</p>
-<p>Ms Tan Ai Lin (2IC)</p>
+<p>Ms Tan Ai Lin (IC)</p>
 <p>Ms Yee Jie Ying</p>
 <p>Mr Koh Shao Wei</p>
 <h3>Schedule</h3>

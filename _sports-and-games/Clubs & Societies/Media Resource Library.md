@@ -6,8 +6,9 @@ third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <h3></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mrl.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/media_resource_library_i1.jpg">
 </div>
 <h3>Introduction</h3>
 <p>The Media Resource Library Club is a welcoming community where every voice
@@ -90,7 +91,7 @@ on Museum Careers</p>
 <h3>Teachers in charge</h3>
 <p>Mr Paul Lim Chow Chiat (IC)
 <br>Ms Jean Leong (2IC)
-<br>Mdm Jane Lee (School Librarian)</p>
+<br>Ms Aisha (School Librarian)</p>
 <h3>Schedule</h3>
 <p>Tuesdays: 3:15pm to 5.30pm</p>
 <h3>Venue</h3>

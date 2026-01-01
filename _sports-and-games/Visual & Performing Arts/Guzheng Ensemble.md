@@ -6,11 +6,9 @@ third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/guzheng_ensemble_i1.jpg">
 </div>
-<p></p>
 <h3>Introduction</h3>
 <p>Yuan Ching Guzheng Ensemble was established in 2005, with the aim of nurturing
 students' appreciation for the timeless beauty of the guzheng. Through
