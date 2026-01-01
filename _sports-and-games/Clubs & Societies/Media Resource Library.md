@@ -90,7 +90,7 @@ on Museum Careers</p>
 <h3>Teachers in charge</h3>
 <p>Mr Paul Lim Chow Chiat (IC)
 <br>Ms Jean Leong (2IC)
-<br>Mdm Jane Lee (School Librarian)</p>
+<br>Ms Aisha (School Librarian)</p>
 <h3>Schedule</h3>
 <p>Tuesdays: 3:15pm to 5.30pm</p>
 <h3>Venue</h3>
