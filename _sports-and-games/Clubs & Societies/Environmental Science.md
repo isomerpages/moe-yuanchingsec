@@ -6,9 +6,8 @@ third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/environmental_science_i2.jpg">
 </div>
 <h3>Introduction</h3>
 <p>The Environmental Science CCA was formed in January 2012 with the aim
