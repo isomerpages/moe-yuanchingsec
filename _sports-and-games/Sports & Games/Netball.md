@@ -7,9 +7,8 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/netball_i2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/netball_i1.jpg">
 </div>
-<p></p>
 <h3>Introduction</h3>
 <p>Here at Yuan Ching Netball, we aim to develop disciplined, determined,
 yet delightful athletes who are live examples of our school’s motto: efforts
