@@ -6,9 +6,8 @@ third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Indian_dance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/indian_dance_i2.jpg">
 </div>
 <h3>Introduction</h3>
 <p>Indian dance, as a CCA, plays a significant role in enriching students'
