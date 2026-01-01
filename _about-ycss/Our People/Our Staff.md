@@ -79,9 +79,8 @@ variant: tiptap
 </tbody>
 </table>
 <h3>SEC 1 FORM TEACHERS</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -93,9 +92,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Form Teachers</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -111,9 +107,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Zheng Xiumin</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -124,9 +117,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fang Chen Lan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -139,9 +129,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Lai Cheng Man</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -152,9 +139,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Senduran Vasudevan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -167,9 +151,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Wong Kwok Choon</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -180,9 +161,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Segar Muniandy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -195,14 +173,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Shanti Armugam</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -216,9 +188,8 @@ variant: tiptap
 </tbody>
 </table>
 <h3>SEC 2 FORM TEACHERS</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -230,9 +201,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Form Teachers</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -248,9 +216,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Sivaperakas R Muthiah</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -261,9 +226,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Sahara Bte Osman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -276,9 +238,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Fadzel</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -290,9 +249,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Siti Nurshila Bte Roslan</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -300,9 +256,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jeffrey Chen Weixiong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -318,9 +271,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Jayalakshmi D/O Sethu Raman</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -332,14 +282,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -353,9 +297,8 @@ variant: tiptap
 </tbody>
 </table>
 <h3>SEC 3 FORM TEACHERS</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -367,9 +310,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Form Teachers</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -385,9 +325,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Lim Yee Hao</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -398,9 +335,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Koh Yu Siang, Darryl</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -413,9 +347,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Teo Hui Ying</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -426,9 +357,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Gina Teo Shun Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -441,9 +369,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Priya Sivashanmuga</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -454,9 +379,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Woon Xian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -469,16 +391,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Norita Bte Samsi</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
 <h3>SEC 4 &amp; 5 FORM TEACHERS</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -494,9 +412,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -504,9 +419,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chong Xiang Yang, Isaac</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -522,9 +434,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -532,9 +441,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Huang Zhijie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -550,9 +456,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -563,9 +466,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Han Wei Bennett</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -578,9 +478,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Foo Say Kin</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -592,14 +489,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
