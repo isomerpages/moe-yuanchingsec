@@ -40,12 +40,10 @@ context of different dance genres.</p>
 </li>
 <li>
 <p>Lights by the Lake 2024</p>
-<p></p>
-<p></p>
-<p></p>
-<h3>Teachers in charge</h3>
 </li>
 </ul>
+<p></p>
+<h3>Teachers in charge</h3>
 <p>Ms Siti Nurshila (IC)
 <br>Mdm Angela Lee (2IC)</p>
 <p>Mdm Zheng Xiumin</p>
