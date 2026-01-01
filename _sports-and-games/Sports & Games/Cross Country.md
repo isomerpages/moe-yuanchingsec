@@ -86,7 +86,6 @@ strength of character and perseverance.</p>
 <h3>Teachers in charge</h3>
 <p>Mr Standley Daniel (IC)</p>
 <p>Ms Wong Wei Na (2IC)</p>
-<p>Mr Lim Fang Kwan</p>
 <h3>Schedule</h3>
 <p>Tuesday: 3.30pm to 6.00pm</p>
 <p>Thursday: 3.15pm to 6.00pm</p>
