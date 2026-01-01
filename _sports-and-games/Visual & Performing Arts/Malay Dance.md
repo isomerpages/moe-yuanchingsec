@@ -6,9 +6,8 @@ third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_dance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay_dance_i1.jpg">
 </div>
 <h3>Introduction</h3>
 <p>In Yuan Ching Secondary, our Malay dancers will be introduced to the different
@@ -49,6 +48,7 @@ context of different dance genres.</p>
 </ul>
 <p>Ms Siti Nurshila (IC)
 <br>Mdm Angela Lee (2IC)</p>
+<p>Mdm Zheng Xiumin</p>
 <h3>Schedule</h3>
 <p>Tuesdays &amp; Thursdays: 3.15pm to 6.15pm
 <br>
