@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Key Programmes</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CT_dept.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CRAFT___TECH_1.jpg">
 </div>
 <p><strong>Department Overview</strong>
 </p>
