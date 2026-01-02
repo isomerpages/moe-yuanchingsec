@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Key Programmes</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Department_1.jpg">
 </div>
 <p><strong>Department Overview &amp; Beliefs<br></strong>The YCSS Mathematics
 Department is dedicated to fostering an enriching learning environment
