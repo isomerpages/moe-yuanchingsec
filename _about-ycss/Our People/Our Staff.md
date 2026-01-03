@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YCSS_All_Staff_2025_V2_orange.jpg">
+</div>
 <h3>SENIOR TEACHERS</h3>
 <table style="minWidth: 50px">
 <colgroup>
