@@ -188,15 +188,12 @@ in Sentosa.</p>
 </li>
 </ul>
 <h3>Teachers in charge</h3>
-<p>Ms Vilochana D/O Veloo (IC)
-<br>Ms Shanthy</p>
+<p>Mr Senduran Vasudevan (IC)
+<br>Mdm Srinivasan Suganthi (2IC)</p>
 <h3>Schedule</h3>
-<p>Tuesdays: 3.15pm to 6.15pm
-<br>
-</p>
+<p>Tuesdays: 3pm to 6pm</p>
 <h3>Venue</h3>
-<p>Venue (1) : Dance Studio Level 4
-<br>Venue (2) : School Hall</p>
+<p>Venue: Dance Studio</p>
 <h3>CCA Photographs</h3>
 <p></p>
 <div class="iframe-wrapper">
