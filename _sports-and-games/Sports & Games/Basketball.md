@@ -63,7 +63,7 @@ Round</p>
 <h3>Teachers in charge</h3>
 <p>Mr Sonny Liang (IC)</p>
 <p>Mr Soong Mun Fye (2IC)</p>
-<p>Muhammad Hazwan
+<p>Mr Muhammad Hazwan
 <br>
 </p>
 <h3>Schedule</h3>
