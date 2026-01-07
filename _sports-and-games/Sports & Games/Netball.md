@@ -171,7 +171,7 @@ team and personal excellence.</p>
 <h3>Schedule</h3>
 <p>Tuesday and Thursday: 3:15pm to 6:15pm</p>
 <h3>Venue</h3>
-<p>Venue: Parade Square / ISH</p>
+<p>Parade Square / ISH</p>
 <h3>CCA Photographs</h3>
 <p></p>
 <div class="iframe-wrapper">
