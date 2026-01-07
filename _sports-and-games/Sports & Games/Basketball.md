@@ -62,7 +62,8 @@ Round</p>
 Round</p>
 <h3>Teachers in charge</h3>
 <p>Mr Sonny Liang (IC)</p>
-<p>Mr Senduran Vasudevan (2IC)
+<p>Mr Soong Mun Fye (2IC)</p>
+<p>Muhammad Hazwan
 <br>
 </p>
 <h3>Schedule</h3>
@@ -70,8 +71,7 @@ Round</p>
 <br>
 </p>
 <h3>Venue</h3>
-<p>Venue (1) : Basketball Court/Canal
-<br>Venue (2) : Basketball Court/ISH</p>
+<p>Venue : Basketball Court/ISH</p>
 <h3>CCA Photographs</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQQLjxJJ6XD39bCwn3jYNkUSPMn2MiE5wCFwK6ZzAkIhlrtE0yuqcLduA92rC4Cb0MKgmJWwRSCgUbB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
