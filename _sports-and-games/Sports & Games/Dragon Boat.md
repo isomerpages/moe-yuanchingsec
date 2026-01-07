@@ -141,12 +141,11 @@ during their training sessions.</p>
 <p><u>Singapore National Games (SNG) Dragon Boat </u>
 <br>DB12 SNG 200m Youth Girls – 3RD</p>
 <h3>Teachers in charge</h3>
-<p>Ms Tan Ai Lin (IC)</p>
-<p>Ms Yee Jie Ying</p>
-<p>Mr Koh Shao Wei</p>
+<p>Mr Koh Shao Wei (IC)</p>
+<p>Ms Tan Ai lin (2IC)</p>
+<p>Mr Wong Kwok Choon</p>
+<p>Zheng Xiumin</p>
 <h3>Schedule</h3>
-<p>Tuesdays &amp; Thursdays: 3.15pm - 6.15pm
-<br>Fridays: 3.00pm to 5.00pm</p>
+<p>Tuesdays &amp; Thursdays: 3.15pm - 6.15pm</p>
 <h3>Venues</h3>
-<p>Venue(1) : PassionWave @Jurong Lake
-<br>Venue(2) : D'YC Resort</p>
+<p>Venue(1) : PassionWave @Jurong Lake</p>
