@@ -75,15 +75,15 @@ is inculcated to develop our cadets into Caring and Responsible Citizens.</p>
 </li>
 </ul>
 <h3>Teachers in charge</h3>
-<p>Mr Tham Wai Keong (IC)
-<br>Mr Mohammad Azhar</p>
+<p>Mr Tham Wai Keong (IC)</p>
+<p>Ms Siti Sahara Bte Osman (2IC)</p>
+<p>Mr Tan Han Wei Bennet</p>
 <h3>Schedule</h3>
-<p>Even Thursdays (Blended Learning weeks) : 3.15pm to 6.15pm</p>
-<p>Odd Fridays: 2.30pm to 5.30pm
-<br>
-</p>
+<p>Even Thursdays: 3pm to 6pm</p>
+<p>Odd Fridays: 2.30pm to 5.30pm</p>
 <h3>Venue</h3>
-<p>Venue (1) : Parade Square / D'YC Resort / Forum</p>
+<p>Venue (Thursdays): Parade Square</p>
+<p>Venue (Friday): Forum</p>
 <h3>CCA Photographs</h3>
 <p><strong><u>Training / Camp:</u></strong>
 </p>
