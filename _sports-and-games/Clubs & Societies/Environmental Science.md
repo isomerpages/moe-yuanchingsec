@@ -127,12 +127,14 @@ Centre and Shell</p>
 </li>
 </ul>
 <h3>Teachers in charge</h3>
-<p>Ms Jasmine Widodo (IC)
-<br>Ms Dimas Nurr Aidilin (2IC)</p>
+<p>Ms Jasmine Widodo (IC)</p>
+<p>Ms Yee Jie Ying (2IC)</p>
+<p>Ms Nancy Lau</p>
+<p>Ms Tan Hui Ying</p>
 <h3>Schedule</h3>
 <p>Tuesdays: 3.15pm to 6.15pm</p>
 <h3>Venue</h3>
-<p>The Arena, Blk D Level 2</p>
+<p>The Arena</p>
 <h3>CCA Photographs</h3>
 <p></p>
 <div class="iframe-wrapper">
