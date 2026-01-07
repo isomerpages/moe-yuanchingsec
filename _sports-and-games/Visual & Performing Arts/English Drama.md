@@ -76,12 +76,10 @@ Certificate of Commendation</p>
 </li>
 </ul>
 <h3>Teachers in charge</h3>
-<p>Ms Normalah (IC)
+<p>Ms Normalah Bte Baharin (IC)
 <br>Ms Ong Zhiqing (2IC)</p>
 <h3>Schedule</h3>
-<p>Thursdays: 3:15pm to 6:15pm
-<br>
-</p>
+<p>Thursdays: 3:15pm to 6:15pm</p>
 <h3>Venue</h3>
 <p>PBL Studio</p>
 <h3>CCA Photographs</h3>

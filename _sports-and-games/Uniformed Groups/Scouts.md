@@ -70,7 +70,7 @@ Day</p>
 <br>Ms Lim Yi Hui</p>
 <h3>Schedule</h3>
 <p>Odd Fridays: 2.30pm to 5.30pm</p>
-<p>Even Saturdays: 8.00am to 12.30pm</p>
+<p>Even Saturdays: 8.00am to 12.00pm</p>
 <p><a href="https://sites.google.com/a/moe.edu.sg/cougar-scout/home" rel="noopener nofollow" target="_blank">Cougar Scout Website</a>
 </p>
 <p></p>

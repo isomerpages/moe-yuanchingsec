@@ -78,16 +78,18 @@ nationwide)</p>
 <p><strong>2018</strong> 
 <br>B Div Nationals – 3rd place in SPL 2</p>
 <h3>Teachers in charge</h3>
-<p>Mr Fahmy (IC)
-<br>Mr Chua Kok Yew (2IC)
-<br>Ms Angela Chua Li Xia
+<p>Mr Fahmy (IC)</p>
+<p>Mr Chua Kok Yew (2IC)</p>
+<p>Ms Angela Chua Li Xia</p>
+<p>Lim Yee Hao
 <br>
 </p>
 <h3>CCA Schedule</h3>
-<p>Tuesdays &amp; Thursdays : 3:15pm to 6:15pm
-<br>Mondays and Wednesdays are NSG days</p>
+<p>Tuesdays &amp; Thursdays : 3pm to 6pm
+<br>
+</p>
 <h3>Venues</h3>
-<p>Venue (1) : School Field / Canal</p>
+<p>Venue: School Field</p>
 <h3>CCA Photographs</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Football-1.jpg">

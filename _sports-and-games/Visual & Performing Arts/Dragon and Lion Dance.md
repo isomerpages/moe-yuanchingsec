@@ -95,13 +95,11 @@ Award</p>
 </ul>
 <h3>Teachers in charge</h3>
 <p>Mr Segar Muniandy (IC)
-<br>Ms Lai Cheng Man
-<br>Mrs Goh-Cheong Wei Leng</p>
+<br>Ms Lai Cheng Man (2IC)</p>
 <h3>Schedule</h3>
 <p>Thursdays: 3:00pm to 6:00pm</p>
 <h3>Venue</h3>
-<p>Venue (1) : Forum
-<br>Venue (2) : School Hall</p>
+<p>Venue : School Forum</p>
 <h3>CCA Photographs</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Dragon%20and%20Lion%20Dance-1.jpg">

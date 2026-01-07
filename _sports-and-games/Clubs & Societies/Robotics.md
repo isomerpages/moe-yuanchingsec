@@ -119,8 +119,7 @@ Design</p>
 <h3>Schedule</h3>
 <p>Tuesdays &amp; Thursdays: 3.15pm to 6.15pm</p>
 <h3>Venue</h3>
-<p>Venue (1): Robotics Room
-<br>Venue (2): Computer Lab 3</p>
+<p>Robotics Room &amp; Computer Lab</p>
 <h3>CCA Photographs</h3>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/robotics.jpg">

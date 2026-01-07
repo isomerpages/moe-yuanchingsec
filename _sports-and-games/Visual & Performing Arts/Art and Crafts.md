@@ -43,12 +43,13 @@ Shihui, 4E1)</p>
 </li>
 </ul>
 <h3>Teachers in charge</h3>
-<p>Mr Mohd Fadzel (IC)
-<br>Mdm Musnifffa Bte Mustaffa (2IC)</p>
+<p>Mr Mohd Fadzel (IC)</p>
+<p>Mdm Musnifffa Bte Mustaffa (2IC)</p>
+<p>Mr Sivaperakas</p>
 <h3>Schedule</h3>
-<p>Thursdays: 3.15pm to 6.15pm</p>
+<p>Thursdays: 3pm to 6pm</p>
 <h3>Venue</h3>
-<p>Art Room 1 &amp; 2, Blk F Level 2</p>
+<p>Art Room</p>
 <h3>CCA Photographs</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Arts%20and%20Crafts-1.jpg">

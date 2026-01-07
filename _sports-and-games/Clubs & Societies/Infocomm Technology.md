@@ -74,14 +74,19 @@ by YIJC 2024
 <br>Zavier Lee, 4E1, won 1st Prize for outstanding achievement
 <br>Copyright School Challenge 2021</p>
 <h3>Teachers in charge</h3>
-<p>Ms Irene Tay (IC)
-<br>Mr Ling Peng Yap
-<br>Ms Fazila Banu Mohd Rabiullah
-<br>Mr Jamal Mohinitheen Bin Ahamed Ghani</p>
+<p>Ms Irene Tay (IC)</p>
+<p>Ms Fazila Banu Mohd Rabiullah (2IC)</p>
+<p>Ms Jean Leong</p>
+<p>Mr Jamal Mohinitheen Bin Ahamed Ghani</p>
 <h3>Schedule</h3>
-<p>Tuesdays &amp; Thursdays: 3.15pm to 5.45pm</p>
+<p>Tuesdays:</p>
+<p>Sec 1-3: 3:00pm to 6:00pm
+<br>Sec 4/5: 3:00pm to 5:00pm</p>
+<p>Thursdays:</p>
+<p>Sec 1-3: 3:00pm to 4:00pm
+<br>Sec 4/5: 4:00pm to 6:00pm</p>
 <h3>Venue</h3>
-<p>Computer Labs 1 &amp; 2, Blk B Level 2</p>
+<p>Computer Labs</p>
 <h3>CCA Photographs</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdoDTe2bpLr-CTYiQQoUJhkaU2uHOalJb4jLZ-9nrCTn0fwgp7IdFG3LMifSfxaz2F2TD0nlkCMgjN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

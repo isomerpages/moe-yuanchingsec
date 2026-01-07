@@ -104,13 +104,15 @@ and Rescue)</p>
 </li>
 </ul>
 <h3>Teachers in charge</h3>
-<p>Mr Wong Chin Seng (IC)
-<br>Ms Jasmine Sujatha (2IC)
-<br>Mr Sivaperakas R Muthiah</p>
+<p>Mr Gina Teo Shun Ying (IC)
+<br>Mdm Norita Bte Samsi (2IC)
+<br>Mr Darryl Koh</p>
 <h3>Schedule</h3>
-<p>Thursdays: 3.15pm to 6.15pm</p>
+<p>Even Thursdays: 3.15pm to 6.15pm</p>
+<p>Odd Fridays: 2.30pm to 5.30pm</p>
 <h3>Venue</h3>
-<p>Parade Square / D'YC Resort/ Forum
+<p>Venue (Thursdays): Parade Square</p>
+<p>Venue (Fridays): Forum
 <br>
 </p>
 <h3>CCA Photographs</h3>

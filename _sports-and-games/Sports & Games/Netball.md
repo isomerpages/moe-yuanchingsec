@@ -165,13 +165,13 @@ team and personal excellence.</p>
 </li>
 </ul>
 <h3>Teachers in charge</h3>
-<p>Mr Isaac Chong (IC)
-<br>Ms Neo Wen Xin</p>
+<p>Mr Isaac Chong (IC)</p>
+<p>Ms Neo Wen Xin (2IC)</p>
+<p>Ms Priya</p>
 <h3>Schedule</h3>
 <p>Tuesday and Thursday: 3:15pm to 6:15pm</p>
 <h3>Venue</h3>
-<p>Venue(Tues) : ISH
-<br>Venue(Thurs) : Parade Square / ISH</p>
+<p>Parade Square / ISH</p>
 <h3>CCA Photographs</h3>
 <p></p>
 <div class="iframe-wrapper">
