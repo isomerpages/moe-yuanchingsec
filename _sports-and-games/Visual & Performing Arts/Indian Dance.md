@@ -193,7 +193,7 @@ in Sentosa.</p>
 <h3>Schedule</h3>
 <p>Tuesdays: 3pm to 6pm</p>
 <h3>Venue</h3>
-<p>Venue: Dance Studio</p>
+<p>Dance Studio</p>
 <h3>CCA Photographs</h3>
 <p></p>
 <div class="iframe-wrapper">
