@@ -148,4 +148,4 @@ during their training sessions.</p>
 <h3>Schedule</h3>
 <p>Tuesdays &amp; Thursdays: 3.15pm - 6.15pm</p>
 <h3>Venues</h3>
-<p>Venue(1) : PassionWave @Jurong Lake</p>
+<p>PassionWave @Jurong Lake</p>
