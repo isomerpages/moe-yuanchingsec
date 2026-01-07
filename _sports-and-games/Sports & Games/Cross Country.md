@@ -90,8 +90,8 @@ strength of character and perseverance.</p>
 <p>Tuesday: 3.30pm to 6.00pm</p>
 <p>Thursday: 3.15pm to 6.00pm</p>
 <h3>Venue</h3>
-<p>Clementi Stadium
-<br>School gym and carpark</p>
+<p>Venue (Tues): Clementi Stadium
+<br>Venue (Thurs): School gym</p>
 <h3>CCA Photographs</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVIz9g6P6xhfb6W0sqxsqcLFR59Mw60WbxYEQwIcO__MRj_8ACV5aMmX-yf5uhYpK0aw0hBmcp1arE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
