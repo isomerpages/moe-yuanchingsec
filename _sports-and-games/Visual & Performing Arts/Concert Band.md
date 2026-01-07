@@ -70,7 +70,7 @@ will go through warm-ups, tunings, sectionals and whole band practices.</p>
 <h3>Teachers in charge</h3>
 <p>Ms Shanti Armugam (IC)
 <br>Ms Azria Azman (2IC)
-<br>Ms Tan Kwee Theng</p>
+<br>Ms Jayalakshmi Sethu Raman</p>
 <h3>Schedule</h3>
 <p>Tuesdays &amp; Thursdays: 3:00pm to 6:00pm</p>
 <h3>Venue</h3>
