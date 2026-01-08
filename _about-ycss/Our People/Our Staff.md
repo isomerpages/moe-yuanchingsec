@@ -192,8 +192,9 @@ variant: tiptap
 </tbody>
 </table>
 <h3>SEC 2 FORM TEACHERS</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -209,6 +210,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -219,6 +223,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sivaperakas R Muthiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -231,6 +238,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Siti Sahara Bte Osman</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -240,12 +250,18 @@ variant: tiptap
 <p>Mr Lee Siak Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Fadzel</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2 Enterprise</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Fadzel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Srinivasan Suganthi</p>
@@ -264,6 +280,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -274,6 +293,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jayalakshmi D/O Sethu Raman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -286,8 +308,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
