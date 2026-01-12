@@ -865,14 +865,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shanthy D/O Raja Nayagam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AED (Admin Support)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Viknesvaran Giovindasamy</p>
 </td>
 <td rowspan="1" colspan="1">
