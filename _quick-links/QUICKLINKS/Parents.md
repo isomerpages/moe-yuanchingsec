@@ -69,7 +69,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/quick-links/for-parents/sec1pes2024/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Parents' Engagement Session 2025</a>
+<p><a href="/quick-links/for-parents/sec1pes2026/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Parents' Engagement Session 2026</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
