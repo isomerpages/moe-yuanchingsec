@@ -4,22 +4,30 @@ permalink: /quick-links/for-parents/sec1pes2024/
 variant: tiptap
 description: ""
 ---
+<p>Please access the slides below that were shared during the Sec 1 Parent
+Engagement Session on 10 Jan 2026.</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please access the slides below that were shared during the Sec 1 Parent
-Engagement Session on 11 Jan 2025.</p>
-<p></p>
-<p><a href="/files/2025_Sec_1_PES_Full_Subject_Based_Banding___Mr_Tang.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 PES Full Subject Based Banding (FSBB)</a>
+<p><a href="/files/FSBB_Ms_Tang.pdf" rel="noopener nofollow" target="_blank">Full Subject-Based Banding (Ms Tang - Vice-Principal)</a>
 </p>
-<p><a href="/files/2025_Sec_1_PES___Parents_Support_Group_Slides.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 PES - Parents Support Group (slides)</a>
-</p>
-<p><a href="/files/Sec_1_PES_CCA_Jan_2025_Parents_Final_edited_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 PES CCA - Mr Ganesh</a>
-</p>
-<p></p>
 </li>
 <li>
-<p><a href="https://yuanchingsec.padlet.org/lai_weng_keong/sec-1-parents-engagement-session-11th-jan-2025-gkrpjjnyowjossa6" rel="noopener nofollow" target="_blank">Padlet link for Q&amp;A</a>
+<p><a href="/files/PES_PSG.pdf" rel="noopener nofollow" target="_blank">Parent Support Group</a>
 </p>
+</li>
+<li>
+<p><a href="/files/PES_Student_Management.pdf" rel="noopener nofollow" target="_blank">Student Management</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_1_PES_CCA_Jan_2026_Parents_Final.pdf" rel="noopener nofollow" target="_blank">CCA Sharing</a>
+</p>
+</li>
+<li>
+<p><a href="/files/The_National_Digital_Learning_Programme__NDLP_.pdf" rel="noopener nofollow" target="_blank">National Digital Learning Programme (NDLP)</a>
+</p>
+<p></p>
 </li>
 </ul>
 <p></p>
