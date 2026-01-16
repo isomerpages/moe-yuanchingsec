@@ -1,8 +1,11 @@
 ---
-title: Sec 1 Parents' Engagement Session 2025
-permalink: /quick-links/for-parents/sec1pes2024/
-variant: tiptap
+title: 2026 Sec 1 PES resources (10 Jan 2026)
+date: 2026-01-16
+layout: link
 description: ""
+image: ""
+variant: tiptap
+external: https://yuanchingsec.moe.edu.sg/quick-links/for-parents/sec1pes2026/
 ---
 <ul data-tight="true" class="tight">
 <li>
