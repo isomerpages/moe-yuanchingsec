@@ -133,7 +133,6 @@ romantic love)</p>
 supportive relationships, both online and offline</p>
 <p>• understand what dating is, and recognise that the readiness and interest
 in dating vary among individuals</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 1</p>
@@ -153,7 +152,7 @@ in dating vary among individuals</p>
 sexual grooming and on respecting one’s right to safety. Students will
 also learn about the legal provisions against sexual abuse, and the impact
 of sexual abuse on victims, including the psychological impact on the sense
-of self.</p>
+of self.&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 <p></p>
@@ -184,8 +183,9 @@ will gain awareness of the health, legal and moral issues related to viewing,
 downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
 will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
-<p>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• understand and accept that as we work towards becoming our best self,
@@ -246,21 +246,21 @@ etc.)</p>
 <p>This lesson focus on how the family, culture and society can influence
 one’s perception of their gender roles. Students will learn what gender
 stereotypes are (e.g. males traditionally as breadwinners and females traditionally
-as doing household chores) and how gender stereotypes are formed. Students
+as doing household chores) and how gender stereotypes are formed. &nbsp;Students
 will discuss how one’s understanding of gender roles should not be limited
 by gender stereotypes, for example women can be pilots, while men can be
 nurses.</p>
 <p></p>
-<p>Students learn to focus on their personal strengths to pursue their interests
-and build their self- confidence.</p>
+<p>Student learn to focus on their personal strenghts to pursue their interests
+and build their self-confidence.</p>
 <p></p>
-<p>Students will also learn about the definitions of biological sex, gender
+<p>Students will also learn about the definitions of biological sex, gender,
 identity, gender expression and sexual orientation. They will learn to
 treat everyone with respect and empathy.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• know that one’s understanding of gender roles should not be limited
-by gender stereotypes</p>
+<p>•know that one’s understanding of gender roles should not be limited by
+gender stereotypes</p>
 <p>• develop an appreciation of one’s own unique qualities and characteristics
 as a male or female</p>
 <p>• understand what sexual orientation entails</p>
