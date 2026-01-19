@@ -11,39 +11,43 @@ variant: tiptap
 <p>1.&nbsp;&nbsp; &nbsp;Sexuality Education (SEd) in schools aims to enable
 students to understand the physiological, social and emotional changes
 they experience as they mature, develop healthy and rewarding relationships
-including those with members of the opposite sex, and make wise, informed
-and responsible decisions on sexuality matters. SEd is premised on the
-importance of the family as the basic unit of society. This means encouraging
-healthy, heterosexual marriages and stable nuclear family units with extended
-family support. The teaching and learning of SEd is based on respect for
-the values and beliefs of the different ethnic and religious communities
-in Singapore on sexuality issues.</p>
+with others, including those with members of the opposite sex, and make
+wise, informed and responsible decisions on sexuality matters. SEd is premised
+on the importance of the family as the basic unit of society. This means
+encouraging healthy, heterosexual marriages and stable nuclear family units
+with extended family support. The teaching and learning of SEd is based
+on respect for the values and beliefs of the different ethnic and religious
+communities in Singapore on sexuality issues.</p>
 <p>2. The <strong>Goals </strong>of Sexuality Education are to:</p>
-<p>(a) Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships.</p>
-<p>(b) Guide students to make wise, informed and responsible decisions on
-sexuality matters.</p>
-<p>(c) Help students develop a moral compass and respect for themselves and
-others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society.</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
+students in managing their physiological, social and emotional changes
+as they grow up and develop safe and healthy relationships.</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide
+students to make wise, informed and responsible decisions on sexuality
+matters.</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
+develop a moral compass and respect for themselves and others by having
+positive mainstream values and attitudes about sexuality that are premised
+on the family as the basic unit of society.</p>
 <p></p>
 <p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<p>(a) Love and respect yourself as you love and respect others;</p>
-<p>(b) Build positive relationships based on love and respect (which are
-the foundation for strong families);</p>
-<p>(c) Make responsible decisions for yourself, your family and society;
-and</p>
-<p>(d) Abstinence before marriage is the best protection against STIs/HIV
-and unintended pregnancies. Casual sex can harm and hurt you and your loved
-ones.</p>
-<p></p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
+respect yourself as you love and respect others;</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
+positive relationships based on love and respect (which are the foundation
+for strong families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
+decisions for yourself, your family and society; and</p>
+<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
+before marriage is the best protection against STIs/HIV and unintended
+pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <h3>OVERVIEW OF YUAN CHING SECONDARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2025</h3>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:</p>
 <p>a. Science</p>
@@ -54,23 +58,24 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>6.&nbsp;&nbsp; &nbsp;The values and attitudes of our youth towards sexuality
 are increasingly shaped by their peers, exposure to the media, popular
 culture and the internet. Adolescence is a complex stage in life as the
-adolescent attempts to find his/her own identity and often struggles with
-new social relationships. The period of middle adolescence (generally from
-15 – 17 years old) can be a turbulent period for adolescents. The gap between
-physical and emotional/cognitive maturity may result in a tendency to act
-on impulse, experiment with various activities (including sexual activities),
-sometimes without understanding the unpleasant consequences that may arise
-from such experimentation. The need for peer acceptance can be overwhelmingly
-strong, and hinder one’s ability to act responsibly.&nbsp; Given the pressures
-faced by the middle adolescent from within themselves and from peers, it
-is important to build a strong sense of self-worth, personal conviction
-and an understanding of the possible consequences of sexual behaviour.</p>
+adolescent attempts to find his or her own identity and often struggles
+with new social relationships. The period of middle adolescence (generally
+from 15 – 17 years old) can be a turbulent period for adolescents. The
+gap between physical and emotional/cognitive maturity may result in a tendency
+to act on impulse, experiment with various activities (including sexual
+activities), sometimes without understanding the unpleasant consequences
+that may arise from such experimentation. The need for peer acceptance
+can be overwhelmingly strong and hinder one’s ability to act responsibly.&nbsp;
+Given the pressures faced by the middle adolescent from within themselves
+and from peers, it is important to build a strong sense of self-worth,
+personal conviction and an understanding of the possible consequences of
+sexual behaviour.</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education
 lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<h3>At Yuan Ching Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2025:</h3>
+<h3>At Yuan Ching Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2026:</h3>
 <p></p>
 <p><strong>Secondary 1</strong>
 </p>
@@ -124,11 +129,10 @@ online and offline.</p>
 in helpful ways that are reflective of our values and principles</p>
 <p>• recognise that there are different forms of love (e.g. familial, platonic,
 romantic love)</p>
-<p>• recognise the importance and understand what builds healthy and supportive
-relationships, both online and offline</p>
+<p>• recognise the importance of, and understand what builds healthy and
+supportive relationships, both online and offline</p>
 <p>• understand what dating is, and recognise that the readiness and interest
 in dating vary among individuals</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 1</p>
@@ -148,7 +152,7 @@ in dating vary among individuals</p>
 sexual grooming and on respecting one’s right to safety. Students will
 also learn about the legal provisions against sexual abuse, and the impact
 of sexual abuse on victims, including the psychological impact on the sense
-of self.</p>
+of self.&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 <p></p>
@@ -179,8 +183,9 @@ will gain awareness of the health, legal and moral issues related to viewing,
 downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
 will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
-<p>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• understand and accept that as we work towards becoming our best self,
@@ -241,28 +246,28 @@ etc.)</p>
 <p>This lesson focus on how the family, culture and society can influence
 one’s perception of their gender roles. Students will learn what gender
 stereotypes are (e.g. males traditionally as breadwinners and females traditionally
-as doing household chores) and how gender stereotypes are formed. Students
+as doing household chores) and how gender stereotypes are formed. &nbsp;Students
 will discuss how one’s understanding of gender roles should not be limited
 by gender stereotypes, for example women can be pilots, while men can be
 nurses.</p>
 <p></p>
-<p>Students learn to focus on their personal strengths to pursue their interests
-and build their self- confidence.</p>
+<p>Student learn to focus on their personal strenghts to pursue their interests
+and build their self-confidence.</p>
 <p></p>
-<p>Students will also learn about the definitions of biological sex, gender
+<p>Students will also learn about the definitions of biological sex, gender,
 identity, gender expression and sexual orientation. They will learn to
 treat everyone with respect and empathy.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• know that one’s understanding of gender roles should not be limited
-by gender stereotypes</p>
+<p>•know that one’s understanding of gender roles should not be limited by
+gender stereotypes</p>
 <p>• develop an appreciation of one’s own unique qualities and characteristics
 as a male or female</p>
 <p>• understand what sexual orientation entails</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -292,7 +297,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -312,6 +317,7 @@ This lesson emphasises the importance of responsible decision-making, the
 value of sexual abstinence, the need for help seeking. Students will be
 aware of Singapore laws protecting minors, such as the legal consequences
 of having sex with a minor, abortion and the abandonment of babies.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• recognise the importance of self-respect and respect for others in relating
@@ -319,7 +325,6 @@ to members of the opposite sex</p>
 <p>• recognise one’s vulnerability to risky situations and the importance
 of exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 8</p>
@@ -386,7 +391,7 @@ is important when entering into a dating relationship</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -400,7 +405,7 @@ is important when entering into a dating relationship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to manage their emotions if they were to face
-a breakup and know that relationship building involves person emotions
+a breakup and know that relationship-building involves personal emotions
 and vulnerabilities, and changes and challenges. Students will also learn
 that a decision to end a relationship will have consequences on oneself
 and others, and that grief and loss due to rejections and broken relationships
@@ -412,12 +417,11 @@ and that family and friends are important pillars of support.</p>
 <p>• know that relationship-building involves personal emotions and vulnerabilities,
 and changes and challenges</p>
 <p>• know that a decision to end a relationship will have consequences on
-oneself and others</p>
+oneself and othersconsequences on oneself and others</p>
 <p>• know that grief and loss due to rejections and broken relationships
 is normal and one can recover from the experience</p>
 <p>• know there are healthy ways of coping with broken relationships, and
 family and friends are important pillars of support</p>
-<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -455,7 +459,7 @@ and act in alignment with our beliefs</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -541,6 +545,7 @@ one can get out of such a relationship safely. Students will learn when,
 where and how to seek help from trusted adults (e.g. family, teachers,
 school counsellors) in the supportive environment that they have if they
 or their friends are involved in an unhealthy relationship.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• know there are healthy ways of coping with broken relationships, and
@@ -560,7 +565,7 @@ in a relationship</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -578,9 +583,9 @@ in a marriage. Students will understand that while a marriage, defined
 in Singapore as a union between a man and a woman, requires mutual commitment
 and effort like the other relationships in their lives, what sets a marriage
 apart is its lifelong commitment. Students will learn that what really
-matters to sustain and maintain a long-term romantic relationship leading
-to marriage is understanding the other person’s perspective and effectively
-communicating with each other.</p>
+matters in sustaining and maintaining a long-term romantic relationship
+that leads to marriage, is understanding the other person’s perspective
+and effectively communicating with each other.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• know that long-term romantic relationships leading to marriage involve
@@ -592,10 +597,9 @@ love, trust, commitment, and requires mutual effort</p>
 marriage, and the way in which a couple handles conflict is critical to
 the success of their marriage</p>
 <p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 7</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -679,25 +683,29 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 7</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>eTeens&nbsp;Programme&nbsp;</h3>
-<p>8. eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. eTeens
-is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
+<p>8. eTeens is a programme that was developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA’s Training and
+Education Division instead of HPB. eTeens is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the eTeens programme is that students are empowered to make wise, informed
+and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.</p>
 <p>9. Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
-Abstinence and upholding family values are the key messages</p>
+Abstinence and upholding family values are the key messages.</p>
 <p></p>
-<p><strong>At Yuan Ching Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
+<p><strong>At Yuan Ching Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -725,14 +733,17 @@ Abstinence and upholding family values are the key messages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Raise awareness and provide knowledge on:</p>
-<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
-to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.</p>
+<p>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
+how it spreads, how to prevent infection mainly through ABC (abstinence,
+being faithful, correct, and consistent condom use), consequences and impact</p>
+<p>b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)</p>
+<p>c) Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -744,24 +755,27 @@ and consistent condom use).</p>
 of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Information for Parents</h3>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
-the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
+the Sexuality Education lessons, eTeens and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the Sexuality Education lessons need to complete an online opt-out
-form <a href="https://go.gov.sg/ycs-moesexualityedu-optout2025" rel="noopener nofollow" target="_blank">here</a> by
-31 Jan 2025. This form will be communicated to parents at the start of
-the year and is also downloadable <a href="/files/Parent_Opt_Out_Form_2025_SEd_YCSS__hard_copy_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+out of the <strong>Sexuality Education lessons</strong> need to complete
+an online opt-out form <a href="https://go.gov.sg/ycs-moesexualityedu-optout2026" rel="noopener nofollow" target="_blank">here</a> by
+22 Jan 2026. This form will be communicated to parents at the start of
+the year and is also downloadable <a href="https://go.gov.sg/ycs-moesexualityedu-optouthardcopy2026" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 22 Jan 2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to opt their children
-out of the eTeens programme need to complete an online opt-out form <a href="https://go.gov.sg/ycs-eteens-optout2025" rel="noopener nofollow" target="_blank">here</a> by
-31 Jan 2025. This form will be communicated to parents at the start of
-the year and is also downloadable <a href="/files/eTeens_Opt_out_Form__hard_copy_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+out of the <strong><em>eTeens</em> programme</strong> need to complete an
+online opt-out form <a href="https://go.gov.sg/ycs-eteens-optout2026" rel="noopener nofollow" target="_blank">here</a> by
+22 Jan 2026. This form will be communicated to parents at the start of
+the year and is also downloadable <a href="https://go.gov.sg/ycs-eteens-optouthardcopy2026" rel="noopener nofollow" target="_blank">here</a>. &nbsp;The
+completed form is to be submitted by 22 Jan 2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6261
 2489 or <a rel="noopener noreferrer nofollow" target="_blank">ycss@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
