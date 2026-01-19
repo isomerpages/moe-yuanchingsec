@@ -766,11 +766,10 @@ the Sexuality Education lessons, eTeens and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
-an opt-out form. This form will be communicated to parents at the start
-of the year and is also available <u>here</u> (please upload parents opt-out
-form found in <strong>Annex</strong>  <strong>A</strong> and insert a hyperlink
-for parents to access the form). The completed form is to be submitted
-by 22/01/2026.</p>
+an online opt-out form <a href="https://go.gov.sg/ycs-moesexualityedu-optout2026" rel="noopener nofollow" target="_blank">here</a> by
+22 Jan 2026. This form will be communicated to parents at the start of
+the year and is also downloadable <a href="https://go.gov.sg/ycs-moesexualityedu-optouthardcopy2026" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 22 Jan 2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
