@@ -229,6 +229,119 @@ after more than 5 minutes into the lesson.</p>
 <h3>SERIOUS OFFENCES</h3>
 <p>School will mete out consequences to students who commit these serious
 offences:</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Attendance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong>Defiant Behaviours</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leaving school grounds without permission</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Truancy</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open defiance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Damage/infringement to Property and Resources</strong>
+</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong>Dishonest Behaviours</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cybersecurity violations</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trespassing and unauthorized access</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vandalism</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cheating in assessments</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Forgery</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scams and frauds</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theft</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Hurtful Behaviours</strong>
+</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong>Sexual Misconduct</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bullying (cyber, physical, social,
+verbal)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gangsterism</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fighting</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assault</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pornography</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexual Harassment</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexual Exploitation</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexual abuse/Assault</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other forms of Sexual Misconduct</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Substance Abuse</strong>
+</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong>Others</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alcohol</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inhalant</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Smoking</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vaping</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Drug</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Disruptive behaviour</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gambling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possession of weapons</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other serious offences</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -242,20 +355,32 @@ offences:</p>
 <p>Attendance</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>Defiant Behavious</p>
+<p>Defiant Behaviours</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
 <p>Leaving school grounds without permission</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
 <p>Open defiance</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
 <p>Truancy</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -274,95 +399,139 @@ offences:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Cybersecurity violations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vandalism</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Trespassing and unauthorized access</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Vandalism</p>
+</li>
+<li>
 <p>Arson</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cheating in assessments</p>
+</li>
+<li>
+<p>Forgery</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Scams and frauds</p>
+</li>
+<li>
+<p>Theft</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Hurtful Behaviours</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Sexual Misconduct</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
+<p>Bullying (cyber, physical, social, verbal)</p>
+</li>
+<li>
+<p>Gangsterism</p>
+</li>
+<li>
+<p>Fighting</p>
+</li>
+<li>
+<p>Assault</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="2">
+<p>• Pornography</p>
+<p>• Sexual Harassment</p>
+<p>• Sexual Exploitation</p>
+<p>• Sexual abuse/Assault</p>
+<p>• Other forms of Sexual Misconduct</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Substance Abuse</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Others</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Alcohol</p>
+</li>
+<li>
+<p>Inhalant</p>
+</li>
+<li>
+<p>Smoking</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Vaping</p>
+</li>
+<li>
+<p>Drug</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Disruptive behaviour</p>
+</li>
+<li>
+<p>Gambling</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Possession of weapons</p>
+</li>
+<li>
+<p>Other serious offences</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
+<p>To remind students of their responsibilities in relation to school rules
+and regulations, students should refer to the <strong>4As of Discipline — Attendance, Attire, Assignments and Attention</strong>.
+Disciplinary actions may be taken for breaches of school rules, depending
+on the severity and frequency of the offence(s), at the discretion of the
+Student Management Committee and with the endorsement of the Principal
+or Vice-Principal.</p>
+<h3></h3>
 <p></p>
-<h3>DISCIPLINARY MEASURES</h3>
-<p>Disciplinary actions may be taken against any student who breaks school
-rules, depending on the severity and frequency of the offences, at the
-discretion of the Student Management Committee and endorsed by the Principal/
-Vice-Principal. These include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Physical punishment (e.g. running laps within the school compound).</p>
-</li>
-<li>
-<p>Recalcitrant cases of long hair and unacceptable hairstyle/colour will
-not be allowed to attend lessons until their hairstyle has been rectified.</p>
-</li>
-<li>
-<p>Confiscation of banned items.</p>
-</li>
-<li>
-<p>Detention after school hours up to 6 pm.</p>
-</li>
-<li>
-<p>Community Service.</p>
-</li>
-<li>
-<p>Signing a bond for good behaviour in the presence of parents/guardians.</p>
-</li>
-<li>
-<p>Dismissal from positions of responsibility (e.g. Student Council, Class
-Committee, CCA EXCO).</p>
-</li>
-<li>
-<p>Downgrading of conduct grade.</p>
-</li>
-<li>
-<p>Public apology.</p>
-</li>
-<li>
-<p>Caning in the Principal/VP Office, class or morning assembly (for boys).</p>
-</li>
-<li>
-<p>Suspension from class and/or from school.</p>
-</li>
-<li>
-<p>Expulsion from school.</p>
-</li>
-</ul>
-<p>School rules and disciplinary measures are subject to review and changes
-at the discretion of the School Management Committee. All students will
-be informed as and when there are any changes and they are expected to
-convey such changes to their parents for information.</p>
