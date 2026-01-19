@@ -128,8 +128,8 @@ to others. Items that are sharp-pointed/ sharp-edged tools (e.g., penknife)
 required for curriculum purposes will be issued and supervised by teachers
 during lessons.</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are not allowed to bring
-items that can distract their attention from learning – MP3 players, game
-cards, electronic games, etc.</p>
+non-essential electronic devices that can distract their attention from
+learning.</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are not allowed to bring
 branded items that may promote unhealthy comparison or encourage theft.</p>
 <p><strong>5. Policy on the use of Mobile Phone and Personal Learning Device (PLD) in school</strong>
