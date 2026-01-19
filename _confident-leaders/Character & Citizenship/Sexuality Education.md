@@ -47,7 +47,7 @@ more information on MOE Sexuality Education.</p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:</p>
 <p>a. Science</p>
@@ -58,23 +58,24 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>6.&nbsp;&nbsp; &nbsp;The values and attitudes of our youth towards sexuality
 are increasingly shaped by their peers, exposure to the media, popular
 culture and the internet. Adolescence is a complex stage in life as the
-adolescent attempts to find his/her own identity and often struggles with
-new social relationships. The period of middle adolescence (generally from
-15 – 17 years old) can be a turbulent period for adolescents. The gap between
-physical and emotional/cognitive maturity may result in a tendency to act
-on impulse, experiment with various activities (including sexual activities),
-sometimes without understanding the unpleasant consequences that may arise
-from such experimentation. The need for peer acceptance can be overwhelmingly
-strong, and hinder one’s ability to act responsibly.&nbsp; Given the pressures
-faced by the middle adolescent from within themselves and from peers, it
-is important to build a strong sense of self-worth, personal conviction
-and an understanding of the possible consequences of sexual behaviour.</p>
+adolescent attempts to find his or her own identity and often struggles
+with new social relationships. The period of middle adolescence (generally
+from 15 – 17 years old) can be a turbulent period for adolescents. The
+gap between physical and emotional/cognitive maturity may result in a tendency
+to act on impulse, experiment with various activities (including sexual
+activities), sometimes without understanding the unpleasant consequences
+that may arise from such experimentation. The need for peer acceptance
+can be overwhelmingly strong and hinder one’s ability to act responsibly.&nbsp;
+Given the pressures faced by the middle adolescent from within themselves
+and from peers, it is important to build a strong sense of self-worth,
+personal conviction and an understanding of the possible consequences of
+sexual behaviour.</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education
 lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<h3>At Yuan Ching Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2025:</h3>
+<h3>At Yuan Ching Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2026:</h3>
 <p></p>
 <p><strong>Secondary 1</strong>
 </p>
@@ -128,8 +129,8 @@ online and offline.</p>
 in helpful ways that are reflective of our values and principles</p>
 <p>• recognise that there are different forms of love (e.g. familial, platonic,
 romantic love)</p>
-<p>• recognise the importance and understand what builds healthy and supportive
-relationships, both online and offline</p>
+<p>• recognise the importance of, and understand what builds healthy and
+supportive relationships, both online and offline</p>
 <p>• understand what dating is, and recognise that the readiness and interest
 in dating vary among individuals</p>
 <p></p>
