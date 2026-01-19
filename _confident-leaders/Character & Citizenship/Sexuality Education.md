@@ -267,7 +267,7 @@ as a male or female</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -297,7 +297,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -317,6 +317,7 @@ This lesson emphasises the importance of responsible decision-making, the
 value of sexual abstinence, the need for help seeking. Students will be
 aware of Singapore laws protecting minors, such as the legal consequences
 of having sex with a minor, abortion and the abandonment of babies.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• recognise the importance of self-respect and respect for others in relating
@@ -324,7 +325,6 @@ to members of the opposite sex</p>
 <p>• recognise one’s vulnerability to risky situations and the importance
 of exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 8</p>
@@ -391,7 +391,7 @@ is important when entering into a dating relationship</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -405,7 +405,7 @@ is important when entering into a dating relationship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to manage their emotions if they were to face
-a breakup and know that relationship building involves person emotions
+a breakup and know that relationship-building involves personal emotions
 and vulnerabilities, and changes and challenges. Students will also learn
 that a decision to end a relationship will have consequences on oneself
 and others, and that grief and loss due to rejections and broken relationships
@@ -417,12 +417,11 @@ and that family and friends are important pillars of support.</p>
 <p>• know that relationship-building involves personal emotions and vulnerabilities,
 and changes and challenges</p>
 <p>• know that a decision to end a relationship will have consequences on
-oneself and others</p>
+oneself and othersconsequences on oneself and others</p>
 <p>• know that grief and loss due to rejections and broken relationships
 is normal and one can recover from the experience</p>
 <p>• know there are healthy ways of coping with broken relationships, and
 family and friends are important pillars of support</p>
-<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -460,7 +459,7 @@ and act in alignment with our beliefs</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -546,6 +545,7 @@ one can get out of such a relationship safely. Students will learn when,
 where and how to seek help from trusted adults (e.g. family, teachers,
 school counsellors) in the supportive environment that they have if they
 or their friends are involved in an unhealthy relationship.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• know there are healthy ways of coping with broken relationships, and
@@ -565,7 +565,7 @@ in a relationship</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -583,9 +583,9 @@ in a marriage. Students will understand that while a marriage, defined
 in Singapore as a union between a man and a woman, requires mutual commitment
 and effort like the other relationships in their lives, what sets a marriage
 apart is its lifelong commitment. Students will learn that what really
-matters to sustain and maintain a long-term romantic relationship leading
-to marriage is understanding the other person’s perspective and effectively
-communicating with each other.</p>
+matters in sustaining and maintaining a long-term romantic relationship
+that leads to marriage, is understanding the other person’s perspective
+and effectively communicating with each other.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• know that long-term romantic relationships leading to marriage involve
@@ -597,10 +597,9 @@ love, trust, commitment, and requires mutual effort</p>
 marriage, and the way in which a couple handles conflict is critical to
 the success of their marriage</p>
 <p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 7</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -684,25 +683,29 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 7</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>eTeens&nbsp;Programme&nbsp;</h3>
-<p>8. eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. eTeens
-is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
+<p>8. eTeens is a programme that was developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA’s Training and
+Education Division instead of HPB. eTeens is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the eTeens programme is that students are empowered to make wise, informed
+and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.</p>
 <p>9. Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
-Abstinence and upholding family values are the key messages</p>
+Abstinence and upholding family values are the key messages.</p>
 <p></p>
-<p><strong>At Yuan Ching Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
+<p><strong>At Yuan Ching Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -730,14 +733,17 @@ Abstinence and upholding family values are the key messages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Raise awareness and provide knowledge on:</p>
-<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
-to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.</p>
+<p>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
+how it spreads, how to prevent infection mainly through ABC (abstinence,
+being faithful, correct, and consistent condom use), consequences and impact</p>
+<p>b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)</p>
+<p>c) Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -749,25 +755,30 @@ and consistent condom use).</p>
 of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Information for Parents</h3>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
-the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
+the Sexuality Education lessons, eTeens and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the Sexuality Education lessons need to complete an online opt-out
-form <a href="https://go.gov.sg/ycs-moesexualityedu-optout2025" rel="noopener nofollow" target="_blank">here</a> by
-31 Jan 2025. This form will be communicated to parents at the start of
-the year and is also downloadable <a href="/files/Parent_Opt_Out_Form_2025_SEd_YCSS__hard_copy_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+out of the <strong>Sexuality Education lessons</strong> need to complete
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also available <u>here</u> (please upload parents opt-out
+form found in <strong>Annex</strong>  <strong>A</strong> and insert a hyperlink
+for parents to access the form). The completed form is to be submitted
+by 22/01/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to opt their children
-out of the eTeens programme need to complete an online opt-out form <a href="https://go.gov.sg/ycs-eteens-optout2025" rel="noopener nofollow" target="_blank">here</a> by
-31 Jan 2025. This form will be communicated to parents at the start of
-the year and is also downloadable <a href="/files/eTeens_Opt_out_Form__hard_copy_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6261
+out of the <strong><em>eTeens</em> programme</strong> need to complete an
+opt-out form. This form will be communicated to parents at the start of
+the year and is also available <u>here</u> (please upload parents opt-out
+form found in <strong>Annex</strong>  <strong>B</strong> and insert a hyperlink
+for parents to access the form). &nbsp;The completed form is to be submitted
+by 22/01/2026.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PParents can contact the school at 6261
 2489 or <a rel="noopener noreferrer nofollow" target="_blank">ycss@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
