@@ -118,7 +118,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/ycs-pgapproval" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway (PG) FormSG</a>
+<p><a href="pg.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway (PG)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
