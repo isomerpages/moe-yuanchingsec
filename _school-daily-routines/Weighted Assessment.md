@@ -11,11 +11,11 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_WA1_PG___Pen_and_Paper_Assessments.pdf" rel="noopener nofollow" target="_blank">Written Assessments schedule</a>
+<p><a href="/files/2026_WA1_PG___Pen_and_Paper_Assessments.pdf" rel="noopener nofollow" target="_blank">Written Assessments schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_WA1_PG_Alternate_Assessment.pdf" rel="noopener nofollow" target="_blank">Alternate Assessments schedule</a>
+<p><a href="/files/2026_WA1_PG_Alternate_Assessment.pdf" rel="noopener nofollow" target="_blank">Alternate Assessments schedule</a>
 </p>
 </li>
 </ol>
