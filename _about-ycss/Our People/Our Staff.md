@@ -355,7 +355,7 @@ variant: tiptap
 <p>Ms Amanda Ong Jia Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Yee Hao</p>
+<p>Mr Lim Yee Hao</p>
 </td>
 </tr>
 <tr>
@@ -649,14 +649,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Sumita Sathi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Swee Siow Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
