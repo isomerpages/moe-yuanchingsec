@@ -90,7 +90,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/quick-links/for-students/school-daily-routines/remedials-and-cca-schedule/" rel="noopener noreferrer nofollow" target="_blank">Remedials and CCA Schedule</a>
+<p><a href="/quick-links/for-students/school-daily-routines/cca-schedule/" rel="noopener noreferrer nofollow" target="_blank">CCA Schedule</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,12 +117,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/quick-links/for-students/school-daily-routines/school-holiday-programme/" rel="noopener noreferrer nofollow" target="_blank">School Holiday Programme</a>
+<p><a href="/quick-links/for-students/school-daily-routines/remedials-schedule/" rel="noopener nofollow" target="_blank">Remedials Schedule</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://sites.google.com/moe.edu.sg/strong-yuan-ching/home" rel="noopener nofollow" target="_blank">STRONG YC Student</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/quick-links/for-students/school-daily-routines/school-holiday-programme/" rel="noopener noreferrer nofollow" target="_blank">School Holiday Programme</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
