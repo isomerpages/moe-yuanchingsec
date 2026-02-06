@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - CCA Schedule.md
-      - Remedials and CCA Schedule.md
+      - Remedials Schedule.md
       - Exam Timetable (School and National).md
       - School Holiday Programme.md
       - Weighted Assessment.md
