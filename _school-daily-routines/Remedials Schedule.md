@@ -1,6 +1,6 @@
 ---
-title: Remedials and CCA Schedule
-permalink: /quick-links/for-students/school-daily-routines/remedials-and-cca-schedule/
+title: Remedials Schedule
+permalink: /quick-links/for-students/school-daily-routines/remedials-schedule/
 description: ""
 variant: tiptap
 ---

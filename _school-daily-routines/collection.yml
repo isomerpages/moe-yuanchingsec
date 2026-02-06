@@ -2,7 +2,8 @@ collections:
   school-daily-routines:
     output: true
     order:
-      - Remedials and CCA Schedule.md
+      - CCA Schedule.md
+      - Remedials Schedule.md
       - Exam Timetable (School and National).md
       - School Holiday Programme.md
       - Weighted Assessment.md
