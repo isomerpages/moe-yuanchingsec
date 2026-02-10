@@ -191,7 +191,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>SUBJECT HEADS / ASSISTANT YEAR HEADS</h3>
+<h3>SUBJECT HEADS / LEVEL HEADS/ ASSISTANT YEAR HEADS</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -228,6 +228,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/ Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Huang Zhijie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head (Lower Sec Science)</p>
 </td>
 </tr>
 <tr>
