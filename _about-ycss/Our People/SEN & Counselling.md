@@ -28,7 +28,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Kang Jean Nie</p>
+<p>Ms Kang Jean Nie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -52,6 +52,14 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Shanti Letchimi D/O Mariappan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Cheng Zhixin Pearly</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,7 +68,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Aisyah Binte Nasar Ahmad</p>
+<p>Ms Sharifah Aisyah Binte Nasar Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer (SEN)</p>
@@ -68,7 +76,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Belle Kek Poh Poh</p>
+<p>Ms Kek Poh Poh Belle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Welfare Officer (SWO)</p>
@@ -76,7 +84,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sumarni</p>
+<p>Ms Sumarni Binte Mohd Nor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education &amp; Career Guidance (ECG) Counsellor</p>
