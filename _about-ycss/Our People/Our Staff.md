@@ -192,6 +192,7 @@ variant: tiptap
 </tbody>
 </table>
 <h3>SEC 2 FORM TEACHERS</h3>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -244,7 +245,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Compassion</p>
+<p>2Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Siak Kheng</p>
@@ -300,24 +301,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Resilience</p>
+<p>2Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Fahmy Abdul Latif</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -585,14 +572,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Kelly Yeo Ee Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohammad Azhar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -929,7 +908,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nuraishah Bte Sulaiman</p>
+<p>Mr Li Jiarui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Front Desk Receptionist</p>
