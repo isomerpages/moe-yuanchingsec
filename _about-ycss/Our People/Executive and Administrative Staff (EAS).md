@@ -29,7 +29,7 @@ third_nav_title: Our People
 <p>Mr See Thou Yew Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Manager</p>
+<p>Administration Manager</p>
 </td>
 </tr>
 <tr>
