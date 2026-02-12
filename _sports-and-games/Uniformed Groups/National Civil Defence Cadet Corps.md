@@ -104,7 +104,7 @@ and Rescue)</p>
 </li>
 </ul>
 <h3>Teachers in charge</h3>
-<p>Mr Gina Teo Shun Ying (IC)
+<p>Ms Gina Teo Shun Ying (IC)
 <br>Mdm Norita Bte Samsi (2IC)
 <br>Mr Darryl Koh</p>
 <h3>Schedule</h3>
