@@ -449,7 +449,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h3>SUBJECT TEACHERS AND NON-TEACHING STAFF</h3>
+<h3>SUBJECT TEACHERS </h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -490,7 +490,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lilian Foo Chen Chen</p>
+<p>Ms Kelly Yeo Ee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -498,7 +498,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kelly Yeo Ee Ling</p>
+<p>Ms Lilian Foo Chen Chen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
