@@ -191,7 +191,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>SUBJECT HEADS / ASSISTANT YEAR HEADS</h3>
+<h3>SUBJECT HEADS / LEVEL HEADS/ ASSISTANT YEAR HEADS</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -232,6 +232,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Huang Zhijie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head (Lower Sec Science)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Mardhiah Bte Mohamed Said</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -244,6 +252,79 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/ History</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Senior Teachers</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nan Zhonghua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/ Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Goh-Cheong Wei Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / Geography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Kwee Theng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/ History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jasmine Sujatha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/ English Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ling Peng Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Chin Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/ Chemistry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

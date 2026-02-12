@@ -1,87 +1,14 @@
 ---
-title: Our Staff
-permalink: /about-ycss/our-people/our-staff/
+title: Teachers
+permalink: /about-ycss/our-people/teachers/
+variant: tiptap
 description: ""
 third_nav_title: Our People
-variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YCSS_All_Staff_2025_V2_orange.jpg">
 </div>
-<h3>SENIOR TEACHERS</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nan Zhonghua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher/ Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Goh-Cheong Wei Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher / Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Tan Kwee Theng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher/ History</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jasmine Sujatha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher/ English Literature</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ling Peng Yap</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher / Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Chin Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher/ Chemistry</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>SEC 1 FORM TEACHERS</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -192,6 +119,7 @@ variant: tiptap
 </tbody>
 </table>
 <h3>SEC 2 FORM TEACHERS</h3>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -244,7 +172,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Compassion</p>
+<p>2Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Siak Kheng</p>
@@ -300,24 +228,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Resilience</p>
+<p>2Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Fahmy Abdul Latif</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -371,7 +285,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Compassion</p>
+<p>3Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Azria Bte Azman</p>
@@ -592,14 +506,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Azhar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Muhammad Hazwan Bin Sapari</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -676,271 +582,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kang Jean Nie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Khoo Chee Suan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Sivasubramaniam Shakthi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Cheng Zhixin Pearly</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer (SEN)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sharifah Aisyah Binte Nasar Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer (SEN)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Belle Kek Poh Poh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer (SWO)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sumarni</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Education &amp; Career Guidance (ECG) Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Shanti Letchimi D/O Mariappan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flexi Adjunct School Counsellor</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>EXECUTIVE AND ADMINISTRATIVE STAFF (EAS)</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr See Thou Yew Cheong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Admin Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Bay Lee Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Azmi Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Suhailah Bte Abdul Halim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kek Boon Hui Yvonne</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Anniah Shofina Bte Zaimuddin Anwar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lor Ah Tin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Laboratory Technician</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Donnavan Loh Siang Hwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Laboratory Technician</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kelvin Low Giau Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Education Workshop Instructor (EWI)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jofri Bin Osman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Education Workshop Instructor (EWI)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Evelyn Ang Poh Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sarah Abdul Ghani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Viknesvaran Giovindasamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Charef Abderrahmane</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Bonny</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Goh Choo Noi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lum Lai Siong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Peter Durairaj Bharat Senthil Vijaya Ratna</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Pospervali d/o Murukhan Vaiyapury</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Toh Chooi Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Aisha Shameema Binte Khalidh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Library Assistant</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nuraishah Bte Sulaiman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Front Desk Receptionist</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
