@@ -60,7 +60,7 @@ initiatives, and structured developmental programmes.</p>
 <p>Ms Shanti Letchimi D/O Mariappan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Flexi Adjunct School Counsellor</p>
 </td>
 </tr>
 <tr>
@@ -93,14 +93,6 @@ initiatives, and structured developmental programmes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education &amp; Career Guidance (ECG) Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Shanti Letchimi D/O Mariappan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flexi Adjunct School Counsellor</p>
 </td>
 </tr>
 </tbody>
