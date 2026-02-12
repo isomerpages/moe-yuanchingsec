@@ -9,6 +9,11 @@ third_nav_title: Our People
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/COUNSELLORS_1.jpg">
 </div>
+<p></p>
+<p><a href="https://sites.google.com/moe.edu.sg/strong-yuan-ching/home" rel="noopener nofollow" target="_blank">STRONG</a> is
+the school’s student development portal, designed to support students’
+holistic development through positive education principles, student well-being
+initiatives, and structured developmental programmes.</p>
 <h3>SEN / Counsellors</h3>
 <table style="minWidth: 50px">
 <colgroup>

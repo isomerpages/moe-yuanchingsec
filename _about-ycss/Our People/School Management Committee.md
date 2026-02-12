@@ -87,18 +87,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr C. Ganesh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/ Student Management (Covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Lai Weng Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Craft &amp; Technology (Covering)</p>
+<p>HOD/ Craft &amp; Technology (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -155,6 +147,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Science (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr C. Ganesh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ Student Management (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -216,10 +216,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Chua Li Xia</p>
+<p>Mr Huang Zhijie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ Student Management (Covering)</p>
+<p>Level Head (Lower Sec Science) (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Subramaniam Mohanamoothy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/ History</p>
 </td>
 </tr>
 <tr>
@@ -232,14 +240,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Huang Zhijie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head (Lower Sec Science)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Mardhiah Bte Mohamed Said</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -248,10 +248,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Subramaniam Mohanamoothy</p>
+<p>Ms Angela Chua Li Xia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ History</p>
+<p>Subject Head/ Student Management (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
