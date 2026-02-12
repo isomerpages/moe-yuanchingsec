@@ -34,22 +34,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Bay Lee Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Azmi Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nur Suhailah Bte Abdul Halim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,46 +46,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Anniah Shofina Bte Zaimuddin Anwar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lor Ah Tin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Laboratory Technician</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Donnavan Loh Siang Hwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Laboratory Technician</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kelvin Low Giau Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Education Workshop Instructor (EWI)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jofri Bin Osman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Education Workshop Instructor (EWI)</p>
 </td>
 </tr>
 <tr>
@@ -134,6 +78,62 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Low Giau Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Education Workshop Instructor (EWI)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jofri Bin Osman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Education Workshop Instructor (EWI)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Li Jiarui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Front Desk Receptionist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Anniah Shofina Bte Zaimuddin Anwar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Aisha Shameema Binte Khalidh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Library Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Bay Lee Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Azmi Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
 </td>
 </tr>
 <tr>
@@ -186,26 +186,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Aisha Shameema Binte Khalidh</p>
+<p>Mdm Lor Ah Tin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Library Assistant</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Li Jiarui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Front Desk Receptionist</p>
+<p>School Laboratory Technician</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Donnavan Loh Siang Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Laboratory Technician</p>
 </td>
 </tr>
 </tbody>
