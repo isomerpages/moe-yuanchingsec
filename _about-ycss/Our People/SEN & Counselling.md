@@ -33,15 +33,15 @@ initiatives, and structured developmental programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kang Jean Nie</p>
+<p>Ms Khoo Chee Suan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Senior School Counsellor</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Khoo Chee Suan</p>
+<p>Ms Kang Jean Nie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -65,18 +65,18 @@ initiatives, and structured developmental programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheng Zhixin Pearly</p>
+<p>Ms Sharifah Aisyah Binte Nasar Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer (SEN)</p>
+<p>Senior Special Educational Needs Officer (SEN)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharifah Aisyah Binte Nasar Ahmad</p>
+<p>Ms Cheng Zhixin Pearly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer (SEN)</p>
+<p>Flexi Adjunct Special Educational Needs Officer (SEN)</p>
 </td>
 </tr>
 <tr>
