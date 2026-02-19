@@ -224,10 +224,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Subramaniam Mohanamoothy</p>
+<p>Ms Angela Chua Li Xia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ History</p>
+<p>Subject Head/ Student Management (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -248,10 +248,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Chua Li Xia</p>
+<p>Mr Subramaniam Mohanamoothy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ Student Management (Covering)</p>
+<p>Subject Head/ History</p>
 </td>
 </tr>
 <tr>
@@ -281,26 +281,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nan Zhonghua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher/ Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Goh-Cheong Wei Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher / Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Tan Kwee Theng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher/ History</p>
 </td>
 </tr>
 <tr>
@@ -317,6 +301,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher / Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nan Zhonghua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/ Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Kwee Theng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/ History</p>
 </td>
 </tr>
 <tr>
