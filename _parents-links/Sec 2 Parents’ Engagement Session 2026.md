@@ -9,18 +9,7 @@ description: ""
 <li>
 <p><a href="https://for.edu.sg/ycs-s2pes" rel="noopener nofollow" target="_blank">[2026] Sec 2 Parent Engagement Session - Main</a>
 </p>
-</li>
-<li>
-<p><a href="https://for.edu.sg/ycs-sec45ecg" rel="noopener nofollow" target="_blank">[2026] Sec 45 Parent Engagement Session - ECG</a>
-</p>
-</li>
-<li>
-<p><a href="https://for.edu.sg/ycs-sec45pes" rel="noopener nofollow" target="_blank">[2026] Sec 45 Parent Engagement Session - Ms Tang</a>
-</p>
-</li>
-<li>
-<p><a href="https://for.edu.sg/ycs-sec45psg" rel="noopener nofollow" target="_blank">[2026] Sec 45 Parent Engagement Session - PSG</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
