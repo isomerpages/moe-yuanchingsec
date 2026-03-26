@@ -14,7 +14,20 @@ Engagement Session on 27 March 2026.</p>
 <li>
 <p><a href="https://for.edu.sg/ycs-s2pes" rel="noopener nofollow" target="_blank">[2026] Sec 2 Parent Engagement Session - Main - 2027 Secondary 3 Subject Options Briefing to Parents</a>
 </p>
-<p></p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://for.edu.sg/ycs-sec45ecg" rel="noopener nofollow" target="_blank">[2026] Sec 4 &amp; 5 Parent Engagement Session - ECG</a>
+</p>
+</li>
+<li>
+<p><a href="https://for.edu.sg/ycs-sec45pes" rel="noopener nofollow" target="_blank">[2026] Sec 4 &amp; 5 Parent Engagement Session - Ms Tang (Vice-Principal)</a>
+</p>
+</li>
+<li>
+<p><a href="https://for.edu.sg/ycs-sec45psg" rel="noopener nofollow" target="_blank">[2026] Sec 4 &amp; 5 Parent Engagement Session - PSG</a>
+</p>
 </li>
 </ul>
 <p></p>
