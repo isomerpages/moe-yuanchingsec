@@ -95,7 +95,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/sec-4-5-parents-engagement-session-2026/" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Parents' Engagement Session 2026</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
