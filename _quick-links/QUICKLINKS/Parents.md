@@ -69,7 +69,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/quick-links/for-parents/sec1pes2026/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Parents' Engagement Session 2026</a>
+<p><a href="/quick-links/for-parents/sec1pes2026/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Parent Engagement Session 2026</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,7 +82,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/sec-2-parents-engagement-session-2026/" rel="noopener nofollow" target="_blank">Sec 2 Parents’ Engagement Session 2026</a>
+<p><a href="/sec-2-parent-engagement-session-2026/" rel="noopener nofollow" target="_blank">Sec 2 Parent Engagement Session 2026</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -95,7 +95,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/sec-3-parent-engagement-session-2026/" rel="noopener nofollow" target="_blank">Sec 3 Parents' Engagement Session 2026</a>
+<p><a href="/sec-3-parent-engagement-session-2026/" rel="noopener nofollow" target="_blank">Sec 3 Parent Engagement Session 2026</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,7 +108,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/sec-4-5-parents-engagement-session-2026/" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Parents' Engagement Session 2026</a>
+<p><a href="/sec-4-5-parent-engagement-session-2026/" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Parent Engagement Session 2026</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
