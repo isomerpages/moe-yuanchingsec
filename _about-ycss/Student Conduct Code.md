@@ -183,6 +183,12 @@ in an orderly manner in the canteen and return all used crockery and utensils
 to the respective receptacles of the stalls. Students are not allowed to
 enter the premises of the stall holders at all times. Canteen food or drinks
 are to be consumed in the canteen.</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to consume all food
+and drinks within the canteen. Only dry snacks may be consumed during the
+wellness break in class.</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to lock the classrooms
+when out of classrooms, including recess. Classrooms are to be opened 5
+minutes before the end of recess.</p>
 <p><strong>8. Road Safety within the School Compound</strong>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The speed limit for vehicles in
