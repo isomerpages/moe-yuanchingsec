@@ -177,7 +177,7 @@ can be considered for admission to secondary school via DSA-Sec.</p>
 <p>Late Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DSA Allocation</p>
+<p>DSA Results Release</p>
 </td>
 </tr>
 </tbody>
