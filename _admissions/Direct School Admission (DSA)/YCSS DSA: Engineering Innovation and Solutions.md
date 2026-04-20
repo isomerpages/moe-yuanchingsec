@@ -12,7 +12,7 @@ Innovations and Solutions. We welcome Primary 6 students with interest
 in engineering and technology to apply for Direct School Admission.&nbsp;</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="400" width="900" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/ucvgVy3elvc?si=QChTz-xTrt4_rElf&amp;controls=0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="900" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/ucvgVy3elvc?si=QChTz-xTrt4_rElf&amp;controls=0"></iframe>
 </div>
 <p></p>
 <p>Successful applicants would be enrolled directly into our R.E.A.P Club
@@ -109,8 +109,8 @@ assessing the potential of the applicants.</p>
 <p><strong><u>Application Procedure &amp; Timeline</u></strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2025, 11am
-to 3 June 2025, 3pm. For more details, please refer to MOE website –
+The application is free-of-charge and will be open from 6 May 2026, 11am
+to 2 June 2026, 4.30pm. For more details, please refer to MOE website –
 <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.moe.gov.sg/dsa-sec</u>
 </a>.</p>
 <p></p>
@@ -142,7 +142,7 @@ can be considered for admission to secondary school via DSA-Sec.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2025 - 3 Jun 2025</p>
+<p>6 May 2026 - 2 Jun 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DSA Application Window</p>
@@ -150,7 +150,7 @@ can be considered for admission to secondary school via DSA-Sec.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2025 - 4 Sep 2025</p>
+<p>29 Jun 2026 - 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School-based selection activity for shortlisted applicants</p>
@@ -158,7 +158,7 @@ can be considered for admission to secondary school via DSA-Sec.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Aug 2025 - 4 Sep 2025</p>
+<p>17 Aug 2026 - 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Notification of selection outcomes</p>
@@ -166,7 +166,7 @@ can be considered for admission to secondary school via DSA-Sec.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Oct 2025 – 31 Oct 2025</p>
+<p>19 Oct 2026 – 23 Oct 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DSA-Sec School Preference Submission</p>
@@ -174,10 +174,10 @@ can be considered for admission to secondary school via DSA-Sec.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mid-end Nov</p>
+<p>Late Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DSA Allocation</p>
+<p>DSA Results Release</p>
 </td>
 </tr>
 </tbody>
@@ -187,10 +187,10 @@ can be considered for admission to secondary school via DSA-Sec.</p>
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
 <p></p>
-<p>You will receive notification from the school by 11 July 2025, if your
+<p>You will receive notification from the school by 10 July 2026, if your
 child has been shortlisted to undergo Direct School Admission (DSA) selection.
-All applicants will receive their application outcomes between 25 Aug and
-4 Sep 2025.</p>
+All applicants will receive their application outcomes between 17 Aug and
+28 Aug 2026.</p>
 <p>
 <br>
 </p>
