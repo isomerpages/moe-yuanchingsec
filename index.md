@@ -18,7 +18,7 @@ sections:
           description: Remedial/CCA/WA/Exam Schedules
           url: /quick-links/for-students/school-daily-routines/remedials-and-cca-schedule/
       background: /images/V2__DSA_School_Website_banner__1920_x_720_px_.png
-      variant: center
+      variant: image
       url: https://www.yuanchingsec.moe.edu.sg/admissions/direct-school-admission-dsa/
       button: Direct School Admission
   - resources:
