@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2026_WA2_Pen_and_Paper_Schedule.pdf" rel="noopener nofollow" target="_blank">Written Assessment Schedule</a>
+<p><a href="/files/2a__2026_WA2_Pen_and_Paper_Schedule.pdf" rel="noopener nofollow" target="_blank">Written Assessment Schedule</a>
 </p>
 </li>
 </ol>
