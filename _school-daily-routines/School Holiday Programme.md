@@ -8,7 +8,7 @@ variant: tiptap
 </p>
 <p><strong>2026 June Remedial Session</strong>
 </p>
-<p><a href="/files/2026_June_Remedial_Session_Final.pdf" rel="noopener nofollow" target="_blank">4E/NA/NT &amp; 5NA Remedial session</a>
+<p><a href="/files/2026_June_Remedial_Session_Final1.pdf" rel="noopener nofollow" target="_blank">4E/NA/NT &amp; 5NA Remedial session</a>
 </p>
 <p></p>
 <p></p>
