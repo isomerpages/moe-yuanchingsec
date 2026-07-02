@@ -82,6 +82,14 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Indera Syafaat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discipline &amp; Investigation Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Kelvin Low Giau Ming</p>
 </td>
 <td rowspan="1" colspan="1">
