@@ -69,7 +69,7 @@ third_nav_title: Our People
 <p>Ms Leong Jun Xi, Jean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Senduran Vasudevan</p>
+<p>Ms Siti Nurshila Bte Roslan</p>
 </td>
 </tr>
 <tr>
@@ -195,7 +195,7 @@ third_nav_title: Our People
 <p>Mdm Srinivasan Suganthi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nurshila Bte Roslan</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -206,7 +206,7 @@ third_nav_title: Our People
 <p>Mr Jeffrey Chen Weixiong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Priya Sivashanmuga</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -234,7 +234,7 @@ third_nav_title: Our People
 <p>Mr Mohamed Fahmy Abdul Latif</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Du Xiaoyu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -280,7 +280,7 @@ third_nav_title: Our People
 <p>Ms Fazila Banu D/O Mohamed Rabiullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Yu Siang, Darryl</p>
+<p>Mr Lee Kai Siang</p>
 </td>
 </tr>
 <tr>
@@ -291,7 +291,7 @@ third_nav_title: Our People
 <p>Ms Azria Bte Azman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Hui Ying</p>
+<p>Ms Lee Wen Li Ella</p>
 </td>
 </tr>
 <tr>
@@ -313,7 +313,7 @@ third_nav_title: Our People
 <p>Ms Ong Zhiqing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Priya Sivashanmuga</p>
+<p>Mr Senduran Vasudevan</p>
 </td>
 </tr>
 <tr>
@@ -449,7 +449,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h3>SUBJECT TEACHERS </h3>
+<h3>SUBJECT TEACHERS</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -482,6 +482,30 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chua Kok Chuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ho Yi Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Inderjit Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Jamal Mohinitheen Bin Ahamed Ghani</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -491,6 +515,22 @@ third_nav_title: Our People
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Kelly Yeo Ee Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Yen Nee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Li Chenxu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -522,6 +562,14 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ong Chuan Hock</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Ong Sheo Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -531,14 +579,6 @@ third_nav_title: Our People
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Siva Thavaranee Rasiah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Soh Kim Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -570,7 +610,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Ling Ling</p>
+<p>Mr Teo Chung Kee, Alvin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
