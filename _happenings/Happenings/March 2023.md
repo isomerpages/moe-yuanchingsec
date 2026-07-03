@@ -3,6 +3,7 @@ title: March 2023
 permalink: /happenings/happenings/march2023/
 description: ""
 third_nav_title: Happenings
+variant: markdown
 ---
 ### Partners Summit<br>
 
@@ -20,15 +21,10 @@ You can refer to [https://go.gov.sg/pdlpparenthandbook](https://go.gov.sg/pdlppa
 personal leaning device and tips and resources on supporting your child/ward in his/her digital
 learning journey. 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRGxJF_aVnwCoWIakkuzjMOrEKs7QRpb34d3QZkYqAewbVjYWbZgJwlNbe3AYWlmk_MAmZSKuefk6Nh/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
-
-
-
-
 
 
 ### Welcome to my new ‘teaching assistant’: How this Chemistry teacher weaves ChatGPT advantages into his lessons
 
 ![](/images/yulun2023.JPG)
 
-Discover how Yuan Ching Secondary School teacher Leung Yulun is expanding the realm of learning with the help of generative AI tools. He tackles potential pitfalls like cheating by nurturing discernment among his students, spurring educators to reimagine school assignments with the bot in mind..&nbsp;[Read More](https:// https://www.schoolbag.edu.sg/story/welcome-to-my-new-teaching-assistant-how-this-chemistry-teacher-weaves-chatgpt-advantages-into-his-lessons)...
+Discover how Yuan Ching Secondary School teacher Leung Yulun is expanding the realm of learning with the help of generative AI tools. He tackles potential pitfalls like cheating by nurturing discernment among his students, spurring educators to reimagine school assignments with the bot in mind. [Read more](https://www.schoolbag.edu.sg/story/welcome-to-my-new-teaching-assistant-how-this-chemistry-teacher-weaves-chatgpt-advantages-into-his-lessons)

@@ -57,18 +57,10 @@ initiatives, and structured developmental programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shanti Letchimi D/O Mariappan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flexi Adjunct School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Sharifah Aisyah Binte Nasar Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Special Educational Needs Officer (SEN)</p>
+<p>Senior Special Educational Needs Officer (SSENO)</p>
 </td>
 </tr>
 <tr>
@@ -77,14 +69,6 @@ initiatives, and structured developmental programmes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct Special Educational Needs Officer (SEN)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Kek Poh Poh Belle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer (SWO)</p>
 </td>
 </tr>
 <tr>
