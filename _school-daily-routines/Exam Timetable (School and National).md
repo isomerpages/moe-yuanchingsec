@@ -6,11 +6,13 @@ variant: tiptap
 ---
 <p><em>For PDLP devices, you may also tap and hold the link and select Download Linked File .</em>
 </p>
-<p><strong>2026 PRELIMINARY N-LEVEL EXAMINATION</strong>
+<p><strong>2026 PRELIMINARY O-LEVEL EXAMINATION</strong>
 </p>
 <p><a href="/files/2026_O_Level_Prelims_Timetable.pdf" rel="noopener nofollow" target="_blank">2026 O-Level Preliminary Examination Timetable</a>
 </p>
-<p><a href="/files/2026_O_Level_Prelims_Timetable_4N_OOS_Students.pdf" rel="noopener nofollow" target="_blank">2026 O-Level Preliminary Examination Timetable for 4N_OOS </a>
+<p><a href="/files/2026_O_Level_Prelims_Timetable_4N_OOS_Students.pdf" rel="noopener nofollow" target="_blank">2026 O-Level Preliminary Examination Timetable for 4N_OOS</a>
+</p>
+<p><strong>2026 PRELIMINARY N-LEVEL EXAMINATION</strong>
 </p>
 <p><a href="/files/2a__2026_N_Level_Prelims_NA_.pdf" rel="noopener nofollow" target="_blank">2026 Preliminary Examination Timetable for 4NA</a>
 </p>

@@ -235,300 +235,95 @@ after more than 5 minutes into the lesson.</p>
 <h3>SERIOUS OFFENCES</h3>
 <p>School will mete out consequences to students who commit these serious
 offences:</p>
-<table style="minWidth: 125px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
+<p><strong>Category</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Offences</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Attendance</strong>
 </p>
 </td>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
+<p>• Leaving school grounds without permission• Truancy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Defiant Behaviours</strong>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leaving school grounds without permission</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Truancy</p>
-</td>
-<td rowspan="1" colspan="3">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open defiance</p>
+<td rowspan="1" colspan="1">
+<p>• Open defiance</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>Damage/infringement to Property and Resources</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Damage/Infringement to Property and Resources</strong>
 </p>
 </td>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
+<p>• Cybersecurity violations• Trespassing and unauthorized access• Vandalism•
+Arson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Dishonest Behaviours</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>• Cheating in assessments• Forgery• Scams and frauds• Theft</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cybersecurity violations</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trespassing and unauthorized access</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vandalism</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cheating in assessments</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Forgery</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scams and frauds</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theft</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p><strong>Hurtful Behaviours</strong>
 </p>
 </td>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
+<p>• Bullying (cyber, physical, social, verbal)• Gangsterism• Fighting• Assault</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Sexual Misconduct</strong>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bullying (cyber, physical, social,
-verbal)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gangsterism</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fighting</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assault</p>
-</td>
-<td rowspan="1" colspan="3">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pornography</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexual Harassment</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexual Exploitation</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexual abuse/Assault</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other forms of Sexual Misconduct</p>
+<td rowspan="1" colspan="1">
+<p>• Pornography• Sexual Harassment• Sexual Exploitation• Sexual Abuse/Assault•
+Other forms of Sexual Misconduct</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>Substance Abuse</strong>
 </p>
 </td>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
+<p>• Alcohol• Inhalant• Smoking• Vaping• Drug</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Others</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alcohol</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inhalant</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Smoking</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vaping</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Drug</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Disruptive behaviour</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gambling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possession of weapons</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other serious offences</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Attendance</p>
-</th>
-<th rowspan="1" colspan="2">
-<p>Defiant Behaviours</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<ul data-tight="true" class="tight">
-<li>
-<p>Leaving school grounds without permission</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="2">
-<ul data-tight="true" class="tight">
-<li>
-<p>Open defiance</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<ul data-tight="true" class="tight">
-<li>
-<p>Truancy</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Damage/infringement to Property and Resources</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Dishonest Behaviours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Cybersecurity violations</p>
-</li>
-<li>
-<p>Trespassing and unauthorized access</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Vandalism</p>
-</li>
-<li>
-<p>Arson</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Cheating in assessments</p>
-</li>
-<li>
-<p>Forgery</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Scams and frauds</p>
-</li>
-<li>
-<p>Theft</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Hurtful Behaviours</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Sexual Misconduct</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<ul data-tight="true" class="tight">
-<li>
-<p>Bullying (cyber, physical, social, verbal)</p>
-</li>
-<li>
-<p>Gangsterism</p>
-</li>
-<li>
-<p>Fighting</p>
-</li>
-<li>
-<p>Assault</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="2">
-<p>• Pornography</p>
-<p>• Sexual Harassment</p>
-<p>• Sexual Exploitation</p>
-<p>• Sexual abuse/Assault</p>
-<p>• Other forms of Sexual Misconduct</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Substance Abuse</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Others</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Alcohol</p>
-</li>
-<li>
-<p>Inhalant</p>
-</li>
-<li>
-<p>Smoking</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Vaping</p>
-</li>
-<li>
-<p>Drug</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Disruptive behaviour</p>
-</li>
-<li>
-<p>Gambling</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Possession of weapons</p>
-</li>
-<li>
-<p>Other serious offences</p>
-</li>
-</ul>
+<p>• Disruptive behaviour• Gambling• Possession of weapons• Other serious
+offences</p>
 </td>
 </tr>
 </tbody>
