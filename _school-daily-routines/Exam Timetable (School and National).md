@@ -12,6 +12,10 @@ variant: tiptap
 </p>
 <p><a href="/files/2026_O_Level_Prelims_Timetable_4N_OOS_Students.pdf" rel="noopener nofollow" target="_blank">2026 O-Level Preliminary Examination Timetable for 4N_OOS</a>
 </p>
+<p><a href="/files/GENERAL_INSTRUCTIONS_FOR_SCHOOL_INTERNAL_EXAMINATIONS_.pdf" rel="noopener nofollow" target="_blank">General Instructions for School Internal Examinations</a>
+</p>
+<p><a href="/files/Stationery_to_be_brought_for_examinations.pdf" rel="noopener nofollow" target="_blank">Stationery to be brought for examinations</a>
+</p>
 <p><strong>2026 PRELIMINARY N-LEVEL EXAMINATION</strong>
 </p>
 <p><a href="/files/2a__2026_N_Level_Prelims_NA_.pdf" rel="noopener nofollow" target="_blank">2026 Preliminary Examination Timetable for 4NA</a>
