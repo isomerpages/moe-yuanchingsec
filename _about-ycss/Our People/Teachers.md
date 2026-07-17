@@ -490,6 +490,14 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Du Xiaoyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ho Yi Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -498,7 +506,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Inderjit Kaur</p>
+<p>Mrs Inderjit Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
