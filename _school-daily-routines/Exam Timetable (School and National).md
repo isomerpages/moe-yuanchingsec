@@ -18,6 +18,8 @@ variant: tiptap
 </p>
 <p><strong>2026 PRELIMINARY N-LEVEL EXAMINATION</strong>
 </p>
+<p><a href="/files/1a__2026_N_Level_Prelims_Revised.pdf" rel="noopener nofollow" target="_blank">Revised 4NA and 4NT timetable for 4 Aug </a>
+</p>
 <p><a href="/files/2a__2026_N_Level_Prelims_NA_.pdf" rel="noopener nofollow" target="_blank">2026 Preliminary Examination Timetable for 4NA</a>
 </p>
 <p><a href="/files/2b__2026_N_Level_Prelims_NT_.pdf" rel="noopener nofollow" target="_blank">2026 Preliminary Examination Timetable for 4NT</a>
