@@ -4,7 +4,8 @@ title: Yuan Ching Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Please be informed that the school will close at 12.00 pm on
+  Friday, 7 August, due to the school's National Day celebration.
 sections:
   - hero:
       key_highlights:
